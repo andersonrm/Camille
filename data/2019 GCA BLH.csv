@@ -1,0 +1,586 @@
+Plant Type,Family,Common Name,Genus,Organism,Sequences,BLH,Query,Barcode,Date,Region,Site,Host Plant,BLTVA,BCTV,S citri
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,6,39,bc1109--bc1142,trnF,14Jun,Pasco (C),506,Pigweed,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,23,40,bc1110--bc1142,trnF,14Jun,Pasco (C),513,Pigweed,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,48,52,bc1142--bc1176,trnF,20Jun,Paterson (S),486,Pigweed,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,9,96,bc1110--bc1143,trnF,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,334,97,bc1143--bc1176,trnF,05Jul,Mattawa (NW),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,2,106,bc1143--bc1177,trnF,11Jul,Paterson (S),110,Potato,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,15,108,bc1107--bc1120,trnF,11Jul,Paterson (S),108,Russian thistle,1,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,53,112,bc1107--bc1112,trnF,11Jul,Paterson (S),477,Russian thistle,1,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,6,114,bc1113--bc1144,trnF,11Jul,Paterson (S),481,Potato,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,52,141,bc1115--bc1144,trnF,18Jul,Paterson (S),531,Pigweed,1,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,13,162,bc1169--bc1177,trnF,01Aug,Paterson (S),528,Kochia,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,2,163,bc1169--bc1176,trnF,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,14,166,bc1144--bc1176,trnF,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,2,168,bc1120--bc1169,trnF,02Aug,Pasco (C),425,Russian thistle,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,11,169,bc1115--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,4,174,bc1113--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,41,175,bc1112--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,3,19,bc1140--bc1150,ITS,12Jun,Mattawa (NW),RDR,Potato,0,1,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,3,35,bc1155--bc1158,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,97,39,bc1140--bc1152,ITS,14Jun,Pasco (C),508,Pigweed,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,399,40,bc1140--bc1153,ITS,14Jun,Pasco (C),516,Pigweed,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,1061,52,bc1140--bc1158,ITS,20Jun,Paterson (S),475,Pigweed,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,7,54,bc1140--bc1157,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,8,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,7,70,bc1134--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,2,71,bc1123--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,1,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,10,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,119,96,bc1152--bc1189,ITS,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,481,97,bc1153--bc1189,ITS,05Jul,Mattawa (NW),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,3,103,bc1154--bc1158,ITS,10Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,3,106,bc1158--bc1189,ITS,11Jul,Paterson (S),112,Potato,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,3,108,bc1154--bc1157,ITS,11Jul,Paterson (S),113,Russian thistle,1,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,3,111,bc1135--bc1154,ITS,11Jul,Paterson (S),127,Russian thistle,1,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,5,114,bc1156--bc1189,ITS,11Jul,Paterson (S),485,Potato,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,6,128,bc1134--bc1154,ITS,12Jul,Pasco (C),WSU,Kochia,1,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,49,141,bc1135--bc1189,ITS,18Jul,Paterson (S),536,Pigweed,1,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,28,145,bc1148--bc1189,ITS,19Jul,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,5,153,bc1133--bc1189,ITS,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,34,160,bc1124--bc1154,ITS,01Aug,Paterson (S),489,Kochia,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,5,160,bc1124--bc1154,ITS,01Aug,Paterson (S),494,Kochia,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,8,162,bc1146--bc1173,ITS,01Aug,Paterson (S),511,Kochia,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,6,163,bc1152--bc1173,ITS,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,3,164,bc1153--bc1173,ITS,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,11,166,bc1134--bc1189,ITS,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,6,167,bc1158--bc1173,ITS,02Aug,Pasco (C),417,Russian thistle,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,2,169,bc1156--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,19,175,bc1148--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,8,39,bc1109--bc1142,trnF,14Jun,Pasco (C),505,Pigweed,0,0,0
+Weed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,19,96,bc1110--bc1143,trnF,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Weed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,156,97,bc1143--bc1176,trnF,05Jul,Mattawa (NW),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,94,141,bc1115--bc1144,trnF,18Jul,Paterson (S),530,Pigweed,1,0,0
+Weed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,2,166,bc1144--bc1176,trnF,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,9,175,bc1112--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltbush,Atriplex,Atriplex sp.,2,70,bc1134--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,2,44,bc1108--bc1109,trnF,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,2,70,bc1108--bc1111,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,4,72,bc1097--bc1108,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,38,73,bc1107--bc1178,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,6,82,bc1107--bc1110,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,10,106,bc1143--bc1177,trnF,11Jul,Paterson (S),109,Potato,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,30,128,bc1100--bc1107,trnF,12Jul,Pasco (C),WSU,Kochia,1,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,21,141,bc1115--bc1144,trnF,18Jul,Paterson (S),533,Pigweed,1,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,2,159,bc1098--bc1107,trnF,01Aug,Paterson (S),478,Kochia,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,3,160,bc1097--bc1107,trnF,01Aug,Paterson (S),487,Kochia,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,72,161,bc1169--bc1178,ITS,01Aug,Paterson (S),505,Kochia,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,8,162,bc1169--bc1177,trnF,01Aug,Paterson (S),529,Kochia,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,8,163,bc1169--bc1176,trnF,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,26,164,bc1110--bc1169,trnF,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,2,167,bc1109--bc1169,trnF,02Aug,Pasco (C),414,Russian thistle,0,0,0
+Weed,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,6,168,bc1120--bc1169,trnF,02Aug,Pasco (C),428,Russian thistle,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,3,12,bc1123--bc1140,ITS,03Jun,Mattawa (NW),RDJ,Russian thistle,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,7,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,2,40,bc1140--bc1153,ITS,14Jun,Pasco (C),521,Pigweed,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,14,43,bc1155--bc1157,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,5,44,bc1155--bc1156,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,13,52,bc1140--bc1158,ITS,20Jun,Paterson (S),476,Pigweed,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,24,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,80,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,4,74,bc1146--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,4,96,bc1152--bc1189,ITS,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,57,128,bc1134--bc1154,ITS,12Jul,Pasco (C),WSU,Kochia,1,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,2,159,bc1123--bc1154,ITS,01Aug,Paterson (S),485,Kochia,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,41,160,bc1124--bc1154,ITS,01Aug,Paterson (S),491,Kochia,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,58,161,bc1150--bc1173,ITS,01Aug,Paterson (S),498,Kochia,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,123,162,bc1146--bc1173,ITS,01Aug,Paterson (S),510,Kochia,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,33,163,bc1152--bc1173,ITS,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,68,164,bc1153--bc1173,ITS,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,3,167,bc1158--bc1173,ITS,02Aug,Pasco (C),421,Russian thistle,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,6,168,bc1157--bc1173,ITS,02Aug,Pasco (C),431,Russian thistle,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,2,169,bc1156--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,4,173,bc1159--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,3,2,bc1112--bc1142,trnF,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,35,69,bc1108--bc1112,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,36,72,bc1097--bc1108,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,4,73,bc1107--bc1178,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,5,79,bc1107--bc1176,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,4,96,bc1110--bc1143,trnF,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,46,114,bc1113--bc1144,trnF,11Jul,Paterson (S),479,Potato,0,0,0
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,28,153,bc1110--bc1144,trnF,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,4,159,bc1098--bc1107,trnF,01Aug,Paterson (S),476,Kochia,0,0,0
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,2,162,bc1169--bc1177,trnF,01Aug,Paterson (S),525,Kochia,0,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,15,40,bc1140--bc1153,ITS,14Jun,Pasco (C),522,Pigweed,0,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,4,44,bc1155--bc1156,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,249,54,bc1140--bc1157,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,2,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,377,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,3,71,bc1123--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,1,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,49,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,2,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,3,79,bc1152--bc1154 ,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,34,82,bc1153--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,41,114,bc1156--bc1189,ITS,11Jul,Paterson (S),482,Potato,0,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,32,153,bc1133--bc1189,ITS,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,2,159,bc1123--bc1154,ITS,01Aug,Paterson (S),484,Kochia,0,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,9,161,bc1150--bc1173,ITS,01Aug,Paterson (S),500,Kochia,0,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,33,162,bc1146--bc1173,ITS,01Aug,Paterson (S),520,Kochia,0,0,0
+Weed,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,4,167,bc1158--bc1173,ITS,02Aug,Pasco (C),419,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,7,1,bc1133--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,4,2,bc1134--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,88,12,bc1123--bc1140,ITS,03Jun,Mattawa (NW),RDJ,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,292,18,bc1124--bc1140,ITS,03Jun,Mattawa (NW),RDJ,Russian thistle,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,5,20,bc1140--bc1146,ITS,12Jun,Mattawa (NW),RDR,Potato,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,77,28,bc1146--bc1155,ITS,12Jun,Mattawa (NW),RDR,Mustard,1,1,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,41,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,14,34,bc1153--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,10,35,bc1155--bc1158,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,3,40,bc1140--bc1153,ITS,14Jun,Pasco (C),520,Pigweed,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,5,44,bc1155--bc1156,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,303,50,bc1135--bc1155,ITS,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,317,51,bc1148--bc1155,ITS,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,8,52,bc1140--bc1158,ITS,20Jun,Paterson (S),477,Pigweed,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,2,60,bc1140--bc1159,ITS,03Jul,Mattawa (NW),RDJ,Potato,0,1,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,198,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,23,70,bc1134--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,33,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,77,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,53,79,bc1152--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,80,82,bc1153--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,46,92,bc1150--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,7,96,bc1152--bc1189,ITS,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,36,97,bc1153--bc1189,ITS,05Jul,Mattawa (NW),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,7,108,bc1154--bc1157,ITS,11Jul,Paterson (S),112,Russian thistle,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,26,109,bc1154--bc1156,ITS,11Jul,Paterson (S),120,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,149,111,bc1135--bc1154,ITS,11Jul,Paterson (S),126,Russian thistle,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,7,112,bc1148--bc1154 ,ITS,11Jul,Paterson (S),478,Russian thistle,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,7,114,bc1156--bc1189,ITS,11Jul,Paterson (S),484,Potato,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,62,122,bc1133--bc1154,ITS,11Jul,Paterson (S),532,Russian thistle,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,194,128,bc1134--bc1154,ITS,12Jul,Pasco (C),WSU,Kochia,1,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,34,159,bc1123--bc1154,ITS,01Aug,Paterson (S),481,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,2,160,bc1124--bc1154,ITS,01Aug,Paterson (S),496,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,3,162,bc1146--bc1173,ITS,01Aug,Paterson (S),514,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,47,163,bc1152--bc1173 ,ITS,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,144,164,bc1153--bc1173,ITS,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,7,166,bc1134--bc1189,ITS,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,7,167,bc1158--bc1173,ITS,02Aug,Pasco (C),415,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,213,168,bc1157--bc1173 ,ITS,02Aug,Pasco (C),430,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,42,169,bc1156--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,47,173,bc1159--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,29,174,bc1135--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,52,175,bc1148--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,5,2,bc1112--bc1142,trnF,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,12,12,bc1100--bc1142,trnF,03Jun,Mattawa (NW),RDJ,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,9,18,bc1099--bc1142,trnF,03Jun,Mattawa (NW),RDJ,Russian thistle,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,72,33,bc1108--bc1178,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,3,35,bc1108--bc1176,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,4,40,bc1110--bc1142,trnF,14Jun,Pasco (C),515,Pigweed,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,7,45,bc1108--bc1115,trnF,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,68,50,bc1108--bc1114,trnF,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,259,51,bc1108--bc1113,trnF,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,47,69,bc1108--bc1112,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,20,70,bc1108--bc1111,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,28,72,bc1097--bc1108,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,58,73,bc1107--bc1178,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,14,73,bc1107--bc1178,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,95,79,bc1107--bc1176,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,25,82,bc1107--bc1110,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,7,91,bc1115--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,1,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,28,96,bc1110--bc1143,trnF,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,54,97,bc1143--bc1176,trnF,05Jul,Mattawa (NW),WSU,Pigweed,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,25,108,bc1107--bc1120,trnF,11Jul,Paterson (S),107,Russian thistle,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,63,109,bc1107--bc1115,trnF,11Jul,Paterson (S),116,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,2,110,bc1107--bc1114,trnF,11Jul,Paterson (S),122,Russian thistle,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,222,111,bc1107--bc1113,trnF,11Jul,Paterson (S),123,Russian thistle,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,190,112,bc1107--bc1112,trnF,11Jul,Paterson (S),475,Russian thistle,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,20,114,bc1113--bc1144,trnF,11Jul,Paterson (S),480,Potato,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,82,122,bc1107--bc1111,trnF,11Jul,Paterson (S),529,Russian thistle,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,153,128,bc1100--bc1107,trnF,12Jul,Pasco (C),WSU,Kochia,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,5,134,bc1114--bc1144,trnF,12Jul,Pasco (C),WSU,Potato,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,34,141,bc1115--bc1144,trnF,18Jul,Paterson (S),532,Pigweed,1,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,33,153,bc1110--bc1144,trnF,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,11,159,bc1098--bc1107,trnF,01Aug,Paterson (S),475,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,2,160,bc1097--bc1107,trnF,01Aug,Paterson (S),488,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,34,161,bc1169--bc1178,ITS,01Aug,Paterson (S),509,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,2,162,bc1169--bc1177,trnF,01Aug,Paterson (S),524,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,36,163,bc1169--bc1176,trnF,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,100,164,bc1110--bc1169,trnF,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,11,167,bc1109--bc1169,trnF,02Aug,Pasco (C),413,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,175,168,bc1120--bc1169,trnF,02Aug,Pasco (C),424,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,114,169,bc1115--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,70,173,bc1114--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,11,174,bc1113--bc1169 ,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,138,175,bc1112--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Amaranthaceae,Spinach,Spinacia,Spinacia oleracea,3,74,bc1146--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Crop,Amaryllidaceae,Onion,Allium,Allium cepa,3,40,bc1140--bc1153,ITS,14Jun,Pasco (C),518,Pigweed,0,0,0
+Tree,Anacardiaceae,Chinese Pistachio,Pistacia,Pistacia chinensis,12,51,bc1108--bc1113,trnF,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Tree,Anacardiaceae,Chinese Pistachio,Pistacia,Pistacia chinensis,4,90,bc1114--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Apiaceae,Coriander or Cilantro,Coriandrum,Coriandrum sativum,2,45,bc1108--bc1115,trnF,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Crop,Apiaceae,Coriander or Cilantro,Coriandrum,Coriandrum sativum,3,51,bc1108--bc1113,trnF,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Apocynaceae,Khimp or Markh,Leptadenia,Leptadenia pyrotechnica,3,1,bc1133--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,1,0,0
+Weed,Asteraceae,Artemisia Yin Chen Hao,Artemisia,Artemisia capillaris,8,33,bc1108--bc1178,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Asteraceae,Artemisia Makino,Artemisia,Artemisia fukudo,2,34,bc1153--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Asteraceae,Artemisia Makino,Artemisia,Artemisia fukudo,2,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Asteraceae,Safflower,Carthamus,Carthamus tinctorius,18,39,bc1140--bc1152,ITS,14Jun,Pasco (C),509,Pigweed,0,0,0
+Weed,Asteraceae,Tumble knapweed,Centaurea,Centaurea diffusa,2,111,bc1135--bc1154,ITS,11Jul,Paterson (S),129,Russian thistle,1,0,0
+Weed,Asteraceae,Spotted knapweed,Centaurea,Centaurea maculosa,4,39,bc1109--bc1142,trnF,14Jun,Pasco (C),507,Pigweed,0,0,0
+Weed,Asteraceae,Spotted knapweed,Centaurea,Centaurea maculosa,9,111,bc1107--bc1113,trnF,11Jul,Paterson (S),124,Russian thistle,1,0,0
+Weed,Asteraceae,Common sandaster or California Aster,Corethrogyne,Corethrogyne filaginifolia,4,20,bc1140--bc1146,ITS,12Jun,Mattawa (NW),RDR,Potato,0,0,0
+Weed,Asteraceae,Common sandaster or California Aster,Corethrogyne,Corethrogyne filaginifolia,8,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,13,19,bc1140--bc1150,ITS,12Jun,Mattawa (NW),RDR,Potato,0,1,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,86,33,bc1108--bc1178,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,6,33,bc1108--bc1178,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,22,35,bc1108--bc1176,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,2,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,16,73,bc1107--bc1178,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,28,82,bc1107--bc1110,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,48,103,bc1107--bc1109,trnF,10Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,7,108,bc1107--bc1120,trnF,11Jul,Paterson (S),109,Russian thistle,1,0,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,17,109,bc1107--bc1115,trnF,11Jul,Paterson (S),117,Russian thistle,0,0,0
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,14,169,bc1115--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,88,35,bc1155--bc1158,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,7,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,2,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,12,74,bc1146--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,120,79,bc1152--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,2,82,bc1153--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,6,92,bc1150--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,133,103,bc1154--bc1158,ITS,10Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,18,106,bc1158--bc1189,ITS,11Jul,Paterson (S),111,Potato,0,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,2,108,bc1154--bc1157,ITS,11Jul,Paterson (S),114,Russian thistle,1,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,2,111,bc1135--bc1154,ITS,11Jul,Paterson (S),130,Russian thistle,1,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,4,163,bc1152--bc1173,ITS,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,3,169,bc1156--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Asteraceae,Common Sunflower,Helianthus,Helianthus annuus,119,159,bc1123--bc1154,ITS,01Aug,Paterson (S),479,Kochia,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,2,18,bc1099--bc1142,trnF,03Jun,Mattawa (NW),RDJ,Russian thistle,1,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,42,33,bc1108--bc1178,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,2,44,bc1108--bc1109,trnF,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,13,50,bc1108--bc1114,trnF,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,3,52,bc1142--bc1176,trnF,20Jun,Paterson (S),487,Pigweed,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,3,60,bc1113--bc1143,trnF,03Jul,Mattawa (NW),RDJ,Potato,0,1,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,19,72,bc1097--bc1108,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,73,73,bc1107--bc1178,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,2,91,bc1115--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,1,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,19,92,bc1120--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,3,93,bc1109--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,4,97,bc1143--bc1176,trnF,05Jul,Mattawa (NW),WSU,Pigweed,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,42,106,bc1143--bc1177,trnF,11Jul,Paterson (S),107,Potato,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,3,108,bc1107--bc1120,trnF,11Jul,Paterson (S),110,Russian thistle,1,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,754,145,bc1109--bc1144,trnF,19Jul,Pasco (C),WSU,Pigweed,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,18,153,bc1110--bc1144,trnF,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,178,162,bc1169--bc1177,trnF,01Aug,Paterson (S),523,Kochia,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,2,163,bc1169--bc1176,trnF,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,2,168,bc1120--bc1169,trnF,02Aug,Pasco (C),429,Russian thistle,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,3,169,bc1115--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,2,174,bc1113--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,2,204,bc1111--bc1169,trnF,18Oct,Pasco (C),RDJ,Russian thistle,1,0,0
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,3,TOM,bc1144--bc1177,trnF,,,,,.,.,.
+Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,3,40,bc1140--bc1153,ITS,14Jun,Pasco (C),519,Pigweed,0,0,0
+Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,40,52,bc1140--bc1158,ITS,20Jun,Paterson (S),484,Pigweed,0,0,0
+Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,40,162,bc1146--bc1173,ITS,01Aug,Paterson (S),519,Kochia,0,0,0
+Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,18,162,bc1146--bc1173,ITS,01Aug,Paterson (S),522,Kochia,0,0,0
+Crop,Asteraceae,Common sunflower,PREDICTED:,PREDICTED: Helianthus annuus,4,134,bc1114--bc1144,trnF,12Jul,Pasco (C),WSU,Potato,0,0,0
+Weed,Asteraceae,Sow thistle or hare thistle,Sonchus,Sonchus fragilis,5,72,bc1097--bc1108,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Asteraceae,Sow thistle,Sonchus,Sonchus oleraceus,2,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Asteraceae,Sow thistle,Sonchus,Sonchus oleraceus,4,128,bc1134--bc1154,ITS,12Jul,Pasco (C),WSU,Kochia,1,0,0
+Tree,Betulaceae,Alpine birch,Betula,Betula nana,22,163,bc1152--bc1173,ITS,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Boraginaceae,Common fiddleneck(Intermediate),Amsinckia,Amsinckia intermedia,7,40,bc1110--bc1142,trnF,14Jun,Pasco (C),514,Pigweed,0,0,0
+Weed,Boraginaceae,Common fiddleneck(Menzie's),Amsinckia,Amsinckia menziesii,6,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,11,2,bc1134--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,124,12,bc1123--bc1140,ITS,03Jun,Mattawa (NW),RDJ,Russian thistle,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,30,18,bc1124--bc1140,ITS,03Jun,Mattawa (NW),RDJ,Russian thistle,1,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,315,28,bc1146--bc1155,ITS,12Jun,Mattawa (NW),RDR,Mustard,1,1,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,323,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,209,34,bc1153--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,2,35,bc1155--bc1158,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,5,40,bc1140--bc1153,ITS,14Jun,Pasco (C),517,Pigweed,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,27,43,bc1155--bc1157,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,2,45,bc1155--bc1159,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,73,50,bc1135--bc1155,ITS,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,120,52,bc1140--bc1158,ITS,20Jun,Paterson (S),483,Pigweed,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,64,52,bc1140--bc1158,ITS,20Jun,Paterson (S),485,Pigweed,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,47,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,6,92,bc1150--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,2,160,bc1124--bc1154,ITS,01Aug,Paterson (S),490,Kochia,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,3,161,bc1150--bc1173,ITS,01Aug,Paterson (S),504,Kochia,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,8,166,bc1135--bc1140,ITS,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Crop/Weed?,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,2,168,bc1157--bc1173,ITS,02Aug,Pasco (C),432,Russian thistle,0,0,0
+Crop/Weed?,Brassicaceae,Wild cabbage/Kale,Brassica,Brassica oleracea,2,18,bc1124--bc1140,ITS,03Jun,Mattawa (NW),RDJ,Russian thistle,1,0,0
+Crop/Weed?,Brassicaceae,Wild cabbage/Kale,Brassica,Brassica oleracea,2,52,bc1140--bc1158,ITS,20Jun,Paterson (S),482,Pigweed,0,0,0
+Crop/Weed?,Brassicaceae,Wild cabbage/Kale,Brassica,Brassica oleracea,54,162,bc1146--bc1173,ITS,01Aug,Paterson (S),515,Kochia,0,0,0
+Weed,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,Chorispora tenella,2,2,bc1134--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Weed,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,Chorispora tenella,2,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,Chorispora tenella,2,34,bc1153--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,Chorispora tenella,6,167,bc1158--bc1173,ITS,02Aug,Pasco (C),416,Russian thistle,0,0,0
+Weed,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,Descurainia sophia,765,12,bc1123--bc1140,ITS,03Jun,Mattawa (NW),RDJ,Russian thistle,0,0,0
+Weed,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,Descurainia sophia,76,12,bc1100--bc1142,trnF,03Jun,Mattawa (NW),RDJ,Russian thistle,0,0,0
+Weed,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,Descurainia sophia,51,18,bc1124--bc1140,ITS,03Jun,Mattawa (NW),RDJ,Russian thistle,1,0,0
+Weed,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,Descurainia sophia,5,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,Descurainia sophia,2,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,4,28,bc1146--bc1155,ITS,12Jun,Mattawa (NW),RDR,Mustard,1,1,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,2,28,bc1097--bc1142,trnF,12Jun,Mattawa (NW),RDR,Mustard,1,1,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,10,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,3,39,bc1140--bc1152,ITS,14Jun,Pasco (C),512,Pigweed,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,2,52,bc1142--bc1176,trnF,20Jun,Paterson (S),488,Pigweed,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,25,69,bc1108--bc1112,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,17,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,64,70,bc1134--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,8,70,bc1108--bc1111,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,6,71,bc1123--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,1,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,21,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,12,72,bc1097--bc1108,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,10,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,19,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,16,73,bc1107--bc1178,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,2,79,bc1107--bc1176,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,5,82,bc1107--bc1110,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,35,92,bc1150--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,3,96,bc1152--bc1189,ITS,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,19,97,bc1143--bc1176,trnF,05Jul,Mattawa (NW),WSU,Pigweed,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,6,97,bc1153--bc1189,ITS,05Jul,Mattawa (NW),WSU,Pigweed,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,7,109,bc1107--bc1115,trnF,11Jul,Paterson (S),119,Russian thistle,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,3,111,bc1135--bc1154,ITS,11Jul,Paterson (S),128,Russian thistle,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,32,122,bc1133--bc1154,ITS,11Jul,Paterson (S),533,Russian thistle,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,17,122,bc1107--bc1111,trnF,11Jul,Paterson (S),531,Russian thistle,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,8,128,bc1134--bc1154,ITS,12Jul,Pasco (C),WSU,Kochia,1,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,5,134,bc1114--bc1144,trnF,12Jul,Pasco (C),WSU,Potato,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,5,153,bc1133--bc1189,ITS,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,2,162,bc1146--bc1173,ITS,01Aug,Paterson (S),518,Kochia,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,3,163,bc1152--bc1173,ITS,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,10,169,bc1115--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Brassicaceae,Tumble Mustard,Sisymbrium,Sisymbrium altissimum,13,33,bc1108--bc1178,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Brassicaceae,Tumble Mustard,Sisymbrium,Sisymbrium altissimum,4,35,bc1108--bc1176,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Brassicaceae,Tumble Mustard,Sisymbrium,Sisymbrium altissimum,2,50,bc1108--bc1114,trnF,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Brassicaceae,Tumble Mustard,Sisymbrium,Sisymbrium altissimum,2,108,bc1107--bc1120,trnF,11Jul,Paterson (S),111,Russian thistle,1,0,0
+Weed,Brassicaceae,Tumble Mustard,Sisymbrium,Sisymbrium altissimum,3,110,bc1107--bc1114,trnF,11Jul,Paterson (S),121,Russian thistle,1,0,0
+Weed,Brassicaceae,Tumble Mustard,Sisymbrium,Sisymbrium altissimum,2,167,bc1158--bc1173,ITS,02Aug,Pasco (C),423,Russian thistle,0,0,0
+Weed,Brassicaceae,Tumble Mustard,Sisymbrium,Sisymbrium altissimum,2,169,bc1115--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Cannabaceae,Cannabis,Cannabia,Cannabia sativa,724,19,bc1140--bc1150,ITS,12Jun,Mattawa (NW),RDR,Potato,0,1,0
+Crop,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,2,20,bc1140--bc1146,ITS,12Jun,Mattawa (NW),RDR,Potato,0,0,0
+Crop,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,8,34,bc1153--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,10,40,bc1140--bc1153,ITS,14Jun,Pasco (C),523,Pigweed,0,0,0
+Crop,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,3,52,bc1140--bc1158,ITS,20Jun,Paterson (S),478,Pigweed,0,0,0
+Crop,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,89,54,bc1140--bc1157,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Crop,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,10,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Crop,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,2,60,bc1140--bc1159,ITS,03Jul,Mattawa (NW),RDJ,Potato,0,1,0
+Crop,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,8,92,bc1150--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,3,159,bc1123--bc1154,ITS,01Aug,Paterson (S),483,Kochia,0,0,0
+Weed,Convolvulaceae,Field Bindweed,Convolvulus,Convolvulus arvensis,24,162,bc1146--bc1173,ITS,01Aug,Paterson (S),521,Kochia,0,0,0
+Weed,Convolvulaceae,Field Bindweed,Convolvulus,Convolvulus arvensis,23,162,bc1169--bc1177 ,trnF,01Aug,Paterson (S),527,Kochia,0,0,0
+Weed,Convolvulaceae,Ginger-leaf Morning Glory,Ipomoea,Ipomoea asarifolia,2,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Convolvulaceae,Morning Glory,Ipomoea,Ipomoea marabensis,7,161,bc1150--bc1173,ITS,01Aug,Paterson (S),501,Kochia,0,0,0
+Crop,Cucurbitaceae,Watermelon,Citrullus,Citrullus lanatus,3,163,bc1169--bc1176,trnF,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,7,39,bc1140--bc1152,ITS,14Jun,Pasco (C),510,Pigweed,0,0,0
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,6,45,bc1155--bc1159,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,2,52,bc1140--bc1158,ITS,20Jun,Paterson (S),480,Pigweed,0,0,0
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,5,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,18,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,2,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,12,93,bc1146--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,8,153,bc1133--bc1189,ITS,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,3,166,bc1135--bc1140,ITS,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Crop,Cucurbitaceae,Winter Squash or Pumpkin,Cucurbita,Cucurbita pepo,3,2,bc1134--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Crop,Cucurbitaceae,Winter Squash or Pumpkin,Cucurbita,Cucurbita pepo,3,60,bc1140--bc1159,ITS,03Jul,Mattawa (NW),RDJ,Potato,0,1,0
+Weed,Fabaceae,Wild Legume,Lotus,Lotus japonicus,2,175,bc1148--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,23,43,bc1155--bc1157 ,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,6,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,8,70,bc1134--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,5,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,2,74,bc1146--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,4,82,bc1153--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,40,91,bc1140--bc1148,ITS,05Jul,Mattawa (NW),WSU,Potato,0,1,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,5,92,bc1150--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,2,166,bc1135--bc1140,ITS,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,4,167,bc1158--bc1173,ITS,02Aug,Pasco (C),418,Russian thistle,0,0,0
+Crop/Cover Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,2,169,bc1156--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Fabaceae,Pea,Pisum,Pisum sativum,2,60,bc1140--bc1159,ITS,03Jul,Mattawa (NW),RDJ,Potato,0,1,0
+Crop,Fabaceae,Fava Bean,V.faba,"V.faba 5.8S,",9,92,bc1150--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Weed/Cover crop?,Fabaceae,Hairy Vetch,Vicia,Vicia villosa,16,2,bc1134--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Crop,Fabaceae,Cowpea,Vigna,Vigna unguiculata,4,34,bc1153--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Tree,Fagaceae,Oak,Quercus,Quercus robur,4,19,bc1140--bc1150,ITS,12Jun,Mattawa (NW),RDR,Potato,0,1,0
+Tree,Fagaceae,Oak,Quercus,Quercus robur,2,91,bc1140--bc1148,ITS,05Jul,Mattawa (NW),WSU,Potato,0,1,0
+Tree,Fagaceae,Northern red oak,Quercus,Quercus rubra,18,35,bc1155--bc1158,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Tree,Fagaceae,Oak,Quercus,Quercus sp.,26,20,bc1140--bc1146,ITS,12Jun,Mattawa (NW),RDR,Potato,0,0,0
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,Erodium carvifolium,7,44,bc1108--bc1109,trnF,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,Erodium carvifolium,2,50,bc1108--bc1114,trnF,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,Erodium carvifolium,4,56,bc1142--bc1178,trnF,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Geraniaceae,Redstem Filaree,Erodium,Erodium cicutarium,10,43,bc1155--bc1157,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Geraniaceae,Redstem Filaree,Erodium,Erodium cicutarium,58,44,bc1155--bc1156,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Geraniaceae,Redstem Filaree,Erodium,Erodium cicutarium,26,45,bc1155--bc1159,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Geraniaceae,Redstem Filaree,Erodium,Erodium cicutarium,14,51,bc1148--bc1155,ITS,14Jun,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Hydrophyllaceae,Franklin’s phacelia,Phacelia,Phacelia franklinii,3,71,bc1123--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,1,0
+Tree,Juglandaceae,English walnut,Juglans,Juglans regia,3,160,bc1124--bc1154,ITS,01Aug,Paterson (S),495,Kochia,0,0,0
+Crop,Lamiaceae,Peppermint,Mentha,Mentha x,14,160,bc1124--bc1154,ITS,01Aug,Paterson (S),492,Kochia,0,0,0
+Flowering Shrub,Lauraceae,Spicebush,Lindera,Lindera fragrans,7,2,bc1112--bc1142,trnF,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Weed,Linaceae,Narrow Leaf Flax,Linum,Linum bienne,10,74,bc1146--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Weed,Malvaceae,Little Mallow,Malva,Malva parviflora,2,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Tree,Malvaceae,Little Leaf Linden,Tilia,Tilia cordata,15,93,bc1146--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Tree,Malvaceae,Large Leaf Linden or Lime,Tilia,Tilia platyphyllos,2,70,bc1108--bc1111,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Tree,Malvaceae,Linden,Tilia,Tilia x,11,20,bc1140--bc1146,ITS,12Jun,Mattawa (NW),RDR,Potato,0,0,0
+Tree,Malvaceae,Linden,Tilia,Tilia x,24,35,bc1155--bc1158,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Tree,Malvaceae,Linden,Tilia,Tilia x,2,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Tree,Morceae,Himalyan Mulberry,Morus,Morus serrata,25,33,bc1108--bc1178,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Tree,Oleaceae,Ash tree,Fraxinus,Fraxinus hupehensis,2,60,bc1113--bc1143,trnF,03Jul,Mattawa (NW),RDJ,Potato,0,1,0
+Tree,Oleaceae,Ash tree,Fraxinus,Fraxinus hupehensis,9,134,bc1114--bc1144,trnF,12Jul,Pasco (C),WSU,Potato,0,0,0
+Tree,Oleaceae,Ash tree,Fraxinus,Fraxinus hupehensis,13,204,bc1111--bc1169,trnF,18Oct,Pasco (C),RDJ,Russian thistle,1,0,0
+Tree,Oleaceae,Chinese Privet,Ligustrum,Ligustrum lucidum,7,45,bc1108--bc1115,trnF,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Tree,Oleaceae,Common Olive,Olea,Olea europaea,4,54,bc1140--bc1157,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Tree,Oleaceae,Common Olive,Olea,Olea europaea,7,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Tree,Pinaceae,White Pine,Abies,Abies concolor,3,141,bc1115--bc1144,trnF,18Jul,Paterson (S),535,Pigweed,1,0,0
+Grass,Poaceae,Cheatgrass,Bromus,Bromus tectorum,2,19,bc1140--bc1150,ITS,12Jun,Mattawa (NW),RDR,Potato,0,1,0
+Grass,Poaceae,Pearl millet,Cenchrus,Cenchrus americanus,3,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Grass,Poaceae,Pearl millet,Cenchrus,Cenchrus americanus,5,71,bc1123--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,1,0
+Grass,Poaceae,Pearl millet,Cenchrus,Cenchrus americanus,4,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Grass,Poaceae,Perennial Ryegrass,Lolium,Lolium perenne,4,166,bc1135--bc1140,ITS,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Grass,Poaceae,Annual Ryegrass,Lolium,Lolium rigidum,19,122,bc1133--bc1154,ITS,11Jul,Paterson (S),534,Russian thistle,1,0,0
+Grass,Poaceae,Annual Ryegrass,Lolium,Lolium rigidum,2,160,bc1124--bc1154,ITS,01Aug,Paterson (S),497,Kochia,0,0,0
+Grass,Poaceae,Cottonball Bluegrass,Poa,Poa sublanata,2,173,bc1114--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Grass,Poaceae,Bluebunch Wheat Grass,Pseudoroegneria,Pseudoroegneria gracillima,3,69,bc1108--bc1112,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Grass,Poaceae,Green Foxtail,Setaria,Setaria viridis,5,79,bc1152--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Grass,Poaceae,Sorghum or Great Millet,Sorghum,Sorghum bicolor,3,96,bc1110--bc1143,trnF,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Cover Crop,Polygonaceae,Common Buckwheat,Fagopyrum,Fagopyrum esculentum,10,69,bc1108--bc1112,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Cover Crop,Polygonaceae,Common Buckwheat,Fagopyrum,Fagopyrum esculentum,69,162,bc1169--bc1177,trnF,01Aug,Paterson (S),526,Kochia,0,0,0
+Cover Crop,Polygonaceae,Common Buckwheat,Fagopyrum,Fagopyrum esculentum,35,162,bc1146--bc1173,ITS,01Aug,Paterson (S),513,Kochia,0,0,0
+Weed,Polygonaceae,Common Knotgrass,Polygonum,Polygonum aviculare,7,111,bc1107--bc1113,trnF,11Jul,Paterson (S),125,Russian thistle,1,0,0
+Shrub,Rosaceae,Japanese Photinia,Photinia,Photinia glabra,3,19,bc1140--bc1150,ITS,12Jun,Mattawa (NW),RDR,Potato,0,1,0
+Shrub,Rosaceae,Taiwanese Photinia,Photinia,Photinia serratifolia,2,2,bc1134--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Tree,Rosaceae,Peach,PREDICTED:,PREDICTED: Prunus persica,64,43,bc1155--bc1157,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Tree,Rosaceae,Peach,PREDICTED:,PREDICTED: Prunus persica,4,44,bc1155--bc1156,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Tree,Rosaceae,Sweet Cherry,Prunus,Prunus avium,2,159,bc1123--bc1154,ITS,01Aug,Paterson (S),480,Kochia,0,0,0
+Tree,Rosaceae,Pear,Pyrus,Pyrus communis,23,166,bc1135--bc1140,ITS,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Tree,Rosaceae,Pendula or Willow-Leaf Pear,Pyrus,Pyrus salicifolia,8,90,bc1114--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Rosaceae,Blackberry,Rubus,Rubus allegheniensis,2,167,bc1158--bc1173,ITS,02Aug,Pasco (C),422,Russian thistle,0,0,0
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,Citrus aurantium,3,33,bc1108--bc1178,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,Citrus aurantium,5,161,bc1169--bc1178,ITS,01Aug,Paterson (S),508,Kochia,0,0,0
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,Citrus clementina,14,92,bc1120--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Tree,Rutaceae,Sweet orange,Citrus,Citrus sinensis,2,52,bc1140--bc1158,ITS,20Jun,Paterson (S),481,Pigweed,0,0,0
+Tree,Rutaceae,Sweet orange,Citrus,Citrus sinensis,4,82,bc1153--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Tree,Salicaceae,Corkscrew Willow,Salix,Salix matsudana,3,103,bc1107--bc1109,trnF,10Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Tree,Salicaceae,Dark-leaved Willow,Salix,Salix myrsinifolia,67,103,bc1154--bc1158,ITS,10Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Tree,Sapindaceae,Red maple,Acer,Acer rubrum,4,20,bc1140--bc1146 ,ITS,12Jun,Mattawa (NW),RDR,Potato,0,0,0
+Tree,Sapindaceae,Red maple,Acer,Acer rubrum,3,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Tree,Sapindaceae,Sugar maple,Acer,Acer saccharinum,71,43,bc1155--bc1157,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Tree,Sapindaceae,Longan Tropical Fruit,Dimocarpus,Dimocarpus longan,2,18,bc1124--bc1140,ITS,03Jun,Mattawa (NW),RDJ,Russian thistle,1,0,0
+Crop,Solanaceae,Cayenne Pepper ,Capsicum,Capsicum annuum,19,91,bc1115--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,1,0
+Crop,Solanaceae,Cayenne Pepper ,Capsicum,Capsicum annuum,2,91,bc1140--bc1148,ITS,05Jul,Mattawa (NW),WSU,Potato,0,1,0
+Crop,Solanaceae,Chili Pepper,Capsicum,Capsicum caatingae,2,91,bc1115--bc1143 ,trnF,05Jul,Mattawa (NW),WSU,Potato,0,1,0
+Weed,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,31,1,bc1133--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,1,0,0
+Weed,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,3,2,bc1134--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Weed,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,5,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,9,35,bc1155--bc1158,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,7,39,bc1140--bc1152,ITS,14Jun,Pasco (C),511,Pigweed,0,0,0
+Weed,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,7,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,2,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Flowering Shrub,Solanaceae,Goji Berry,Lycium,Lycium barbarum,12,1,bc1133--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,1,0,0
+Flowering Shrub,Solanaceae,Goji Berry,Lycium,Lycium barbarum,3,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Flowering Shrub,Solanaceae,African Boxthorn,Lycium,Lycium ferocissimum,3,56,bc1142--bc1178,trnF,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Flowering Shrub,Solanaceae,African Boxthorn,Lycium,Lycium ferocissimum,7,92,bc1120--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Flowering Shrub,Solanaceae,African Boxthorn,Lycium,Lycium ferocissimum,11,175,bc1112--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Flowering Shrub,Solanaceae,Goji Berry,Lycium,Lycium hybrid,2,TOM,bc1144--bc1177,trnF,,,,,.,.,.
+Weed,Solanaceae,Coyote Tobacco,Nicotiana,Nicotiana attenuata,2,TOM,bc1144--bc1177,trnF,,,,,.,.,.
+Crop?,Solanaceae,Common Tobacco,Nicotiana,Nicotiana tabacum,3,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed/Crop?,Solanaceae,Clammy Groundcherry,Physalis,Physalis heterophylla,2,60,bc1113--bc1143,trnF,03Jul,Mattawa (NW),RDJ,Potato,0,1,0
+Weed/Crop?,Solanaceae,Clammy Groundcherry,Physalis,Physalis heterophylla,4,91,bc1115--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,1,0
+Weed/Crop?,Solanaceae,Cape gooseberry,Physalis,Physalis peruviana,10,1,bc1133--bc1140,ITS,03Jun,Mattawa (NW),RDR,Russian thistle,1,0,0
+Weed?,Solanaceae,Wild Potato,Solanum,Solanum acaule,8,96,bc1110--bc1143,trnF,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Weed,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,2,2,bc1112--bc1142,trnF,03Jun,Mattawa (NW),RDR,Russian thistle,0,0,0
+Weed,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,10,33,bc1108--bc1178,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,2,43,bc1155--bc1157,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,6,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,2,153,bc1110--bc1144,trnF,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Weed,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,18,166,bc1144--bc1176,trnF,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,8,175,bc1112--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,83,20,bc1140--bc1146,ITS,12Jun,Mattawa (NW),RDR,Potato,0,0,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,25,33,bc1152--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,2,34,bc1153--bc1155,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,25,60,bc1140--bc1159,ITS,03Jul,Mattawa (NW),RDJ,Potato,0,1,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,2,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,2,70,bc1134--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,2,74,bc1146--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,17,92,bc1150--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,660,96,bc1152--bc1189,ITS,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,84,134,bc1159--bc1189,ITS,12Jul,Pasco (C),WSU,Potato,0,0,0
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,192,TOM,bc1123--bc1189,ITS,,,,,.,.,.
+Weed,Solanaceae,Black Nightshade,Solanum,Solanum nigrum,3,160,bc1097--bc1107,trnF,01Aug,Paterson (S),486,Kochia,0,0,0
+Weed,Solanaceae,Black Nightshade,Solanum,Solanum nigrum,7,161,bc1169--bc1178,ITS,01Aug,Paterson (S),506,Kochia,0,0,0
+Weed,Solanaceae,Black Nightshade,Solanum,Solanum nigrum,4,161,bc1150--bc1173,ITS,01Aug,Paterson (S),503,Kochia,0,0,0
+Weed,Solanaceae,Black Nightshade,Solanum,Solanum nigrum,6,168,bc1120--bc1169,trnF,02Aug,Pasco (C),427,Russian thistle,0,0,0
+Weed,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,2,43,bc1155--bc1157,ITS,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Weed,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,470,54,bc1140--bc1157,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,14,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,4,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,8,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,3,82,bc1153--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,2,153,bc1133--bc1189,ITS,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Weed,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,4,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,2,82,bc1107--bc1110,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,473,96,bc1110--bc1143,trnF,05Jul,Mattawa (NW),WSU,Pigweed,1,0,0
+Weed,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,389,134,bc1114--bc1144,trnF,12Jul,Pasco (C),WSU,Potato,0,0,0
+Weed,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,14,NTC,bc1144--bc1178,trnF,,,,,.,.,.
+Weed,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,393,TOM,bc1144--bc1177,trnF,,,,,.,.,.
+Weed,Solanaceae,White-Flowered Nightshade,Solanum,Solanum physalifolium,6,54,bc1142--bc1177,trnF,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Solanaceae,White-Flowered Nightshade,Solanum,Solanum physalifolium,6,141,bc1115--bc1144,trnF,18Jul,Paterson (S),534,Pigweed,1,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,206,20,bc1140--bc1146,ITS,12Jun,Mattawa (NW),RDR,Potato,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,13,35,bc1155--bc1158,ITS,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,8,40,bc1140--bc1153,ITS,14Jun,Pasco (C),524,Pigweed,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,3,52,bc1140--bc1158,ITS,20Jun,Paterson (S),479,Pigweed,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,2,54,bc1140--bc1157,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,3,56,bc1140--bc1156,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,60,60,bc1140--bc1159,ITS,03Jul,Mattawa (NW),RDJ,Potato,0,1,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,3,69,bc1133--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,7,72,bc1124--bc1155,ITS,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,6,73,bc1150--bc1154,ITS,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,40,91,bc1140--bc1148,ITS,05Jul,Mattawa (NW),WSU,Potato,0,1,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,130,92,bc1150--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,12,93,bc1146--bc1189,ITS,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,2,108,bc1154--bc1157,ITS,11Jul,Paterson (S),115,Russian thistle,1,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,18,113,bc1157--bc1189,ITS,11Jul,Paterson (S),476,Potato,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,18,114,bc1156--bc1189,ITS,11Jul,Paterson (S),483,Potato,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,15,122,bc1133--bc1154,ITS,11Jul,Paterson (S),535,Russian thistle,1,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,3,128,bc1134--bc1154,ITS,12Jul,Pasco (C),WSU,Kochia,1,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,2,141,bc1135--bc1189,ITS,18Jul,Paterson (S),537,Pigweed,1,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,8,160,bc1124--bc1154,ITS,01Aug,Paterson (S),493,Kochia,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,4,161,bc1150--bc1173,ITS,01Aug,Paterson (S),502,Kochia,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,2,162,bc1146--bc1173,ITS,01Aug,Paterson (S),517,Kochia,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,2,163,bc1152--bc1173,ITS,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,29,166,bc1135--bc1140,ITS,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,4,167,bc1158--bc1173,ITS,02Aug,Pasco (C),420,Russian thistle,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,4,169,bc1156--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,13,173,bc1159--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Weed,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,2,174,bc1135--bc1173,ITS,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,3,18,bc1124--bc1140,ITS,03Jun,Mattawa (NW),RDJ,Russian thistle,1,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,12,33,bc1108--bc1178,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,10,34,bc1108--bc1177,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,23,35,bc1108--bc1176,trnF,12Jun,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,2,56,bc1142--bc1178,trnF,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,182,60,bc1113--bc1143,trnF,03Jul,Mattawa (NW),RDJ,Potato,0,1,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,3,70,bc1108--bc1111,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,7,71,bc1098--bc1108,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,1,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,11,72,bc1097--bc1108,trnF,03Jul,Mattawa (NW),RDJ,Kochia,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,125,73,bc1107--bc1178,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,6,90,bc1114--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,208,91,bc1115--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,1,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,105,92,bc1120--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,30,93,bc1109--bc1143,trnF,05Jul,Mattawa (NW),WSU,Potato,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,2,97,bc1143--bc1176,trnF,05Jul,Mattawa (NW),WSU,Pigweed,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,3,103,bc1107--bc1109,trnF,10Jul,Mattawa (NW),RDJ,Kochia,1,1,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,12,106,bc1143--bc1177,trnF,11Jul,Paterson (S),108,Potato,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,11,109,bc1107--bc1115,trnF,11Jul,Paterson (S),118,Russian thistle,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,36,112,bc1107--bc1112,trnF,11Jul,Paterson (S),476,Russian thistle,1,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,671,113,bc1143--bc1178,trnF,11Jul,Paterson (S),475,Potato,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,4,113,bc1157--bc1189,ITS,11Jul,Paterson (S),477,Potato,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,119,114,bc1113--bc1144,trnF,11Jul,Paterson (S),478,Potato,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,23,122,bc1107--bc1111,trnF,11Jul,Paterson (S),530,Russian thistle,1,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,5,128,bc1100--bc1107,trnF,12Jul,Pasco (C),WSU,Kochia,1,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,45,134,bc1114--bc1144,trnF,12Jul,Pasco (C),WSU,Potato,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,100,141,bc1115--bc1144,trnF,18Jul,Paterson (S),529,Pigweed,1,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,23,153,bc1110--bc1144,trnF,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,2,159,bc1098--bc1107,trnF,01Aug,Paterson (S),477,Kochia,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,6,161,bc1169--bc1178,ITS,01Aug,Paterson (S),507,Kochia,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,2,162,bc1146--bc1173,ITS,01Aug,Paterson (S),516,Kochia,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,2,162,bc1169--bc1177,trnF,01Aug,Paterson (S),530,Kochia,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,2,163,bc1169--bc1176,trnF,02Aug,Pasco (C),WSU,Kochia,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,11,166,bc1144--bc1176,trnF,02Aug,Pasco (C),WSU,Pigweed,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,14,168,bc1120--bc1169,trnF,02Aug,Pasco (C),426,Russian thistle,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,12,169,bc1115--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,12,173,bc1114--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,5,174,bc1113--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,4,175,bc1112--bc1169,trnF,02Aug,Pasco (C),WSU,Russian thistle,0,0,0
+Crop,Solanaceae,Potato,Solanum,Solanum tuberosum,7,204,bc1111--bc1169,trnF,18Oct,Pasco (C),RDJ,Russian thistle,1,0,0
+Flowering Shrub,Theaceae,Camellia,Camellia,Camellia reticulata,4,69,bc1108--bc1112,trnF,03Jul,Mattawa (NW),RDJ,Kochia,1,0,0
+Tree,Ulmaceae,Bergman's Elm,Ulmus,Ulmus bergmanniana,90,153,bc1110--bc1144,trnF,31Jul,Mattawa (NW),RDR,Pigweed,0,0,1
+Crop,Vitaceae,Grape vine,Vitis,Vitis vinifera,10,45,bc1108--bc1115,trnF,14Jun,Pasco (C),WSU,Kochia,0,0,0
+Tree,x,Pistachio?,Pistacia,Pistacia weinmaniifolia,10,159,bc1123--bc1154,ITS,01Aug,Paterson (S),482,Kochia,0,0,0
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,Tribulus terrestris,140,54,bc1140--bc1157,ITS,21Jun,Pasco (C),WSU,Pigweed,0,0,0
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,Tribulus terrestris,12,161,bc1150--bc1173,ITS,01Aug,Paterson (S),499,Kochia,0,0,0
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,Tribulus terrestris,8,162,bc1146--bc1173,ITS,01Aug,Paterson (S),512,Kochia,0,0,0

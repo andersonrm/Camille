@@ -1,0 +1,247 @@
+---
+title: "Camille's BLH Analysis V1"
+author: "Riley M. Anderson & Camille Wagstaff"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+graphics: yes
+output:
+  github_document:
+    toc: yes
+    toc_depth: 5
+    pandoc_args: --webtex
+  html_document:
+    keep_md: yes
+    theme: readable
+    mathjax: default
+  html_notebook:
+    code_folding: hide
+    theme: readable
+    mathjax: default
+  pdf_document:
+    toc: yes
+header-includes:
+  \usepackage{float}
+  \floatplacement{figure}{H}
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include = F}
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Knitr Options
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Set root directory to the project directory
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+
+
+# Set default knitr options: 
+# Suppress warnings and messages, cache chunks, 
+#  set default figure size to 6x8 at 300 dpi, and save a png and pdf
+knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
+    fig.height = 6, fig.width = 8, dpi = 300, # 6x8" @ 300dpi:1800x2400=4.3MP
+    dev = c('png', 'pdf'), dev.args = list(pdf = list(onefile = F)))
+
+```
+
+
+
+## Overview
+
+Camille's beet leafhopper project.
+
+### Summary of Results
+* 
+
+```{r Main_Code, include = F, cache = F}
+
+# Load Packages
+library(tidyverse) # Needed for data wrangling: dplyr, tidyr, ggplot2
+library(cowplot) # Needed for publication-quality ggplots
+
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Data preparation
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Import datasets
+d19 <- read.csv("data/camille.2019.csv")
+
+d20 <- read.csv("data/camille.2020.csv")
+
+d21 <- read.csv("data/camille.2021.csv")
+
+str(d21)
+
+```
+
+
+```{r Data_Wrangling, echo = F, comment = ""}
+
+# matching 2019 colnames to 2020 & 2021
+
+d19 <- d19 %>% 
+  rename(BarCode = Barcode,
+         Date = Collection.Date,
+         Host.Plant = Plant.BLH.collected.from)
+
+# bring the 3 years together
+
+dat1 <- bind_rows(d19, d20, d21)
+
+# variable structure
+
+dat1 <- dat1 %>% 
+  mutate(Date = ymd(dat1$Date)) %>% 
+  mutate(across(
+    c(Plant.Type, Family, Genus,
+      BLH, Host.Plant, Region,
+      Site, Time.Period), as.factor)) %>% 
+  mutate(Year = year(Date),
+         BLH.year = factor(paste(BLH, Year, sep = "_")))
+
+```
+
+# Exploratory Data Analysis
+
+### BCTV by plant type (weed, crop, shrub, etc.)
+```{r planttype_by_BCTV, echo = F}
+
+
+dat1 %>% 
+  select(BCTV, Plant.Type) %>% 
+  group_by(BCTV, Plant.Type) %>% 
+  summarise(count = n()) %>% 
+  filter(!is.na(BCTV)) %>% 
+  mutate(BCTV = factor(BCTV)) %>% 
+  ggplot(aes(x = Plant.Type, y = count, fill = BCTV)) +
+  geom_col() +
+  theme_classic() +
+  coord_flip()
+
+```
+
+
+### BCTV by plant type and year
+```{r planttype_by_BCTV_year, echo = F}
+
+
+dat1 %>% 
+  select(BCTV, Plant.Type, Year) %>% 
+  mutate(year = factor(Year)) %>% 
+  group_by(BCTV, Plant.Type, Year) %>% 
+  summarise(count = n()) %>% 
+  filter(!is.na(BCTV)) %>% 
+  mutate(BCTV = factor(BCTV)) %>% 
+  ggplot(aes(x = Plant.Type, y = count, fill = BCTV)) +
+  geom_col() +
+  theme_classic() +
+  facet_wrap(~ Year) +
+  coord_flip()
+
+```
+
+
+### BCTV by family
+```{r family_by_BCTV, echo = F}
+
+
+dat1 %>% 
+  select(BCTV, Family) %>% 
+  group_by(BCTV, Family) %>% 
+  summarise(count = n()) %>% 
+  filter(!is.na(BCTV)) %>% 
+  mutate(BCTV = factor(BCTV)) %>% 
+  ggplot(aes(x = Family, y = count, fill = BCTV)) +
+  geom_col() +
+  theme_classic() +
+  coord_flip()
+
+```
+
+### BCTV by genus
+```{r genus_by_BCTV, echo = F}
+
+
+dat1 %>% 
+  select(BCTV, Genus) %>% 
+  group_by(BCTV, Genus) %>% 
+  summarise(count = n()) %>% 
+  filter(!is.na(BCTV)) %>% 
+  mutate(BCTV = factor(BCTV)) %>% 
+  ggplot(aes(x = Genus, y = count, fill = BCTV)) +
+  geom_col() +
+  theme_classic() +
+  coord_flip()
+
+```
+
+### BCTV by year
+```{r year_by_BCTV, echo = F}
+
+
+dat1 %>% 
+  select(BCTV, Year) %>% 
+  mutate(Year = factor(Year)) %>% 
+  group_by(BCTV, Year) %>% 
+  summarise(count = n()) %>% 
+  filter(!is.na(BCTV)) %>% 
+  mutate(BCTV = factor(BCTV)) %>% 
+  ggplot(aes(x = Year, y = count, fill = BCTV)) +
+  geom_col() +
+  theme_classic()
+
+```
+
+
+### BCTV by time of year (all years together)
+```{r timeperiod_by_BCTV, echo = F}
+
+
+dat1 %>% 
+  select(BCTV, Time.Period) %>% 
+  group_by(BCTV, Time.Period) %>% 
+  summarise(count = n()) %>% 
+  filter(!is.na(BCTV)) %>% 
+  mutate(BCTV = factor(BCTV)) %>% 
+  ggplot(aes(x = Time.Period, y = count, fill = BCTV)) +
+  geom_col() +
+  theme_classic() +
+  coord_flip() +
+  scale_x_discrete(limits = c(
+    "Late March", "Early April", "Late April", "Early May", "Late May",
+    "Early June", "Late June", "Early July", "Late July", "Early August",
+    "Late August", "Early October", "Late October"
+  )) +
+  labs(x = "Time period\nearly      ----->       late")
+
+```
+
+
+### BCTV by host plant (plant the BLH were collected from)
+```{r hostplant_by_BCTV, echo = F}
+
+
+dat1 %>% 
+  select(BCTV, Host.Plant) %>% 
+  group_by(BCTV, Host.Plant) %>% 
+  summarise(count = n()) %>% 
+  filter(!is.na(BCTV)) %>% 
+  mutate(BCTV = factor(BCTV)) %>% 
+  ggplot(aes(x = Host.Plant, y = count, fill = BCTV)) +
+  geom_col() +
+  theme_classic() +
+  coord_flip()
+
+```
+
+## Session Information
+
+```{r Session_Info, echo = F, comment = ""}
+
+# Add session information to help with reproduceability
+sessionInfo()
+
+
+```
+
+

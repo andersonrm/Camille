@@ -1,0 +1,544 @@
+Plant Type,Family,Common Name,Genus,Organism,OTU,Sequences,Pairwise Identity,BLH,Query,BarCode,Time Period,Date,Region,Site,Host Plant,Sex,BLTVA,BCTV,S citri,Notes
+Tree,Sapindaceae,Japanese Maple,Acer,Acer palmatum,11,2,99.80%,482,bc1110--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,1,0,0,RADseq
+Tree,Sapindaceae,Silver Maple,Acer,Acer saccharinum,112,10,100.00%,122,bc1152--bc1190,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,,1,1,0,Extracted by Gina
+Tree,Sapindaceae,Full moon Japanese Maple,Acer,Acer tenuifolium,6,4,97.20%,482,bc1110--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,1,0,0,RADseq
+Weed,Asteraceae,Yarrow,Achillea,Achillea millefolium,2,19,100.00%,171,bc1107--bc1113,trnF,Late May,2020-05-27,Paterson,J,Russian thistle,M,0,0,1,
+Weed,Asteraceae,Yarrow,Achillea,Achillea millefolium,91,10,99.80%,171,bc1140--bc1152,ITS,Late May,2020-05-27,Paterson,J,Russian thistle,M,0,0,1,
+Grass,Poaceae,Barbed Goatgrass,Aegilops,Aegilops triuncialis,6,6,98.60%,123,bc1152--bc1191,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,F,0,1,0,RADseq
+Weed,Amaryllidaceae,Wild onion,Allium,Allium pskemense,635,493,99.60%,37,bc1146--bc1172,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,M,0,1,0,RADseq
+Weed,Amaryllidaceae,Wild onion,Allium,Allium pskemense,4,5,99.60%,28,bc1146--bc1171,ITS,Late May,2020-05-18,Moxee,A,Kochia,F,0,0,0,
+Weed,Amaryllidaceae,Wild onion,Allium,Allium pskemense,16,4,99.60%,84,bc1146--bc1155,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,,1,1,0,
+Pigweed,Amaranthaceae,Pigweed,Amaranthus,Amaranthus capensis,6,3,96.60%,504,bc1100--bc1105,trnF,Late June,2020-06-25,Pasco,M,Netseed LambsquaRussian thistleers,F,1,0,0,
+Pigweed,Amaranthaceae,Smooth Pigweed,Amaranthus,Amaranthus hybridus,1,13,99.60%,504,bc1133--bc1171,ITS,Late June,2020-06-25,Pasco,M,Netseed LambsquaRussian thistleers,F,1,0,0,
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,Amaranthus spinosus,13,4,100.00%,655,bc1144--bc1176,trnF,Early August,2020-08-12,Othello,F,Russian thistle,M,0,0,0,RADseq
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,Amaranthus spinosus,2,17,100.00%,201,bc1108--bc1111,trnF,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,Amaranthus spinosus,14,2,99.60%,496,bc1097--bc1105,trnF,Late June,2020-06-25,Paterson,I,Russian thistle,F,0,0,0,RADseq
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,Amaranthus spinosus,4,5,99.80%,504,bc1100--bc1105,trnF,Late June,2020-06-25,Pasco,M,Netseed LambsquaRussian thistleers,F,1,0,0,
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,Amaranthus spinosus,9,5,99.80%,518,bc1106--bc1111,trnF,Late June,2020-06-25,Pasco,M,Russian thistle,F,1,0,0,
+Weed,Asteraceae,Ragweed,Ambrosia,Ambrosia acanthicarpa,4,18,99.70%,12,bc1150--bc1191,ITS,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,RADseq
+Weed,Boraginaceae,Borage,Amsinckia,Amsinckia intermedia,5,8,100.00%,787,bc1169--bc1177,trnF,Late August,2020-08-27,Othello,E,Kochia,F,1,0,0,RADseq
+Shrub,Crop,Tarragon,Artemisia,Artemisia dracunculus,268,386,98.00%,17,bc1150--bc1154,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,1,1,0,Extracted by Gina
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,7,4,99.80%,171,bc1107--bc1113,trnF,Late May,2020-05-27,Paterson,J,Russian thistle,M,0,0,1,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,2,2,100.00%,362,bc1110--bc1142,trnF,Early June,2020-06-03,Mattawa,D,Potato,M,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,10,14,100.00%,472,bc1113--bc1144,trnF,Late June,2020-06-17,Othello,F,Kochia,M,1,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,3,3,100.00%,487,bc1100--bc1103,trnF,Late June,2020-06-25,Paterson,H,Russian thistle,M,1,1,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,20,45,99.60%,655,bc1144--bc1176,trnF,Early August,2020-08-12,Othello,F,Russian thistle,M,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,59,253,100.00%,663,bc1103--bc1177,trnF,Early August,2020-08-12,Othello,G,Kochia,M,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,5,9,100.00%,788,bc1107--bc1177,trnF,Late August,2020-08-27,Othello,E,Kochia,M,0,1,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,6,3,100.00%,792,bc1108--bc1177,trnF,Late August,2020-08-27,Othello,E,Russian thistle,M,0,1,0,Faintly positive for bctv
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,7,2,99.70%,18,bc1105--bc1120,trnF,Late May,2020-05-18,Moxee,A,Flixweed,F,0,0,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,11,6,100.00%,19,bc1105--bc1109,trnF,Late May,2020-05-18,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,58,311,100.00%,127,bc1110--bc1169,trnF,Late May,2020-05-18,Othello,F,Kochia,F,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,4,2,100.00%,137,bc1097--bc1107,trnF,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,6,2,100.00%,190,bc1107--bc1120,trnF,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,11,11,99.80%,193,bc1107--bc1109,trnF,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,13,39,100.00%,198,bc1107--bc1110,trnF,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,10,39,100.00%,211,bc1108--bc1112,trnF,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,5,14,100.00%,217,bc1108--bc1113,trnF,Early June,2020-06-03,Moxee,A,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,6,24,100.00%,232,bc1108--bc1110,trnF,Early June,2020-06-03,Moxee,A,Russian thistle,F,1,1,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,11,84,100.00%,345,bc1120--bc1142,trnF,Early June,2020-06-03,Mattawa,B,Russian thistle,F,1,1,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,13,11,100.00%,358,bc1109--bc1142,trnF,Early June,2020-06-03,Mattawa,C,Russian thistle,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,4,3,100.00%,369,bc1100--bc1143,trnF,Early June,2020-06-03,Mattawa,D,Russian thistle,F,1,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,2,,100.00%,391,bc1114--bc1143,trnF,Early June,2020-06-12,Pasco,N,Kochia,F,1,0,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,5,14,100.00%,457,bc1110--bc1143,trnF,Late June,2020-06-17,Moxee,A,Russian thistle,F,1,0,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,3,2,99.70%,468,bc1100--bc1144,trnF,Late June,2020-06-17,Othello,E,Russian thistle,F,1,0,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,5,4,100.00%,482,bc1110--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,1,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,6,5,100.00%,496,bc1097--bc1105,trnF,Late June,2020-06-25,Paterson,I,Russian thistle,F,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,10,7,100.00%,504,bc1100--bc1105,trnF,Late June,2020-06-25,Pasco,M,Netseed LambsquaRussian thistleers,F,1,0,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,33,100,100.00%,508,bc1105--bc1113,trnF,Late June,2020-06-25,Pasco,M,Kochia,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,105,389,100.00%,556,bc1100--bc1107,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,1,1,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,7,14,100.00%,558,bc1108--bc1114,trnF,Early July,2020-07-01,Othello,E,Russian thistle,F,1,1,0,Faintly positive for bctv
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,60,51,99.80%,577,bc1106--bc1176,trnF,Late July,2020-07-15,Mattawa,D,Potato,F,0,1,1,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,3,10,100.00%,582,bc1175--bc1176,trnF,Late July,2020-07-15,Othello,E,Kochia,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,4,30,100.00%,626,bc1142--bc1176,trnF,Early August,2020-08-12,Moxee,A,Kochia,F,0,0,1,Faintly positive for s citri
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,6,32,100.00%,644,bc1143--bc1176,trnF,Early August,2020-08-12,Moxee,A,Russian thistle,F,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,41,261,100.00%,671,bc1105--bc1177,trnF,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,3,3,100.00%,763,bc1106--bc1177,trnF,Late August,2020-08-27,Mattawa,C,Russian thistle,F,0,0,1,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,3,42,100.00%,786,bc1175--bc1177,trnF,Late August,2020-08-27,Othello,E,Kochia,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,16,93,100.00%,787,bc1169--bc1177,trnF,Late August,2020-08-27,Othello,E,Kochia,F,1,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,3,16,100.00%,827,bc1142--bc1177,trnF,Early October,2020-10-02,Moxee,A,Kochia,F,0,1,0,Faintly positive for bctv
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,7,2,100.00%,16,bc1103--bc1110,trnF,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,18,7,99.80%,22,bc1105--bc1110,trnF,Late May,2020-05-18,Moxee,A,Tumble mustard,,0,0,0,Extracted by Gina
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,11,2,99.80%,46,bc1111--bc1175,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,,1,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia littorea,8,2,99.70%,299,bc1100--bc1142,trnF,Early June,2020-06-03,Mattawa,B,Russian thistle,,1,1,0,Missing abdomen
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,40,315,99.60%,15,bc1150--bc1192,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,M,0,0,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,3,3,99.80%,792,bc1124--bc1171,ITS,Late August,2020-08-27,Othello,E,Russian thistle,M,0,1,0,Faintly positive for bctv
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,11,3,99.60%,12,bc1150--bc1191,ITS,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,5,5,99.80%,28,bc1146--bc1171,ITS,Late May,2020-05-18,Moxee,A,Kochia,F,0,0,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,46,17,98.40%,39,bc1146--bc1190,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,4,3,99.60%,61,bc1146--bc1154,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,F,0,0,1,Faintly positive for s citri
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,3189,3334,99.80%,99,bc1140--bc1146,ITS,Late May,2020-05-18,Mattawa,C,Kochia,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,71,8,98.70%,124,bc1152--bc1192,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,F,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,177,207,99.60%,127,bc1152--bc1173,ITS,Late May,2020-05-18,Othello,F,Kochia,F,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,6737,2420,99.60%,190,bc1153--bc1171,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,424,377,99.60%,193,bc1153--bc1172,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,36,6,99.80%,198,bc1153--bc1192,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,92,8,99.80%,199,bc1153--bc1173,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,1,1,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,59,6,98.50%,201,bc1153--bc1154,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,77,5,99.10%,211,bc1153--bc1155,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,1587,422,98.30%,217,bc1140--bc1153,ITS,Early June,2020-06-03,Moxee,A,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,262,38,97.40%,227,bc1153--bc1189,ITS,Early June,2020-06-03,Moxee,A,Russian thistle,F,0,0,1,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,4,93,99.80%,508,bc1133--bc1190,ITS,Late June,2020-06-25,Pasco,M,Kochia,F,0,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,23,,99.80%,556,bc1134--bc1171,ITS,Early July,2020-07-01,Mattawa,B,Russian thistle,F,1,1,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,1,33,99.80%,614,bc1134--bc1140,ITS,Late July,2020-07-16,Paterson,J,Russian thistle,F,1,1,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,1,15,99.80%,616,bc1134--bc1189,ITS,Late July,2020-07-16,Paterson,J,Russian thistle,F,1,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,52,2,99.60%,16,bc1150--bc1173,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,17,2,99.20%,17,bc1150--bc1154,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,1,1,0,Extracted by Gina
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,39,2,99.60%,46,bc1146--bc1173,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,,1,0,0,RADseq
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,5,19,99.80%,84,bc1146--bc1155,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,,1,1,0,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,54,3,99.80%,107,bc1146--bc1189,ITS,Late May,2020-05-18,Mattawa,C,Potato,,1,1,0,Extracted by Gina
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,29,12,99.80%,122,bc1152--bc1190,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,,1,1,0,Extracted by Gina
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,1,171,99.80%,0,bc1140--bc1299,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,4,5,99.60%,0,bc1140--bc1299,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,5,2,99.50%,0,bc1140--bc1299,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,6,2,99.30%,0,bc1140--bc1299,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,7,2,99.50%,0,bc1140--bc1299,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,1,4,99.70%,0,bc1146--bc1192,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,1,99,99.80%,0,bc1146--bc1339,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,2,4,99.60%,0,bc1146--bc1339,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,3,3,99.60%,0,bc1146--bc1339,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,4,2,99.50%,0,bc1146--bc1339,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,5,2,99.30%,0,bc1146--bc1339,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,6,2,99.50%,0,bc1146--bc1339,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,2,12,99.80%,0,bc1153--bc1339,,,,,,,,,,,
+Kochia,Amaranthaceae,Kochia,Bassia,Bassia scoparia,3,3,99.10%,0,bc1153--bc1339,,,,,,,,,,,
+Crop,Amaranthaceae,Beet,Beta,Beta vulgaris,14,2,100.00%,671,bc1105--bc1177,trnF,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,2,11,96.70%,15,bc1150--bc1192,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,M,0,0,0,
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,683,1044,96.60%,8,bc1150--bc1170,ITS,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,1,0,0,RADseq
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,1720,1892,96.90%,9,bc1150--bc1171,ITS,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,17,9,96.90%,10,bc1150--bc1172,ITS,Late April,2020-04-22,Pasco,WSU,Filaree,F,1,0,0,
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,4,54,97.20%,11,bc1150--bc1190,ITS,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,50,45,95.50%,12,bc1150--bc1191,ITS,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,RADseq
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,2,26,97.10%,18,bc1150--bc1155,ITS,Late May,2020-05-18,Moxee,A,Flixweed,F,0,0,0,
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,938,276,96.90%,19,bc1140--bc1150,ITS,Late May,2020-05-18,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,6,4,97.10%,28,bc1146--bc1171,ITS,Late May,2020-05-18,Moxee,A,Kochia,F,0,0,0,
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,44,2,96.80%,39,bc1146--bc1190,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,35,24,94.90%,137,bc1152--bc1154,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,260,561,96.90%,153,bc1152--bc1155,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,994,344,96.70%,182,bc1152--bc1189,ITS,Late May,2020-05-27,Pasco,N,Tumble mustard,F,1,1,0,RADseq
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,118,2,97.20%,227,bc1153--bc1189,ITS,Early June,2020-06-03,Moxee,A,Russian thistle,F,0,0,1,
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,14,7,96.90%,16,bc1150--bc1173,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,31,9,96.70%,17,bc1150--bc1154,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,1,1,0,Extracted by Gina
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,1,5,97.20%,22,bc1150--bc1189,ITS,Late May,2020-05-18,Moxee,A,Tumble mustard,,0,0,0,Extracted by Gina
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,11,8,97.10%,46,bc1146--bc1173,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,,1,0,0,RADseq
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,999,1107,97.20%,84,bc1146--bc1155,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,,1,1,0,
+Mustard,Brassicaceae,Chinese kale,Brassica,Brassica oleracea,6,6,100.00%,481,bc1109--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,0,1,0,RADseq
+Mustard,Brassicaceae,Chinese kale,Brassica,Brassica oleracea,8,5,100.00%,644,bc1143--bc1176,trnF,Early August,2020-08-12,Moxee,A,Russian thistle,F,0,0,0,RADseq
+Mustard,Brassicaceae,Chinese kale,Brassica,Brassica oleracea,4,9,100.00%,17,bc1150--bc1154,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,1,1,0,Extracted by Gina
+Grass,Poaceae,Bromus sterilis,Bromus,Bromus sterilis,23,111,100.00%,19,bc1105--bc1109,trnF,Late May,2020-05-18,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Grass,Poaceae,Cheatgrass,Bromus,Bromus tectorum,3,13,98.70%,18,bc1150--bc1155,ITS,Late May,2020-05-18,Moxee,A,Flixweed,F,0,0,0,
+Grass,Poaceae,Cheatgrass,Bromus,Bromus tectorum,2390,1282,98.70%,19,bc1140--bc1150,ITS,Late May,2020-05-18,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Grass,Poaceae,Cheatgrass,Bromus,Bromus tectorum,2,7,99.10%,0,bc1140--bc1299,,,,,,,,,,,
+Grass,Poaceae,Cheatgrass,Bromus,Bromus tectorum,1,38,98.70%,0,bc1150--bc1339,,,,,,,,,,,
+Grass,Poaceae,Cheatgrass,Bromus,Bromus tectorum,3,6,98.90%,0,bc1150--bc1339,,,,,,,,,,,
+Grass,Poaceae,Cheatgrass,Bromus,Bromus tectorum,4,2,98.50%,0,bc1150--bc1339,,,,,,,,,,,
+Grass,Poaceae,Cheatgrass,Bromus,Bromus tectorum,5,2,97.20%,0,bc1150--bc1339,,,,,,,,,,,
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,13,10,99.60%,10,bc1150--bc1172,ITS,Late April,2020-04-22,Pasco,WSU,Filaree,F,1,0,0,
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,17,4,99.60%,111,bc1152--bc1171,ITS,Late May,2020-05-18,Mattawa,C,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,2534,2894,99.60%,113,bc1152--bc1172,ITS,Late May,2020-05-18,Mattawa,C,Russian thistle,F,1,1,0,
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,20,2,99.40%,153,bc1152--bc1155,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,91,3,99.60%,190,bc1153--bc1171,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,69,61,97.30%,193,bc1153--bc1172,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,39,2,99.30%,201,bc1153--bc1154,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,107,13,99.60%,211,bc1153--bc1155,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,3868,1537,99.60%,217,bc1140--bc1153,ITS,Early June,2020-06-03,Moxee,A,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,106,2,99.40%,227,bc1153--bc1189,ITS,Early June,2020-06-03,Moxee,A,Russian thistle,F,0,0,1,
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,3,6,99.60%,0,bc1140--bc1299,,,,,,,,,,,
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,1,35,99.80%,0,bc1153--bc1339,,,,,,,,,,,
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,4,3,99.60%,0,bc1153--bc1339,,,,,,,,,,,
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,5,2,99.80%,0,bc1153--bc1339,,,,,,,,,,,
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,6,2,99.50%,0,bc1153--bc1339,,,,,,,,,,,
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,7,2,97.50%,0,bc1153--bc1339,,,,,,,,,,,
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,8,15,100.00%,108,bc1110--bc1175,trnF,Late May,2020-05-18,Mattawa,C,Potato,M,0,1,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,9,9,100.00%,9,bc1103--bc1112,trnF,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,54,2,99.40%,9,bc1150--bc1171,ITS,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,4,2,99.90%,18,bc1150--bc1155,ITS,Late May,2020-05-18,Moxee,A,Flixweed,F,0,0,0,
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,23,11,98.90%,127,bc1152--bc1173,ITS,Late May,2020-05-18,Othello,F,Kochia,F,0,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,16,26,98.40%,153,bc1152--bc1155,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,3,10,100.00%,182,bc1107--bc1114,trnF,Late May,2020-05-27,Pasco,N,Tumble mustard,F,1,1,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,413,46,99.00%,190,bc1153--bc1171,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,2221,614,99.00%,198,bc1153--bc1192,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,2679,1013,99.40%,199,bc1153--bc1173,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,1,1,0,
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,4,9,100.00%,201,bc1108--bc1111,trnF,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,30,3,100.00%,211,bc1153--bc1155,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,39,101,99.70%,509,bc1105--bc1114,trnF,Late June,2020-06-25,Pasco,M,Kochia,F,0,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,1,106,100.00%,509,bc1133--bc1191,ITS,Late June,2020-06-25,Pasco,M,Kochia,F,0,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,26,167,100.00%,558,bc1108--bc1114,trnF,Early July,2020-07-01,Othello,E,Russian thistle,F,1,1,0,Faintly positive for bctv
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,30,,100.00%,558,bc1134--bc1190,ITS,Early July,2020-07-01,Othello,E,Russian thistle,F,1,1,0,Faintly positive for bctv
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,7,23,100.00%,577,bc1106--bc1176,trnF,Late July,2020-07-15,Mattawa,D,Potato,F,0,1,1,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,2,4,100.00%,616,bc1134--bc1189,ITS,Late July,2020-07-16,Paterson,J,Russian thistle,F,1,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,11,2,99.80%,671,bc1123--bc1173,ITS,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,5,12,100.00%,671,bc1105--bc1177,trnF,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,4,8,100.00%,787,bc1169--bc1177,trnF,Late August,2020-08-27,Othello,E,Kochia,F,1,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,722,644,100.00%,16,bc1150--bc1173,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,27,7,100.00%,46,bc1111--bc1175,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,,1,0,0,RADseq
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,17,9,99.20%,107,bc1146--bc1189,ITS,Late May,2020-05-18,Mattawa,C,Potato,,1,1,0,Extracted by Gina
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,6,4,100.00%,299,bc1100--bc1142,trnF,Early June,2020-06-03,Mattawa,B,Russian thistle,,1,1,0,Missing abdomen
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,2,13,99.20%,0,bc1153--bc1310,,,,,,,,,,,
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium album,4,3,98.80%,0,bc1153--bc1310,,,,,,,,,,,
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,Chenopodium quinoa,5,2,100.00%,614,bc1107--bc1176,trnF,Late July,2020-07-16,Paterson,J,Russian thistle,F,1,1,0,RADseq
+Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,348,237,99.60%,171,bc1140--bc1152,ITS,Late May,2020-05-27,Paterson,J,Russian thistle,M,0,0,1,
+Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,21,2,99.20%,153,bc1152--bc1155,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Tree,Rutaceae,Cam sành,Citrus,Citrus benikoji,2,10,100.00%,190,bc1107--bc1120,trnF,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Tree,Rutaceae,Cam sành,Citrus,Citrus benikoji,2,20,100.00%,22,bc1105--bc1110,trnF,Late May,2020-05-18,Moxee,A,Tumble mustard,,0,0,0,Extracted by Gina
+Weed,Convolvulaceae,Field bindweed,Convolvulus,Convolvulus arvensis,12,13,100.00%,39,bc1106--bc1109,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Weed,Convolvulaceae,Field bindweed,Convolvulus,Convolvulus arvensis,202,48,96.40%,198,bc1153--bc1192,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Weed,Convolvulaceae,Field bindweed,Convolvulus,Convolvulus arvensis,23,17,99.00%,201,bc1153--bc1154,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Weed,Convolvulaceae,Field bindweed,Convolvulus,Convolvulus arvensis,5,3,99.00%,0,bc1153--bc1310,,,,,,,,,,,
+Crop,Cucurbitaceae,pumpkin or winter squash,Cucurbita,Cucurbita pepo,270,90,97.60%,37,bc1146--bc1172,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,M,0,1,0,RADseq
+Crop,Cucurbitaceae,pumpkin or winter squash,Cucurbita,Cucurbita pepo,2,7,97.80%,792,bc1124--bc1171,ITS,Late August,2020-08-27,Othello,E,Russian thistle,M,0,1,0,Faintly positive for bctv
+Crop,Apiaceae,carrot,Daucus,Daucus carota,163,55,97.50%,171,bc1140--bc1152,ITS,Late May,2020-05-27,Paterson,J,Russian thistle,M,0,0,1,
+Crop,Apiaceae,carrot,Daucus,Daucus carota,4,2,99.90%,509,bc1133--bc1191,ITS,Late June,2020-06-25,Pasco,M,Kochia,F,0,0,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,1697,598,98.80%,37,bc1146--bc1172,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,M,0,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,58,2,99.80%,108,bc1152--bc1170,ITS,Late May,2020-05-18,Mattawa,C,Potato,M,0,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,250,140,99.00%,171,bc1140--bc1152,ITS,Late May,2020-05-27,Paterson,J,Russian thistle,M,0,0,1,
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,68,11,100.00%,9,bc1150--bc1171,ITS,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,195,381,99.50%,12,bc1150--bc1191,ITS,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,3,25,99.50%,28,bc1146--bc1171,ITS,Late May,2020-05-18,Moxee,A,Kochia,F,0,0,0,
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,16,4,93.20%,39,bc1106--bc1109,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,748,631,100.00%,39,bc1146--bc1190,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,2039,447,99.00%,41,bc1146--bc1191,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,23,4,100.00%,61,bc1146--bc1154,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,F,0,0,1,Faintly positive for s citri
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,82,2,99.80%,99,bc1140--bc1146,ITS,Late May,2020-05-18,Mattawa,C,Kochia,F,0,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,1320,1473,100.00%,111,bc1152--bc1171,ITS,Late May,2020-05-18,Mattawa,C,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,19,2,99.90%,123,bc1152--bc1191,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,F,0,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,40,2,99.40%,127,bc1152--bc1173,ITS,Late May,2020-05-18,Othello,F,Kochia,F,0,0,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,22,2,99.90%,153,bc1152--bc1155,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,230,6,99.40%,190,bc1153--bc1171,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,39,2,99.30%,193,bc1153--bc1172,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,156,5,99.90%,199,bc1153--bc1173,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,1,1,0,
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,1766,934,100.00%,201,bc1153--bc1154,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,2189,615,100.00%,211,bc1153--bc1155,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,225,26,99.50%,217,bc1140--bc1153,ITS,Early June,2020-06-03,Moxee,A,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,129,20,98.10%,227,bc1153--bc1189,ITS,Early June,2020-06-03,Moxee,A,Russian thistle,F,0,0,1,
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,1,13,88.80%,405,bc1120--bc1143,trnF,Early June,2020-06-12,Paterson,J,Tumble mustard,F,1,0,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,231,837,100.00%,405,bc1135--bc1171,ITS,Early June,2020-06-12,Paterson,J,Tumble mustard,F,1,0,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,78,2,99.40%,16,bc1150--bc1173,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,1578,742,99.50%,46,bc1146--bc1173,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,,1,0,0,RADseq
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,38,2,99.80%,84,bc1146--bc1155,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,,1,1,0,
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,4,2,99.00%,0,bc1146--bc1192,,,,,,,,,,,
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,3,2,99.50%,0,bc1153--bc1191,,,,,,,,,,,
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,1,10,99.50%,0,bc1190--bc1299,,,,,,,,,,,
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,2,7,100.00%,0,bc1190--bc1299,,,,,,,,,,,
+Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,3,2,99.00%,0,bc1190--bc1299,,,,,,,,,,,
+Weed,Asteraceae,Coneflower,Echinacea,Echinacea purpurea,7,4,100.00%,12,bc1103--bc1120,trnF,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,RADseq
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,41,47,99.30%,39,bc1106--bc1109,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron leptorhizon,52,15,99.30%,39,bc1146--bc1190,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Weed,Geraniaceae,stork's bill,Erodium,Erodium carvifolium,9,5,99.10%,153,bc1107--bc1111,trnF,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Weed,Geraniaceae,stork's bill,Erodium,Erodium carvifolium,5,22,99.10%,16,bc1103--bc1110,trnF,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Weed,Geraniaceae,redstem filaree,Erodium,Erodium cicutarium,350,190,99.80%,171,bc1140--bc1152,ITS,Late May,2020-05-27,Paterson,J,Russian thistle,M,0,0,1,
+Weed,Geraniaceae,redstem filaree,Erodium,Erodium cicutarium,53,2,99.10%,9,bc1150--bc1171,ITS,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Weed,Geraniaceae,redstem filaree,Erodium,Erodium cicutarium,1566,2357,99.10%,10,bc1150--bc1172,ITS,Late April,2020-04-22,Pasco,WSU,Filaree,F,1,0,0,
+Weed,Geraniaceae,redstem filaree,Erodium,Erodium cicutarium,14,4,99.70%,153,bc1152--bc1155,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Weed,Geraniaceae,redstem filaree,Erodium,Erodium cicutarium,96,20,98.50%,182,bc1152--bc1189,ITS,Late May,2020-05-27,Pasco,N,Tumble mustard,F,1,1,0,RADseq
+Crop,Polygonaceae,Buckwheat,Fagopyrum,Fagopyrum esculentum,25,2,100.00%,655,bc1144--bc1176,trnF,Early August,2020-08-12,Othello,F,Russian thistle,M,0,0,0,RADseq
+Grass,Poaceae,Meadow Fescue,Festuca,Festuca pratensis,19,6,99.60%,552,bc1114--bc1169,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,0,0,0,RADseq
+Tree,Oleaceae,Ash,Fraxinus,Fraxinus angustifolia,13,157,100.00%,482,bc1110--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,1,0,0,RADseq
+Crop,Fabaceae,soybean,Glycine,Glycine max,16,2,99.70%,12,bc1150--bc1191,ITS,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,RADseq
+Crop,Fabaceae,soybean,Glycine,Glycine max,1055,555,99.60%,16,bc1150--bc1173,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Crop,Fabaceae,soybean,Glycine,Glycine soja,10,6,99.80%,16,bc1103--bc1110,trnF,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Crop,Poaceae,Barley,Hordeum,Hordeum vulgare,1,14,100.00%,199,bc1097--bc1108,trnF,Late May,2020-05-27,Pasco,M,Russian thistle,F,1,1,0,
+Tree,Juglandaceae,English walnut,Juglans,Juglans regia,2,16,100.00%,11,bc1103--bc1114,trnF,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,
+Tree,Juglandaceae,English walnut,Juglans,Juglans regia,7,2,100.00%,23,bc1099--bc1106,trnF,Late May,2020-05-18,Moxee,A,Kochia,F,0,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,3,7,97.10%,15,bc1150--bc1192,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,M,0,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,1,31,97.10%,792,bc1124--bc1171,ITS,Late August,2020-08-27,Othello,E,Russian thistle,M,0,1,0,Faintly positive for bctv
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,64,68,97.10%,9,bc1150--bc1171,ITS,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,2,4,97.10%,11,bc1150--bc1190,ITS,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,10,11,97.30%,28,bc1146--bc1171,ITS,Late May,2020-05-18,Moxee,A,Kochia,F,0,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,65,39,96.60%,39,bc1146--bc1190,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,37,2,97.00%,111,bc1152--bc1171,ITS,Late May,2020-05-18,Mattawa,C,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,45,5,97.10%,113,bc1152--bc1172,ITS,Late May,2020-05-18,Mattawa,C,Russian thistle,F,1,1,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,7,4,97.10%,123,bc1152--bc1191,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,2131,2539,97.10%,124,bc1152--bc1192,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,5,12,97.10%,127,bc1152--bc1173,ITS,Late May,2020-05-18,Othello,F,Kochia,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,1843,909,97.10%,137,bc1152--bc1154,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,174,29,96.60%,190,bc1153--bc1171,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,2290,464,96.30%,198,bc1153--bc1192,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,2900,1141,97.10%,199,bc1153--bc1173,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,1,1,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,51,2,96.00%,211,bc1153--bc1155,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,1702,233,97.10%,227,bc1153--bc1189,ITS,Early June,2020-06-03,Moxee,A,Russian thistle,F,0,0,1,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,2,3,96.80%,508,bc1133--bc1190,ITS,Late June,2020-06-25,Pasco,M,Kochia,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,5,181,96.80%,509,bc1133--bc1191,ITS,Late June,2020-06-25,Pasco,M,Kochia,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,1,19,97.30%,518,bc1133--bc1154,ITS,Late June,2020-06-25,Pasco,M,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,2,19,97.10%,518,bc1133--bc1154,ITS,Late June,2020-06-25,Pasco,M,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,9,35,97.10%,549,bc1133--bc1155,ITS,Early July,2020-07-01,Moxee,A,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,4,38,97.10%,550,bc1133--bc1140,ITS,Early July,2020-07-01,Mattawa,B,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,1,33,97.10%,568,bc1134--bc1191,ITS,Late July,2020-07-15,Moxee,A,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,3,137,97.10%,587,bc1134--bc1155,ITS,Late July,2020-07-15,Othello,E,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,2,6,97.10%,614,bc1134--bc1140,ITS,Late July,2020-07-16,Paterson,J,Russian thistle,F,1,1,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,15,646,97.10%,827,bc1124--bc1172,ITS,Early October,2020-10-02,Moxee,A,Kochia,F,0,1,0,Faintly positive for bctv
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,1145,490,95.40%,16,bc1150--bc1173,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,5,7,97.10%,17,bc1150--bc1154,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,1,1,0,Extracted by Gina
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,499,189,96.00%,46,bc1146--bc1173,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,,1,0,0,RADseq
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,247,151,95.60%,84,bc1146--bc1155,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,,1,1,0,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,2772,1888,97.10%,122,bc1152--bc1190,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,,1,1,0,Extracted by Gina
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,,41,97.00%,0,bc1009--bc1152,,,,,,,,,,,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,2,4,96.80%,0,bc1146--bc1192,,,,,,,,,,,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,3,3,97.30%,0,bc1146--bc1192,,,,,,,,,,,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,28,,97.20%,0,bc1152--bc1310,,,,,,,,,,,
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,Kali turgidum,3,10,97.40%,0,bc1153--bc1310,,,,,,,,,,,
+Crop,Asteraceae,garden lettuce,Lactuca,Lactuca sativa,30,108,100.00%,12,bc1103--bc1120,trnF,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,RADseq
+Crop,Asteraceae,garden lettuce,Lactuca,Lactuca sativa,7,5,100.00%,496,bc1097--bc1105,trnF,Late June,2020-06-25,Paterson,I,Russian thistle,F,0,0,0,RADseq
+Crop,Asteraceae,garden lettuce,Lactuca,Lactuca sativa,9,5,100.00%,568,bc1103--bc1176,trnF,Late July,2020-07-15,Moxee,A,Russian thistle,F,1,0,0,
+Crop,Asteraceae,garden lettuce,Lactuca,Lactuca sativa,3,4,100.00%,582,bc1175--bc1176,trnF,Late July,2020-07-15,Othello,E,Kochia,F,0,1,0,RADseq
+Crop,Asteraceae,garden lettuce,Lactuca,Lactuca sativa,2,6,100.00%,626,bc1142--bc1176,trnF,Early August,2020-08-12,Moxee,A,Kochia,F,0,0,1,Faintly positive for s citri
+Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,70,26,98.10%,41,bc1146--bc1191,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Tree,Lythraceae,Myrtle,Lagerstroemia,Lagerstroemia suprareticulata,3,6,100.00%,482,bc1110--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,1,0,0,RADseq
+Tree,Oleaceae,Privet,Ligustrum,Ligustrum lucidum,11,3,99.80%,644,bc1143--bc1176,trnF,Early August,2020-08-12,Moxee,A,Russian thistle,F,0,0,0,RADseq
+Grass,Poaceae,Perennial Ryegrass,Lolium,Lolium perenne,12,2,99.30%,552,bc1114--bc1169,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,0,0,0,RADseq
+Nightshade,Solanaceae,Matrimony vine,Lycium,Lycium barbarum,1221,308,99.30%,227,bc1153--bc1189,ITS,Early June,2020-06-03,Moxee,A,Russian thistle,F,0,0,1,
+Nightshade,Solanaceae,Goji,Lycium,Lycium chinense,1,20,99.80%,11,bc1103--bc1114,trnF,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,
+Nightshade,Solanaceae,Goji,Lycium,Lycium chinense,42,50,100.00%,39,bc1106--bc1109,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Nightshade,Solanaceae,Goji,Lycium,Lycium chinense,3,14,100.00%,153,bc1107--bc1111,trnF,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Nightshade,Solanaceae,Goji,Lycium,Lycium chinense,9,15,100.00%,358,bc1109--bc1142,trnF,Early June,2020-06-03,Mattawa,C,Russian thistle,F,0,1,0,RADseq
+Nightshade,Solanaceae,Goji,Lycium,Lycium chinense,7,5,100.00%,22,bc1105--bc1110,trnF,Late May,2020-05-18,Moxee,A,Tumble mustard,,0,0,0,Extracted by Gina
+Nightshade,Solanaceae,Goji,Lycium,Lycium ferocissimum,1,10,99.80%,113,bc1112--bc1169,trnF,Late May,2020-05-18,Mattawa,C,Russian thistle,F,1,1,0,
+Tree,Fabaceae,Amur Maackia ,Maackia,Maackia amurensis,4,2,100.00%,345,bc1120--bc1142,trnF,Early June,2020-06-03,Mattawa,B,Russian thistle,F,1,1,0,
+Weed,Malvaceae,Mallow,Malva,Malva parviflora,18,3,98.20%,39,bc1146--bc1190,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Weed,Malvaceae,Mallow,Malva,Malva parviflora,27,3,98.20%,46,bc1146--bc1173,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,,1,0,0,RADseq
+Weed,Fabaceae,Alfalfa,Medicago,Medicago sativa,55,2,100.00%,124,bc1152--bc1192,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,F,0,0,0,RADseq
+Weed,Fabaceae,Alfalfa,Medicago,Medicago sativa,298,247,100.00%,127,bc1152--bc1173,ITS,Late May,2020-05-18,Othello,F,Kochia,F,0,0,0,RADseq
+Weed,Fabaceae,Alfalfa,Medicago,Medicago sativa,293,100,98.60%,198,bc1153--bc1192,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Weed,Fabaceae,Alfalfa,Medicago,Medicago sativa,90,2,99.80%,199,bc1153--bc1173,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,1,1,0,
+Weed,Fabaceae,Alfalfa,Medicago,Medicago sativa,4,3,100.00%,549,bc1133--bc1155,ITS,Early July,2020-07-01,Moxee,A,Russian thistle,F,1,0,0,
+Weed,Fabaceae,Alfalfa,Medicago,Medicago sativa,2,4,100.00%,550,bc1133--bc1140,ITS,Early July,2020-07-01,Mattawa,B,Russian thistle,F,1,0,0,
+Weed,Fabaceae,Alfalfa,Medicago,Medicago sativa,15,6,100.00%,16,bc1150--bc1173,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Weed,Fabaceae,Alfalfa,Medicago,Medicago sativa,6,3,100.00%,0,bc1153--bc1310,,,,,,,,,,,
+Nightshade,Solanaceae,Coyote tobacco,Nicotiana,Nicotiana attenuata,5,4,100.00%,552,bc1114--bc1169,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,0,0,0,RADseq
+Weed,Fabaceae,lima bean,Phaseolus,Phaseolus lunatus,289,139,100.00%,37,bc1146--bc1172,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,M,0,1,0,RADseq
+Tree,Lauraceae,Phoebe hungmoensis,Phoebe,Phoebe hungmoensis,2,18,100.00%,153,bc1107--bc1111,trnF,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Nightshade,Solanaceae,Clammy Groundcherry,Physalis,Physalis heterophylla,7,2,97.60%,663,bc1103--bc1177,trnF,Early August,2020-08-12,Othello,G,Kochia,M,0,0,0,RADseq
+Tree,Pinaceae,lodgepole pine,Pinus,Pinus contorta,18,13,99.60%,17,bc1105--bc1112,trnF,Early May,2020-05-13,Paterson,H,Russian thistle,,1,1,0,Extracted by Gina
+Tree,Pinaceae,Japanese Red Pine,Pinus,Pinus densiflora,4,6,99.80%,18,bc1105--bc1120,trnF,Late May,2020-05-18,Moxee,A,Flixweed,F,0,0,0,
+Tree,Pinaceae,Mexican Mountain Pine,Pinus,Pinus hartwegii,6,2,99.80%,19,bc1105--bc1109,trnF,Late May,2020-05-18,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Tree,Pinaceae,Chinese Red Pine,Pinus,Pinus tabuliformis,13,44,99.80%,18,bc1105--bc1120,trnF,Late May,2020-05-18,Moxee,A,Flixweed,F,0,0,0,
+Tree,Anacardiaceae,Cashew,Pistacia,Pistacia vera,4,5,99.80%,482,bc1110--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,1,0,0,RADseq
+Crop,Fabaceae,Pea,Pisum,Pisum sativum,1,30,99.60%,18,bc1150--bc1155,ITS,Late May,2020-05-18,Moxee,A,Flixweed,F,0,0,0,
+Crop,Fabaceae,Pea,Pisum,Pisum sativum,45,4,99.40%,227,bc1153--bc1189,ITS,Early June,2020-06-03,Moxee,A,Russian thistle,F,0,0,1,
+Crop,Fabaceae,Pea,Pisum,Pisum sativum,6,10,99.60%,671,bc1123--bc1173,ITS,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Tree,Platanaceae,Sycamore,Platanus,Platanus orientalis,10,2,100.00%,482,bc1110--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,1,0,0,RADseq
+Grass,Poaceae,Wolly Blue Grass,Poa,Poa sublanata,2,16,100.00%,108,bc1110--bc1175,trnF,Late May,2020-05-18,Mattawa,C,Potato,M,0,1,0,RADseq
+Weed,Portulacaceae,Purslane,Portulaca,Portulaca oleracea,3,7,99.80%,373,bc1113--bc1143,trnF,Early June,2020-06-12,Pasco,N,Russian thistle,F,1,0,0,
+Tree,Rosaceae,peach,Prunus,Prunus persica,316,31,99.80%,41,bc1146--bc1191,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Tree,Rosaceae,peach,Prunus,Prunus persica,135,2,99.50%,190,bc1153--bc1171,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Mustard,Brassicaceae,unknown,Pseudofortuynia,Pseudofortuynia leucoclada,1,4,97.00%,487,bc1100--bc1103,trnF,Late June,2020-06-25,Paterson,H,Russian thistle,M,1,1,0,
+Mustard,Brassicaceae,unknown,Pseudofortuynia,Pseudofortuynia leucoclada,151,859,97.00%,8,bc1103--bc1111,trnF,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,1,0,0,RADseq
+Mustard,Brassicaceae,unknown,Pseudofortuynia,Pseudofortuynia leucoclada,99,267,97.00%,9,bc1103--bc1112,trnF,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Tree,Rosaceae,pear,Pyrus,Pyrus communis,4,2,99.80%,472,bc1113--bc1144,trnF,Late June,2020-06-17,Othello,F,Kochia,M,1,0,0,RADseq
+Tree,Rosaceae,pear,Pyrus,Pyrus communis,6,99,100.00%,16,bc1103--bc1110,trnF,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Tree,Fagaceae,English oak,Quercus,Quercus robur,51,3,96.50%,122,bc1152--bc1190,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,,1,1,0,Extracted by Gina
+Tree,Fabaceae,Black Locust,Robinia,Robinia pseudoacacia,47,2,99.60%,211,bc1153--bc1155,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Tree,Fabaceae,Black Locust,Robinia,Robinia pseudoacacia,146,68,100.00%,217,bc1140--bc1153,ITS,Early June,2020-06-03,Moxee,A,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Tree,Fabaceae,Black Locust,Robinia,Robinia pseudoacacia,5,3,98.90%,504,bc1100--bc1105,trnF,Late June,2020-06-25,Pasco,M,Netseed LambsquaRussian thistleers,F,1,0,0,
+Tree,Fabaceae,Black Locust,Robinia,Robinia pseudoacacia,2,10,100.00%,504,bc1133--bc1171,ITS,Late June,2020-06-25,Pasco,M,Netseed LambsquaRussian thistleers,F,1,0,0,
+Shrub,Rosaceae,Blackberry,Rubus,Rubus allegheniensis,11,5,97.90%,193,bc1153--bc1172,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,11,8,99.80%,487,bc1100--bc1103,trnF,Late June,2020-06-25,Paterson,H,Russian thistle,M,1,1,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,245,212,99.80%,655,bc1144--bc1176,trnF,Early August,2020-08-12,Othello,F,Russian thistle,M,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,4,2,99.80%,788,bc1107--bc1177,trnF,Late August,2020-08-27,Othello,E,Kochia,M,0,1,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,35,36,99.80%,792,bc1108--bc1177,trnF,Late August,2020-08-27,Othello,E,Russian thistle,M,0,1,0,Faintly positive for bctv
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,164,173,99.30%,9,bc1103--bc1112,trnF,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,18,23,99.80%,11,bc1103--bc1114,trnF,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,276,446,99.80%,28,bc1106--bc1114,trnF,Late May,2020-05-18,Moxee,A,Kochia,F,0,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,605,333,99.80%,39,bc1106--bc1109,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,16,2,99.30%,41,bc1106--bc1110,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,6,17,98.90%,111,bc1111--bc1169,trnF,Late May,2020-05-18,Mattawa,C,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,21,8,99.60%,127,bc1110--bc1169,trnF,Late May,2020-05-18,Othello,F,Kochia,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,24,31,99.80%,137,bc1097--bc1107,trnF,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,5,2,99.70%,182,bc1107--bc1114,trnF,Late May,2020-05-27,Pasco,N,Tumble mustard,F,1,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,11,6,99.60%,190,bc1107--bc1120,trnF,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,33,36,99.30%,193,bc1107--bc1109,trnF,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,12,16,99.80%,198,bc1107--bc1110,trnF,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,5,15,99.60%,199,bc1097--bc1108,trnF,Late May,2020-05-27,Pasco,M,Russian thistle,F,1,1,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,72,73,98.90%,201,bc1108--bc1111,trnF,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,29,47,99.80%,211,bc1108--bc1112,trnF,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,4,3,99.80%,217,bc1108--bc1113,trnF,Early June,2020-06-03,Moxee,A,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,13,5,99.80%,358,bc1109--bc1142,trnF,Early June,2020-06-03,Mattawa,C,Russian thistle,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,10,19,99.80%,364,bc1097--bc1143,trnF,Early June,2020-06-03,Mattawa,D,Russian thistle,F,1,1,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,15,25,99.80%,369,bc1100--bc1143,trnF,Early June,2020-06-03,Mattawa,D,Russian thistle,F,1,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,5,13,98.90%,370,bc1111--bc1143,trnF,Early June,2020-06-03,Mattawa,D,Russian thistle,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,2,3,99.60%,372,bc1112--bc1143,trnF,Early June,2020-06-03,Othello,F,Potato,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,18,28,99.80%,373,bc1113--bc1143,trnF,Early June,2020-06-12,Pasco,N,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,22,9,99.60%,457,bc1110--bc1143,trnF,Late June,2020-06-17,Moxee,A,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,2,2,99.80%,468,bc1100--bc1144,trnF,Late June,2020-06-17,Othello,E,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,5,4,99.70%,471,bc1112--bc1144,trnF,Late June,2020-06-17,Othello,F,Kochia,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,22,2,99.70%,476,bc1114--bc1144,trnF,Late June,2020-06-17,Othello,F,Kochia,F,1,0,1,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,92,98,99.80%,481,bc1109--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,17,4,99.70%,482,bc1110--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,1,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,78,112,99.80%,496,bc1097--bc1105,trnF,Late June,2020-06-25,Paterson,I,Russian thistle,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,348,480,99.80%,509,bc1105--bc1114,trnF,Late June,2020-06-25,Pasco,M,Kochia,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,44,45,99.80%,512,bc1100--bc1106,trnF,Late June,2020-06-25,Pasco,M,Russian thistle,F,0,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,96,136,99.80%,518,bc1106--bc1111,trnF,Late June,2020-06-25,Pasco,M,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,52,123,99.80%,549,bc1106--bc1112,trnF,Early July,2020-07-01,Moxee,A,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,31,34,99.80%,550,bc1106--bc1113,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,43,37,99.80%,552,bc1114--bc1169,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,218,376,99.80%,557,bc1107--bc1112,trnF,Early July,2020-07-01,Mattawa,D,Kochia,F,1,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,33,13,99.80%,558,bc1108--bc1114,trnF,Early July,2020-07-01,Othello,E,Russian thistle,F,1,1,0,Faintly positive for bctv
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,137,162,99.60%,568,bc1103--bc1176,trnF,Late July,2020-07-15,Moxee,A,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,316,218,99.60%,577,bc1106--bc1176,trnF,Late July,2020-07-15,Mattawa,D,Potato,F,0,1,1,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,9,13,99.80%,587,bc1169--bc1176,trnF,Late July,2020-07-15,Othello,E,Russian thistle,F,1,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,10,16,99.80%,614,bc1107--bc1176,trnF,Late July,2020-07-16,Paterson,J,Russian thistle,F,1,1,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,115,122,98.70%,616,bc1108--bc1176,trnF,Late July,2020-07-16,Paterson,J,Russian thistle,F,1,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,9,6,99.60%,626,bc1142--bc1176,trnF,Early August,2020-08-12,Moxee,A,Kochia,F,0,0,1,Faintly positive for s citri
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,102,79,99.60%,644,bc1143--bc1176,trnF,Early August,2020-08-12,Moxee,A,Russian thistle,F,0,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,25,4,99.70%,671,bc1105--bc1177,trnF,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,11,10,99.80%,763,bc1106--bc1177,trnF,Late August,2020-08-27,Mattawa,C,Russian thistle,F,0,0,1,
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,23,2,99.40%,17,bc1105--bc1112,trnF,Early May,2020-05-13,Paterson,H,Russian thistle,,1,1,0,Extracted by Gina
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,150,269,99.80%,46,bc1111--bc1175,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,,1,0,0,RADseq
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,21,31,99.80%,122,bc1113--bc1169,trnF,Late May,2020-05-18,Mattawa,D,Russian thistle,,1,1,0,Extracted by Gina
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,Salsola collina,41,59,99.80%,299,bc1100--bc1142,trnF,Early June,2020-06-03,Mattawa,B,Russian thistle,,1,1,0,Missing abdomen
+Nightshade,Solanaceae,Henbane bell,Scopolia,Scopolia carniolica,14,2,96.70%,556,bc1100--bc1107,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,1,1,0,
+Grass,Poaceae,rye,Secale,Secale cereale,4,14,98.10%,123,bc1152--bc1191,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,F,0,1,0,RADseq
+Grass,Poaceae,rye,Secale,Secale cereale,134,2,97.80%,190,bc1153--bc1171,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium altissimum,239,55,100.00%,8,bc1103--bc1111,trnF,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,1,0,0,RADseq
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium altissimum,479,45,100.00%,9,bc1103--bc1112,trnF,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium altissimum,3,15,100.00%,12,bc1103--bc1120,trnF,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,RADseq
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium altissimum,163,4,100.00%,19,bc1140--bc1150,ITS,Late May,2020-05-18,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium altissimum,89,12,99.80%,153,bc1152--bc1155,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium altissimum,2,27,100.00%,182,bc1107--bc1114,trnF,Late May,2020-05-27,Pasco,N,Tumble mustard,F,1,1,0,RADseq
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium altissimum,75,10,100.00%,182,bc1152--bc1189,ITS,Late May,2020-05-27,Pasco,N,Tumble mustard,F,1,1,0,RADseq
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium altissimum,101,9,100.00%,84,bc1146--bc1155,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,,1,1,0,
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium altissimum,2,7,100.00%,0,bc1150--bc1339,,,,,,,,,,,
+Mustard,Brassicaceae,Tall mustard,Sisymbrium,Sisymbrium loeselii,45,3,100.00%,211,bc1153--bc1155,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Mustard,Brassicaceae,Tall mustard,Sisymbrium,Sisymbrium loeselii,157,4,97.70%,122,bc1152--bc1190,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,,1,1,0,Extracted by Gina
+Shrub,Smilacaceae,Greenbriar,Smilax,Smilax aberrans,138,2,99.10%,190,bc1153--bc1171,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Shrub,Smilacaceae,Greenbriar,Smilax,Smilax aberrans,237,219,98.50%,193,bc1153--bc1172,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Shrub,Smilacaceae,Greenbriar,Smilax,Smilax aberrans,34,3,99.10%,211,bc1153--bc1155,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,367,90,97.70%,37,bc1146--bc1172,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,M,0,1,0,RADseq
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,46,35,99.80%,39,bc1106--bc1109,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,81,2,99.70%,99,bc1140--bc1146,ITS,Late May,2020-05-18,Mattawa,C,Kochia,F,0,1,0,RADseq
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,31,3,99.80%,137,bc1152--bc1154,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,1466,470,100.00%,182,bc1152--bc1189,ITS,Late May,2020-05-27,Pasco,N,Tumble mustard,F,1,1,0,RADseq
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,4,3,100.00%,370,bc1111--bc1143,trnF,Early June,2020-06-03,Mattawa,D,Russian thistle,F,0,1,0,RADseq
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,2,7,100.00%,504,bc1100--bc1105,trnF,Late June,2020-06-25,Pasco,M,Netseed LambsquaRussian thistleers,F,1,0,0,
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,20,9,100.00%,512,bc1100--bc1106,trnF,Late June,2020-06-25,Pasco,M,Russian thistle,F,0,1,0,RADseq
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,3,10,99.80%,552,bc1114--bc1169,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,0,0,0,RADseq
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,22,67,96.30%,671,bc1123--bc1173,ITS,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,3,3,100.00%,22,bc1150--bc1189,ITS,Late May,2020-05-18,Moxee,A,Tumble mustard,,0,0,0,Extracted by Gina
+Crop,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,3,3,96.30%,568,bc1134--bc1191,ITS,Late July,2020-07-15,Moxee,A,Russian thistle,F,1,0,0,
+Crop,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,27,78,95.80%,671,bc1123--bc1173,ITS,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,2,9,99.80%,23,bc1099--bc1106,trnF,Late May,2020-05-18,Moxee,A,Kochia,F,0,0,0,
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,3,12,99.80%,41,bc1106--bc1110,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,10,2,99.50%,193,bc1107--bc1109,trnF,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,9,2,99.50%,198,bc1107--bc1110,trnF,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,6,3,99.80%,232,bc1108--bc1110,trnF,Early June,2020-06-03,Moxee,A,Russian thistle,F,1,1,0,
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,3,11,99.80%,476,bc1114--bc1144,trnF,Late June,2020-06-17,Othello,F,Kochia,F,1,0,1,
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,15,2,99.60%,568,bc1103--bc1176,trnF,Late July,2020-07-15,Moxee,A,Russian thistle,F,1,0,0,
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,9,10,99.80%,577,bc1106--bc1176,trnF,Late July,2020-07-15,Mattawa,D,Potato,F,0,1,1,RADseq
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,10,2,99.80%,671,bc1105--bc1177,trnF,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,5,9,99.80%,17,bc1105--bc1112,trnF,Early May,2020-05-13,Paterson,H,Russian thistle,,1,1,0,Extracted by Gina
+Nightshade,Solanaceae,Nightshade,Solanum,Solanum gourlayi,5,8,99.80%,22,bc1105--bc1110,trnF,Late May,2020-05-18,Moxee,A,Tumble mustard,,0,0,0,Extracted by Gina
+Nightshade,Solanaceae,Bitter,Solanum,Solanum gracilifrons,5,4,98.00%,193,bc1107--bc1109,trnF,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,63,2,99.10%,37,bc1146--bc1172,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,M,0,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,1653,2090,99.40%,108,bc1152--bc1170,ITS,Late May,2020-05-18,Mattawa,C,Potato,M,0,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,16,5,99.40%,171,bc1140--bc1152,ITS,Late May,2020-05-27,Paterson,J,Russian thistle,M,0,0,1,
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,9,5,99.40%,8,bc1150--bc1170,ITS,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,1,0,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,17,4,99.20%,39,bc1146--bc1190,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,1529,870,99.20%,41,bc1146--bc1191,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,10,2,99.40%,61,bc1146--bc1154,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,F,0,0,1,Faintly positive for s citri
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,51,4,99.30%,99,bc1140--bc1146,ITS,Late May,2020-05-18,Mattawa,C,Kochia,F,0,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,4,14,99.40%,111,bc1152--bc1171,ITS,Late May,2020-05-18,Mattawa,C,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,49,4,99.40%,113,bc1152--bc1172,ITS,Late May,2020-05-18,Mattawa,C,Russian thistle,F,1,1,0,
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,9,4,99.40%,123,bc1152--bc1191,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,F,0,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,21,7,99.40%,124,bc1152--bc1192,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,F,0,0,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,277,145,99.20%,127,bc1152--bc1173,ITS,Late May,2020-05-18,Othello,F,Kochia,F,0,0,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,723,136,97.90%,137,bc1152--bc1154,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,8,13,99.40%,153,bc1152--bc1155,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,208,35,99.10%,182,bc1152--bc1189,ITS,Late May,2020-05-27,Pasco,N,Tumble mustard,F,1,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,3785,689,99.20%,190,bc1153--bc1171,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,29,25,98.10%,199,bc1153--bc1173,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,1,1,0,
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,99,9,97.50%,201,bc1153--bc1154,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,884,379,99.40%,211,bc1153--bc1155,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,4,2,99.20%,508,bc1133--bc1190,ITS,Late June,2020-06-25,Pasco,M,Kochia,F,0,1,0,RADseq
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,8,8,99.20%,549,bc1133--bc1155,ITS,Early July,2020-07-01,Moxee,A,Russian thistle,F,1,0,0,
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,2,8,99.20%,568,bc1134--bc1191,ITS,Late July,2020-07-15,Moxee,A,Russian thistle,F,1,0,0,
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,49,226,99.20%,671,bc1123--bc1173,ITS,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,6,7,97.10%,22,bc1150--bc1189,ITS,Late May,2020-05-18,Moxee,A,Tumble mustard,,0,0,0,Extracted by Gina
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,7412,3287,99.60%,107,bc1146--bc1189,ITS,Late May,2020-05-18,Mattawa,C,Potato,,1,1,0,Extracted by Gina
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,39,4,99.40%,122,bc1152--bc1190,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,,1,1,0,Extracted by Gina
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,Solanum pinnatisectum,2,2,99.10%,0,bc1153--bc1191,,,,,,,,,,,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,5,57,99.80%,108,bc1110--bc1175,trnF,Late May,2020-05-18,Mattawa,C,Potato,M,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,28,100.00%,171,bc1107--bc1113,trnF,Late May,2020-05-27,Paterson,J,Russian thistle,M,0,0,1,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,57,22,97.90%,171,bc1140--bc1152,ITS,Late May,2020-05-27,Paterson,J,Russian thistle,M,0,0,1,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,2,99.90%,362,bc1110--bc1142,trnF,Early June,2020-06-03,Mattawa,D,Potato,M,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,16,100.00%,472,bc1113--bc1144,trnF,Late June,2020-06-17,Othello,F,Kochia,M,1,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,22,32,99.60%,655,bc1144--bc1176,trnF,Early August,2020-08-12,Othello,F,Russian thistle,M,0,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,25,100.00%,788,bc1107--bc1177,trnF,Late August,2020-08-27,Othello,E,Kochia,M,0,1,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,4,5,100.00%,792,bc1108--bc1177,trnF,Late August,2020-08-27,Othello,E,Russian thistle,M,0,1,0,Faintly positive for bctv
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,23,49,99.70%,9,bc1103--bc1112,trnF,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,10,66,100.00%,12,bc1103--bc1120,trnF,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,12,113,100.00%,18,bc1105--bc1120,trnF,Late May,2020-05-18,Moxee,A,Flixweed,F,0,0,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,5,2,100.00%,19,bc1105--bc1109,trnF,Late May,2020-05-18,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,19,284,100.00%,23,bc1099--bc1106,trnF,Late May,2020-05-18,Moxee,A,Kochia,F,0,0,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,18,3,100.00%,39,bc1106--bc1109,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,1,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,168,866,100.00%,41,bc1106--bc1110,trnF,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,2,3,100.00%,113,bc1112--bc1169,trnF,Late May,2020-05-18,Mattawa,C,Russian thistle,F,1,1,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,12,70,99.80%,127,bc1110--bc1169,trnF,Late May,2020-05-18,Othello,F,Kochia,F,0,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,371,30,99.20%,137,bc1152--bc1154,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,34,100.00%,153,bc1107--bc1111,trnF,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,5,92,99.80%,182,bc1107--bc1114,trnF,Late May,2020-05-27,Pasco,N,Tumble mustard,F,1,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,9,103,100.00%,190,bc1107--bc1120,trnF,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,7,87,100.00%,193,bc1107--bc1109,trnF,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,44,215,100.00%,198,bc1107--bc1110,trnF,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,283,16,100.00%,211,bc1108--bc1112,trnF,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,12,100.00%,217,bc1108--bc1113,trnF,Early June,2020-06-03,Moxee,A,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,33,177,100.00%,232,bc1108--bc1110,trnF,Early June,2020-06-03,Moxee,A,Russian thistle,F,1,1,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,2,4,100.00%,369,bc1100--bc1143,trnF,Early June,2020-06-03,Mattawa,D,Russian thistle,F,1,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,10,100.00%,370,bc1111--bc1143,trnF,Early June,2020-06-03,Mattawa,D,Russian thistle,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,11,100.00%,372,bc1112--bc1143,trnF,Early June,2020-06-03,Othello,F,Potato,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,2,3,100.00%,405,bc1120--bc1143,trnF,Early June,2020-06-12,Paterson,J,Tumble mustard,F,1,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,22,100.00%,457,bc1110--bc1143,trnF,Late June,2020-06-17,Moxee,A,Russian thistle,F,1,0,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,10,100.00%,468,bc1100--bc1144,trnF,Late June,2020-06-17,Othello,E,Russian thistle,F,1,0,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,2,,99.80%,470,bc1111--bc1144,trnF,Late June,2020-06-17,Othello,F,Kochia,F,1,1,1,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,6,100.00%,471,bc1112--bc1144,trnF,Late June,2020-06-17,Othello,F,Kochia,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,228,829,100.00%,476,bc1114--bc1144,trnF,Late June,2020-06-17,Othello,F,Kochia,F,1,0,1,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,7,5,100.00%,481,bc1109--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,12,91,100.00%,482,bc1110--bc1144,trnF,Late June,2020-06-17,Othello,F,Russian thistle,F,1,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,17,100.00%,504,bc1100--bc1105,trnF,Late June,2020-06-25,Pasco,M,Netseed LambsquaRussian thistleers,F,1,0,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,13,,100.00%,507,bc1105--bc1111,trnF,Late June,2020-06-25,Pasco,M,Kochia,F,0,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,3,12,100.00%,508,bc1105--bc1113,trnF,Late June,2020-06-25,Pasco,M,Kochia,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,8,5,100.00%,511,bc1097--bc1106,trnF,Late June,2020-06-25,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,2,16,100.00%,512,bc1100--bc1106,trnF,Late June,2020-06-25,Pasco,M,Russian thistle,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,3,21,100.00%,549,bc1106--bc1112,trnF,Early July,2020-07-01,Moxee,A,Russian thistle,F,1,0,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,5,2,99.90%,550,bc1106--bc1113,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,1,0,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,9,20,100.00%,552,bc1114--bc1169,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,0,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,9,2,99.90%,556,bc1100--bc1107,trnF,Early July,2020-07-01,Mattawa,B,Russian thistle,F,1,1,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,13,2,99.90%,557,bc1107--bc1112,trnF,Early July,2020-07-01,Mattawa,D,Kochia,F,1,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,29,64,100.00%,568,bc1103--bc1176,trnF,Late July,2020-07-15,Moxee,A,Russian thistle,F,1,0,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,274,560,100.00%,577,bc1106--bc1176,trnF,Late July,2020-07-15,Mattawa,D,Potato,F,0,1,1,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,4,3,100.00%,582,bc1175--bc1176,trnF,Late July,2020-07-15,Othello,E,Kochia,F,0,1,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,42,100.00%,587,bc1169--bc1176,trnF,Late July,2020-07-15,Othello,E,Russian thistle,F,1,0,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,11,3,100.00%,616,bc1108--bc1176,trnF,Late July,2020-07-16,Paterson,J,Russian thistle,F,1,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,9,3,99.80%,644,bc1143--bc1176,trnF,Early August,2020-08-12,Moxee,A,Russian thistle,F,0,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,31,68,99.50%,671,bc1123--bc1173,ITS,Early August,2020-08-12,Othello,G,Kochia,F,1,0,0,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,1,6,100.00%,763,bc1106--bc1177,trnF,Late August,2020-08-27,Mattawa,C,Russian thistle,F,0,0,1,
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,3,34,100.00%,787,bc1169--bc1177,trnF,Late August,2020-08-27,Othello,E,Kochia,F,1,0,0,RADseq
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,230,726,100.00%,17,bc1105--bc1112,trnF,Early May,2020-05-13,Paterson,H,Russian thistle,,1,1,0,Extracted by Gina
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,46,652,100.00%,22,bc1105--bc1110,trnF,Late May,2020-05-18,Moxee,A,Tumble mustard,,0,0,0,Extracted by Gina
+Potato,Solanaceae,potato,Solanum,Solanum tuberosum,908,170,100.00%,107,bc1109--bc1175,trnF,Late May,2020-05-18,Mattawa,C,Potato,,1,1,0,Extracted by Gina
+Weed,Asteraceae,Goldernrod,Solidago,Solidago canadensis,5,5,98.00%,12,bc1103--bc1120,trnF,Late April,2020-04-23,Moxee,A,Flixweed/Pinnate tansymustard,F,0,0,0,RADseq
+Weed,Asteraceae,Goldernrod,Solidago,Solidago canadensis,12,2,98.00%,193,bc1107--bc1109,trnF,Late May,2020-05-27,Pasco,M,Kochia,F,0,1,0,RADseq
+Weed,Asteraceae,Goldernrod,Solidago,Solidago canadensis,1,87,97.80%,616,bc1108--bc1176,trnF,Late July,2020-07-16,Paterson,J,Russian thistle,F,1,0,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia cordata,98,2,100.00%,190,bc1153--bc1171,ITS,Late May,2020-05-27,Pasco,M,Kochia,F,1,0,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia cordata,1261,684,100.00%,198,bc1153--bc1192,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia cordata,49,3,100.00%,199,bc1153--bc1173,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,1,1,0,
+Tree,Malvaceae,Linden,Tilia,Tilia cordata,121,58,99.00%,201,bc1153--bc1154,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia cordata,1130,138,99.60%,227,bc1153--bc1189,ITS,Early June,2020-06-03,Moxee,A,Russian thistle,F,0,0,1,
+Tree,Malvaceae,Linden,Tilia,Tilia cordata,1,2,99.90%,0,bc1153--bc1191,,,,,,,,,,,
+Tree,Malvaceae,Linden,Tilia,Tilia japonica,2,9,100.00%,358,bc1109--bc1142,trnF,Early June,2020-06-03,Mattawa,C,Russian thistle,F,0,1,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia japonica,9,4,100.00%,616,bc1108--bc1176,trnF,Late July,2020-07-16,Paterson,J,Russian thistle,F,1,0,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia x,53,10,99.60%,9,bc1150--bc1171,ITS,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia x,43,13,98.20%,153,bc1152--bc1155,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia x,1200,182,99.60%,198,bc1153--bc1192,ITS,Late May,2020-05-27,Pasco,M,Russian thistle,F,0,0,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia x,38,2,99.60%,201,bc1153--bc1154,ITS,Early June,2020-06-03,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia x,60,2,99.30%,217,bc1140--bc1153,ITS,Early June,2020-06-03,Moxee,A,Flixweed/Pinnate tansymustard,F,0,1,0,RADseq
+Tree,Malvaceae,Linden,Tilia,Tilia x,2308,854,99.60%,227,bc1153--bc1189,ITS,Early June,2020-06-03,Moxee,A,Russian thistle,F,0,0,1,
+Tree,Malvaceae,Linden,Tilia,Tilia x,1,21,99.60%,0,bc1153--bc1310,,,,,,,,,,,
+Grass,Poaceae,Wheat,Triticum,Triticum aestivum,104,108,99.60%,123,bc1152--bc1191,ITS,Late May,2020-05-18,Mattawa,D,Russian thistle,F,0,1,0,RADseq
+Tree,Ulmaceae,Elm,Ulmus,Ulmus pumila,41,304,99.60%,61,bc1146--bc1154,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,F,0,0,1,Faintly positive for s citri
+Tree,Ulmaceae,Elm,Ulmus,Ulmus pumila,40,2,99.30%,46,bc1146--bc1173,ITS,Late May,2020-05-18,Mattawa,B,Flixweed/Pinnate tansymustard,,1,0,0,RADseq
+Crop,Fabaceae,cowpea,Vigna,Vigna unguiculata,17,3,96.70%,8,bc1150--bc1170,ITS,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,1,0,0,RADseq
+Crop,Fabaceae,cowpea,Vigna,Vigna unguiculata,142,9,96.90%,9,bc1150--bc1171,ITS,Late April,2020-04-22,Pasco,WSU,Tumble mustard,F,0,0,0,RADseq
+Crop,Fabaceae,cowpea,Vigna,Vigna unguiculata,79,2,95.20%,19,bc1140--bc1150,ITS,Late May,2020-05-18,Moxee,A,Tumble mustard,F,0,0,0,RADseq
+Crop,Fabaceae,cowpea,Vigna,Vigna unguiculata,35,18,97.30%,153,bc1152--bc1155,ITS,Late May,2020-05-25,Paterson,H,Russian thistle,F,1,0,0,RADseq
+Crop,Fabaceae,cowpea,Vigna,Vigna unguiculata,79,2,96.70%,16,bc1150--bc1173,ITS,Early May,2020-05-13,Paterson,H,Russian thistle,,0,0,0,
+Crop,Fabaceae,cowpea,Vigna,Vigna unguiculata,25,3,96.90%,84,bc1146--bc1155,ITS,Late May,2020-05-18,Mattawa,B,Russian thistle,,1,1,0,

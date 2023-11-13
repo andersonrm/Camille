@@ -1,0 +1,580 @@
+Plant Type,Family,Common Name,Genus,Organism,BLH ,BLTVA,BCTV,Barcode,Query,Sequences,Collection Date,Time Period,Region,Site,Plant BLH collected from
+Tree,Pinaceae,White Pine,Abies,Abies concolor,141,1,0,trnF,bc1115--bc1144,3,2019-07-18,Late July,Paterson,529,Pigweed
+Tree,Sapindaceae,Red maple,Acer,Acer rubrum,20,0,0,ITS,bc1140--bc1146 ,4,2019-06-12,Early June,Mattawa ,RDR,Potato
+Tree,Sapindaceae,Red maple,Acer,Acer rubrum,56,0,0,ITS,bc1140--bc1156,3,2019-06-21,Late June,Pasco,WSU,Pigweed
+Tree,Sapindaceae,Sugar maple,Acer,Acer saccharinum,43,0,0,ITS,bc1155--bc1157,71,2019-06-14,Early June,Pasco,WSU,Kochia
+Crop,Amaryllidaceae,Onion,Allium,Allium cepa,40,0,0,ITS,bc1140--bc1153,3,2019-06-14,Early June,Pasco,505,Pigweed
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,39,0,0,trnF,bc1109--bc1142,6,2019-06-14,Early June,Pasco,505,Pigweed
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,40,0,0,trnF,bc1110--bc1142,23,2019-06-14,Early June,Pasco,505,Pigweed
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,52,0,0,trnF,bc1142--bc1176,48,2019-06-20,Late June,Paterson,475,Pigweed
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,96,1,0,trnF,bc1110--bc1143,9,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,97,0,0,trnF,bc1143--bc1176,334,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,106,0,0,trnF,bc1143--bc1177,2,2019-07-11,Early July,Paterson,107,Potato
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,108,1,0,trnF,bc1107--bc1120,15,2019-07-11,Early July,Paterson,107,Russian thistle
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,112,1,0,trnF,bc1107--bc1112,53,2019-07-11,Early July,Paterson,475,Russian thistle
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,114,0,0,trnF,bc1113--bc1144,6,2019-07-11,Early July,Paterson,475,Potato
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,141,1,0,trnF,bc1115--bc1144,52,2019-07-18,Late July,Paterson,529,Pigweed
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,162,0,0,trnF,bc1169--bc1177,13,2019-08-01,Early August,Paterson,475,Kochia
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,163,0,0,trnF,bc1169--bc1176,2,2019-08-02,Early August,Pasco,WSU,Kochia
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,166,0,0,trnF,bc1144--bc1176,14,2019-08-02,Early August,Pasco,WSU,Pigweed
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,168,0,0,trnF,bc1120--bc1169,2,2019-08-02,Early August,Pasco,413,Russian thistle
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,169,0,0,trnF,bc1115--bc1169,11,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,174,0,0,trnF,bc1113--bc1169,4,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,Amaranthus blitum,175,0,0,trnF,bc1112--bc1169,41,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,19,0,1,ITS,bc1140--bc1150,3,2019-06-12,Early June,Mattawa ,RDR,Potato
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,35,0,0,ITS,bc1155--bc1158,3,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,39,0,0,ITS,bc1140--bc1152,97,2019-06-14,Early June,Pasco,505,Pigweed
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,40,0,0,ITS,bc1140--bc1153,399,2019-06-14,Early June,Pasco,505,Pigweed
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,52,0,0,ITS,bc1140--bc1158,1061,2019-06-20,Late June,Paterson,475,Pigweed
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,54,0,0,ITS,bc1140--bc1157,7,2019-06-21,Late June,Pasco,WSU,Pigweed
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,69,1,0,ITS,bc1133--bc1155,8,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,70,0,0,ITS,bc1134--bc1155,7,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,71,0,1,ITS,bc1123--bc1155,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,72,0,0,ITS,bc1124--bc1155,10,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,96,1,0,ITS,bc1152--bc1189,119,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,97,0,0,ITS,bc1153--bc1189,481,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,103,1,1,ITS,bc1154--bc1158,3,2019-07-10,Early July,Mattawa,RDJ,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,106,0,0,ITS,bc1158--bc1189,3,2019-07-11,Early July,Paterson,107,Potato
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,108,1,0,ITS,bc1154--bc1157,3,2019-07-11,Early July,Paterson,107,Russian thistle
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,111,1,0,ITS,bc1135--bc1154,3,2019-07-11,Early July,Paterson,107,Russian thistle
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,114,0,0,ITS,bc1156--bc1189,5,2019-07-11,Early July,Paterson,475,Potato
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,128,1,0,ITS,bc1134--bc1154,6,2019-07-12,Early July,Pasco,WSU,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,141,1,0,ITS,bc1135--bc1189,49,2019-07-18,Late July,Paterson,529,Pigweed
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,145,0,0,ITS,bc1148--bc1189,28,2019-07-19,Late July,Pasco,WSU,Pigweed
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,153,0,0,ITS,bc1133--bc1189,5,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,160,0,0,ITS,bc1124--bc1154,34,2019-08-01,Early August,Paterson,475,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,160,0,0,ITS,bc1124--bc1154,5,2019-08-01,Early August,Paterson,475,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,162,0,0,ITS,bc1146--bc1173,8,2019-08-01,Early August,Paterson,475,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,163,0,0,ITS,bc1152--bc1173,6,2019-08-02,Early August,Pasco,WSU,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,164,0,0,ITS,bc1153--bc1173,3,2019-08-02,Early August,Pasco,WSU,Kochia
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,166,0,0,ITS,bc1134--bc1189,11,2019-08-02,Early August,Pasco,WSU,Pigweed
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,167,0,0,ITS,bc1158--bc1173,6,2019-08-02,Early August,Pasco,413,Russian thistle
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,169,0,0,ITS,bc1156--bc1173,2,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,Amaranthus hybridus,175,0,0,ITS,bc1148--bc1173,19,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,39,0,0,trnF,bc1109--bc1142,8,2019-06-14,Early June,Pasco,505,Pigweed
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,96,1,0,trnF,bc1110--bc1143,19,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,97,0,0,trnF,bc1143--bc1176,156,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,141,1,0,trnF,bc1115--bc1144,94,2019-07-18,Late July,Paterson,529,Pigweed
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,166,0,0,trnF,bc1144--bc1176,2,2019-08-02,Early August,Pasco,WSU,Pigweed
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,Amaranthus viridis,175,0,0,trnF,bc1112--bc1169,9,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Weed,Boraginaceae,Common fiddleneck(Intermediate),Amsinckia,Amsinckia intermedia,40,0,0,trnF,bc1110--bc1142,7,2019-06-14,Early June,Pasco,505,Pigweed
+Weed,Boraginaceae,Common fiddleneck(Menzie's),Amsinckia,Amsinckia menziesii,33,0,0,ITS,bc1152--bc1155,6,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Artemisia Yin Chen Hao,Artemisia,Artemisia capillaris,33,0,0,trnF,bc1108--bc1178,8,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Artemisia Makino,Artemisia,Artemisia fukudo,34,0,0,ITS,bc1153--bc1155,2,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Artemisia Makino,Artemisia,Artemisia fukudo,56,0,0,ITS,bc1140--bc1156,2,2019-06-21,Late June,Pasco,WSU,Pigweed
+Weed,Amaranthaceae,Saltbush,Chenopodium,Atriplex sp.,70,0,0,ITS,bc1134--bc1155,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,44,0,0,trnF,bc1108--bc1109,2,2019-06-14,Early June,Pasco,WSU,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,70,0,0,trnF,bc1108--bc1111,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,72,0,0,trnF,bc1097--bc1108,4,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,73,1,0,trnF,bc1107--bc1178,38,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,82,1,0,trnF,bc1107--bc1110,6,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,106,0,0,trnF,bc1143--bc1177,10,2019-07-11,Early July,Paterson,107,Potato
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,128,1,0,trnF,bc1100--bc1107,30,2019-07-12,Early July,Pasco,WSU,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,141,1,0,trnF,bc1115--bc1144,21,2019-07-18,Late July,Paterson,529,Pigweed
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,159,0,0,trnF,bc1098--bc1107,2,2019-08-01,Early August,Paterson,475,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,160,0,0,trnF,bc1097--bc1107,3,2019-08-01,Early August,Paterson,475,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,161,0,0,ITS,bc1169--bc1178,72,2019-08-01,Early August,Paterson,475,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,162,0,0,trnF,bc1169--bc1177,8,2019-08-01,Early August,Paterson,475,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,163,0,0,trnF,bc1169--bc1176,8,2019-08-02,Early August,Pasco,WSU,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,164,0,0,trnF,bc1110--bc1169,26,2019-08-02,Early August,Pasco,WSU,Kochia
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,167,0,0,trnF,bc1109--bc1169,2,2019-08-02,Early August,Pasco,413,Russian thistle
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,Bassia littorea,168,0,0,trnF,bc1120--bc1169,6,2019-08-02,Early August,Pasco,413,Russian thistle
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,12,0,0,ITS,bc1123--bc1140,3,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,33,0,0,ITS,bc1152--bc1155,7,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,40,0,0,ITS,bc1140--bc1153,2,2019-06-14,Early June,Pasco,505,Pigweed
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,43,0,0,ITS,bc1155--bc1157,14,2019-06-14,Early June,Pasco,WSU,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,44,0,0,ITS,bc1155--bc1156,5,2019-06-14,Early June,Pasco,WSU,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,52,0,0,ITS,bc1140--bc1158,13,2019-06-20,Late June,Paterson,475,Pigweed
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,72,0,0,ITS,bc1124--bc1155,24,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,73,1,0,ITS,bc1150--bc1154,80,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,74,1,1,ITS,bc1146--bc1154,4,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,96,1,0,ITS,bc1152--bc1189,4,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,128,1,0,ITS,bc1134--bc1154,57,2019-07-12,Early July,Pasco,WSU,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,159,0,0,ITS,bc1123--bc1154,2,2019-08-01,Early August,Paterson,475,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,160,0,0,ITS,bc1124--bc1154,41,2019-08-01,Early August,Paterson,475,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,161,0,0,ITS,bc1150--bc1173,58,2019-08-01,Early August,Paterson,475,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,162,0,0,ITS,bc1146--bc1173,123,2019-08-01,Early August,Paterson,475,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,163,0,0,ITS,bc1152--bc1173,33,2019-08-02,Early August,Pasco,WSU,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,164,0,0,ITS,bc1153--bc1173,68,2019-08-02,Early August,Pasco,WSU,Kochia
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,167,0,0,ITS,bc1158--bc1173,3,2019-08-02,Early August,Pasco,413,Russian thistle
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,168,0,0,ITS,bc1157--bc1173,6,2019-08-02,Early August,Pasco,413,Russian thistle
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,169,0,0,ITS,bc1156--bc1173,2,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,Bassia scoparia,173,0,0,ITS,bc1159--bc1173,4,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Tree,Betulaceae,Alpine birch,Betula,Betula nana,163,0,0,ITS,bc1152--bc1173,22,2019-08-02,Early August,Pasco,WSU,Kochia
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,2,0,0,ITS,bc1134--bc1140,11,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,12,0,0,ITS,bc1123--bc1140,124,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,18,1,0,ITS,bc1124--bc1140,30,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,28,1,1,ITS,bc1146--bc1155,315,2019-06-12,Early June,Mattawa ,RDR,Mustard
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,33,0,0,ITS,bc1152--bc1155,323,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,34,0,0,ITS,bc1153--bc1155,209,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,35,0,0,ITS,bc1155--bc1158,2,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,40,0,0,ITS,bc1140--bc1153,5,2019-06-14,Early June,Pasco,505,Pigweed
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,43,0,0,ITS,bc1155--bc1157,27,2019-06-14,Early June,Pasco,WSU,Kochia
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,45,0,0,ITS,bc1155--bc1159,2,2019-06-14,Early June,Pasco,WSU,Kochia
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,50,0,0,ITS,bc1135--bc1155,73,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,52,0,0,ITS,bc1140--bc1158,120,2019-06-20,Late June,Paterson,475,Pigweed
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,52,0,0,ITS,bc1140--bc1158,64,2019-06-20,Late June,Paterson,475,Pigweed
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,56,0,0,ITS,bc1140--bc1156,47,2019-06-21,Late June,Pasco,WSU,Pigweed
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,92,0,0,ITS,bc1150--bc1189,6,2019-07-05,Early July,Mattawa,WSU,Potato
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,160,0,0,ITS,bc1124--bc1154,2,2019-08-01,Early August,Paterson,475,Kochia
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,161,0,0,ITS,bc1150--bc1173,3,2019-08-01,Early August,Paterson,475,Kochia
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,166,0,0,ITS,bc1135--bc1140,8,2019-08-02,Early August,Pasco,WSU,Pigweed
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,Brassica carinata,168,0,0,ITS,bc1157--bc1173,2,2019-08-02,Early August,Pasco,413,Russian thistle
+Weed,Brassicaceae,Wild cabbage/Kale,Brassica,Brassica oleracea,18,1,0,ITS,bc1124--bc1140,2,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Weed,Brassicaceae,Wild cabbage/Kale,Brassica,Brassica oleracea,52,0,0,ITS,bc1140--bc1158,2,2019-06-20,Late June,Paterson,475,Pigweed
+Weed,Brassicaceae,Wild cabbage/Kale,Brassica,Brassica oleracea,162,0,0,ITS,bc1146--bc1173,54,2019-08-01,Early August,Paterson,475,Kochia
+Grass,Poaceae,Cheatgrass,Bromus,Bromus tectorum,19,0,1,ITS,bc1140--bc1150,2,2019-06-12,Early June,Mattawa ,RDR,Potato
+Flowering Shrub,Theaceae,Camellia,Camellia,Camellia reticulata,69,1,0,trnF,bc1108--bc1112,4,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabia sativa,19,0,1,ITS,bc1140--bc1150,724,2019-06-12,Early June,Mattawa ,RDR,Potato
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,20,0,0,ITS,bc1140--bc1146,2,2019-06-12,Early June,Mattawa ,RDR,Potato
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,34,0,0,ITS,bc1153--bc1155,8,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,40,0,0,ITS,bc1140--bc1153,10,2019-06-14,Early June,Pasco,505,Pigweed
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,52,0,0,ITS,bc1140--bc1158,3,2019-06-20,Late June,Paterson,475,Pigweed
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,54,0,0,ITS,bc1140--bc1157,89,2019-06-21,Late June,Pasco,WSU,Pigweed
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,56,0,0,ITS,bc1140--bc1156,10,2019-06-21,Late June,Pasco,WSU,Pigweed
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,60,0,1,ITS,bc1140--bc1159,2,2019-07-03,Early July,Mattawa ,RDJ,Potato
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,92,0,0,ITS,bc1150--bc1189,8,2019-07-05,Early July,Mattawa,WSU,Potato
+Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,159,0,0,ITS,bc1123--bc1154,3,2019-08-01,Early August,Paterson,475,Kochia
+Crop,Solanaceae,Cayenne Pepper ,Capsicum,Capsicum annuum,91,0,1,trnF,bc1115--bc1143,19,2019-07-05,Early July,Mattawa,WSU,Potato
+Crop,Solanaceae,Cayenne Pepper ,Capsicum,Capsicum annuum,91,0,1,ITS,bc1140--bc1148,2,2019-07-05,Early July,Mattawa,WSU,Potato
+Crop,Solanaceae,Chili Pepper,Capsicum,Capsicum caatingae,91,0,1,trnF,bc1115--bc1143 ,2,2019-07-05,Early July,Mattawa,WSU,Potato
+Weed,Asteraceae,Safflower,Carthamus,Carthamus tinctorius,39,0,0,ITS,bc1140--bc1152,18,2019-06-14,Early June,Pasco,505,Pigweed
+Grass,Poaceae,Pearl millet,Cenchrus,Cenchrus americanus,69,1,0,ITS,bc1133--bc1155,3,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Grass,Poaceae,Pearl millet,Cenchrus,Cenchrus americanus,71,0,1,ITS,bc1123--bc1155,5,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Grass,Poaceae,Pearl millet,Cenchrus,Cenchrus americanus,73,1,0,ITS,bc1150--bc1154,4,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Tumble knapweed,Centaurea,Centaurea diffusa,111,1,0,ITS,bc1135--bc1154,2,2019-07-11,Early July,Paterson,107,Russian thistle
+Weed,Asteraceae,Spotted knapweed,Centaurea,Centaurea maculosa,39,0,0,trnF,bc1109--bc1142,4,2019-06-14,Early June,Pasco,505,Pigweed
+Weed,Asteraceae,Spotted knapweed,Centaurea,Centaurea maculosa,111,1,0,trnF,bc1107--bc1113,9,2019-07-11,Early July,Paterson,107,Russian thistle
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,2,0,0,trnF,bc1112--bc1142,3,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,69,1,0,trnF,bc1108--bc1112,35,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,72,0,0,trnF,bc1097--bc1108,36,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,73,1,0,trnF,bc1107--bc1178,4,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,79,1,0,trnF,bc1107--bc1176,5,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,96,1,0,trnF,bc1110--bc1143,4,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,114,0,0,trnF,bc1113--bc1144,46,2019-07-11,Early July,Paterson,475,Potato
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,153,0,0,trnF,bc1110--bc1144,28,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,159,0,0,trnF,bc1098--bc1107,4,2019-08-01,Early August,Paterson,475,Kochia
+Weed,Amaranthaceae,Epazote,Chenopodium,Chenopodium acuminatum,162,0,0,trnF,bc1169--bc1177,2,2019-08-01,Early August,Paterson,475,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,40,0,0,ITS,bc1140--bc1153,15,2019-06-14,Early June,Pasco,505,Pigweed
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,44,0,0,ITS,bc1155--bc1156,4,2019-06-14,Early June,Pasco,WSU,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,54,0,0,ITS,bc1140--bc1157,249,2019-06-21,Late June,Pasco,WSU,Pigweed
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,56,0,0,ITS,bc1140--bc1156,2,2019-06-21,Late June,Pasco,WSU,Pigweed
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,69,1,0,ITS,bc1133--bc1155,377,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,71,0,1,ITS,bc1123--bc1155,3,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,72,0,0,ITS,bc1124--bc1155,49,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,73,1,0,ITS,bc1150--bc1154,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,79,1,0,ITS,bc1152--bc1154 ,3,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,82,1,0,ITS,bc1153--bc1154,34,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,114,0,0,ITS,bc1156--bc1189,41,2019-07-11,Early July,Paterson,475,Potato
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,153,0,0,ITS,bc1133--bc1189,32,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,159,0,0,ITS,bc1123--bc1154,2,2019-08-01,Early August,Paterson,475,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,161,0,0,ITS,bc1150--bc1173,9,2019-08-01,Early August,Paterson,475,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,162,0,0,ITS,bc1146--bc1173,33,2019-08-01,Early August,Paterson,475,Kochia
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,Chenopodium album,167,0,0,ITS,bc1158--bc1173,4,2019-08-02,Early August,Pasco,413,Russian thistle
+Mustard,Brassicaceae,Blue_ Purple or Musk Mustard,Chorispora,Chorispora tenella,2,0,0,ITS,bc1134--bc1140,2,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Mustard,Brassicaceae,Blue_ Purple or Musk Mustard,Chorispora,Chorispora tenella,33,0,0,ITS,bc1152--bc1155,2,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Mustard,Brassicaceae,Blue_ Purple or Musk Mustard,Chorispora,Chorispora tenella,34,0,0,ITS,bc1153--bc1155,2,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Mustard,Brassicaceae,Blue_ Purple or Musk Mustard,Chorispora,Chorispora tenella,167,0,0,ITS,bc1158--bc1173,6,2019-08-02,Early August,Pasco,413,Russian thistle
+Crop,Cucurbitaceae,Watermelon,Citrullus,Citrullus lanatus,163,0,0,trnF,bc1169--bc1176,3,2019-08-02,Early August,Pasco,WSU,Kochia
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,Citrus aurantium,33,0,0,trnF,bc1108--bc1178,3,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,Citrus aurantium,161,0,0,ITS,bc1169--bc1178,5,2019-08-01,Early August,Paterson,475,Kochia
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,Citrus clementina,92,0,0,trnF,bc1120--bc1143,14,2019-07-05,Early July,Mattawa,WSU,Potato
+Tree,Rutaceae,Sweet orange,Citrus,Citrus sinensis,52,0,0,ITS,bc1140--bc1158,2,2019-06-20,Late June,Paterson,475,Pigweed
+Tree,Rutaceae,Sweet orange,Citrus,Citrus sinensis,82,1,0,ITS,bc1153--bc1154,4,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Convolvulaceae,Field Bindweed,Convolvulus,Convolvulus arvensis,162,0,0,ITS,bc1146--bc1173,24,2019-08-01,Early August,Paterson,475,Kochia
+Weed,Convolvulaceae,Field Bindweed,Convolvulus,Convolvulus arvensis,162,0,0,trnF,bc1169--bc1177 ,23,2019-08-01,Early August,Paterson,475,Kochia
+Weed,Asteraceae,Common sandaster or California Aster,Corethrogyne,Corethrogyne filaginifolia,20,0,0,ITS,bc1140--bc1146,4,2019-06-12,Early June,Mattawa ,RDR,Potato
+Weed,Asteraceae,Common sandaster or California Aster,Corethrogyne,Corethrogyne filaginifolia,33,0,0,ITS,bc1152--bc1155,8,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Crop,Apiaceae,Coriander or Cilantro,Coriandrum,Coriandrum sativum,45,0,0,trnF,bc1108--bc1115,2,2019-06-14,Early June,Pasco,WSU,Kochia
+Crop,Apiaceae,Coriander or Cilantro,Coriandrum,Coriandrum sativum,51,0,0,trnF,bc1108--bc1113,3,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,39,0,0,ITS,bc1140--bc1152,7,2019-06-14,Early June,Pasco,505,Pigweed
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,45,0,0,ITS,bc1155--bc1159,6,2019-06-14,Early June,Pasco,WSU,Kochia
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,52,0,0,ITS,bc1140--bc1158,2,2019-06-20,Late June,Paterson,475,Pigweed
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,69,1,0,ITS,bc1133--bc1155,5,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,72,0,0,ITS,bc1124--bc1155,18,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,73,1,0,ITS,bc1150--bc1154,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,93,0,0,ITS,bc1146--bc1189,12,2019-07-05,Early July,Mattawa,WSU,Potato
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,153,0,0,ITS,bc1133--bc1189,8,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,166,0,0,ITS,bc1135--bc1140,3,2019-08-02,Early August,Pasco,WSU,Pigweed
+Crop,Cucurbitaceae,Winter Squash or Pumpkin,Cucurbita,Cucurbita pepo,2,0,0,ITS,bc1134--bc1140,3,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Crop,Cucurbitaceae,Winter Squash or Pumpkin,Cucurbita,Cucurbita pepo,60,0,1,ITS,bc1140--bc1159,3,2019-07-03,Early July,Mattawa ,RDJ,Potato
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,Descurainia sophia,12,0,0,ITS,bc1123--bc1140,765,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,Descurainia sophia,12,0,0,trnF,bc1100--bc1142,76,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,Descurainia sophia,18,1,0,ITS,bc1124--bc1140,51,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,Descurainia sophia,33,0,0,ITS,bc1152--bc1155,5,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,Descurainia sophia,69,1,0,ITS,bc1133--bc1155,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Tree,Sapindaceae,Longan Tropical Fruit,Dimocarpus,Dimocarpus longan,18,1,0,ITS,bc1124--bc1140,2,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,19,0,1,ITS,bc1140--bc1150,13,2019-06-12,Early June,Mattawa ,RDR,Potato
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,33,0,0,trnF,bc1108--bc1178,86,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,33,0,0,trnF,bc1108--bc1178,6,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,35,0,0,trnF,bc1108--bc1176,22,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,56,0,0,ITS,bc1140--bc1156,2,2019-06-21,Late June,Pasco,WSU,Pigweed
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,73,1,0,trnF,bc1107--bc1178,16,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,82,1,0,trnF,bc1107--bc1110,28,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,103,1,1,trnF,bc1107--bc1109,48,2019-07-10,Early July,Mattawa,RDJ,Kochia
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,108,1,0,trnF,bc1107--bc1120,7,2019-07-11,Early July,Paterson,107,Russian thistle
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,109,0,0,trnF,bc1107--bc1115,17,2019-07-11,Early July,Paterson,107,Russian thistle
+Weed,Asteraceae,Horseweed,Erigeron,Erigeron canadensis,169,0,0,trnF,bc1115--bc1169,14,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,35,0,0,ITS,bc1155--bc1158,88,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,69,1,0,ITS,bc1133--bc1155,7,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,73,1,0,ITS,bc1150--bc1154,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,74,1,1,ITS,bc1146--bc1154,12,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,79,1,0,ITS,bc1152--bc1154,120,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,82,1,0,ITS,bc1153--bc1154,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,92,0,0,ITS,bc1150--bc1189,6,2019-07-05,Early July,Mattawa,WSU,Potato
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,103,1,1,ITS,bc1154--bc1158,133,2019-07-10,Early July,Mattawa,RDJ,Kochia
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,106,0,0,ITS,bc1158--bc1189,18,2019-07-11,Early July,Paterson,107,Potato
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,108,1,0,ITS,bc1154--bc1157,2,2019-07-11,Early July,Paterson,107,Russian thistle
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,111,1,0,ITS,bc1135--bc1154,2,2019-07-11,Early July,Paterson,107,Russian thistle
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,163,0,0,ITS,bc1152--bc1173,4,2019-08-02,Early August,Pasco,WSU,Kochia
+Weed,Asteraceae,Fleabane,Erigeron,Erigeron strigosus,169,0,0,ITS,bc1156--bc1173,3,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,Erodium carvifolium,44,0,0,trnF,bc1108--bc1109,7,2019-06-14,Early June,Pasco,WSU,Kochia
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,Erodium carvifolium,50,0,0,trnF,bc1108--bc1114,2,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,Erodium carvifolium,56,0,0,trnF,bc1142--bc1178,4,2019-06-21,Late June,Pasco,WSU,Pigweed
+Weed,Geraniaceae,Redstem Filaree,Erodium,Erodium cicutarium,43,0,0,ITS,bc1155--bc1157,10,2019-06-14,Early June,Pasco,WSU,Kochia
+Weed,Geraniaceae,Redstem Filaree,Erodium,Erodium cicutarium,44,0,0,ITS,bc1155--bc1156,58,2019-06-14,Early June,Pasco,WSU,Kochia
+Weed,Geraniaceae,Redstem Filaree,Erodium,Erodium cicutarium,45,0,0,ITS,bc1155--bc1159,26,2019-06-14,Early June,Pasco,WSU,Kochia
+Weed,Geraniaceae,Redstem Filaree,Erodium,Erodium cicutarium,51,0,0,ITS,bc1148--bc1155,14,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Crop,Polygonaceae,Common Buckwheat,Fagopyrum,Fagopyrum esculentum,69,1,0,trnF,bc1108--bc1112,10,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Polygonaceae,Common Buckwheat,Fagopyrum,Fagopyrum esculentum,162,0,0,trnF,bc1169--bc1177,69,2019-08-01,Early August,Paterson,475,Kochia
+Crop,Polygonaceae,Common Buckwheat,Fagopyrum,Fagopyrum esculentum,162,0,0,ITS,bc1146--bc1173,35,2019-08-01,Early August,Paterson,475,Kochia
+Tree,Oleaceae,Ash tree,Fraxinus,Fraxinus hupehensis,60,0,1,trnF,bc1113--bc1143,2,2019-07-03,Early July,Mattawa ,RDJ,Potato
+Tree,Oleaceae,Ash tree,Fraxinus,Fraxinus hupehensis,134,0,0,trnF,bc1114--bc1144,9,2019-07-12,Early July,Pasco,WSU,Potato
+Tree,Oleaceae,Ash tree,Fraxinus,Fraxinus hupehensis,204,1,0,trnF,bc1111--bc1169,13,2019-10-18,Late October,Pasco,RDJ,Russian thistle
+Crop,Asteraceae,Common sunflower,Helianthus,Helianthus annuus,134,0,0,trnF,bc1114--bc1144,4,2019-07-12,Early July,Pasco,WSU,Potato
+Crop,Asteraceae,Common Sunflower,Helianthus,Helianthus annuus,159,0,0,ITS,bc1123--bc1154,119,2019-08-01,Early August,Paterson,475,Kochia
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,1,1,0,ITS,bc1133--bc1140,31,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,2,0,0,ITS,bc1134--bc1140,3,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,33,0,0,ITS,bc1152--bc1155,5,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,35,0,0,ITS,bc1155--bc1158,9,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,39,0,0,ITS,bc1140--bc1152,7,2019-06-14,Early June,Pasco,505,Pigweed
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,72,0,0,ITS,bc1124--bc1155,7,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,Hyoscyamus niger,73,1,0,ITS,bc1150--bc1154,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Convolvulaceae,Ginger-leaf Morning Glory,Ipomoea,Ipomoea asarifolia,56,0,0,ITS,bc1140--bc1156,2,2019-06-21,Late June,Pasco,WSU,Pigweed
+Weed,Convolvulaceae,Morning Glory,Ipomoea,Ipomoea marabensis,161,0,0,ITS,bc1150--bc1173,7,2019-08-01,Early August,Paterson,475,Kochia
+Tree,Juglandaceae,English walnut,Juglans,Juglans regia,160,0,0,ITS,bc1124--bc1154,3,2019-08-01,Early August,Paterson,475,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,1,1,0,ITS,bc1133--bc1140,7,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,2,0,0,ITS,bc1134--bc1140,4,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,12,0,0,ITS,bc1123--bc1140,88,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,18,1,0,ITS,bc1124--bc1140,292,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,20,0,0,ITS,bc1140--bc1146,5,2019-06-12,Early June,Mattawa ,RDR,Potato
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,28,1,1,ITS,bc1146--bc1155,77,2019-06-12,Early June,Mattawa ,RDR,Mustard
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,33,0,0,ITS,bc1152--bc1155,41,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,34,0,0,ITS,bc1153--bc1155,14,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,35,0,0,ITS,bc1155--bc1158,10,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,40,0,0,ITS,bc1140--bc1153,3,2019-06-14,Early June,Pasco,505,Pigweed
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,44,0,0,ITS,bc1155--bc1156,5,2019-06-14,Early June,Pasco,WSU,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,50,0,0,ITS,bc1135--bc1155,303,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,51,0,0,ITS,bc1148--bc1155,317,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,52,0,0,ITS,bc1140--bc1158,8,2019-06-20,Late June,Paterson,475,Pigweed
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,60,0,1,ITS,bc1140--bc1159,2,2019-07-03,Early July,Mattawa ,RDJ,Potato
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,69,1,0,ITS,bc1133--bc1155,198,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,70,0,0,ITS,bc1134--bc1155,23,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,72,0,0,ITS,bc1124--bc1155,33,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,73,1,0,ITS,bc1150--bc1154,77,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,79,1,0,ITS,bc1152--bc1154,53,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,82,1,0,ITS,bc1153--bc1154,80,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,92,0,0,ITS,bc1150--bc1189,46,2019-07-05,Early July,Mattawa,WSU,Potato
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,96,1,0,ITS,bc1152--bc1189,7,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,97,0,0,ITS,bc1153--bc1189,36,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,108,1,0,ITS,bc1154--bc1157,7,2019-07-11,Early July,Paterson,107,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,109,0,0,ITS,bc1154--bc1156,26,2019-07-11,Early July,Paterson,107,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,111,1,0,ITS,bc1135--bc1154,149,2019-07-11,Early July,Paterson,107,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,112,1,0,ITS,bc1148--bc1154 ,7,2019-07-11,Early July,Paterson,475,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,114,0,0,ITS,bc1156--bc1189,7,2019-07-11,Early July,Paterson,475,Potato
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,122,1,0,ITS,bc1133--bc1154,62,2019-07-11,Early July,Paterson,529,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,128,1,0,ITS,bc1134--bc1154,194,2019-07-12,Early July,Pasco,WSU,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,159,0,0,ITS,bc1123--bc1154,34,2019-08-01,Early August,Paterson,475,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,160,0,0,ITS,bc1124--bc1154,2,2019-08-01,Early August,Paterson,475,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,162,0,0,ITS,bc1146--bc1173,3,2019-08-01,Early August,Paterson,475,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,163,0,0,ITS,bc1152--bc1173 ,47,2019-08-02,Early August,Pasco,WSU,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,164,0,0,ITS,bc1153--bc1173,144,2019-08-02,Early August,Pasco,WSU,Kochia
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,166,0,0,ITS,bc1134--bc1189,7,2019-08-02,Early August,Pasco,WSU,Pigweed
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,167,0,0,ITS,bc1158--bc1173,7,2019-08-02,Early August,Pasco,413,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,168,0,0,ITS,bc1157--bc1173 ,213,2019-08-02,Early August,Pasco,413,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,169,0,0,ITS,bc1156--bc1173,42,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,173,0,0,ITS,bc1159--bc1173,47,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,174,0,0,ITS,bc1135--bc1173,29,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,Kali turgidum,175,0,0,ITS,bc1148--bc1173,52,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,18,1,0,trnF,bc1099--bc1142,2,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,33,0,0,trnF,bc1108--bc1178,42,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,44,0,0,trnF,bc1108--bc1109,2,2019-06-14,Early June,Pasco,WSU,Kochia
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,50,0,0,trnF,bc1108--bc1114,13,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,52,0,0,trnF,bc1142--bc1176,3,2019-06-20,Late June,Paterson,475,Pigweed
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,60,0,1,trnF,bc1113--bc1143,3,2019-07-03,Early July,Mattawa ,RDJ,Potato
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,72,0,0,trnF,bc1097--bc1108,19,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,73,1,0,trnF,bc1107--bc1178,73,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,91,0,1,trnF,bc1115--bc1143,2,2019-07-05,Early July,Mattawa,WSU,Potato
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,92,0,0,trnF,bc1120--bc1143,19,2019-07-05,Early July,Mattawa,WSU,Potato
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,93,0,0,trnF,bc1109--bc1143,3,2019-07-05,Early July,Mattawa,WSU,Potato
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,97,0,0,trnF,bc1143--bc1176,4,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,106,0,0,trnF,bc1143--bc1177,42,2019-07-11,Early July,Paterson,107,Potato
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,108,1,0,trnF,bc1107--bc1120,3,2019-07-11,Early July,Paterson,107,Russian thistle
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,145,0,0,trnF,bc1109--bc1144,754,2019-07-19,Late July,Pasco,WSU,Pigweed
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,153,0,0,trnF,bc1110--bc1144,18,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,162,0,0,trnF,bc1169--bc1177,178,2019-08-01,Early August,Paterson,475,Kochia
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,163,0,0,trnF,bc1169--bc1176,2,2019-08-02,Early August,Pasco,WSU,Kochia
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,168,0,0,trnF,bc1120--bc1169,2,2019-08-02,Early August,Pasco,413,Russian thistle
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,169,0,0,trnF,bc1115--bc1169,3,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,174,0,0,trnF,bc1113--bc1169,2,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,204,1,0,trnF,bc1111--bc1169,2,2019-10-18,Late October,Pasco,RDJ,Russian thistle
+Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,40,0,0,ITS,bc1140--bc1153,3,2019-06-14,Early June,Pasco,505,Pigweed
+Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,52,0,0,ITS,bc1140--bc1158,40,2019-06-20,Late June,Paterson,475,Pigweed
+Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,162,0,0,ITS,bc1146--bc1173,40,2019-08-01,Early August,Paterson,475,Kochia
+Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,162,0,0,ITS,bc1146--bc1173,18,2019-08-01,Early August,Paterson,475,Kochia
+Weed,Apocynaceae,Khimp or Markh,Leptadenia,Leptadenia pyrotechnica,1,1,0,ITS,bc1133--bc1140,3,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Tree,Oleaceae,Chinese Privet,Ligustrum,Ligustrum lucidum,45,0,0,trnF,bc1108--bc1115,7,2019-06-14,Early June,Pasco,WSU,Kochia
+Flowering Shrub,Lauraceae,Spicebush,Lindera,Lindera fragrans,2,0,0,trnF,bc1112--bc1142,7,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Weed,Linaceae,Narrow Leaf Flax,Linum,Linum bienne,74,1,1,ITS,bc1146--bc1154,10,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Grass,Poaceae,Perennial Ryegrass,Lolium,Lolium perenne,166,0,0,ITS,bc1135--bc1140,4,2019-08-02,Early August,Pasco,WSU,Pigweed
+Grass,Poaceae,Annual Ryegrass,Lolium,Lolium rigidum,122,1,0,ITS,bc1133--bc1154,19,2019-07-11,Early July,Paterson,529,Russian thistle
+Grass,Poaceae,Annual Ryegrass,Lolium,Lolium rigidum,160,0,0,ITS,bc1124--bc1154,2,2019-08-01,Early August,Paterson,475,Kochia
+Weed,Fabaceae,Wild Legume,Lotus,Lotus japonicus,175,0,0,ITS,bc1148--bc1173,2,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Flowering Shrub,Solanaceae,Goji Berry,Lycium,Lycium barbarum,1,1,0,ITS,bc1133--bc1140,12,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Flowering Shrub,Solanaceae,Goji Berry,Lycium,Lycium barbarum,73,1,0,ITS,bc1150--bc1154,3,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Flowering Shrub,Solanaceae,African Boxthorn,Lycium,Lycium ferocissimum,56,0,0,trnF,bc1142--bc1178,3,2019-06-21,Late June,Pasco,WSU,Pigweed
+Flowering Shrub,Solanaceae,African Boxthorn,Lycium,Lycium ferocissimum,92,0,0,trnF,bc1120--bc1143,7,2019-07-05,Early July,Mattawa,WSU,Potato
+Flowering Shrub,Solanaceae,African Boxthorn,Lycium,Lycium ferocissimum,175,0,0,trnF,bc1112--bc1169,11,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Weed,Malvaceae,Little Mallow,Malva,Malva parviflora,56,0,0,ITS,bc1140--bc1156,2,2019-06-21,Late June,Pasco,WSU,Pigweed
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,43,0,0,ITS,bc1155--bc1157 ,23,2019-06-14,Early June,Pasco,WSU,Kochia
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,69,1,0,ITS,bc1133--bc1155,6,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,70,0,0,ITS,bc1134--bc1155,8,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,73,1,0,ITS,bc1150--bc1154,5,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,74,1,1,ITS,bc1146--bc1154,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,82,1,0,ITS,bc1153--bc1154,4,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,91,0,1,ITS,bc1140--bc1148,40,2019-07-05,Early July,Mattawa,WSU,Potato
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,92,0,0,ITS,bc1150--bc1189,5,2019-07-05,Early July,Mattawa,WSU,Potato
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,166,0,0,ITS,bc1135--bc1140,2,2019-08-02,Early August,Pasco,WSU,Pigweed
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,167,0,0,ITS,bc1158--bc1173,4,2019-08-02,Early August,Pasco,413,Russian thistle
+Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,169,0,0,ITS,bc1156--bc1173,2,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Crop,Lamiaceae,Peppermint,Mentha,Mentha x,160,0,0,ITS,bc1124--bc1154,14,2019-08-01,Early August,Paterson,475,Kochia
+Tree,Morceae,Himalyan Mulberry,Morus,Morus serrata,33,0,0,trnF,bc1108--bc1178,25,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Crop,Solanaceae,Common Tobacco,Nicotiana,Nicotiana tabacum,33,0,0,ITS,bc1152--bc1155,3,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Tree,Oleaceae,Common Olive,Olea,Olea europaea,54,0,0,ITS,bc1140--bc1157,4,2019-06-21,Late June,Pasco,WSU,Pigweed
+Tree,Oleaceae,Common Olive,Olea,Olea europaea,69,1,0,ITS,bc1133--bc1155,7,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Hydrophyllaceae,Franklin’s phacelia,Phacelia,Phacelia franklinii,71,0,1,ITS,bc1123--bc1155,3,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Shrub,Rosaceae,Japanese Photinia,Photinia,Photinia glabra,19,0,1,ITS,bc1140--bc1150,3,2019-06-12,Early June,Mattawa ,RDR,Potato
+Shrub,Rosaceae,Taiwanese Photinia,Photinia,Photinia serratifolia,2,0,0,ITS,bc1134--bc1140,2,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Nightshade,Solanaceae,Clammy Groundcherry,Physalis,Physalis heterophylla,60,0,1,trnF,bc1113--bc1143,2,2019-07-03,Early July,Mattawa ,RDJ,Potato
+Nightshade,Solanaceae,Clammy Groundcherry,Physalis,Physalis heterophylla,91,0,1,trnF,bc1115--bc1143,4,2019-07-05,Early July,Mattawa,WSU,Potato
+Nightshade,Solanaceae,Cape gooseberry,Physalis,Physalis peruviana,1,1,0,ITS,bc1133--bc1140,10,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Tree,Anacardiaceae,Chinese Pistachio,Pistacia,Pistacia chinensis,51,0,0,trnF,bc1108--bc1113,12,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Tree,Anacardiaceae,Chinese Pistachio,Pistacia,Pistacia chinensis,90,0,0,trnF,bc1114--bc1143,4,2019-07-05,Early July,Mattawa,WSU,Potato
+Tree,x,Pistachio,Pistacia,Pistacia weinmaniifolia,159,0,0,ITS,bc1123--bc1154,10,2019-08-01,Early August,Paterson,475,Kochia
+Crop,Fabaceae,Pea,Pisum,Pisum sativum,60,0,1,ITS,bc1140--bc1159,2,2019-07-03,Early July,Mattawa ,RDJ,Potato
+Grass,Poaceae,Cottonball Bluegrass,Poa,Poa sublanata,173,0,0,trnF,bc1114--bc1169,2,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Weed,Polygonaceae,Common Knotgrass,Polygonum,Polygonum aviculare,111,1,0,trnF,bc1107--bc1113,7,2019-07-11,Early July,Paterson,107,Russian thistle
+Tree,Rosaceae,Peach,Prunus,Prunus persica,43,0,0,ITS,bc1155--bc1157,64,2019-06-14,Early June,Pasco,WSU,Kochia
+Tree,Rosaceae,Peach,Prunus,Prunus persica,44,0,0,ITS,bc1155--bc1156,4,2019-06-14,Early June,Pasco,WSU,Kochia
+Tree,Rosaceae,Sweet Cherry,Prunus,Prunus avium,159,0,0,ITS,bc1123--bc1154,2,2019-08-01,Early August,Paterson,475,Kochia
+Grass,Poaceae,Bluebunch Wheat Grass,Pseudoroegneria,Pseudoroegneria gracillima,69,1,0,trnF,bc1108--bc1112,3,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Tree,Rosaceae,Pear,Pyrus,Pyrus communis,166,0,0,ITS,bc1135--bc1140,23,2019-08-02,Early August,Pasco,WSU,Pigweed
+Tree,Rosaceae,Pendula or Willow-Leaf Pear,Pyrus,Pyrus salicifolia,90,0,0,trnF,bc1114--bc1143,8,2019-07-05,Early July,Mattawa,WSU,Potato
+Tree,Fagaceae,Oak,Quercus,Quercus robur,19,0,1,ITS,bc1140--bc1150,4,2019-06-12,Early June,Mattawa ,RDR,Potato
+Tree,Fagaceae,Oak,Quercus,Quercus robur,91,0,1,ITS,bc1140--bc1148,2,2019-07-05,Early July,Mattawa,WSU,Potato
+Tree,Fagaceae,Northern red oak,Quercus,Quercus rubra,35,0,0,ITS,bc1155--bc1158,18,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Tree,Fagaceae,Oak,Quercus,Quercus sp.,20,0,0,ITS,bc1140--bc1146,26,2019-06-12,Early June,Mattawa ,RDR,Potato
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,28,1,1,ITS,bc1146--bc1155,4,2019-06-12,Early June,Mattawa ,RDR,Mustard
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,28,1,1,trnF,bc1097--bc1142,2,2019-06-12,Early June,Mattawa ,RDR,Mustard
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,33,0,0,ITS,bc1152--bc1155,10,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,39,0,0,ITS,bc1140--bc1152,3,2019-06-14,Early June,Pasco,505,Pigweed
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,52,0,0,trnF,bc1142--bc1176,2,2019-06-20,Late June,Paterson,475,Pigweed
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,69,1,0,trnF,bc1108--bc1112,25,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,69,1,0,ITS,bc1133--bc1155,17,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,70,0,0,ITS,bc1134--bc1155,64,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,70,0,0,trnF,bc1108--bc1111,8,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,71,0,1,ITS,bc1123--bc1155,6,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,72,0,0,ITS,bc1124--bc1155,21,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,72,0,0,trnF,bc1097--bc1108,12,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,72,0,0,ITS,bc1124--bc1155,10,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,73,1,0,ITS,bc1150--bc1154,19,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,73,1,0,trnF,bc1107--bc1178,16,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,79,1,0,trnF,bc1107--bc1176,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,82,1,0,trnF,bc1107--bc1110,5,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,92,0,0,ITS,bc1150--bc1189,35,2019-07-05,Early July,Mattawa,WSU,Potato
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,96,1,0,ITS,bc1152--bc1189,3,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,97,0,0,trnF,bc1143--bc1176,19,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,97,0,0,ITS,bc1153--bc1189,6,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,109,0,0,trnF,bc1107--bc1115,7,2019-07-11,Early July,Paterson,107,Russian thistle
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,111,1,0,ITS,bc1135--bc1154,3,2019-07-11,Early July,Paterson,107,Russian thistle
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,122,1,0,ITS,bc1133--bc1154,32,2019-07-11,Early July,Paterson,529,Russian thistle
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,122,1,0,trnF,bc1107--bc1111,17,2019-07-11,Early July,Paterson,529,Russian thistle
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,128,1,0,ITS,bc1134--bc1154,8,2019-07-12,Early July,Pasco,WSU,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,134,0,0,trnF,bc1114--bc1144,5,2019-07-12,Early July,Pasco,WSU,Potato
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,153,0,0,ITS,bc1133--bc1189,5,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,162,0,0,ITS,bc1146--bc1173,2,2019-08-01,Early August,Paterson,475,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,163,0,0,ITS,bc1152--bc1173,3,2019-08-02,Early August,Pasco,WSU,Kochia
+Crop,Brassicaceae,Radish,Raphanus,Raphanus sativus,169,0,0,trnF,bc1115--bc1169,10,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Crop,Rosaceae,Blackberry,Rubus,Rubus allegheniensis,167,0,0,ITS,bc1158--bc1173,2,2019-08-02,Early August,Pasco,413,Russian thistle
+Tree,Salicaceae,Corkscrew Willow,Salix,Salix matsudana,103,1,1,trnF,bc1107--bc1109,3,2019-07-10,Early July,Mattawa,RDJ,Kochia
+Tree,Salicaceae,Dark-leaved Willow,Salix,Salix myrsinifolia,103,1,1,ITS,bc1154--bc1158,67,2019-07-10,Early July,Mattawa,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,2,0,0,trnF,bc1112--bc1142,5,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,12,0,0,trnF,bc1100--bc1142,12,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,18,1,0,trnF,bc1099--bc1142,9,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,33,0,0,trnF,bc1108--bc1178,72,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,35,0,0,trnF,bc1108--bc1176,3,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,40,0,0,trnF,bc1110--bc1142,4,2019-06-14,Early June,Pasco,505,Pigweed
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,45,0,0,trnF,bc1108--bc1115,7,2019-06-14,Early June,Pasco,WSU,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,50,0,0,trnF,bc1108--bc1114,68,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,51,0,0,trnF,bc1108--bc1113,259,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,69,1,0,trnF,bc1108--bc1112,47,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,70,0,0,trnF,bc1108--bc1111,20,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,72,0,0,trnF,bc1097--bc1108,28,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,73,1,0,trnF,bc1107--bc1178,58,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,73,1,0,trnF,bc1107--bc1178,14,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,79,1,0,trnF,bc1107--bc1176,95,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,82,1,0,trnF,bc1107--bc1110,25,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,91,0,1,trnF,bc1115--bc1143,7,2019-07-05,Early July,Mattawa,WSU,Potato
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,96,1,0,trnF,bc1110--bc1143,28,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,97,0,0,trnF,bc1143--bc1176,54,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,108,1,0,trnF,bc1107--bc1120,25,2019-07-11,Early July,Paterson,107,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,109,0,0,trnF,bc1107--bc1115,63,2019-07-11,Early July,Paterson,107,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,110,1,0,trnF,bc1107--bc1114,2,2019-07-11,Early July,Paterson,107,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,111,1,0,trnF,bc1107--bc1113,222,2019-07-11,Early July,Paterson,107,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,112,1,0,trnF,bc1107--bc1112,190,2019-07-11,Early July,Paterson,475,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,114,0,0,trnF,bc1113--bc1144,20,2019-07-11,Early July,Paterson,475,Potato
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,122,1,0,trnF,bc1107--bc1111,82,2019-07-11,Early July,Paterson,529,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,128,1,0,trnF,bc1100--bc1107,153,2019-07-12,Early July,Pasco,WSU,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,134,0,0,trnF,bc1114--bc1144,5,2019-07-12,Early July,Pasco,WSU,Potato
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,141,1,0,trnF,bc1115--bc1144,34,2019-07-18,Late July,Paterson,529,Pigweed
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,153,0,0,trnF,bc1110--bc1144,33,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,159,0,0,trnF,bc1098--bc1107,11,2019-08-01,Early August,Paterson,475,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,160,0,0,trnF,bc1097--bc1107,2,2019-08-01,Early August,Paterson,475,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,161,0,0,ITS,bc1169--bc1178,34,2019-08-01,Early August,Paterson,475,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,162,0,0,trnF,bc1169--bc1177,2,2019-08-01,Early August,Paterson,475,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,163,0,0,trnF,bc1169--bc1176,36,2019-08-02,Early August,Pasco,WSU,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,164,0,0,trnF,bc1110--bc1169,100,2019-08-02,Early August,Pasco,WSU,Kochia
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,167,0,0,trnF,bc1109--bc1169,11,2019-08-02,Early August,Pasco,413,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,168,0,0,trnF,bc1120--bc1169,175,2019-08-02,Early August,Pasco,413,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,169,0,0,trnF,bc1115--bc1169,114,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,173,0,0,trnF,bc1114--bc1169,70,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,174,0,0,trnF,bc1113--bc1169 ,11,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,Salsola komarovii,175,0,0,trnF,bc1112--bc1169,138,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Grass,Poaceae,Green Foxtail,Setaria,Setaria viridis,79,1,0,ITS,bc1152--bc1154,5,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,Sisymbrium altissimum,33,0,0,trnF,bc1108--bc1178,13,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,Sisymbrium altissimum,35,0,0,trnF,bc1108--bc1176,4,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,Sisymbrium altissimum,50,0,0,trnF,bc1108--bc1114,2,2019-06-14,Early June,Pasco,WSU,Russian thistle
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,Sisymbrium altissimum,108,1,0,trnF,bc1107--bc1120,2,2019-07-11,Early July,Paterson,107,Russian thistle
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,Sisymbrium altissimum,110,1,0,trnF,bc1107--bc1114,3,2019-07-11,Early July,Paterson,107,Russian thistle
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,Sisymbrium altissimum,167,0,0,ITS,bc1158--bc1173,2,2019-08-02,Early August,Pasco,413,Russian thistle
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,Sisymbrium altissimum,169,0,0,trnF,bc1115--bc1169,2,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Nightshade,Solanaceae,Wild Potato,Solanum,Solanum acaule,96,1,0,trnF,bc1110--bc1143,8,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,2,0,0,trnF,bc1112--bc1142,2,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,33,0,0,trnF,bc1108--bc1178,10,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,43,0,0,ITS,bc1155--bc1157,2,2019-06-14,Early June,Pasco,WSU,Kochia
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,69,1,0,ITS,bc1133--bc1155,6,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,153,0,0,trnF,bc1110--bc1144,2,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,166,0,0,trnF,bc1144--bc1176,18,2019-08-02,Early August,Pasco,WSU,Pigweed
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,Solanum dulcamara,175,0,0,trnF,bc1112--bc1169,8,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,20,0,0,ITS,bc1140--bc1146,83,2019-06-12,Early June,Mattawa ,RDR,Potato
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,33,0,0,ITS,bc1152--bc1155,25,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,34,0,0,ITS,bc1153--bc1155,2,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,60,0,1,ITS,bc1140--bc1159,25,2019-07-03,Early July,Mattawa ,RDJ,Potato
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,69,1,0,ITS,bc1133--bc1155,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,70,0,0,ITS,bc1134--bc1155,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,74,1,1,ITS,bc1146--bc1154,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,92,0,0,ITS,bc1150--bc1189,17,2019-07-05,Early July,Mattawa,WSU,Potato
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,96,1,0,ITS,bc1152--bc1189,660,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,134,0,0,ITS,bc1159--bc1189,84,2019-07-12,Early July,Pasco,WSU,Potato
+Nightshade,Solanaceae,Black Nightshade,Solanum,Solanum nigrum,160,0,0,trnF,bc1097--bc1107,3,2019-08-01,Early August,Paterson,475,Kochia
+Nightshade,Solanaceae,Black Nightshade,Solanum,Solanum nigrum,161,0,0,ITS,bc1169--bc1178,7,2019-08-01,Early August,Paterson,475,Kochia
+Nightshade,Solanaceae,Black Nightshade,Solanum,Solanum nigrum,161,0,0,ITS,bc1150--bc1173,4,2019-08-01,Early August,Paterson,475,Kochia
+Nightshade,Solanaceae,Black Nightshade,Solanum,Solanum nigrum,168,0,0,trnF,bc1120--bc1169,6,2019-08-02,Early August,Pasco,413,Russian thistle
+Nightshade,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,43,0,0,ITS,bc1155--bc1157,2,2019-06-14,Early June,Pasco,WSU,Kochia
+Nightshade,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,54,0,0,ITS,bc1140--bc1157,470,2019-06-21,Late June,Pasco,WSU,Pigweed
+Nightshade,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,56,0,0,ITS,bc1140--bc1156,14,2019-06-21,Late June,Pasco,WSU,Pigweed
+Nightshade,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,69,1,0,ITS,bc1133--bc1155,4,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,72,0,0,ITS,bc1124--bc1155,8,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,82,1,0,ITS,bc1153--bc1154,3,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,American Black Nightshade,Solanum,Solanum nigrum/americanum,153,0,0,ITS,bc1133--bc1189,2,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Nightshade,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,72,0,0,ITS,bc1124--bc1155,4,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,82,1,0,trnF,bc1107--bc1110,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,96,1,0,trnF,bc1110--bc1143,473,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Nightshade,Solanaceae,Wild Tomato,Solanum,Solanum pennellii,134,0,0,trnF,bc1114--bc1144,389,2019-07-12,Early July,Pasco,WSU,Potato
+Nightshade,Solanaceae,White-Flowered Nightshade,Solanum,Solanum physalifolium,54,0,0,trnF,bc1142--bc1177,6,2019-06-21,Late June,Pasco,WSU,Pigweed
+Nightshade,Solanaceae,White-Flowered Nightshade,Solanum,Solanum physalifolium,141,1,0,trnF,bc1115--bc1144,6,2019-07-18,Late July,Paterson,529,Pigweed
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,20,0,0,ITS,bc1140--bc1146,206,2019-06-12,Early June,Mattawa ,RDR,Potato
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,35,0,0,ITS,bc1155--bc1158,13,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,40,0,0,ITS,bc1140--bc1153,8,2019-06-14,Early June,Pasco,505,Pigweed
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,52,0,0,ITS,bc1140--bc1158,3,2019-06-20,Late June,Paterson,475,Pigweed
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,54,0,0,ITS,bc1140--bc1157,2,2019-06-21,Late June,Pasco,WSU,Pigweed
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,56,0,0,ITS,bc1140--bc1156,3,2019-06-21,Late June,Pasco,WSU,Pigweed
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,60,0,1,ITS,bc1140--bc1159,60,2019-07-03,Early July,Mattawa ,RDJ,Potato
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,69,1,0,ITS,bc1133--bc1155,3,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,72,0,0,ITS,bc1124--bc1155,7,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,73,1,0,ITS,bc1150--bc1154,6,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,91,0,1,ITS,bc1140--bc1148,40,2019-07-05,Early July,Mattawa,WSU,Potato
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,92,0,0,ITS,bc1150--bc1189,130,2019-07-05,Early July,Mattawa,WSU,Potato
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,93,0,0,ITS,bc1146--bc1189,12,2019-07-05,Early July,Mattawa,WSU,Potato
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,108,1,0,ITS,bc1154--bc1157,2,2019-07-11,Early July,Paterson,107,Russian thistle
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,113,0,0,ITS,bc1157--bc1189,18,2019-07-11,Early July,Paterson,475,Potato
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,114,0,0,ITS,bc1156--bc1189,18,2019-07-11,Early July,Paterson,475,Potato
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,122,1,0,ITS,bc1133--bc1154,15,2019-07-11,Early July,Paterson,529,Russian thistle
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,128,1,0,ITS,bc1134--bc1154,3,2019-07-12,Early July,Pasco,WSU,Kochia
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,141,1,0,ITS,bc1135--bc1189,2,2019-07-18,Late July,Paterson,529,Pigweed
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,160,0,0,ITS,bc1124--bc1154,8,2019-08-01,Early August,Paterson,475,Kochia
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,161,0,0,ITS,bc1150--bc1173,4,2019-08-01,Early August,Paterson,475,Kochia
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,162,0,0,ITS,bc1146--bc1173,2,2019-08-01,Early August,Paterson,475,Kochia
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,163,0,0,ITS,bc1152--bc1173,2,2019-08-02,Early August,Pasco,WSU,Kochia
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,166,0,0,ITS,bc1135--bc1140,29,2019-08-02,Early August,Pasco,WSU,Pigweed
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,167,0,0,ITS,bc1158--bc1173,4,2019-08-02,Early August,Pasco,413,Russian thistle
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,169,0,0,ITS,bc1156--bc1173,4,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,173,0,0,ITS,bc1159--bc1173,13,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,Solanum pinnatisectum,174,0,0,ITS,bc1135--bc1173,2,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,18,1,0,ITS,bc1124--bc1140,3,2019-06-03,Early June,Mattawa ,RDJ,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,33,0,0,trnF,bc1108--bc1178,12,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,34,0,0,trnF,bc1108--bc1177,10,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,35,0,0,trnF,bc1108--bc1176,23,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,56,0,0,trnF,bc1142--bc1178,2,2019-06-21,Late June,Pasco,WSU,Pigweed
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,60,0,1,trnF,bc1113--bc1143,182,2019-07-03,Early July,Mattawa ,RDJ,Potato
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,70,0,0,trnF,bc1108--bc1111,3,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,71,0,1,trnF,bc1098--bc1108,7,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,72,0,0,trnF,bc1097--bc1108,11,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,73,1,0,trnF,bc1107--bc1178,125,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,90,0,0,trnF,bc1114--bc1143,6,2019-07-05,Early July,Mattawa,WSU,Potato
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,91,0,1,trnF,bc1115--bc1143,208,2019-07-05,Early July,Mattawa,WSU,Potato
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,92,0,0,trnF,bc1120--bc1143,105,2019-07-05,Early July,Mattawa,WSU,Potato
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,93,0,0,trnF,bc1109--bc1143,30,2019-07-05,Early July,Mattawa,WSU,Potato
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,97,0,0,trnF,bc1143--bc1176,2,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,103,1,1,trnF,bc1107--bc1109,3,2019-07-10,Early July,Mattawa,RDJ,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,106,0,0,trnF,bc1143--bc1177,12,2019-07-11,Early July,Paterson,107,Potato
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,109,0,0,trnF,bc1107--bc1115,11,2019-07-11,Early July,Paterson,107,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,112,1,0,trnF,bc1107--bc1112,36,2019-07-11,Early July,Paterson,475,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,113,0,0,trnF,bc1143--bc1178,671,2019-07-11,Early July,Paterson,475,Potato
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,113,0,0,ITS,bc1157--bc1189,4,2019-07-11,Early July,Paterson,475,Potato
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,114,0,0,trnF,bc1113--bc1144,119,2019-07-11,Early July,Paterson,529,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,122,1,0,trnF,bc1107--bc1111,23,2019-07-11,Early July,Paterson,529,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,128,1,0,trnF,bc1100--bc1107,5,2019-07-12,Early July,Pasco,WSU,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,134,0,0,trnF,bc1114--bc1144,45,2019-07-12,Early July,Pasco,WSU,Potato
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,141,1,0,trnF,bc1115--bc1144,100,2019-07-18,Late July,Paterson,529,Pigweed
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,153,0,0,trnF,bc1110--bc1144,23,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,159,0,0,trnF,bc1098--bc1107,2,2019-08-01,Early August,Paterson,475,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,161,0,0,ITS,bc1169--bc1178,6,2019-08-01,Early August,Paterson,475,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,162,0,0,ITS,bc1146--bc1173,2,2019-08-01,Early August,Paterson,475,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,162,0,0,trnF,bc1169--bc1177,2,2019-08-01,Early August,Paterson,475,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,163,0,0,trnF,bc1169--bc1176,2,2019-08-02,Early August,Pasco,WSU,Kochia
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,166,0,0,trnF,bc1144--bc1176,11,2019-08-02,Early August,Pasco,WSU,Pigweed
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,168,0,0,trnF,bc1120--bc1169,14,2019-08-02,Early August,Pasco,413,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,169,0,0,trnF,bc1115--bc1169,12,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,173,0,0,trnF,bc1114--bc1169,12,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,174,0,0,trnF,bc1113--bc1169,5,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,175,0,0,trnF,bc1112--bc1169,4,2019-08-02,Early August,Pasco,WSU,Russian thistle
+Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,204,1,0,trnF,bc1111--bc1169,7,2019-10-18,Late October,Pasco,RDJ,Russian thistle
+Weed,Asteraceae,Sow thistle or hare thistle,Sonchus,Sonchus fragilis,72,0,0,trnF,bc1097--bc1108,5,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Sow thistle,Sonchus,Sonchus oleraceus,73,1,0,ITS,bc1150--bc1154,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Weed,Asteraceae,Sow thistle,Sonchus,Sonchus oleraceus,128,1,0,ITS,bc1134--bc1154,4,2019-07-12,Early July,Pasco,WSU,Kochia
+Grass,Poaceae,Sorghum or Great Millet,Sorghum,Sorghum bicolor,96,1,0,trnF,bc1110--bc1143,3,2019-07-05,Early July,Mattawa,WSU,Pigweed
+Crop,Amaranthaceae,Spinach,Spinacia,Spinacia oleracea,74,1,1,ITS,bc1146--bc1154,3,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Tree,Malvaceae,Little Leaf Linden,Tilia,Tilia cordata,93,0,0,ITS,bc1146--bc1189,15,2019-07-05,Early July,Mattawa,WSU,Potato
+Tree,Malvaceae,Large Leaf Linden or Lime,Tilia,Tilia platyphyllos,70,0,0,trnF,bc1108--bc1111,2,2019-07-03,Early July,Mattawa ,RDJ,Kochia
+Tree,Malvaceae,Linden,Tilia,Tilia x,20,0,0,ITS,bc1140--bc1146,11,2019-06-12,Early June,Mattawa ,RDR,Potato
+Tree,Malvaceae,Linden,Tilia,Tilia x,35,0,0,ITS,bc1155--bc1158,24,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Tree,Malvaceae,Linden,Tilia,Tilia x,56,0,0,ITS,bc1140--bc1156,2,2019-06-21,Late June,Pasco,WSU,Pigweed
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,Tribulus terrestris,54,0,0,ITS,bc1140--bc1157,140,2019-06-21,Late June,Pasco,WSU,Pigweed
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,Tribulus terrestris,161,0,0,ITS,bc1150--bc1173,12,2019-08-01,Early August,Paterson,475,Kochia
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,Tribulus terrestris,162,0,0,ITS,bc1146--bc1173,8,2019-08-01,Early August,Paterson,475,Kochia
+Tree,Ulmaceae,Bergman's Elm,Ulmus,Ulmus bergmanniana,153,0,0,trnF,bc1110--bc1144,90,2019-07-31,Late July,Mattawa,RDR,Pigweed
+Crop,Fabaceae,Fava Bean,Vicia,Vicia faba 5.8S,92,0,0,ITS,bc1150--bc1189,9,2019-07-05,Early July,Mattawa,WSU,Potato
+Weed,Fabaceae,Hairy Vetch,Vicia,Vicia villosa,2,0,0,ITS,bc1134--bc1140,16,2019-06-03,Early June,Mattawa ,RDR,Russian thistle
+Crop,Fabaceae,Cowpea,Vigna,Vigna unguiculata,34,0,0,ITS,bc1153--bc1155,4,2019-06-12,Early June,Mattawa ,RDJ,Kochia
+Crop,Vitaceae,Grape vine,Vitis,Vitis vinifera,45,0,0,trnF,bc1108--bc1115,10,2019-06-14,Early June,Pasco,WSU,Kochia
