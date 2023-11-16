@@ -1,7 +1,7 @@
 Camille’s BLH Analysis V1
 ================
 Riley M. Anderson & Camille Wagstaff
-November 13, 2023
+November 16, 2023
 
   
 
@@ -18,6 +18,7 @@ November 13, 2023
     together)](#bctv-by-time-of-year-all-years-together)
   - [BCTV by host plant (plant the BLH were collected
     from)](#bctv-by-host-plant-plant-the-blh-were-collected-from)
+  - [BCTV by gut richness](#bctv-by-gut-richness)
   - [Session Information](#session-information)
 
 ## Overview
@@ -57,6 +58,37 @@ Camille’s beet leafhopper project.
 ### BCTV by host plant (plant the BLH were collected from)
 
 ![](BLHv1_files/figure-gfm/hostplant_by_BCTV-1.png)<!-- -->
+
+### BCTV by gut richness
+
+    ## 
+    ## Call:
+    ## glm(formula = infect ~ p_sp, family = binomial, data = BCTV)
+    ## 
+    ## Deviance Residuals: 
+    ##     Min       1Q   Median       3Q      Max  
+    ## -1.0947  -0.9263  -0.7281   1.3247   2.0817  
+    ## 
+    ## Coefficients:
+    ##             Estimate Std. Error z value Pr(>|z|)   
+    ## (Intercept) -0.05568    0.28315  -0.197   0.8441   
+    ## p_sp        -0.14210    0.04700  -3.024   0.0025 **
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## 
+    ## (Dispersion parameter for binomial family taken to be 1)
+    ## 
+    ##     Null deviance: 259.68  on 211  degrees of freedom
+    ## Residual deviance: 248.75  on 210  degrees of freedom
+    ## AIC: 252.75
+    ## 
+    ## Number of Fisher Scoring iterations: 4
+
+![](BLHv1_files/figure-gfm/BCTV_gut_richness-1.png)<!-- -->
+
+Gut content species richness significantly predicts BCTV infection. The
+odds of BCTV infection decrease by 13.2 % for every 1 species increase
+(*p* = 0.002).
 
 ## Session Information
 

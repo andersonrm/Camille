@@ -57,7 +57,7 @@ Camille's beet leafhopper project.
 # Load Packages
 library(tidyverse) # Needed for data wrangling: dplyr, tidyr, ggplot2
 library(cowplot) # Needed for publication-quality ggplots
-
+library(sjPlot)
 
 # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 # @@@@@ Data preparation
@@ -70,7 +70,7 @@ d20 <- read.csv("data/camille.2020.csv")
 
 d21 <- read.csv("data/camille.2021.csv")
 
-str(d21)
+
 
 ```
 
@@ -97,7 +97,31 @@ dat1 <- dat1 %>%
       BLH, Host.Plant, Region,
       Site, Time.Period), as.factor)) %>% 
   mutate(Year = year(Date),
-         BLH.year = factor(paste(BLH, Year, sep = "_")))
+         BLH.year = factor(paste(BLH, Year, sep = "_"))) %>% 
+  filter(BLH != 0)
+
+
+
+
+
+# dat1 <- dat1 %>% 
+#   mutate(Plant.Type = case_when(
+#     Common.Name == 'Tarragon' ~ 'Crop'
+#   )) %>% 
+#   mutate(Family = case_when(
+#     Common.Name == 'Tarragon' ~ 'Asteraceae'
+#   )) %>% 
+#   mutate(
+#     Host.Plant = case_when(
+#       Host.Plant == 'Blue mustard' ~ 'Mustard',
+#       Host.Plant == 'Flixweed/Pinnate tansymustard' ~ 'Tansymustard',
+#       Host.Plant == 'Flixweed' ~ 'Tansymustard',
+#       Host.Plant == 'Loesels mustard' ~ 'Mustard',
+#       Host.Plant == 'Netseed LambsquaRussian thistleers' ~ 'Lambsquarter'
+#     )
+#   )
+# 
+# levels(dat1$Host.Plant)
 
 ```
 
@@ -233,6 +257,42 @@ dat1 %>%
   coord_flip()
 
 ```
+
+### BCTV by gut richness 
+
+```{r BCTV_gut_richness, echo = F}
+
+BCTV <- dat1 %>% 
+  filter(BLH != 0) %>% 
+  group_by(BLH.year, BCTV) %>% 
+  summarise(p_sp = n()) %>% 
+  rename(infect = BCTV) %>% 
+  filter(infect != "NA")
+
+model_CTV_2 <- glm(infect ~ p_sp,
+                   data = BCTV,
+                   family = binomial)
+summary(model_CTV_2)
+
+BCTV %>% 
+  ggplot(aes(x = p_sp, y = infect)) +
+  geom_jitter(height = .03, shape = 1) +
+  geom_smooth(method = "glm",
+              method.args = list(family = "binomial"),
+              color = 'black',
+              alpha = .3) +
+  theme_classic() +
+  labs(x = "Gut richness",
+       y = "Pr(BCTV infection)")
+
+
+```
+
+
+Gut content species richness significantly predicts BCTV infection. The odds of BCTV infection decrease by `r round(100*(1-exp(coef(model_CTV_2)[[2]])), 1)` % for every 1 species increase (*p* = `r round(summary(model_CTV_2)$coefficients[2,4], 3)`).
+
+
+
 
 ## Session Information
 
