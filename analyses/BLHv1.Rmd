@@ -49,6 +49,10 @@ knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
 
 Camille's beet leafhopper project.
 
+When (seasonal) and where (plants/regions?) do BCTV infections come from?
+
+Is virus positive predictive of diet? Difference in diet based on infection?
+
 ### Summary of Results
 * 
 
@@ -58,6 +62,7 @@ Camille's beet leafhopper project.
 library(tidyverse) # Needed for data wrangling: dplyr, tidyr, ggplot2
 library(cowplot) # Needed for publication-quality ggplots
 library(sjPlot)
+library(lubridate)
 
 # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 # @@@@@ Data preparation
@@ -68,7 +73,7 @@ d19 <- read.csv("data/camille.2019.csv")
 
 d20 <- read.csv("data/camille.2020.csv")
 
-d21 <- read.csv("data/camille.2021.csv")
+d21 <- read.csv("data/2021 BLH GCA.csv")
 
 
 
@@ -88,6 +93,7 @@ d19 <- d19 %>%
 
 dat1 <- bind_rows(d19, d20, d21)
 
+
 # variable structure
 
 dat1 <- dat1 %>% 
@@ -96,7 +102,7 @@ dat1 <- dat1 %>%
     c(Plant.Type, Family, Genus,
       BLH, Host.Plant, Region,
       Site, Time.Period), as.factor)) %>% 
-  mutate(Year = year(Date),
+  mutate(Year = lubridate::year(Date),
          BLH.year = factor(paste(BLH, Year, sep = "_"))) %>% 
   filter(BLH != 0)
 
