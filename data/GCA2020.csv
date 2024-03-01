@@ -1,0 +1,501 @@
+Type,Family,Common,Genus,BLH,BLTVA,BCTV,BarCode,Query,Organism,Sequences,Date,Time,Region,Site,HostPlant,Year
+Cannabis,Cannabaceae,Cannabis,Cannabis,10,1,0,ITS,bc1150--bc1172,Cannabis sativa,10,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Filaree,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,10,1,0,ITS,bc1150--bc1172,Brassica carinata,9,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Filaree,2020
+Weed,Geraniaceae,redstem filaree,Erodium,10,1,0,ITS,bc1150--bc1172,Erodium cicutarium,2357,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Filaree,2020
+Crop,Fabaceae,Pea,Pisum,18,0,0,ITS,bc1150--bc1155,Pisum sativum,30,"Monday, May 18, 2020",Late May,Moxee,A,Flixweed,2020
+Grass,Poaceae,Cheatgrass,Bromus,18,0,0,ITS,bc1150--bc1155,Bromus tectorum,13,"Monday, May 18, 2020",Late May,Moxee,A,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,18,0,0,trnF,bc1105--bc1120,Bassia littorea,2,"Monday, May 18, 2020",Late May,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,18,0,0,ITS,bc1150--bc1155,Brassica carinata,26,"Monday, May 18, 2020",Late May,Moxee,A,Flixweed,2020
+Potato,Solanaceae,potato,Solanum,18,0,0,trnF,bc1105--bc1120,Solanum tuberosum,113,"Monday, May 18, 2020",Late May,Moxee,A,Flixweed,2020
+Tree,Pinaceae,Japanese Red Pine,Pinus,18,0,0,trnF,bc1105--bc1120,Pinus densiflora,6,"Monday, May 18, 2020",Late May,Moxee,A,Flixweed,2020
+Tree,Pinaceae,Chinese Red Pine,Pinus,18,0,0,trnF,bc1105--bc1120,Pinus tabuliformis,44,"Monday, May 18, 2020",Late May,Moxee,A,Flixweed,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,18,0,0,ITS,bc1150--bc1155,Chenopodium album,2,"Monday, May 18, 2020",Late May,Moxee,A,Flixweed,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,111,0,1,ITS,bc1152--bc1171,Cannabis sativa,4,"Monday, May 18, 2020",Late May,Mattawa,C,Flixweed,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,217,0,1,ITS,bc1140--bc1153,Cannabis sativa,1537,"Wednesday, June 3, 2020",Early June,Moxee,A,Flixweed,2020
+Crop,Cucurbitaceae,pumpkin or winter squash,Cucurbita,37,0,1,ITS,bc1146--bc1172,Cucurbita pepo,90,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Crop,Fabaceae,soybean,Glycine,12,0,0,ITS,bc1150--bc1191,Glycine max,2,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Crop,Asteraceae,garden lettuce,Lactuca,12,0,0,trnF,bc1103--bc1120,Lactuca sativa,108,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Crop,Solanaceae,Tomato,Solanum,37,0,1,ITS,bc1146--bc1172,Solanum lycopersicum,90,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Crop,Solanaceae,Tomato,Solanum,39,1,1,trnF,bc1106--bc1109,Solanum lycopersicum,35,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,217,0,1,trnF,bc1108--bc1113,Bassia littorea,14,"Wednesday, June 3, 2020",Early June,Moxee,A,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,46,1,0,trnF,bc1111--bc1175,Bassia littorea,2,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,12,0,0,ITS,bc1150--bc1191,Bassia scoparia,3,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,39,1,1,ITS,bc1146--bc1190,Bassia scoparia,17,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,217,0,1,ITS,bc1140--bc1153,Bassia scoparia,422,"Wednesday, June 3, 2020",Early June,Moxee,A,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,46,1,0,ITS,bc1146--bc1173,Bassia scoparia,2,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,11,0,0,ITS,bc1150--bc1190,Brassica carinata,54,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,12,0,0,ITS,bc1150--bc1191,Brassica carinata,45,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,39,1,1,ITS,bc1146--bc1190,Brassica carinata,2,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,46,1,0,ITS,bc1146--bc1173,Brassica carinata,8,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,37,0,1,ITS,bc1146--bc1172,Descurainia sophia,598,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,12,0,0,ITS,bc1150--bc1191,Descurainia sophia,381,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,39,1,1,trnF,bc1106--bc1109,Descurainia sophia,4,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,39,1,1,ITS,bc1146--bc1190,Descurainia sophia,631,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,41,0,1,ITS,bc1146--bc1191,Descurainia sophia,447,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,111,0,1,ITS,bc1152--bc1171,Descurainia sophia,1473,"Monday, May 18, 2020",Late May,Mattawa,C,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,217,0,1,ITS,bc1140--bc1153,Descurainia sophia,26,"Wednesday, June 3, 2020",Early June,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,46,1,0,ITS,bc1146--bc1173,Descurainia sophia,742,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,12,0,0,trnF,bc1103--bc1120,Sisymbrium altissimum,15,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Nightshade,Solanaceae,Goji,Lycium,11,0,0,trnF,bc1103--bc1114,Lycium chinense,20,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Nightshade,Solanaceae,Goji,Lycium,39,1,1,trnF,bc1106--bc1109,Lycium chinense,50,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Nightshade,Solanaceae,Nightshade,Solanum,41,0,1,trnF,bc1106--bc1110,Solanum gourlayi,12,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,37,0,1,ITS,bc1146--bc1172,Solanum pinnatisectum,2,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,39,1,1,ITS,bc1146--bc1190,Solanum pinnatisectum,4,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,41,0,1,ITS,bc1146--bc1191,Solanum pinnatisectum,870,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,111,0,1,ITS,bc1152--bc1171,Solanum pinnatisectum,14,"Monday, May 18, 2020",Late May,Mattawa,C,Flixweed,2020
+Potato,Solanaceae,potato,Solanum,12,0,0,trnF,bc1103--bc1120,Solanum tuberosum,66,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Potato,Solanaceae,potato,Solanum,39,1,1,trnF,bc1106--bc1109,Solanum tuberosum,3,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Potato,Solanaceae,potato,Solanum,41,0,1,trnF,bc1106--bc1110,Solanum tuberosum,866,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Potato,Solanaceae,potato,Solanum,217,0,1,trnF,bc1108--bc1113,Solanum tuberosum,12,"Wednesday, June 3, 2020",Early June,Moxee,A,Flixweed,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,11,0,0,ITS,bc1150--bc1190,Kali turgidum,4,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,39,1,1,ITS,bc1146--bc1190,Kali turgidum,39,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,111,0,1,ITS,bc1152--bc1171,Kali turgidum,2,"Monday, May 18, 2020",Late May,Mattawa,C,Flixweed,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,46,1,0,ITS,bc1146--bc1173,Kali turgidum,189,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,11,0,0,trnF,bc1103--bc1114,Salsola collina,23,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,39,1,1,trnF,bc1106--bc1109,Salsola collina,333,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,41,0,1,trnF,bc1106--bc1110,Salsola collina,2,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,111,0,1,trnF,bc1111--bc1169,Salsola collina,17,"Monday, May 18, 2020",Late May,Mattawa,C,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,217,0,1,trnF,bc1108--bc1113,Salsola collina,3,"Wednesday, June 3, 2020",Early June,Moxee,A,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,46,1,0,trnF,bc1111--bc1175,Salsola collina,269,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Tree,Juglandaceae,English walnut,Juglans,11,0,0,trnF,bc1103--bc1114,Juglans regia,16,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Tree,Rosaceae,peach,Prunus,41,0,1,ITS,bc1146--bc1191,Prunus persica,31,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Tree,Fabaceae,Black Locust,Robinia,217,0,1,ITS,bc1140--bc1153,Robinia pseudoacacia,68,"Wednesday, June 3, 2020",Early June,Moxee,A,Flixweed,2020
+Tree,Malvaceae,Linden,Tilia,217,0,1,ITS,bc1140--bc1153,Tilia x,2,"Wednesday, June 3, 2020",Early June,Moxee,A,Flixweed,2020
+Tree,Ulmaceae,Elm,Ulmus,46,1,0,ITS,bc1146--bc1173,Ulmus pumila,2,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Weed,Amaryllidaceae,Wild onion,Allium,37,0,1,ITS,bc1146--bc1172,Allium pskemense,493,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Weed,Asteraceae,Ragweed,Ambrosia,12,0,0,ITS,bc1150--bc1191,Ambrosia acanthicarpa,18,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,46,1,0,trnF,bc1111--bc1175,Chenopodium album,7,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Weed,Convolvulaceae,Field bindweed,Convolvulus,39,1,1,trnF,bc1106--bc1109,Convolvulus arvensis,13,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Weed,Asteraceae,Coneflower,Echinacea,12,0,0,trnF,bc1103--bc1120,Echinacea purpurea,4,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Weed,Asteraceae,Horseweed,Erigeron,39,1,1,trnF,bc1106--bc1109,Erigeron canadensis,47,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Weed,Asteraceae,Fleabane,Erigeron,39,1,1,ITS,bc1146--bc1190,Erigeron leptorhizon,15,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Weed,Asteraceae,Prickly Lettuce,Lactuca,41,0,1,ITS,bc1146--bc1191,Lactuca serriola,26,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Weed,Malvaceae,Mallow,Malva,39,1,1,ITS,bc1146--bc1190,Malva parviflora,3,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Weed,Malvaceae,Mallow,Malva,46,1,0,ITS,bc1146--bc1173,Malva parviflora,3,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Weed,Fabaceae,lima bean,Phaseolus,37,0,1,ITS,bc1146--bc1172,Phaseolus lunatus,139,"Monday, May 18, 2020",Late May,Mattawa,B,Flixweed,2020
+Weed,Asteraceae,Goldernrod,Solidago,12,0,0,trnF,bc1103--bc1120,Solidago canadensis,5,"Thursday, April 23, 2020",Late April,Moxee,A,Flixweed,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,190,1,0,ITS,bc1153--bc1171,Cannabis sativa,3,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,193,0,1,ITS,bc1153--bc1172,Cannabis sativa,61,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Crop,Amaranthaceae,Beet,Beta,671,1,0,trnF,bc1105--bc1177,Beta vulgaris,2,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Crop,Apiaceae,carrot,Daucus,509,0,0,ITS,bc1133--bc1191,Daucus carota,2,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Crop,Asteraceae,garden lettuce,Lactuca,582,0,1,trnF,bc1175--bc1176,Lactuca sativa,4,"Wednesday, July 15, 2020",Late July,Othello,E,Kochia,2020
+Crop,Asteraceae,garden lettuce,Lactuca,626,0,0,trnF,bc1142--bc1176,Lactuca sativa,6,"Wednesday, August 12, 2020",Early August,Moxee,A,Kochia,2020
+Crop,Fabaceae,Pea,Pisum,671,1,0,ITS,bc1123--bc1173,Pisum sativum,10,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Crop,Solanaceae,Tomato,Solanum,99,0,1,ITS,bc1140--bc1146,Solanum lycopersicum,2,"Monday, May 18, 2020",Late May,Mattawa,C,Kochia,2020
+Crop,Solanaceae,Tomato,Solanum,671,1,0,ITS,bc1123--bc1173,Solanum lycopersicum,67,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Crop,Solanaceae,Wild Tomato,Solanum,671,1,0,ITS,bc1123--bc1173,Solanum pennellii,78,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Grass,Poaceae,rye,Secale,190,1,0,ITS,bc1153--bc1171,Secale cereale,2,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,472,1,0,trnF,bc1113--bc1144,Bassia littorea,14,"Wednesday, June 17, 2020",Late June,Othello,F,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,663,0,0,trnF,bc1103--bc1177,Bassia littorea,253,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,788,0,1,trnF,bc1107--bc1177,Bassia littorea,9,"Thursday, August 27, 2020",Late August,Othello,E,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,127,0,0,trnF,bc1110--bc1169,Bassia littorea,311,"Monday, May 18, 2020",Late May,Othello,F,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,190,1,0,trnF,bc1107--bc1120,Bassia littorea,2,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,193,0,1,trnF,bc1107--bc1109,Bassia littorea,11,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,391,1,0,trnF,bc1114--bc1143,Bassia littorea,,"Friday, June 12, 2020",Early June,Pasco,N,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,508,0,1,trnF,bc1105--bc1113,Bassia littorea,100,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,582,0,1,trnF,bc1175--bc1176,Bassia littorea,10,"Wednesday, July 15, 2020",Late July,Othello,E,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,626,0,0,trnF,bc1142--bc1176,Bassia littorea,30,"Wednesday, August 12, 2020",Early August,Moxee,A,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,671,1,0,trnF,bc1105--bc1177,Bassia littorea,261,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,786,0,1,trnF,bc1175--bc1177,Bassia littorea,42,"Thursday, August 27, 2020",Late August,Othello,E,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,787,1,0,trnF,bc1169--bc1177,Bassia littorea,93,"Thursday, August 27, 2020",Late August,Othello,E,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,827,0,1,trnF,bc1142--bc1177,Bassia littorea,16,"Friday, October 2, 2020",Early October,Moxee,A,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,28,0,0,ITS,bc1146--bc1171,Bassia scoparia,5,"Monday, May 18, 2020",Late May,Moxee,A,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,99,0,1,ITS,bc1140--bc1146,Bassia scoparia,3334,"Monday, May 18, 2020",Late May,Mattawa,C,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,127,0,0,ITS,bc1152--bc1173,Bassia scoparia,207,"Monday, May 18, 2020",Late May,Othello,F,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,190,1,0,ITS,bc1153--bc1171,Bassia scoparia,2420,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,193,0,1,ITS,bc1153--bc1172,Bassia scoparia,377,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,508,0,1,ITS,bc1133--bc1190,Bassia scoparia,93,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,28,0,0,ITS,bc1146--bc1171,Brassica carinata,4,"Monday, May 18, 2020",Late May,Moxee,A,Kochia,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,28,0,0,ITS,bc1146--bc1171,Descurainia sophia,25,"Monday, May 18, 2020",Late May,Moxee,A,Kochia,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,99,0,1,ITS,bc1140--bc1146,Descurainia sophia,2,"Monday, May 18, 2020",Late May,Mattawa,C,Kochia,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,127,0,0,ITS,bc1152--bc1173,Descurainia sophia,2,"Monday, May 18, 2020",Late May,Othello,F,Kochia,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,190,1,0,ITS,bc1153--bc1171,Descurainia sophia,6,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,193,0,1,ITS,bc1153--bc1172,Descurainia sophia,2,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Nightshade,Solanaceae,Clammy Groundcherry,Physalis,663,0,0,trnF,bc1103--bc1177,Physalis heterophylla,2,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Nightshade,Solanaceae,Nightshade,Solanum,23,0,0,trnF,bc1099--bc1106,Solanum gourlayi,9,"Monday, May 18, 2020",Late May,Moxee,A,Kochia,2020
+Nightshade,Solanaceae,Nightshade,Solanum,193,0,1,trnF,bc1107--bc1109,Solanum gourlayi,2,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Nightshade,Solanaceae,Nightshade,Solanum,476,1,0,trnF,bc1114--bc1144,Solanum gourlayi,11,"Wednesday, June 17, 2020",Late June,Othello,F,Kochia,2020
+Nightshade,Solanaceae,Nightshade,Solanum,671,1,0,trnF,bc1105--bc1177,Solanum gourlayi,2,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Nightshade,Solanaceae,Bitter,Solanum,193,0,1,trnF,bc1107--bc1109,Solanum gracilifrons,4,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,99,0,1,ITS,bc1140--bc1146,Solanum pinnatisectum,4,"Monday, May 18, 2020",Late May,Mattawa,C,Kochia,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,127,0,0,ITS,bc1152--bc1173,Solanum pinnatisectum,145,"Monday, May 18, 2020",Late May,Othello,F,Kochia,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,190,1,0,ITS,bc1153--bc1171,Solanum pinnatisectum,689,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,508,0,1,ITS,bc1133--bc1190,Solanum pinnatisectum,2,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,671,1,0,ITS,bc1123--bc1173,Solanum pinnatisectum,226,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Potato,Solanaceae,potato,Solanum,472,1,0,trnF,bc1113--bc1144,Solanum tuberosum,16,"Wednesday, June 17, 2020",Late June,Othello,F,Kochia,2020
+Potato,Solanaceae,potato,Solanum,788,0,1,trnF,bc1107--bc1177,Solanum tuberosum,25,"Thursday, August 27, 2020",Late August,Othello,E,Kochia,2020
+Potato,Solanaceae,potato,Solanum,23,0,0,trnF,bc1099--bc1106,Solanum tuberosum,284,"Monday, May 18, 2020",Late May,Moxee,A,Kochia,2020
+Potato,Solanaceae,potato,Solanum,127,0,0,trnF,bc1110--bc1169,Solanum tuberosum,70,"Monday, May 18, 2020",Late May,Othello,F,Kochia,2020
+Potato,Solanaceae,potato,Solanum,190,1,0,trnF,bc1107--bc1120,Solanum tuberosum,103,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Potato,Solanaceae,potato,Solanum,193,0,1,trnF,bc1107--bc1109,Solanum tuberosum,87,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Potato,Solanaceae,potato,Solanum,470,1,1,trnF,bc1111--bc1144,Solanum tuberosum,,"Wednesday, June 17, 2020",Late June,Othello,F,Kochia,2020
+Potato,Solanaceae,potato,Solanum,471,0,1,trnF,bc1112--bc1144,Solanum tuberosum,6,"Wednesday, June 17, 2020",Late June,Othello,F,Kochia,2020
+Potato,Solanaceae,potato,Solanum,476,1,0,trnF,bc1114--bc1144,Solanum tuberosum,829,"Wednesday, June 17, 2020",Late June,Othello,F,Kochia,2020
+Potato,Solanaceae,potato,Solanum,507,0,0,trnF,bc1105--bc1111,Solanum tuberosum,,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Potato,Solanaceae,potato,Solanum,508,0,1,trnF,bc1105--bc1113,Solanum tuberosum,12,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Potato,Solanaceae,potato,Solanum,557,1,1,trnF,bc1107--bc1112,Solanum tuberosum,2,"Wednesday, July 1, 2020",Early July,Mattawa,D,Kochia,2020
+Potato,Solanaceae,potato,Solanum,582,0,1,trnF,bc1175--bc1176,Solanum tuberosum,3,"Wednesday, July 15, 2020",Late July,Othello,E,Kochia,2020
+Potato,Solanaceae,potato,Solanum,671,1,0,ITS,bc1123--bc1173,Solanum tuberosum,68,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Potato,Solanaceae,potato,Solanum,787,1,0,trnF,bc1169--bc1177,Solanum tuberosum,34,"Thursday, August 27, 2020",Late August,Othello,E,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,28,0,0,ITS,bc1146--bc1171,Kali turgidum,11,"Monday, May 18, 2020",Late May,Moxee,A,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,127,0,0,ITS,bc1152--bc1173,Kali turgidum,12,"Monday, May 18, 2020",Late May,Othello,F,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,190,1,0,ITS,bc1153--bc1171,Kali turgidum,29,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,508,0,1,ITS,bc1133--bc1190,Kali turgidum,3,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,509,0,0,ITS,bc1133--bc1191,Kali turgidum,181,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,827,0,1,ITS,bc1124--bc1172,Kali turgidum,646,"Friday, October 2, 2020",Early October,Moxee,A,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,788,0,1,trnF,bc1107--bc1177,Salsola collina,2,"Thursday, August 27, 2020",Late August,Othello,E,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,28,0,0,trnF,bc1106--bc1114,Salsola collina,446,"Monday, May 18, 2020",Late May,Moxee,A,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,127,0,0,trnF,bc1110--bc1169,Salsola collina,8,"Monday, May 18, 2020",Late May,Othello,F,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,190,1,0,trnF,bc1107--bc1120,Salsola collina,6,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,193,0,1,trnF,bc1107--bc1109,Salsola collina,36,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,471,0,1,trnF,bc1112--bc1144,Salsola collina,4,"Wednesday, June 17, 2020",Late June,Othello,F,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,476,1,0,trnF,bc1114--bc1144,Salsola collina,2,"Wednesday, June 17, 2020",Late June,Othello,F,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,509,0,0,trnF,bc1105--bc1114,Salsola collina,480,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,557,1,1,trnF,bc1107--bc1112,Salsola collina,376,"Wednesday, July 1, 2020",Early July,Mattawa,D,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,626,0,0,trnF,bc1142--bc1176,Salsola collina,6,"Wednesday, August 12, 2020",Early August,Moxee,A,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,671,1,0,trnF,bc1105--bc1177,Salsola collina,4,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Shrub,Rosaceae,Blackberry,Rubus,193,0,1,ITS,bc1153--bc1172,Rubus allegheniensis,5,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Shrub,Smilacaceae,Greenbriar,Smilax,190,1,0,ITS,bc1153--bc1171,Smilax aberrans,2,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Shrub,Smilacaceae,Greenbriar,Smilax,193,0,1,ITS,bc1153--bc1172,Smilax aberrans,219,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Tree,Rutaceae,Cam sành,Citrus,190,1,0,trnF,bc1107--bc1120,Citrus benikoji,10,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Tree,Juglandaceae,English walnut,Juglans,23,0,0,trnF,bc1099--bc1106,Juglans regia,2,"Monday, May 18, 2020",Late May,Moxee,A,Kochia,2020
+Tree,Rosaceae,peach,Prunus,190,1,0,ITS,bc1153--bc1171,Prunus persica,2,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Tree,Rosaceae,pear,Pyrus,472,1,0,trnF,bc1113--bc1144,Pyrus communis,2,"Wednesday, June 17, 2020",Late June,Othello,F,Kochia,2020
+Tree,Malvaceae,Linden,Tilia,190,1,0,ITS,bc1153--bc1171,Tilia cordata,2,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Weed,Amaryllidaceae,Wild onion,Allium,28,0,0,ITS,bc1146--bc1171,Allium pskemense,5,"Monday, May 18, 2020",Late May,Moxee,A,Kochia,2020
+Weed,Boraginaceae,Borage,Amsinckia,787,1,0,trnF,bc1169--bc1177,Amsinckia intermedia,8,"Thursday, August 27, 2020",Late August,Othello,E,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,127,0,0,ITS,bc1152--bc1173,Chenopodium album,11,"Monday, May 18, 2020",Late May,Othello,F,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,190,1,0,ITS,bc1153--bc1171,Chenopodium album,46,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,509,0,0,trnF,bc1105--bc1114,Chenopodium album,101,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,509,0,0,ITS,bc1133--bc1191,Chenopodium album,106,"Thursday, June 25, 2020",Late June,Pasco,M,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,671,1,0,ITS,bc1123--bc1173,Chenopodium album,2,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,671,1,0,trnF,bc1105--bc1177,Chenopodium album,12,"Wednesday, August 12, 2020",Early August,Othello,G,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,787,1,0,trnF,bc1169--bc1177,Chenopodium album,8,"Thursday, August 27, 2020",Late August,Othello,E,Kochia,2020
+Weed,Fabaceae,Alfalfa,Medicago,127,0,0,ITS,bc1152--bc1173,Medicago sativa,247,"Monday, May 18, 2020",Late May,Othello,F,Kochia,2020
+Weed,Asteraceae,Goldernrod,Solidago,193,0,1,trnF,bc1107--bc1109,Solidago canadensis,2,"Wednesday, May 27, 2020",Late May,Pasco,M,Kochia,2020
+Crop,Solanaceae,Tomato,Solanum,504,1,0,trnF,bc1100--bc1105,Solanum lycopersicum,7,"Thursday, June 25, 2020",Late June,Pasco,M,Netseed Lambsquarters,2020
+Kochia,Amaranthaceae,Kochia,Bassia,504,1,0,trnF,bc1100--bc1105,Bassia littorea,7,"Thursday, June 25, 2020",Late June,Pasco,M,Netseed Lambsquarters,2020
+Pigweed,Amaranthaceae,Pigweed,Amaranthus,504,1,0,trnF,bc1100--bc1105,Amaranthus capensis,3,"Thursday, June 25, 2020",Late June,Pasco,M,Netseed Lambsquarters,2020
+Pigweed,Amaranthaceae,Smooth Pigweed,Amaranthus,504,1,0,ITS,bc1133--bc1171,Amaranthus hybridus,13,"Thursday, June 25, 2020",Late June,Pasco,M,Netseed Lambsquarters,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,504,1,0,trnF,bc1100--bc1105,Amaranthus spinosus,5,"Thursday, June 25, 2020",Late June,Pasco,M,Netseed Lambsquarters,2020
+Potato,Solanaceae,potato,Solanum,504,1,0,trnF,bc1100--bc1105,Solanum tuberosum,17,"Thursday, June 25, 2020",Late June,Pasco,M,Netseed Lambsquarters,2020
+Tree,Fabaceae,Black Locust,Robinia,504,1,0,trnF,bc1100--bc1105,Robinia pseudoacacia,3,"Thursday, June 25, 2020",Late June,Pasco,M,Netseed Lambsquarters,2020
+Tree,Fabaceae,Black Locust,Robinia,504,1,0,ITS,bc1133--bc1171,Robinia pseudoacacia,10,"Thursday, June 25, 2020",Late June,Pasco,M,Netseed Lambsquarters,2020
+Grass,Poaceae,Wolly Blue Grass,Poa,108,0,1,trnF,bc1110--bc1175,Poa sublanata,16,"Monday, May 18, 2020",Late May,Mattawa,C,Potato,2020
+Kochia,Amaranthaceae,Kochia,Bassia,362,0,1,trnF,bc1110--bc1142,Bassia littorea,2,"Wednesday, June 3, 2020",Early June,Mattawa,D,Potato,2020
+Kochia,Amaranthaceae,Kochia,Bassia,577,0,1,trnF,bc1106--bc1176,Bassia littorea,51,"Wednesday, July 15, 2020",Late July,Mattawa,D,Potato,2020
+Kochia,Amaranthaceae,Kochia,Bassia,107,1,1,ITS,bc1146--bc1189,Bassia scoparia,3,"Monday, May 18, 2020",Late May,Mattawa,C,Potato,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,108,0,1,ITS,bc1152--bc1170,Descurainia sophia,2,"Monday, May 18, 2020",Late May,Mattawa,C,Potato,2020
+Nightshade,Solanaceae,Nightshade,Solanum,577,0,1,trnF,bc1106--bc1176,Solanum gourlayi,10,"Wednesday, July 15, 2020",Late July,Mattawa,D,Potato,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,108,0,1,ITS,bc1152--bc1170,Solanum pinnatisectum,2090,"Monday, May 18, 2020",Late May,Mattawa,C,Potato,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,107,1,1,ITS,bc1146--bc1189,Solanum pinnatisectum,3287,"Monday, May 18, 2020",Late May,Mattawa,C,Potato,2020
+Potato,Solanaceae,potato,Solanum,108,0,1,trnF,bc1110--bc1175,Solanum tuberosum,57,"Monday, May 18, 2020",Late May,Mattawa,C,Potato,2020
+Potato,Solanaceae,potato,Solanum,362,0,1,trnF,bc1110--bc1142,Solanum tuberosum,2,"Wednesday, June 3, 2020",Early June,Mattawa,D,Potato,2020
+Potato,Solanaceae,potato,Solanum,372,0,1,trnF,bc1112--bc1143,Solanum tuberosum,11,"Wednesday, June 3, 2020",Early June,Othello,F,Potato,2020
+Potato,Solanaceae,potato,Solanum,577,0,1,trnF,bc1106--bc1176,Solanum tuberosum,560,"Wednesday, July 15, 2020",Late July,Mattawa,D,Potato,2020
+Potato,Solanaceae,potato,Solanum,107,1,1,trnF,bc1109--bc1175,Solanum tuberosum,170,"Monday, May 18, 2020",Late May,Mattawa,C,Potato,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,372,0,1,trnF,bc1112--bc1143,Salsola collina,3,"Wednesday, June 3, 2020",Early June,Othello,F,Potato,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,577,0,1,trnF,bc1106--bc1176,Salsola collina,218,"Wednesday, July 15, 2020",Late July,Mattawa,D,Potato,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,108,0,1,trnF,bc1110--bc1175,Chenopodium album,15,"Monday, May 18, 2020",Late May,Mattawa,C,Potato,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,577,0,1,trnF,bc1106--bc1176,Chenopodium album,23,"Wednesday, July 15, 2020",Late July,Mattawa,D,Potato,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,107,1,1,ITS,bc1146--bc1189,Chenopodium album,9,"Monday, May 18, 2020",Late May,Mattawa,C,Potato,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,113,1,1,ITS,bc1152--bc1172,Cannabis sativa,2894,"Monday, May 18, 2020",Late May,Mattawa,C,Russian thistle,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,153,1,0,ITS,bc1152--bc1155,Cannabis sativa,2,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,227,0,0,ITS,bc1153--bc1189,Cannabis sativa,2,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Crop,Cucurbitaceae,pumpkin or winter squash,Cucurbita,792,0,1,ITS,bc1124--bc1171,Cucurbita pepo,7,"Thursday, August 27, 2020",Late August,Othello,E,Russian thistle,2020
+Crop,Apiaceae,carrot,Daucus,171,0,0,ITS,bc1140--bc1152,Daucus carota,55,"Wednesday, May 27, 2020",Late May,Paterson,J,Russian thistle,2020
+Crop,Polygonaceae,Buckwheat,Fagopyrum,655,0,0,trnF,bc1144--bc1176,Fagopyrum esculentum,2,"Wednesday, August 12, 2020",Early August,Othello,F,Russian thistle,2020
+Crop,Fabaceae,soybean,Glycine,16,0,0,ITS,bc1150--bc1173,Glycine max,555,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Crop,Fabaceae,soybean,Glycine,16,0,0,trnF,bc1103--bc1110,Glycine soja,6,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Crop,Poaceae,Barley,Hordeum,199,1,1,trnF,bc1097--bc1108,Hordeum vulgare,14,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Crop,Asteraceae,garden lettuce,Lactuca,496,0,0,trnF,bc1097--bc1105,Lactuca sativa,5,"Thursday, June 25, 2020",Late June,Paterson,I,Russian thistle,2020
+Crop,Asteraceae,garden lettuce,Lactuca,568,1,0,trnF,bc1103--bc1176,Lactuca sativa,5,"Wednesday, July 15, 2020",Late July,Moxee,A,Russian thistle,2020
+Crop,Fabaceae,Pea,Pisum,227,0,0,ITS,bc1153--bc1189,Pisum sativum,4,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Crop,Solanaceae,Tomato,Solanum,137,1,0,ITS,bc1152--bc1154,Solanum lycopersicum,3,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Crop,Solanaceae,Tomato,Solanum,370,0,1,trnF,bc1111--bc1143,Solanum lycopersicum,3,"Wednesday, June 3, 2020",Early June,Mattawa,D,Russian thistle,2020
+Crop,Solanaceae,Tomato,Solanum,512,0,1,trnF,bc1100--bc1106,Solanum lycopersicum,9,"Thursday, June 25, 2020",Late June,Pasco,M,Russian thistle,2020
+Crop,Solanaceae,Tomato,Solanum,552,0,0,trnF,bc1114--bc1169,Solanum lycopersicum,10,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Crop,Solanaceae,Wild Tomato,Solanum,568,1,0,ITS,bc1134--bc1191,Solanum pennellii,3,"Wednesday, July 15, 2020",Late July,Moxee,A,Russian thistle,2020
+Crop,Fabaceae,cowpea,Vigna,153,1,0,ITS,bc1152--bc1155,Vigna unguiculata,18,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Crop,Fabaceae,cowpea,Vigna,16,0,0,ITS,bc1150--bc1173,Vigna unguiculata,2,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Crop,Fabaceae,cowpea,Vigna,84,1,1,ITS,bc1146--bc1155,Vigna unguiculata,3,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Grass,Poaceae,Barbed Goatgrass,Aegilops,123,0,1,ITS,bc1152--bc1191,Aegilops triuncialis,6,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Grass,Poaceae,Meadow Fescue,Festuca,552,0,0,trnF,bc1114--bc1169,Festuca pratensis,6,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Grass,Poaceae,Perennial Ryegrass,Lolium,552,0,0,trnF,bc1114--bc1169,Lolium perenne,2,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Grass,Poaceae,rye,Secale,123,0,1,ITS,bc1152--bc1191,Secale cereale,14,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Grass,Poaceae,Wheat,Triticum,123,0,1,ITS,bc1152--bc1191,Triticum aestivum,108,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,171,0,0,trnF,bc1107--bc1113,Bassia littorea,4,"Wednesday, May 27, 2020",Late May,Paterson,J,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,487,1,1,trnF,bc1100--bc1103,Bassia littorea,3,"Thursday, June 25, 2020",Late June,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,655,0,0,trnF,bc1144--bc1176,Bassia littorea,45,"Wednesday, August 12, 2020",Early August,Othello,F,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,792,0,1,trnF,bc1108--bc1177,Bassia littorea,3,"Thursday, August 27, 2020",Late August,Othello,E,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,137,1,0,trnF,bc1097--bc1107,Bassia littorea,2,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,198,0,0,trnF,bc1107--bc1110,Bassia littorea,39,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,232,1,1,trnF,bc1108--bc1110,Bassia littorea,24,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,345,1,1,trnF,bc1120--bc1142,Bassia littorea,84,"Wednesday, June 3, 2020",Early June,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,358,0,1,trnF,bc1109--bc1142,Bassia littorea,11,"Wednesday, June 3, 2020",Early June,Mattawa,C,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,369,1,1,trnF,bc1100--bc1143,Bassia littorea,3,"Wednesday, June 3, 2020",Early June,Mattawa,D,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,457,1,0,trnF,bc1110--bc1143,Bassia littorea,14,"Wednesday, June 17, 2020",Late June,Moxee,A,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,468,1,0,trnF,bc1100--bc1144,Bassia littorea,2,"Wednesday, June 17, 2020",Late June,Othello,E,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,482,1,0,trnF,bc1110--bc1144,Bassia littorea,4,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,496,0,0,trnF,bc1097--bc1105,Bassia littorea,5,"Thursday, June 25, 2020",Late June,Paterson,I,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,556,1,1,trnF,bc1100--bc1107,Bassia littorea,389,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,558,1,1,trnF,bc1108--bc1114,Bassia littorea,14,"Wednesday, July 1, 2020",Early July,Othello,E,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,644,0,0,trnF,bc1143--bc1176,Bassia littorea,32,"Wednesday, August 12, 2020",Early August,Moxee,A,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,763,0,0,trnF,bc1106--bc1177,Bassia littorea,3,"Thursday, August 27, 2020",Late August,Mattawa,C,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,16,0,0,trnF,bc1103--bc1110,Bassia littorea,2,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,299,1,1,trnF,bc1100--bc1142,Bassia littorea,2,"Wednesday, June 3, 2020",Early June,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,15,0,0,ITS,bc1150--bc1192,Bassia scoparia,315,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,792,0,1,ITS,bc1124--bc1171,Bassia scoparia,3,"Thursday, August 27, 2020",Late August,Othello,E,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,61,0,0,ITS,bc1146--bc1154,Bassia scoparia,3,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,124,0,0,ITS,bc1152--bc1192,Bassia scoparia,8,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,198,0,0,ITS,bc1153--bc1192,Bassia scoparia,6,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,199,1,1,ITS,bc1153--bc1173,Bassia scoparia,8,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,227,0,0,ITS,bc1153--bc1189,Bassia scoparia,38,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,556,1,1,ITS,bc1134--bc1171,Bassia scoparia,,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,614,1,1,ITS,bc1134--bc1140,Bassia scoparia,33,"Thursday, July 16, 2020",Late July,Paterson,J,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,616,1,0,ITS,bc1134--bc1189,Bassia scoparia,15,"Thursday, July 16, 2020",Late July,Paterson,J,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,16,0,0,ITS,bc1150--bc1173,Bassia scoparia,2,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,17,1,1,ITS,bc1150--bc1154,Bassia scoparia,2,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,84,1,1,ITS,bc1146--bc1155,Bassia scoparia,19,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,122,1,1,ITS,bc1152--bc1190,Bassia scoparia,12,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,15,0,0,ITS,bc1150--bc1192,Brassica carinata,11,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,137,1,0,ITS,bc1152--bc1154,Brassica carinata,24,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,153,1,0,ITS,bc1152--bc1155,Brassica carinata,561,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,227,0,0,ITS,bc1153--bc1189,Brassica carinata,2,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,16,0,0,ITS,bc1150--bc1173,Brassica carinata,7,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,17,1,1,ITS,bc1150--bc1154,Brassica carinata,9,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,84,1,1,ITS,bc1146--bc1155,Brassica carinata,1107,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Mustard,Brassicaceae,Chinese kale,Brassica,481,0,1,trnF,bc1109--bc1144,Brassica oleracea,6,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Mustard,Brassicaceae,Chinese kale,Brassica,644,0,0,trnF,bc1143--bc1176,Brassica oleracea,5,"Wednesday, August 12, 2020",Early August,Moxee,A,Russian thistle,2020
+Mustard,Brassicaceae,Chinese kale,Brassica,17,1,1,ITS,bc1150--bc1154,Brassica oleracea,9,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Blue mustard,Chorispora,171,0,0,ITS,bc1140--bc1152,Chorispora tenella,237,"Wednesday, May 27, 2020",Late May,Paterson,J,Russian thistle,2020
+Mustard,Brassicaceae,Blue mustard,Chorispora,153,1,0,ITS,bc1152--bc1155,Chorispora tenella,2,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,171,0,0,ITS,bc1140--bc1152,Descurainia sophia,140,"Wednesday, May 27, 2020",Late May,Paterson,J,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,61,0,0,ITS,bc1146--bc1154,Descurainia sophia,4,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,123,0,1,ITS,bc1152--bc1191,Descurainia sophia,2,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,153,1,0,ITS,bc1152--bc1155,Descurainia sophia,2,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,199,1,1,ITS,bc1153--bc1173,Descurainia sophia,5,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,227,0,0,ITS,bc1153--bc1189,Descurainia sophia,20,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,16,0,0,ITS,bc1150--bc1173,Descurainia sophia,2,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,84,1,1,ITS,bc1146--bc1155,Descurainia sophia,2,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Mustard,Brassicaceae,unknown,Pseudofortuynia,487,1,1,trnF,bc1100--bc1103,Pseudofortuynia leucoclada,4,"Thursday, June 25, 2020",Late June,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,153,1,0,ITS,bc1152--bc1155,Sisymbrium altissimum,12,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,84,1,1,ITS,bc1146--bc1155,Sisymbrium altissimum,9,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Mustard,Brassicaceae,Tall mustard,Sisymbrium,122,1,1,ITS,bc1152--bc1190,Sisymbrium loeselii,4,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Nightshade,Solanaceae,Matrimony vine,Lycium,227,0,0,ITS,bc1153--bc1189,Lycium barbarum,308,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,Goji,Lycium,153,1,0,trnF,bc1107--bc1111,Lycium chinense,14,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Nightshade,Solanaceae,Goji,Lycium,358,0,1,trnF,bc1109--bc1142,Lycium chinense,15,"Wednesday, June 3, 2020",Early June,Mattawa,C,Russian thistle,2020
+Nightshade,Solanaceae,Goji,Lycium,113,1,1,trnF,bc1112--bc1169,Lycium ferocissimum,10,"Monday, May 18, 2020",Late May,Mattawa,C,Russian thistle,2020
+Nightshade,Solanaceae,Coyote tobacco,Nicotiana,552,0,0,trnF,bc1114--bc1169,Nicotiana attenuata,4,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Nightshade,Solanaceae,Henbane bell,Scopolia,556,1,1,trnF,bc1100--bc1107,Scopolia carniolica,2,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Nightshade,Solanaceae,Nightshade,Solanum,198,0,0,trnF,bc1107--bc1110,Solanum gourlayi,2,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Nightshade,Solanaceae,Nightshade,Solanum,232,1,1,trnF,bc1108--bc1110,Solanum gourlayi,3,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,Nightshade,Solanum,568,1,0,trnF,bc1103--bc1176,Solanum gourlayi,2,"Wednesday, July 15, 2020",Late July,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,Nightshade,Solanum,17,1,1,trnF,bc1105--bc1112,Solanum gourlayi,9,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,171,0,0,ITS,bc1140--bc1152,Solanum pinnatisectum,5,"Wednesday, May 27, 2020",Late May,Paterson,J,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,61,0,0,ITS,bc1146--bc1154,Solanum pinnatisectum,2,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,113,1,1,ITS,bc1152--bc1172,Solanum pinnatisectum,4,"Monday, May 18, 2020",Late May,Mattawa,C,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,123,0,1,ITS,bc1152--bc1191,Solanum pinnatisectum,4,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,124,0,0,ITS,bc1152--bc1192,Solanum pinnatisectum,7,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,137,1,0,ITS,bc1152--bc1154,Solanum pinnatisectum,136,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,153,1,0,ITS,bc1152--bc1155,Solanum pinnatisectum,13,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,199,1,1,ITS,bc1153--bc1173,Solanum pinnatisectum,25,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,549,1,0,ITS,bc1133--bc1155,Solanum pinnatisectum,8,"Wednesday, July 1, 2020",Early July,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,568,1,0,ITS,bc1134--bc1191,Solanum pinnatisectum,8,"Wednesday, July 15, 2020",Late July,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,122,1,1,ITS,bc1152--bc1190,Solanum pinnatisectum,4,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,655,0,0,trnF,bc1144--bc1176,Amaranthus spinosus,4,"Wednesday, August 12, 2020",Early August,Othello,F,Russian thistle,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,496,0,0,trnF,bc1097--bc1105,Amaranthus spinosus,2,"Thursday, June 25, 2020",Late June,Paterson,I,Russian thistle,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,518,1,0,trnF,bc1106--bc1111,Amaranthus spinosus,5,"Thursday, June 25, 2020",Late June,Pasco,M,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,171,0,0,trnF,bc1107--bc1113,Solanum tuberosum,28,"Wednesday, May 27, 2020",Late May,Paterson,J,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,171,0,0,ITS,bc1140--bc1152,Solanum tuberosum,22,"Wednesday, May 27, 2020",Late May,Paterson,J,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,655,0,0,trnF,bc1144--bc1176,Solanum tuberosum,32,"Wednesday, August 12, 2020",Early August,Othello,F,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,792,0,1,trnF,bc1108--bc1177,Solanum tuberosum,5,"Thursday, August 27, 2020",Late August,Othello,E,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,113,1,1,trnF,bc1112--bc1169,Solanum tuberosum,3,"Monday, May 18, 2020",Late May,Mattawa,C,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,137,1,0,ITS,bc1152--bc1154,Solanum tuberosum,30,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,153,1,0,trnF,bc1107--bc1111,Solanum tuberosum,34,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,198,0,0,trnF,bc1107--bc1110,Solanum tuberosum,215,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,232,1,1,trnF,bc1108--bc1110,Solanum tuberosum,177,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,369,1,1,trnF,bc1100--bc1143,Solanum tuberosum,4,"Wednesday, June 3, 2020",Early June,Mattawa,D,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,370,0,1,trnF,bc1111--bc1143,Solanum tuberosum,10,"Wednesday, June 3, 2020",Early June,Mattawa,D,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,457,1,0,trnF,bc1110--bc1143,Solanum tuberosum,22,"Wednesday, June 17, 2020",Late June,Moxee,A,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,468,1,0,trnF,bc1100--bc1144,Solanum tuberosum,10,"Wednesday, June 17, 2020",Late June,Othello,E,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,481,0,1,trnF,bc1109--bc1144,Solanum tuberosum,5,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,482,1,0,trnF,bc1110--bc1144,Solanum tuberosum,91,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,511,0,0,trnF,bc1097--bc1106,Solanum tuberosum,5,"Thursday, June 25, 2020",Late June,Pasco,M,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,512,0,1,trnF,bc1100--bc1106,Solanum tuberosum,16,"Thursday, June 25, 2020",Late June,Pasco,M,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,549,1,0,trnF,bc1106--bc1112,Solanum tuberosum,21,"Wednesday, July 1, 2020",Early July,Moxee,A,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,550,1,0,trnF,bc1106--bc1113,Solanum tuberosum,2,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,552,0,0,trnF,bc1114--bc1169,Solanum tuberosum,20,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,556,1,1,trnF,bc1100--bc1107,Solanum tuberosum,2,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,568,1,0,trnF,bc1103--bc1176,Solanum tuberosum,64,"Wednesday, July 15, 2020",Late July,Moxee,A,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,587,1,0,trnF,bc1169--bc1176,Solanum tuberosum,42,"Wednesday, July 15, 2020",Late July,Othello,E,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,616,1,0,trnF,bc1108--bc1176,Solanum tuberosum,3,"Thursday, July 16, 2020",Late July,Paterson,J,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,644,0,0,trnF,bc1143--bc1176,Solanum tuberosum,3,"Wednesday, August 12, 2020",Early August,Moxee,A,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,763,0,0,trnF,bc1106--bc1177,Solanum tuberosum,6,"Thursday, August 27, 2020",Late August,Mattawa,C,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,17,1,1,trnF,bc1105--bc1112,Solanum tuberosum,726,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,15,0,0,ITS,bc1150--bc1192,Kali turgidum,7,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,792,0,1,ITS,bc1124--bc1171,Kali turgidum,31,"Thursday, August 27, 2020",Late August,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,113,1,1,ITS,bc1152--bc1172,Kali turgidum,5,"Monday, May 18, 2020",Late May,Mattawa,C,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,123,0,1,ITS,bc1152--bc1191,Kali turgidum,4,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,124,0,0,ITS,bc1152--bc1192,Kali turgidum,2539,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,137,1,0,ITS,bc1152--bc1154,Kali turgidum,909,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,198,0,0,ITS,bc1153--bc1192,Kali turgidum,464,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,199,1,1,ITS,bc1153--bc1173,Kali turgidum,1141,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,227,0,0,ITS,bc1153--bc1189,Kali turgidum,233,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,518,1,0,ITS,bc1133--bc1154,Kali turgidum,19,"Thursday, June 25, 2020",Late June,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,518,1,0,ITS,bc1133--bc1154,Kali turgidum,19,"Thursday, June 25, 2020",Late June,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,549,1,0,ITS,bc1133--bc1155,Kali turgidum,35,"Wednesday, July 1, 2020",Early July,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,550,1,0,ITS,bc1133--bc1140,Kali turgidum,38,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,568,1,0,ITS,bc1134--bc1191,Kali turgidum,33,"Wednesday, July 15, 2020",Late July,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,587,1,0,ITS,bc1134--bc1155,Kali turgidum,137,"Wednesday, July 15, 2020",Late July,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,614,1,1,ITS,bc1134--bc1140,Kali turgidum,6,"Thursday, July 16, 2020",Late July,Paterson,J,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,16,0,0,ITS,bc1150--bc1173,Kali turgidum,490,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,17,1,1,ITS,bc1150--bc1154,Kali turgidum,7,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,84,1,1,ITS,bc1146--bc1155,Kali turgidum,151,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,122,1,1,ITS,bc1152--bc1190,Kali turgidum,1888,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,487,1,1,trnF,bc1100--bc1103,Salsola collina,8,"Thursday, June 25, 2020",Late June,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,655,0,0,trnF,bc1144--bc1176,Salsola collina,212,"Wednesday, August 12, 2020",Early August,Othello,F,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,792,0,1,trnF,bc1108--bc1177,Salsola collina,36,"Thursday, August 27, 2020",Late August,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,137,1,0,trnF,bc1097--bc1107,Salsola collina,31,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,198,0,0,trnF,bc1107--bc1110,Salsola collina,16,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,199,1,1,trnF,bc1097--bc1108,Salsola collina,15,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,358,0,1,trnF,bc1109--bc1142,Salsola collina,5,"Wednesday, June 3, 2020",Early June,Mattawa,C,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,364,1,1,trnF,bc1097--bc1143,Salsola collina,19,"Wednesday, June 3, 2020",Early June,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,369,1,1,trnF,bc1100--bc1143,Salsola collina,25,"Wednesday, June 3, 2020",Early June,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,370,0,1,trnF,bc1111--bc1143,Salsola collina,13,"Wednesday, June 3, 2020",Early June,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,373,1,0,trnF,bc1113--bc1143,Salsola collina,28,"Friday, June 12, 2020",Early June,Pasco,N,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,457,1,0,trnF,bc1110--bc1143,Salsola collina,9,"Wednesday, June 17, 2020",Late June,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,468,1,0,trnF,bc1100--bc1144,Salsola collina,2,"Wednesday, June 17, 2020",Late June,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,481,0,1,trnF,bc1109--bc1144,Salsola collina,98,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,482,1,0,trnF,bc1110--bc1144,Salsola collina,4,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,496,0,0,trnF,bc1097--bc1105,Salsola collina,112,"Thursday, June 25, 2020",Late June,Paterson,I,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,512,0,1,trnF,bc1100--bc1106,Salsola collina,45,"Thursday, June 25, 2020",Late June,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,518,1,0,trnF,bc1106--bc1111,Salsola collina,136,"Thursday, June 25, 2020",Late June,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,549,1,0,trnF,bc1106--bc1112,Salsola collina,123,"Wednesday, July 1, 2020",Early July,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,550,1,0,trnF,bc1106--bc1113,Salsola collina,34,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,552,0,0,trnF,bc1114--bc1169,Salsola collina,37,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,558,1,1,trnF,bc1108--bc1114,Salsola collina,13,"Wednesday, July 1, 2020",Early July,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,568,1,0,trnF,bc1103--bc1176,Salsola collina,162,"Wednesday, July 15, 2020",Late July,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,587,1,0,trnF,bc1169--bc1176,Salsola collina,13,"Wednesday, July 15, 2020",Late July,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,614,1,1,trnF,bc1107--bc1176,Salsola collina,16,"Thursday, July 16, 2020",Late July,Paterson,J,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,616,1,0,trnF,bc1108--bc1176,Salsola collina,122,"Thursday, July 16, 2020",Late July,Paterson,J,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,644,0,0,trnF,bc1143--bc1176,Salsola collina,79,"Wednesday, August 12, 2020",Early August,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,763,0,0,trnF,bc1106--bc1177,Salsola collina,10,"Thursday, August 27, 2020",Late August,Mattawa,C,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,17,1,1,trnF,bc1105--bc1112,Salsola collina,2,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,122,1,1,trnF,bc1113--bc1169,Salsola collina,31,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,299,1,1,trnF,bc1100--bc1142,Salsola collina,59,"Wednesday, June 3, 2020",Early June,Mattawa,B,Russian thistle,2020
+Tree,Sapindaceae,Japanese Maple,Acer,482,1,0,trnF,bc1110--bc1144,Acer palmatum,2,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Tree,Sapindaceae,Silver Maple,Acer,122,1,1,ITS,bc1152--bc1190,Acer saccharinum,10,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Tree,Sapindaceae,Full moon Japanese Maple,Acer,482,1,0,trnF,bc1110--bc1144,Acer tenuifolium,4,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Tree,Oleaceae,Ash,Fraxinus,482,1,0,trnF,bc1110--bc1144,Fraxinus angustifolia,157,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Tree,Lythraceae,Myrtle,Lagerstroemia,482,1,0,trnF,bc1110--bc1144,Lagerstroemia suprareticulata,6,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Tree,Oleaceae,Privet,Ligustrum,644,0,0,trnF,bc1143--bc1176,Ligustrum lucidum,3,"Wednesday, August 12, 2020",Early August,Moxee,A,Russian thistle,2020
+Tree,Fabaceae,Amur Maackia ,Maackia,345,1,1,trnF,bc1120--bc1142,Maackia amurensis,2,"Wednesday, June 3, 2020",Early June,Mattawa,B,Russian thistle,2020
+Tree,Lauraceae,Phoebe hungmoensis,Phoebe,153,1,0,trnF,bc1107--bc1111,Phoebe hungmoensis,18,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Tree,Pinaceae,lodgepole pine,Pinus,17,1,1,trnF,bc1105--bc1112,Pinus contorta,13,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Tree,Anacardiaceae,Cashew,Pistacia,482,1,0,trnF,bc1110--bc1144,Pistacia vera,5,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Tree,Platanaceae,Sycamore,Platanus,482,1,0,trnF,bc1110--bc1144,Platanus orientalis,2,"Wednesday, June 17, 2020",Late June,Othello,F,Russian thistle,2020
+Tree,Rosaceae,pear,Pyrus,16,0,0,trnF,bc1103--bc1110,Pyrus communis,99,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Tree,Fagaceae,English oak,Quercus,122,1,1,ITS,bc1152--bc1190,Quercus robur,3,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,198,0,0,ITS,bc1153--bc1192,Tilia cordata,684,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,199,1,1,ITS,bc1153--bc1173,Tilia cordata,3,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,227,0,0,ITS,bc1153--bc1189,Tilia cordata,138,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,358,0,1,trnF,bc1109--bc1142,Tilia japonica,9,"Wednesday, June 3, 2020",Early June,Mattawa,C,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,616,1,0,trnF,bc1108--bc1176,Tilia japonica,4,"Thursday, July 16, 2020",Late July,Paterson,J,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,153,1,0,ITS,bc1152--bc1155,Tilia x,13,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,198,0,0,ITS,bc1153--bc1192,Tilia x,182,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,227,0,0,ITS,bc1153--bc1189,Tilia x,854,"Wednesday, June 3, 2020",Early June,Moxee,A,Russian thistle,2020
+Tree,Ulmaceae,Elm,Ulmus,61,0,0,ITS,bc1146--bc1154,Ulmus pumila,304,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Weed,Asteraceae,Yarrow,Achillea,171,0,0,trnF,bc1107--bc1113,Achillea millefolium,19,"Wednesday, May 27, 2020",Late May,Paterson,J,Russian thistle,2020
+Weed,Asteraceae,Yarrow,Achillea,171,0,0,ITS,bc1140--bc1152,Achillea millefolium,10,"Wednesday, May 27, 2020",Late May,Paterson,J,Russian thistle,2020
+Weed,Amaryllidaceae,Wild onion,Allium,84,1,1,ITS,bc1146--bc1155,Allium pskemense,4,"Monday, May 18, 2020",Late May,Mattawa,B,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,153,1,0,ITS,bc1152--bc1155,Chenopodium album,26,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,198,0,0,ITS,bc1153--bc1192,Chenopodium album,614,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,199,1,1,ITS,bc1153--bc1173,Chenopodium album,1013,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,558,1,1,trnF,bc1108--bc1114,Chenopodium album,167,"Wednesday, July 1, 2020",Early July,Othello,E,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,558,1,1,ITS,bc1134--bc1190,Chenopodium album,,"Wednesday, July 1, 2020",Early July,Othello,E,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,616,1,0,ITS,bc1134--bc1189,Chenopodium album,4,"Thursday, July 16, 2020",Late July,Paterson,J,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,16,0,0,ITS,bc1150--bc1173,Chenopodium album,644,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,299,1,1,trnF,bc1100--bc1142,Chenopodium album,4,"Wednesday, June 3, 2020",Early June,Mattawa,B,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,614,1,1,trnF,bc1107--bc1176,Chenopodium quinoa,2,"Thursday, July 16, 2020",Late July,Paterson,J,Russian thistle,2020
+Weed,Convolvulaceae,Field bindweed,Convolvulus,198,0,0,ITS,bc1153--bc1192,Convolvulus arvensis,48,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Weed,Geraniaceae,stork's bill,Erodium,153,1,0,trnF,bc1107--bc1111,Erodium carvifolium,5,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Weed,Geraniaceae,stork's bill,Erodium,16,0,0,trnF,bc1103--bc1110,Erodium carvifolium,22,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Weed,Geraniaceae,redstem filaree,Erodium,171,0,0,ITS,bc1140--bc1152,Erodium cicutarium,190,"Wednesday, May 27, 2020",Late May,Paterson,J,Russian thistle,2020
+Weed,Geraniaceae,redstem filaree,Erodium,153,1,0,ITS,bc1152--bc1155,Erodium cicutarium,4,"Monday, May 25, 2020",Late May,Paterson,H,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,124,0,0,ITS,bc1152--bc1192,Medicago sativa,2,"Monday, May 18, 2020",Late May,Mattawa,D,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,198,0,0,ITS,bc1153--bc1192,Medicago sativa,100,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,199,1,1,ITS,bc1153--bc1173,Medicago sativa,2,"Wednesday, May 27, 2020",Late May,Pasco,M,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,549,1,0,ITS,bc1133--bc1155,Medicago sativa,3,"Wednesday, July 1, 2020",Early July,Moxee,A,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,550,1,0,ITS,bc1133--bc1140,Medicago sativa,4,"Wednesday, July 1, 2020",Early July,Mattawa,B,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,16,0,0,ITS,bc1150--bc1173,Medicago sativa,6,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Weed,Portulacaceae,Purslane,Portulaca,373,1,0,trnF,bc1113--bc1143,Portulaca oleracea,7,"Friday, June 12, 2020",Early June,Pasco,N,Russian thistle,2020
+Weed,Asteraceae,Goldernrod,Solidago,616,1,0,trnF,bc1108--bc1176,Solidago canadensis,87,"Thursday, July 16, 2020",Late July,Paterson,J,Russian thistle,2020
+Crop,Asteraceae,Tarragon,Artemisia,17,1,1,ITS,bc1150--bc1154,Artemisia dracunculus,386,"Wednesday, May 13, 2020",Early May,Paterson,H,Russian thistle,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,201,0,0,ITS,bc1153--bc1154,Cannabis sativa,2,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,211,0,1,ITS,bc1153--bc1155,Cannabis sativa,13,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Crop,Solanaceae,Tomato,Solanum,182,1,1,ITS,bc1152--bc1189,Solanum lycopersicum,470,"Wednesday, May 27, 2020",Late May,Pasco,N,Tumble mustard,2020
+Crop,Solanaceae,Tomato,Solanum,22,0,0,ITS,bc1150--bc1189,Solanum lycopersicum,3,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Crop,Fabaceae,cowpea,Vigna,8,1,0,ITS,bc1150--bc1170,Vigna unguiculata,3,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Crop,Fabaceae,cowpea,Vigna,9,0,0,ITS,bc1150--bc1171,Vigna unguiculata,9,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Crop,Fabaceae,cowpea,Vigna,19,0,0,ITS,bc1140--bc1150,Vigna unguiculata,2,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Grass,Poaceae,Bromus sterilis,Bromus,19,0,0,trnF,bc1105--bc1109,Bromus sterilis,111,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Grass,Poaceae,Cheatgrass,Bromus,19,0,0,ITS,bc1140--bc1150,Bromus tectorum,1282,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Kochia,Amaranthaceae,Kochia,Bassia,19,0,0,trnF,bc1105--bc1109,Bassia littorea,6,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Kochia,Amaranthaceae,Kochia,Bassia,211,0,1,trnF,bc1108--bc1112,Bassia littorea,39,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Kochia,Amaranthaceae,Kochia,Bassia,22,0,0,trnF,bc1105--bc1110,Bassia littorea,7,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Kochia,Amaranthaceae,Kochia,Bassia,201,0,0,ITS,bc1153--bc1154,Bassia scoparia,6,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Kochia,Amaranthaceae,Kochia,Bassia,211,0,1,ITS,bc1153--bc1155,Bassia scoparia,5,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,8,1,0,ITS,bc1150--bc1170,Brassica carinata,1044,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,9,0,0,ITS,bc1150--bc1171,Brassica carinata,1892,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,19,0,0,ITS,bc1140--bc1150,Brassica carinata,276,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,182,1,1,ITS,bc1152--bc1189,Brassica carinata,344,"Wednesday, May 27, 2020",Late May,Pasco,N,Tumble mustard,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,22,0,0,ITS,bc1150--bc1189,Brassica carinata,5,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,9,0,0,ITS,bc1150--bc1171,Descurainia sophia,11,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,201,0,0,ITS,bc1153--bc1154,Descurainia sophia,934,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,211,0,1,ITS,bc1153--bc1155,Descurainia sophia,615,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,405,1,0,trnF,bc1120--bc1143,Descurainia sophia,13,"Friday, June 12, 2020",Early June,Paterson,J,Tumble mustard,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,405,1,0,ITS,bc1135--bc1171,Descurainia sophia,837,"Friday, June 12, 2020",Early June,Paterson,J,Tumble mustard,2020
+Mustard,Brassicaceae,unknown,Pseudofortuynia,8,1,0,trnF,bc1103--bc1111,Pseudofortuynia leucoclada,859,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,unknown,Pseudofortuynia,9,0,0,trnF,bc1103--bc1112,Pseudofortuynia leucoclada,267,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,8,1,0,trnF,bc1103--bc1111,Sisymbrium altissimum,55,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,9,0,0,trnF,bc1103--bc1112,Sisymbrium altissimum,45,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,19,0,0,ITS,bc1140--bc1150,Sisymbrium altissimum,4,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,182,1,1,trnF,bc1107--bc1114,Sisymbrium altissimum,27,"Wednesday, May 27, 2020",Late May,Pasco,N,Tumble mustard,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,182,1,1,ITS,bc1152--bc1189,Sisymbrium altissimum,10,"Wednesday, May 27, 2020",Late May,Pasco,N,Tumble mustard,2020
+Mustard,Brassicaceae,Tall mustard,Sisymbrium,211,0,1,ITS,bc1153--bc1155,Sisymbrium loeselii,3,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Nightshade,Solanaceae,Goji,Lycium,22,0,0,trnF,bc1105--bc1110,Lycium chinense,5,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Nightshade,Solanaceae,Nightshade,Solanum,22,0,0,trnF,bc1105--bc1110,Solanum gourlayi,8,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,8,1,0,ITS,bc1150--bc1170,Solanum pinnatisectum,5,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,182,1,1,ITS,bc1152--bc1189,Solanum pinnatisectum,35,"Wednesday, May 27, 2020",Late May,Pasco,N,Tumble mustard,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,201,0,0,ITS,bc1153--bc1154,Solanum pinnatisectum,9,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,211,0,1,ITS,bc1153--bc1155,Solanum pinnatisectum,379,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,22,0,0,ITS,bc1150--bc1189,Solanum pinnatisectum,7,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,201,0,0,trnF,bc1108--bc1111,Amaranthus spinosus,17,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,9,0,0,trnF,bc1103--bc1112,Solanum tuberosum,49,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,19,0,0,trnF,bc1105--bc1109,Solanum tuberosum,2,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,182,1,1,trnF,bc1107--bc1114,Solanum tuberosum,92,"Wednesday, May 27, 2020",Late May,Pasco,N,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,211,0,1,trnF,bc1108--bc1112,Solanum tuberosum,16,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,405,1,0,trnF,bc1120--bc1143,Solanum tuberosum,3,"Friday, June 12, 2020",Early June,Paterson,J,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,22,0,0,trnF,bc1105--bc1110,Solanum tuberosum,652,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,9,0,0,ITS,bc1150--bc1171,Kali turgidum,68,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,211,0,1,ITS,bc1153--bc1155,Kali turgidum,2,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,9,0,0,trnF,bc1103--bc1112,Salsola collina,173,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,182,1,1,trnF,bc1107--bc1114,Salsola collina,2,"Wednesday, May 27, 2020",Late May,Pasco,N,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,201,0,0,trnF,bc1108--bc1111,Salsola collina,73,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,211,0,1,trnF,bc1108--bc1112,Salsola collina,47,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Shrub,Smilacaceae,Greenbriar,Smilax,211,0,1,ITS,bc1153--bc1155,Smilax aberrans,3,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Tree,Rutaceae,Cam sành,Citrus,22,0,0,trnF,bc1105--bc1110,Citrus benikoji,20,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Tree,Pinaceae,Mexican Mountain Pine,Pinus,19,0,0,trnF,bc1105--bc1109,Pinus hartwegii,2,"Monday, May 18, 2020",Late May,Moxee,A,Tumble mustard,2020
+Tree,Fabaceae,Black Locust,Robinia,211,0,1,ITS,bc1153--bc1155,Robinia pseudoacacia,2,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Tree,Malvaceae,Linden,Tilia,201,0,0,ITS,bc1153--bc1154,Tilia cordata,58,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Tree,Malvaceae,Linden,Tilia,9,0,0,ITS,bc1150--bc1171,Tilia x,10,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Tree,Malvaceae,Linden,Tilia,201,0,0,ITS,bc1153--bc1154,Tilia x,2,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,9,0,0,trnF,bc1103--bc1112,Chenopodium album,9,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,9,0,0,ITS,bc1150--bc1171,Chenopodium album,2,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,182,1,1,trnF,bc1107--bc1114,Chenopodium album,10,"Wednesday, May 27, 2020",Late May,Pasco,N,Tumble mustard,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,201,0,0,trnF,bc1108--bc1111,Chenopodium album,9,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,211,0,1,ITS,bc1153--bc1155,Chenopodium album,3,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Weed,Convolvulaceae,Field bindweed,Convolvulus,201,0,0,ITS,bc1153--bc1154,Convolvulus arvensis,17,"Wednesday, June 3, 2020",Early June,Moxee,A,Tumble mustard,2020
+Weed,Geraniaceae,redstem filaree,Erodium,9,0,0,ITS,bc1150--bc1171,Erodium cicutarium,2,"Wednesday, April 22, 2020",Late April,Pasco,WSU,Tumble mustard,2020
+Weed,Geraniaceae,redstem filaree,Erodium,182,1,1,ITS,bc1152--bc1189,Erodium cicutarium,20,"Wednesday, May 27, 2020",Late May,Pasco,N,Tumble mustard,2020

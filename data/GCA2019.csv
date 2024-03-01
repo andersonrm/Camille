@@ -1,0 +1,580 @@
+Type,Family,Common,Genus,BLH ,BLTVA,BCTV,Barcode,Query,Organism,Sequences,Date,Time,Region,Site,HostPlant ,Year
+Shrub,Solanaceae,Goji Berry,Lycium,1,1,0,ITS,bc1133--bc1140,Lycium barbarum,12,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,1,1,0,ITS,bc1133--bc1140,Hyoscyamus niger,31,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Nightshade,Solanaceae,Cape gooseberry,Physalis,1,1,0,ITS,bc1133--bc1140,Physalis peruviana,10,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,1,1,0,ITS,bc1133--bc1140,Kali turgidum,7,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Weed,Apocynaceae,Khimp or Markh,Leptadenia,1,1,0,ITS,bc1133--bc1140,Leptadenia pyrotechnica,3,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Crop,Cucurbitaceae,Winter Squash or Pumpkin,Cucurbita,2,0,0,ITS,bc1134--bc1140,Cucurbita pepo,3,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Shrub,Lauraceae,Spicebush,Lindera,2,0,0,trnF,bc1112--bc1142,Lindera fragrans,7,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,2,0,0,ITS,bc1134--bc1140,Brassica carinata,11,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Mustard,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,2,0,0,ITS,bc1134--bc1140,Chorispora tenella,2,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,2,0,0,ITS,bc1134--bc1140,Hyoscyamus niger,3,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,2,0,0,trnF,bc1112--bc1142,Solanum dulcamara,2,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,2,0,0,ITS,bc1134--bc1140,Kali turgidum,4,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,2,0,0,trnF,bc1112--bc1142,Salsola komarovii,5,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Shrub,Rosaceae,Taiwanese Photinia,Photinia,2,0,0,ITS,bc1134--bc1140,Photinia serratifolia,2,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,2,0,0,trnF,bc1112--bc1142,Chenopodium acuminatum,3,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Weed,Fabaceae,Hairy Vetch,Vicia,2,0,0,ITS,bc1134--bc1140,Vicia villosa,16,"Monday, June 3, 2019",Early June,Mattawa ,RDR,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,12,0,0,ITS,bc1123--bc1140,Bassia scoparia,3,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,12,0,0,ITS,bc1123--bc1140,Brassica carinata,124,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,12,0,0,ITS,bc1123--bc1140,Descurainia sophia,765,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,12,0,0,trnF,bc1100--bc1142,Descurainia sophia,76,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,12,0,0,ITS,bc1123--bc1140,Kali turgidum,88,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,12,0,0,trnF,bc1100--bc1142,Salsola komarovii,12,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,18,1,0,trnF,bc1099--bc1142,Lactuca sativa,2,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,18,1,0,ITS,bc1124--bc1140,Brassica carinata,30,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,18,1,0,ITS,bc1124--bc1140,Descurainia sophia,51,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,18,1,0,ITS,bc1124--bc1140,Solanum tuberosum,3,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,18,1,0,ITS,bc1124--bc1140,Kali turgidum,292,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,18,1,0,trnF,bc1099--bc1142,Salsola komarovii,9,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Tree,Sapindaceae,Longan Tropical Fruit,Dimocarpus,18,1,0,ITS,bc1124--bc1140,Dimocarpus longan,2,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Weed,Brassicaceae,Wild cabbage/Kale,Brassica,18,1,0,ITS,bc1124--bc1140,Brassica oleracea,2,"Monday, June 3, 2019",Early June,Mattawa ,RDJ,Russian thistle,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,19,0,1,ITS,bc1140--bc1150,Cannabia sativa,724,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Grass,Poaceae,Cheatgrass,Bromus,19,0,1,ITS,bc1140--bc1150,Bromus tectorum,2,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,19,0,1,ITS,bc1140--bc1150,Amaranthus hybridus,3,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Shrub,Rosaceae,Japanese Photinia,Photinia,19,0,1,ITS,bc1140--bc1150,Photinia glabra,3,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Tree,Fagaceae,Oak,Quercus,19,0,1,ITS,bc1140--bc1150,Quercus robur,4,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Weed,Asteraceae,Horseweed,Erigeron,19,0,1,ITS,bc1140--bc1150,Erigeron canadensis,13,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,20,0,0,ITS,bc1140--bc1146,Cannabis sativa,2,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Crop,Solanaceae,Tomato,Solanum,20,0,0,ITS,bc1140--bc1146,Solanum lycopersicum,83,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,20,0,0,ITS,bc1140--bc1146,Solanum pinnatisectum,206,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,20,0,0,ITS,bc1140--bc1146,Kali turgidum,5,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Tree,Sapindaceae,Red maple,Acer,20,0,0,ITS,bc1140--bc1146 ,Acer rubrum,4,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Tree,Fagaceae,Oak,Quercus,20,0,0,ITS,bc1140--bc1146,Quercus sp.,26,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Tree,Malvaceae,Linden,Tilia,20,0,0,ITS,bc1140--bc1146,Tilia x,11,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Weed,Asteraceae,Common sandaster or California Aster,Corethrogyne,20,0,0,ITS,bc1140--bc1146,Corethrogyne filaginifolia,4,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Potato,2019
+Crop,Brassicaceae,Radish,Raphanus,28,1,1,ITS,bc1146--bc1155,Raphanus sativus,4,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Mustard,2019
+Crop,Brassicaceae,Radish,Raphanus,28,1,1,trnF,bc1097--bc1142,Raphanus sativus,2,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Mustard,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,28,1,1,ITS,bc1146--bc1155,Brassica carinata,315,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Mustard,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,28,1,1,ITS,bc1146--bc1155,Kali turgidum,77,"Wednesday, June 12, 2019",Early June,Mattawa ,RDR,Mustard,2019
+Crop,Asteraceae,Lettuce,Lactuca,33,0,0,trnF,bc1108--bc1178,Lactuca sativa,42,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Common Tobacco,Nicotiana,33,0,0,ITS,bc1152--bc1155,Nicotiana tabacum,3,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,33,0,0,ITS,bc1152--bc1155,Raphanus sativus,10,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Tomato,Solanum,33,0,0,ITS,bc1152--bc1155,Solanum lycopersicum,25,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,33,0,0,ITS,bc1152--bc1155,Bassia scoparia,7,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,33,0,0,ITS,bc1152--bc1155,Brassica carinata,323,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,33,0,0,ITS,bc1152--bc1155,Chorispora tenella,2,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,33,0,0,ITS,bc1152--bc1155,Descurainia sophia,5,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,33,0,0,trnF,bc1108--bc1178,Sisymbrium altissimum,13,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,33,0,0,ITS,bc1152--bc1155,Hyoscyamus niger,5,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,33,0,0,trnF,bc1108--bc1178,Solanum dulcamara,10,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,33,0,0,trnF,bc1108--bc1178,Solanum tuberosum,12,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,33,0,0,ITS,bc1152--bc1155,Kali turgidum,41,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,33,0,0,trnF,bc1108--bc1178,Salsola komarovii,72,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,33,0,0,trnF,bc1108--bc1178,Citrus aurantium,3,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Tree,Morceae,Himalyan Mulberry,Morus,33,0,0,trnF,bc1108--bc1178,Morus serrata,25,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Boraginaceae,Common fiddleneck(Menzie's),Amsinckia,33,0,0,ITS,bc1152--bc1155,Amsinckia menziesii,6,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Artemisia Yin Chen Hao,Artemisia,33,0,0,trnF,bc1108--bc1178,Artemisia capillaris,8,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Common sandaster or California Aster,Corethrogyne,33,0,0,ITS,bc1152--bc1155,Corethrogyne filaginifolia,8,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,33,0,0,trnF,bc1108--bc1178,Erigeron canadensis,86,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,33,0,0,trnF,bc1108--bc1178,Erigeron canadensis,6,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,34,0,0,ITS,bc1153--bc1155,Cannabis sativa,8,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Tomato,Solanum,34,0,0,ITS,bc1153--bc1155,Solanum lycopersicum,2,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Cowpea,Vigna,34,0,0,ITS,bc1153--bc1155,Vigna unguiculata,4,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,34,0,0,ITS,bc1153--bc1155,Brassica carinata,209,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,34,0,0,ITS,bc1153--bc1155,Chorispora tenella,2,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,34,0,0,trnF,bc1108--bc1177,Solanum tuberosum,10,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,34,0,0,ITS,bc1153--bc1155,Kali turgidum,14,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Artemisia Makino,Artemisia,34,0,0,ITS,bc1153--bc1155,Artemisia fukudo,2,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,35,0,0,ITS,bc1155--bc1158,Brassica carinata,2,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,35,0,0,trnF,bc1108--bc1176,Sisymbrium altissimum,4,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,35,0,0,ITS,bc1155--bc1158,Hyoscyamus niger,9,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,35,0,0,ITS,bc1155--bc1158,Solanum pinnatisectum,13,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,35,0,0,ITS,bc1155--bc1158,Amaranthus hybridus,3,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,35,0,0,trnF,bc1108--bc1176,Solanum tuberosum,23,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,35,0,0,ITS,bc1155--bc1158,Kali turgidum,10,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,35,0,0,trnF,bc1108--bc1176,Salsola komarovii,3,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Tree,Fagaceae,Northern red oak,Quercus,35,0,0,ITS,bc1155--bc1158,Quercus rubra,18,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Tree,Malvaceae,Linden,Tilia,35,0,0,ITS,bc1155--bc1158,Tilia x,24,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,35,0,0,trnF,bc1108--bc1176,Erigeron canadensis,22,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,35,0,0,ITS,bc1155--bc1158,Erigeron strigosus,88,"Wednesday, June 12, 2019",Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,39,0,0,ITS,bc1140--bc1152,Cucumis sativus,7,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Crop,Brassicaceae,Radish,Raphanus,39,0,0,ITS,bc1140--bc1152,Raphanus sativus,3,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,39,0,0,ITS,bc1140--bc1152,Hyoscyamus niger,7,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,39,0,0,trnF,bc1109--bc1142,Amaranthus blitum,6,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,39,0,0,ITS,bc1140--bc1152,Amaranthus hybridus,97,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,39,0,0,trnF,bc1109--bc1142,Amaranthus viridis,8,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Weed,Asteraceae,Safflower,Carthamus,39,0,0,ITS,bc1140--bc1152,Carthamus tinctorius,18,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Weed,Asteraceae,Spotted knapweed,Centaurea,39,0,0,trnF,bc1109--bc1142,Centaurea maculosa,4,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,40,0,0,ITS,bc1140--bc1153,Cannabis sativa,10,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Crop,Amaryllidaceae,Onion,Allium,40,0,0,ITS,bc1140--bc1153,Allium cepa,3,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,40,0,0,ITS,bc1140--bc1153,Bassia scoparia,2,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,40,0,0,ITS,bc1140--bc1153,Chenopodium album,15,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,40,0,0,ITS,bc1140--bc1153,Brassica carinata,5,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,40,0,0,ITS,bc1140--bc1153,Solanum pinnatisectum,8,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,40,0,0,trnF,bc1110--bc1142,Amaranthus blitum,23,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,40,0,0,ITS,bc1140--bc1153,Amaranthus hybridus,399,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,40,0,0,ITS,bc1140--bc1153,Kali turgidum,3,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,40,0,0,trnF,bc1110--bc1142,Salsola komarovii,4,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Weed,Boraginaceae,Common fiddleneck(Intermediate),Amsinckia,40,0,0,trnF,bc1110--bc1142,Amsinckia intermedia,7,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Weed,Asteraceae,Prickly Lettuce,Lactuca,40,0,0,ITS,bc1140--bc1153,Lactuca serriola,3,"Friday, June 14, 2019",Early June,Pasco,505,Pigweed,2019
+Crop,Fabaceae,Alfalfa,Medicago,43,0,0,ITS,bc1155--bc1157 ,Medicago sativa,23,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,43,0,0,ITS,bc1155--bc1157,Bassia scoparia,14,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,43,0,0,ITS,bc1155--bc1157,Brassica carinata,27,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,43,0,0,ITS,bc1155--bc1157,Solanum dulcamara,2,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,43,0,0,ITS,bc1155--bc1157,Solanum nigrum/americanum,2,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Tree,Sapindaceae,Sugar maple,Acer,43,0,0,ITS,bc1155--bc1157,Acer saccharinum,71,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Tree,Rosaceae,Peach,Prunus,43,0,0,ITS,bc1155--bc1157,Prunus persica,64,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Weed,Geraniaceae,Redstem Filaree,Erodium,43,0,0,ITS,bc1155--bc1157,Erodium cicutarium,10,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,44,0,0,trnF,bc1108--bc1109,Lactuca sativa,2,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,44,0,0,trnF,bc1108--bc1109,Bassia littorea,2,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,44,0,0,ITS,bc1155--bc1156,Bassia scoparia,5,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,44,0,0,ITS,bc1155--bc1156,Chenopodium album,4,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,44,0,0,ITS,bc1155--bc1156,Kali turgidum,5,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Tree,Rosaceae,Peach,Prunus,44,0,0,ITS,bc1155--bc1156,Prunus persica,4,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,44,0,0,trnF,bc1108--bc1109,Erodium carvifolium,7,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Weed,Geraniaceae,Redstem Filaree,Erodium,44,0,0,ITS,bc1155--bc1156,Erodium cicutarium,58,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Crop,Apiaceae,Coriander or Cilantro,Coriandrum,45,0,0,trnF,bc1108--bc1115,Coriandrum sativum,2,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,45,0,0,ITS,bc1155--bc1159,Cucumis sativus,6,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Crop,Vitaceae,Grape vine,Vitis,45,0,0,trnF,bc1108--bc1115,Vitis vinifera,10,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,45,0,0,ITS,bc1155--bc1159,Brassica carinata,2,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,45,0,0,trnF,bc1108--bc1115,Salsola komarovii,7,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Tree,Oleaceae,Chinese Privet,Ligustrum,45,0,0,trnF,bc1108--bc1115,Ligustrum lucidum,7,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Weed,Geraniaceae,Redstem Filaree,Erodium,45,0,0,ITS,bc1155--bc1159,Erodium cicutarium,26,"Friday, June 14, 2019",Early June,Pasco,WSU,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,50,0,0,trnF,bc1108--bc1114,Lactuca sativa,13,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,50,0,0,ITS,bc1135--bc1155,Brassica carinata,73,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,50,0,0,trnF,bc1108--bc1114,Sisymbrium altissimum,2,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,50,0,0,ITS,bc1135--bc1155,Kali turgidum,303,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,50,0,0,trnF,bc1108--bc1114,Salsola komarovii,68,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,50,0,0,trnF,bc1108--bc1114,Erodium carvifolium,2,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Crop,Apiaceae,Coriander or Cilantro,Coriandrum,51,0,0,trnF,bc1108--bc1113,Coriandrum sativum,3,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,51,0,0,ITS,bc1148--bc1155,Kali turgidum,317,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,51,0,0,trnF,bc1108--bc1113,Salsola komarovii,259,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Tree,Anacardiaceae,Chinese Pistachio,Pistacia,51,0,0,trnF,bc1108--bc1113,Pistacia chinensis,12,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Weed,Geraniaceae,Redstem Filaree,Erodium,51,0,0,ITS,bc1148--bc1155,Erodium cicutarium,14,"Friday, June 14, 2019",Early June,Pasco,WSU,Russian thistle,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,52,0,0,ITS,bc1140--bc1158,Cannabis sativa,3,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,52,0,0,ITS,bc1140--bc1158,Cucumis sativus,2,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Crop,Asteraceae,Lettuce,Lactuca,52,0,0,trnF,bc1142--bc1176,Lactuca sativa,3,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Crop,Brassicaceae,Radish,Raphanus,52,0,0,trnF,bc1142--bc1176,Raphanus sativus,2,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,52,0,0,ITS,bc1140--bc1158,Bassia scoparia,13,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,52,0,0,ITS,bc1140--bc1158,Brassica carinata,120,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,52,0,0,ITS,bc1140--bc1158,Brassica carinata,64,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,52,0,0,ITS,bc1140--bc1158,Solanum pinnatisectum,3,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,52,0,0,trnF,bc1142--bc1176,Amaranthus blitum,48,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,52,0,0,ITS,bc1140--bc1158,Amaranthus hybridus,1061,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,52,0,0,ITS,bc1140--bc1158,Kali turgidum,8,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Tree,Rutaceae,Sweet orange,Citrus,52,0,0,ITS,bc1140--bc1158,Citrus sinensis,2,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Weed,Brassicaceae,Wild cabbage/Kale,Brassica,52,0,0,ITS,bc1140--bc1158,Brassica oleracea,2,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Weed,Asteraceae,Prickly Lettuce,Lactuca,52,0,0,ITS,bc1140--bc1158,Lactuca serriola,40,"Thursday, June 20, 2019",Late June,Paterson,475,Pigweed,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,54,0,0,ITS,bc1140--bc1157,Cannabis sativa,89,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,54,0,0,ITS,bc1140--bc1157,Chenopodium album,249,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,54,0,0,ITS,bc1140--bc1157,Solanum nigrum/americanum,470,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,White-Flowered Nightshade,Solanum,54,0,0,trnF,bc1142--bc1177,Solanum physalifolium,6,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,54,0,0,ITS,bc1140--bc1157,Solanum pinnatisectum,2,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,54,0,0,ITS,bc1140--bc1157,Amaranthus hybridus,7,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Tree,Oleaceae,Common Olive,Olea,54,0,0,ITS,bc1140--bc1157,Olea europaea,4,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,54,0,0,ITS,bc1140--bc1157,Tribulus terrestris,140,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,56,0,0,ITS,bc1140--bc1156,Cannabis sativa,10,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Shrub,Solanaceae,African Boxthorn,Lycium,56,0,0,trnF,bc1142--bc1178,Lycium ferocissimum,3,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,56,0,0,ITS,bc1140--bc1156,Chenopodium album,2,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,56,0,0,ITS,bc1140--bc1156,Brassica carinata,47,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,56,0,0,ITS,bc1140--bc1156,Solanum nigrum/americanum,14,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,56,0,0,ITS,bc1140--bc1156,Solanum pinnatisectum,3,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Potato,Solanaceae,Potato,Solanum,56,0,0,trnF,bc1142--bc1178,Solanum tuberosum,2,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Tree,Sapindaceae,Red maple,Acer,56,0,0,ITS,bc1140--bc1156,Acer rubrum,3,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Tree,Malvaceae,Linden,Tilia,56,0,0,ITS,bc1140--bc1156,Tilia x,2,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Weed,Asteraceae,Artemisia Makino,Artemisia,56,0,0,ITS,bc1140--bc1156,Artemisia fukudo,2,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Weed,Asteraceae,Horseweed,Erigeron,56,0,0,ITS,bc1140--bc1156,Erigeron canadensis,2,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,56,0,0,trnF,bc1142--bc1178,Erodium carvifolium,4,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Weed,Convolvulaceae,Ginger-leaf Morning Glory,Ipomoea,56,0,0,ITS,bc1140--bc1156,Ipomoea asarifolia,2,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Weed,Malvaceae,Little Mallow,Malva,56,0,0,ITS,bc1140--bc1156,Malva parviflora,2,"Friday, June 21, 2019",Late June,Pasco,WSU,Pigweed,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,60,0,1,ITS,bc1140--bc1159,Cannabis sativa,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Potato,2019
+Crop,Cucurbitaceae,Winter Squash or Pumpkin,Cucurbita,60,0,1,ITS,bc1140--bc1159,Cucurbita pepo,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Potato,2019
+Crop,Asteraceae,Lettuce,Lactuca,60,0,1,trnF,bc1113--bc1143,Lactuca sativa,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Potato,2019
+Crop,Fabaceae,Pea,Pisum,60,0,1,ITS,bc1140--bc1159,Pisum sativum,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Potato,2019
+Crop,Solanaceae,Tomato,Solanum,60,0,1,ITS,bc1140--bc1159,Solanum lycopersicum,25,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Potato,2019
+Nightshade,Solanaceae,Clammy Groundcherry,Physalis,60,0,1,trnF,bc1113--bc1143,Physalis heterophylla,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,60,0,1,ITS,bc1140--bc1159,Solanum pinnatisectum,60,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Potato,2019
+Potato,Solanaceae,Potato,Solanum,60,0,1,trnF,bc1113--bc1143,Solanum tuberosum,182,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Potato,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,60,0,1,ITS,bc1140--bc1159,Kali turgidum,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Potato,2019
+Tree,Oleaceae,Ash tree,Fraxinus,60,0,1,trnF,bc1113--bc1143,Fraxinus hupehensis,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Potato,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,69,1,0,ITS,bc1133--bc1155,Cucumis sativus,5,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Polygonaceae,Common Buckwheat,Fagopyrum,69,1,0,trnF,bc1108--bc1112,Fagopyrum esculentum,10,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,69,1,0,ITS,bc1133--bc1155,Medicago sativa,6,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,69,1,0,trnF,bc1108--bc1112,Raphanus sativus,25,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,69,1,0,ITS,bc1133--bc1155,Raphanus sativus,17,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Tomato,Solanum,69,1,0,ITS,bc1133--bc1155,Solanum lycopersicum,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Shrub,Theaceae,Camellia,Camellia,69,1,0,trnF,bc1108--bc1112,Camellia reticulata,4,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Grass,Poaceae,Pearl millet,Cenchrus,69,1,0,ITS,bc1133--bc1155,Cenchrus americanus,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Grass,Poaceae,Bluebunch Wheat Grass,Pseudoroegneria,69,1,0,trnF,bc1108--bc1112,Pseudoroegneria gracillima,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,69,1,0,ITS,bc1133--bc1155,Chenopodium album,377,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,69,1,0,ITS,bc1133--bc1155,Descurainia sophia,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,69,1,0,ITS,bc1133--bc1155,Solanum dulcamara,6,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,69,1,0,ITS,bc1133--bc1155,Solanum nigrum/americanum,4,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,69,1,0,ITS,bc1133--bc1155,Solanum pinnatisectum,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,69,1,0,ITS,bc1133--bc1155,Amaranthus hybridus,8,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,69,1,0,ITS,bc1133--bc1155,Kali turgidum,198,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,69,1,0,trnF,bc1108--bc1112,Salsola komarovii,47,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Tree,Oleaceae,Common Olive,Olea,69,1,0,ITS,bc1133--bc1155,Olea europaea,7,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,69,1,0,trnF,bc1108--bc1112,Chenopodium acuminatum,35,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,69,1,0,ITS,bc1133--bc1155,Erigeron strigosus,7,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,70,0,0,ITS,bc1134--bc1155,Medicago sativa,8,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,70,0,0,ITS,bc1134--bc1155,Raphanus sativus,64,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,70,0,0,trnF,bc1108--bc1111,Raphanus sativus,8,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Tomato,Solanum,70,0,0,ITS,bc1134--bc1155,Solanum lycopersicum,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,70,0,0,trnF,bc1108--bc1111,Bassia littorea,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,70,0,0,ITS,bc1134--bc1155,Amaranthus hybridus,7,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,70,0,0,trnF,bc1108--bc1111,Solanum tuberosum,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,70,0,0,ITS,bc1134--bc1155,Kali turgidum,23,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,70,0,0,trnF,bc1108--bc1111,Salsola komarovii,20,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Tree,Malvaceae,Large Leaf Linden or Lime,Tilia,70,0,0,trnF,bc1108--bc1111,Tilia platyphyllos,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Amaranthaceae,Saltbush,Chenopodium,70,0,0,ITS,bc1134--bc1155,Atriplex sp.,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,71,0,1,ITS,bc1123--bc1155,Raphanus sativus,6,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Grass,Poaceae,Pearl millet,Cenchrus,71,0,1,ITS,bc1123--bc1155,Cenchrus americanus,5,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,71,0,1,ITS,bc1123--bc1155,Chenopodium album,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,71,0,1,ITS,bc1123--bc1155,Amaranthus hybridus,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,71,0,1,trnF,bc1098--bc1108,Solanum tuberosum,7,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Hydrophyllaceae,Franklin’s phacelia,Phacelia,71,0,1,ITS,bc1123--bc1155,Phacelia franklinii,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,72,0,0,ITS,bc1124--bc1155,Cucumis sativus,18,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,72,0,0,trnF,bc1097--bc1108,Lactuca sativa,19,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,72,0,0,ITS,bc1124--bc1155,Raphanus sativus,21,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,72,0,0,trnF,bc1097--bc1108,Raphanus sativus,12,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,72,0,0,ITS,bc1124--bc1155,Raphanus sativus,10,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,72,0,0,trnF,bc1097--bc1108,Bassia littorea,4,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,72,0,0,ITS,bc1124--bc1155,Bassia scoparia,24,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,72,0,0,ITS,bc1124--bc1155,Chenopodium album,49,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,72,0,0,ITS,bc1124--bc1155,Hyoscyamus niger,7,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,72,0,0,ITS,bc1124--bc1155,Solanum nigrum/americanum,8,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Wild Tomato,Solanum,72,0,0,ITS,bc1124--bc1155,Solanum pennellii,4,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,72,0,0,ITS,bc1124--bc1155,Solanum pinnatisectum,7,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,72,0,0,ITS,bc1124--bc1155,Amaranthus hybridus,10,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,72,0,0,trnF,bc1097--bc1108,Solanum tuberosum,11,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,72,0,0,ITS,bc1124--bc1155,Kali turgidum,33,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,72,0,0,trnF,bc1097--bc1108,Salsola komarovii,28,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,72,0,0,trnF,bc1097--bc1108,Chenopodium acuminatum,36,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Sow thistle or hare thistle,Sonchus,72,0,0,trnF,bc1097--bc1108,Sonchus fragilis,5,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,73,1,0,ITS,bc1150--bc1154,Cucumis sativus,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,73,1,0,trnF,bc1107--bc1178,Lactuca sativa,73,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,73,1,0,ITS,bc1150--bc1154,Medicago sativa,5,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,73,1,0,ITS,bc1150--bc1154,Raphanus sativus,19,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,73,1,0,trnF,bc1107--bc1178,Raphanus sativus,16,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Shrub,Solanaceae,Goji Berry,Lycium,73,1,0,ITS,bc1150--bc1154,Lycium barbarum,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Grass,Poaceae,Pearl millet,Cenchrus,73,1,0,ITS,bc1150--bc1154,Cenchrus americanus,4,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,73,1,0,trnF,bc1107--bc1178,Bassia littorea,38,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,73,1,0,ITS,bc1150--bc1154,Bassia scoparia,80,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,73,1,0,ITS,bc1150--bc1154,Chenopodium album,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,73,1,0,ITS,bc1150--bc1154,Hyoscyamus niger,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,73,1,0,ITS,bc1150--bc1154,Solanum pinnatisectum,6,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,73,1,0,trnF,bc1107--bc1178,Solanum tuberosum,125,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,73,1,0,ITS,bc1150--bc1154,Kali turgidum,77,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,73,1,0,trnF,bc1107--bc1178,Salsola komarovii,58,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,73,1,0,trnF,bc1107--bc1178,Salsola komarovii,14,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,73,1,0,trnF,bc1107--bc1178,Chenopodium acuminatum,4,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,73,1,0,trnF,bc1107--bc1178,Erigeron canadensis,16,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,73,1,0,ITS,bc1150--bc1154,Erigeron strigosus,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Sow thistle,Sonchus,73,1,0,ITS,bc1150--bc1154,Sonchus oleraceus,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,74,1,1,ITS,bc1146--bc1154,Medicago sativa,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Tomato,Solanum,74,1,1,ITS,bc1146--bc1154,Solanum lycopersicum,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Amaranthaceae,Spinach,Spinacia,74,1,1,ITS,bc1146--bc1154,Spinacia oleracea,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,74,1,1,ITS,bc1146--bc1154,Bassia scoparia,4,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,74,1,1,ITS,bc1146--bc1154,Erigeron strigosus,12,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Linaceae,Narrow Leaf Flax,Linum,74,1,1,ITS,bc1146--bc1154,Linum bienne,10,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,79,1,0,trnF,bc1107--bc1176,Raphanus sativus,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Grass,Poaceae,Green Foxtail,Setaria,79,1,0,ITS,bc1152--bc1154,Setaria viridis,5,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,79,1,0,ITS,bc1152--bc1154 ,Chenopodium album,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,79,1,0,ITS,bc1152--bc1154,Kali turgidum,53,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,79,1,0,trnF,bc1107--bc1176,Salsola komarovii,95,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,79,1,0,trnF,bc1107--bc1176,Chenopodium acuminatum,5,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,79,1,0,ITS,bc1152--bc1154,Erigeron strigosus,120,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,82,1,0,ITS,bc1153--bc1154,Medicago sativa,4,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,82,1,0,trnF,bc1107--bc1110,Raphanus sativus,5,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,82,1,0,trnF,bc1107--bc1110,Bassia littorea,6,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,82,1,0,ITS,bc1153--bc1154,Chenopodium album,34,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,82,1,0,ITS,bc1153--bc1154,Solanum nigrum/americanum,3,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Wild Tomato,Solanum,82,1,0,trnF,bc1107--bc1110,Solanum pennellii,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,82,1,0,ITS,bc1153--bc1154,Kali turgidum,80,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,82,1,0,trnF,bc1107--bc1110,Salsola komarovii,25,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Tree,Rutaceae,Sweet orange,Citrus,82,1,0,ITS,bc1153--bc1154,Citrus sinensis,4,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,82,1,0,trnF,bc1107--bc1110,Erigeron canadensis,28,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,82,1,0,ITS,bc1153--bc1154,Erigeron strigosus,2,"Wednesday, July 3, 2019",Early July,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,90,0,0,trnF,bc1114--bc1143,Solanum tuberosum,6,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Tree,Anacardiaceae,Chinese Pistachio,Pistacia,90,0,0,trnF,bc1114--bc1143,Pistacia chinensis,4,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Tree,Rosaceae,Pendula or Willow-Leaf Pear,Pyrus,90,0,0,trnF,bc1114--bc1143,Pyrus salicifolia,8,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Solanaceae,Cayenne Pepper ,Capsicum,91,0,1,trnF,bc1115--bc1143,Capsicum annuum,19,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Solanaceae,Cayenne Pepper ,Capsicum,91,0,1,ITS,bc1140--bc1148,Capsicum annuum,2,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Solanaceae,Chili Pepper,Capsicum,91,0,1,trnF,bc1115--bc1143 ,Capsicum caatingae,2,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Asteraceae,Lettuce,Lactuca,91,0,1,trnF,bc1115--bc1143,Lactuca sativa,2,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Fabaceae,Alfalfa,Medicago,91,0,1,ITS,bc1140--bc1148,Medicago sativa,40,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Nightshade,Solanaceae,Clammy Groundcherry,Physalis,91,0,1,trnF,bc1115--bc1143,Physalis heterophylla,4,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,91,0,1,ITS,bc1140--bc1148,Solanum pinnatisectum,40,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Potato,Solanaceae,Potato,Solanum,91,0,1,trnF,bc1115--bc1143,Solanum tuberosum,208,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,91,0,1,trnF,bc1115--bc1143,Salsola komarovii,7,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Tree,Fagaceae,Oak,Quercus,91,0,1,ITS,bc1140--bc1148,Quercus robur,2,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,92,0,0,ITS,bc1150--bc1189,Cannabis sativa,8,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Asteraceae,Lettuce,Lactuca,92,0,0,trnF,bc1120--bc1143,Lactuca sativa,19,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Fabaceae,Alfalfa,Medicago,92,0,0,ITS,bc1150--bc1189,Medicago sativa,5,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Brassicaceae,Radish,Raphanus,92,0,0,ITS,bc1150--bc1189,Raphanus sativus,35,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Solanaceae,Tomato,Solanum,92,0,0,ITS,bc1150--bc1189,Solanum lycopersicum,17,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Fabaceae,Fava Bean,Vicia,92,0,0,ITS,bc1150--bc1189,Vicia faba 5.8S,9,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Shrub,Solanaceae,African Boxthorn,Lycium,92,0,0,trnF,bc1120--bc1143,Lycium ferocissimum,7,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,92,0,0,ITS,bc1150--bc1189,Brassica carinata,6,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,92,0,0,ITS,bc1150--bc1189,Solanum pinnatisectum,130,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Potato,Solanaceae,Potato,Solanum,92,0,0,trnF,bc1120--bc1143,Solanum tuberosum,105,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,92,0,0,ITS,bc1150--bc1189,Kali turgidum,46,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,92,0,0,trnF,bc1120--bc1143,Citrus clementina,14,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Weed,Asteraceae,Fleabane,Erigeron,92,0,0,ITS,bc1150--bc1189,Erigeron strigosus,6,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,93,0,0,ITS,bc1146--bc1189,Cucumis sativus,12,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Asteraceae,Lettuce,Lactuca,93,0,0,trnF,bc1109--bc1143,Lactuca sativa,3,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,93,0,0,ITS,bc1146--bc1189,Solanum pinnatisectum,12,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Potato,Solanaceae,Potato,Solanum,93,0,0,trnF,bc1109--bc1143,Solanum tuberosum,30,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Tree,Malvaceae,Little Leaf Linden,Tilia,93,0,0,ITS,bc1146--bc1189,Tilia cordata,15,"Friday, July 5, 2019",Early July,Mattawa,WSU,Potato,2019
+Crop,Brassicaceae,Radish,Raphanus,96,1,0,ITS,bc1152--bc1189,Raphanus sativus,3,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Crop,Solanaceae,Tomato,Solanum,96,1,0,ITS,bc1152--bc1189,Solanum lycopersicum,660,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Grass,Poaceae,Sorghum or Great Millet,Sorghum,96,1,0,trnF,bc1110--bc1143,Sorghum bicolor,3,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,96,1,0,ITS,bc1152--bc1189,Bassia scoparia,4,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Nightshade,Solanaceae,Wild Potato,Solanum,96,1,0,trnF,bc1110--bc1143,Solanum acaule,8,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Nightshade,Solanaceae,Wild Tomato,Solanum,96,1,0,trnF,bc1110--bc1143,Solanum pennellii,473,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,96,1,0,trnF,bc1110--bc1143,Amaranthus blitum,9,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,96,1,0,ITS,bc1152--bc1189,Amaranthus hybridus,119,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,96,1,0,trnF,bc1110--bc1143,Amaranthus viridis,19,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,96,1,0,ITS,bc1152--bc1189,Kali turgidum,7,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,96,1,0,trnF,bc1110--bc1143,Salsola komarovii,28,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,96,1,0,trnF,bc1110--bc1143,Chenopodium acuminatum,4,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Crop,Asteraceae,Lettuce,Lactuca,97,0,0,trnF,bc1143--bc1176,Lactuca sativa,4,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Crop,Brassicaceae,Radish,Raphanus,97,0,0,trnF,bc1143--bc1176,Raphanus sativus,19,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Crop,Brassicaceae,Radish,Raphanus,97,0,0,ITS,bc1153--bc1189,Raphanus sativus,6,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,97,0,0,trnF,bc1143--bc1176,Amaranthus blitum,334,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,97,0,0,ITS,bc1153--bc1189,Amaranthus hybridus,481,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,97,0,0,trnF,bc1143--bc1176,Amaranthus viridis,156,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Potato,Solanaceae,Potato,Solanum,97,0,0,trnF,bc1143--bc1176,Solanum tuberosum,2,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,97,0,0,ITS,bc1153--bc1189,Kali turgidum,36,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,97,0,0,trnF,bc1143--bc1176,Salsola komarovii,54,"Friday, July 5, 2019",Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,103,1,1,ITS,bc1154--bc1158,Amaranthus hybridus,3,"Wednesday, July 10, 2019",Early July,Mattawa,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,103,1,1,trnF,bc1107--bc1109,Solanum tuberosum,3,"Wednesday, July 10, 2019",Early July,Mattawa,RDJ,Kochia,2019
+Tree,Salicaceae,Corkscrew Willow,Salix,103,1,1,trnF,bc1107--bc1109,Salix matsudana,3,"Wednesday, July 10, 2019",Early July,Mattawa,RDJ,Kochia,2019
+Tree,Salicaceae,Dark-leaved Willow,Salix,103,1,1,ITS,bc1154--bc1158,Salix myrsinifolia,67,"Wednesday, July 10, 2019",Early July,Mattawa,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,103,1,1,trnF,bc1107--bc1109,Erigeron canadensis,48,"Wednesday, July 10, 2019",Early July,Mattawa,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,103,1,1,ITS,bc1154--bc1158,Erigeron strigosus,133,"Wednesday, July 10, 2019",Early July,Mattawa,RDJ,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,106,0,0,trnF,bc1143--bc1177,Lactuca sativa,42,"Thursday, July 11, 2019",Early July,Paterson,107,Potato,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,106,0,0,trnF,bc1143--bc1177,Bassia littorea,10,"Thursday, July 11, 2019",Early July,Paterson,107,Potato,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,106,0,0,trnF,bc1143--bc1177,Amaranthus blitum,2,"Thursday, July 11, 2019",Early July,Paterson,107,Potato,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,106,0,0,ITS,bc1158--bc1189,Amaranthus hybridus,3,"Thursday, July 11, 2019",Early July,Paterson,107,Potato,2019
+Potato,Solanaceae,Potato,Solanum,106,0,0,trnF,bc1143--bc1177,Solanum tuberosum,12,"Thursday, July 11, 2019",Early July,Paterson,107,Potato,2019
+Weed,Asteraceae,Fleabane,Erigeron,106,0,0,ITS,bc1158--bc1189,Erigeron strigosus,18,"Thursday, July 11, 2019",Early July,Paterson,107,Potato,2019
+Crop,Asteraceae,Lettuce,Lactuca,108,1,0,trnF,bc1107--bc1120,Lactuca sativa,3,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,108,1,0,trnF,bc1107--bc1120,Sisymbrium altissimum,2,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,108,1,0,ITS,bc1154--bc1157,Solanum pinnatisectum,2,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,108,1,0,trnF,bc1107--bc1120,Amaranthus blitum,15,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,108,1,0,ITS,bc1154--bc1157,Amaranthus hybridus,3,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,108,1,0,ITS,bc1154--bc1157,Kali turgidum,7,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,108,1,0,trnF,bc1107--bc1120,Salsola komarovii,25,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Horseweed,Erigeron,108,1,0,trnF,bc1107--bc1120,Erigeron canadensis,7,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Fleabane,Erigeron,108,1,0,ITS,bc1154--bc1157,Erigeron strigosus,2,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Crop,Brassicaceae,Radish,Raphanus,109,0,0,trnF,bc1107--bc1115,Raphanus sativus,7,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,109,0,0,trnF,bc1107--bc1115,Solanum tuberosum,11,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,109,0,0,ITS,bc1154--bc1156,Kali turgidum,26,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,109,0,0,trnF,bc1107--bc1115,Salsola komarovii,63,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Horseweed,Erigeron,109,0,0,trnF,bc1107--bc1115,Erigeron canadensis,17,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,110,1,0,trnF,bc1107--bc1114,Sisymbrium altissimum,3,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,110,1,0,trnF,bc1107--bc1114,Salsola komarovii,2,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Crop,Brassicaceae,Radish,Raphanus,111,1,0,ITS,bc1135--bc1154,Raphanus sativus,3,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,111,1,0,ITS,bc1135--bc1154,Amaranthus hybridus,3,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,111,1,0,ITS,bc1135--bc1154,Kali turgidum,149,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,111,1,0,trnF,bc1107--bc1113,Salsola komarovii,222,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Tumble knapweed,Centaurea,111,1,0,ITS,bc1135--bc1154,Centaurea diffusa,2,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Spotted knapweed,Centaurea,111,1,0,trnF,bc1107--bc1113,Centaurea maculosa,9,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Fleabane,Erigeron,111,1,0,ITS,bc1135--bc1154,Erigeron strigosus,2,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Weed,Polygonaceae,Common Knotgrass,Polygonum,111,1,0,trnF,bc1107--bc1113,Polygonum aviculare,7,"Thursday, July 11, 2019",Early July,Paterson,107,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,112,1,0,trnF,bc1107--bc1112,Amaranthus blitum,53,"Thursday, July 11, 2019",Early July,Paterson,475,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,112,1,0,trnF,bc1107--bc1112,Solanum tuberosum,36,"Thursday, July 11, 2019",Early July,Paterson,475,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,112,1,0,ITS,bc1148--bc1154 ,Kali turgidum,7,"Thursday, July 11, 2019",Early July,Paterson,475,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,112,1,0,trnF,bc1107--bc1112,Salsola komarovii,190,"Thursday, July 11, 2019",Early July,Paterson,475,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,113,0,0,ITS,bc1157--bc1189,Solanum pinnatisectum,18,"Thursday, July 11, 2019",Early July,Paterson,475,Potato,2019
+Potato,Solanaceae,Potato,Solanum,113,0,0,trnF,bc1143--bc1178,Solanum tuberosum,671,"Thursday, July 11, 2019",Early July,Paterson,475,Potato,2019
+Potato,Solanaceae,Potato,Solanum,113,0,0,ITS,bc1157--bc1189,Solanum tuberosum,4,"Thursday, July 11, 2019",Early July,Paterson,475,Potato,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,114,0,0,ITS,bc1156--bc1189,Chenopodium album,41,"Thursday, July 11, 2019",Early July,Paterson,475,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,114,0,0,ITS,bc1156--bc1189,Solanum pinnatisectum,18,"Thursday, July 11, 2019",Early July,Paterson,475,Potato,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,114,0,0,trnF,bc1113--bc1144,Amaranthus blitum,6,"Thursday, July 11, 2019",Early July,Paterson,475,Potato,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,114,0,0,ITS,bc1156--bc1189,Amaranthus hybridus,5,"Thursday, July 11, 2019",Early July,Paterson,475,Potato,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,114,0,0,ITS,bc1156--bc1189,Kali turgidum,7,"Thursday, July 11, 2019",Early July,Paterson,475,Potato,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,114,0,0,trnF,bc1113--bc1144,Salsola komarovii,20,"Thursday, July 11, 2019",Early July,Paterson,475,Potato,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,114,0,0,trnF,bc1113--bc1144,Chenopodium acuminatum,46,"Thursday, July 11, 2019",Early July,Paterson,475,Potato,2019
+Potato,Solanaceae,Potato,Solanum,114,0,0,trnF,bc1113--bc1144,Solanum tuberosum,119,"Thursday, July 11, 2019",Early July,Paterson,529,Russian thistle,2019
+Crop,Brassicaceae,Radish,Raphanus,122,1,0,ITS,bc1133--bc1154,Raphanus sativus,32,"Thursday, July 11, 2019",Early July,Paterson,529,Russian thistle,2019
+Crop,Brassicaceae,Radish,Raphanus,122,1,0,trnF,bc1107--bc1111,Raphanus sativus,17,"Thursday, July 11, 2019",Early July,Paterson,529,Russian thistle,2019
+Grass,Poaceae,Annual Ryegrass,Lolium,122,1,0,ITS,bc1133--bc1154,Lolium rigidum,19,"Thursday, July 11, 2019",Early July,Paterson,529,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,122,1,0,ITS,bc1133--bc1154,Solanum pinnatisectum,15,"Thursday, July 11, 2019",Early July,Paterson,529,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,122,1,0,trnF,bc1107--bc1111,Solanum tuberosum,23,"Thursday, July 11, 2019",Early July,Paterson,529,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,122,1,0,ITS,bc1133--bc1154,Kali turgidum,62,"Thursday, July 11, 2019",Early July,Paterson,529,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,122,1,0,trnF,bc1107--bc1111,Salsola komarovii,82,"Thursday, July 11, 2019",Early July,Paterson,529,Russian thistle,2019
+Crop,Brassicaceae,Radish,Raphanus,128,1,0,ITS,bc1134--bc1154,Raphanus sativus,8,"Friday, July 12, 2019",Early July,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,128,1,0,trnF,bc1100--bc1107,Bassia littorea,30,"Friday, July 12, 2019",Early July,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,128,1,0,ITS,bc1134--bc1154,Bassia scoparia,57,"Friday, July 12, 2019",Early July,Pasco,WSU,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,128,1,0,ITS,bc1134--bc1154,Solanum pinnatisectum,3,"Friday, July 12, 2019",Early July,Pasco,WSU,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,128,1,0,ITS,bc1134--bc1154,Amaranthus hybridus,6,"Friday, July 12, 2019",Early July,Pasco,WSU,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,128,1,0,trnF,bc1100--bc1107,Solanum tuberosum,5,"Friday, July 12, 2019",Early July,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,128,1,0,ITS,bc1134--bc1154,Kali turgidum,194,"Friday, July 12, 2019",Early July,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,128,1,0,trnF,bc1100--bc1107,Salsola komarovii,153,"Friday, July 12, 2019",Early July,Pasco,WSU,Kochia,2019
+Weed,Asteraceae,Sow thistle,Sonchus,128,1,0,ITS,bc1134--bc1154,Sonchus oleraceus,4,"Friday, July 12, 2019",Early July,Pasco,WSU,Kochia,2019
+Crop,Asteraceae,Common sunflower,Helianthus,134,0,0,trnF,bc1114--bc1144,Helianthus annuus,4,"Friday, July 12, 2019",Early July,Pasco,WSU,Potato,2019
+Crop,Brassicaceae,Radish,Raphanus,134,0,0,trnF,bc1114--bc1144,Raphanus sativus,5,"Friday, July 12, 2019",Early July,Pasco,WSU,Potato,2019
+Crop,Solanaceae,Tomato,Solanum,134,0,0,ITS,bc1159--bc1189,Solanum lycopersicum,84,"Friday, July 12, 2019",Early July,Pasco,WSU,Potato,2019
+Nightshade,Solanaceae,Wild Tomato,Solanum,134,0,0,trnF,bc1114--bc1144,Solanum pennellii,389,"Friday, July 12, 2019",Early July,Pasco,WSU,Potato,2019
+Potato,Solanaceae,Potato,Solanum,134,0,0,trnF,bc1114--bc1144,Solanum tuberosum,45,"Friday, July 12, 2019",Early July,Pasco,WSU,Potato,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,134,0,0,trnF,bc1114--bc1144,Salsola komarovii,5,"Friday, July 12, 2019",Early July,Pasco,WSU,Potato,2019
+Tree,Oleaceae,Ash tree,Fraxinus,134,0,0,trnF,bc1114--bc1144,Fraxinus hupehensis,9,"Friday, July 12, 2019",Early July,Pasco,WSU,Potato,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,141,1,0,trnF,bc1115--bc1144,Bassia littorea,21,"Thursday, July 18, 2019",Late July,Paterson,529,Pigweed,2019
+Nightshade,Solanaceae,White-Flowered Nightshade,Solanum,141,1,0,trnF,bc1115--bc1144,Solanum physalifolium,6,"Thursday, July 18, 2019",Late July,Paterson,529,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,141,1,0,ITS,bc1135--bc1189,Solanum pinnatisectum,2,"Thursday, July 18, 2019",Late July,Paterson,529,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,141,1,0,trnF,bc1115--bc1144,Amaranthus blitum,52,"Thursday, July 18, 2019",Late July,Paterson,529,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,141,1,0,ITS,bc1135--bc1189,Amaranthus hybridus,49,"Thursday, July 18, 2019",Late July,Paterson,529,Pigweed,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,141,1,0,trnF,bc1115--bc1144,Amaranthus viridis,94,"Thursday, July 18, 2019",Late July,Paterson,529,Pigweed,2019
+Potato,Solanaceae,Potato,Solanum,141,1,0,trnF,bc1115--bc1144,Solanum tuberosum,100,"Thursday, July 18, 2019",Late July,Paterson,529,Pigweed,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,141,1,0,trnF,bc1115--bc1144,Salsola komarovii,34,"Thursday, July 18, 2019",Late July,Paterson,529,Pigweed,2019
+Tree,Pinaceae,White Pine,Abies,141,1,0,trnF,bc1115--bc1144,Abies concolor,3,"Thursday, July 18, 2019",Late July,Paterson,529,Pigweed,2019
+Crop,Asteraceae,Lettuce,Lactuca,145,0,0,trnF,bc1109--bc1144,Lactuca sativa,754,"Friday, July 19, 2019",Late July,Pasco,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,145,0,0,ITS,bc1148--bc1189,Amaranthus hybridus,28,"Friday, July 19, 2019",Late July,Pasco,WSU,Pigweed,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,153,0,0,ITS,bc1133--bc1189,Cucumis sativus,8,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Crop,Asteraceae,Lettuce,Lactuca,153,0,0,trnF,bc1110--bc1144,Lactuca sativa,18,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Crop,Brassicaceae,Radish,Raphanus,153,0,0,ITS,bc1133--bc1189,Raphanus sativus,5,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,153,0,0,ITS,bc1133--bc1189,Chenopodium album,32,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,153,0,0,trnF,bc1110--bc1144,Solanum dulcamara,2,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,153,0,0,ITS,bc1133--bc1189,Solanum nigrum/americanum,2,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,153,0,0,ITS,bc1133--bc1189,Amaranthus hybridus,5,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Potato,Solanaceae,Potato,Solanum,153,0,0,trnF,bc1110--bc1144,Solanum tuberosum,23,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,153,0,0,trnF,bc1110--bc1144,Salsola komarovii,33,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Tree,Ulmaceae,Bergman's Elm,Ulmus,153,0,0,trnF,bc1110--bc1144,Ulmus bergmanniana,90,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,153,0,0,trnF,bc1110--bc1144,Chenopodium acuminatum,28,"Wednesday, July 31, 2019",Late July,Mattawa,RDR,Pigweed,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,159,0,0,ITS,bc1123--bc1154,Cannabis sativa,3,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Crop,Asteraceae,Common Sunflower,Helianthus,159,0,0,ITS,bc1123--bc1154,Helianthus annuus,119,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,159,0,0,trnF,bc1098--bc1107,Bassia littorea,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,159,0,0,ITS,bc1123--bc1154,Bassia scoparia,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,159,0,0,ITS,bc1123--bc1154,Chenopodium album,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,159,0,0,trnF,bc1098--bc1107,Solanum tuberosum,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,159,0,0,ITS,bc1123--bc1154,Kali turgidum,34,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,159,0,0,trnF,bc1098--bc1107,Salsola komarovii,11,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Tree,x,Pistachio?,Pistacia,159,0,0,ITS,bc1123--bc1154,Pistacia weinmaniifolia,10,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Tree,Rosaceae,Sweet Cherry,Prunus,159,0,0,ITS,bc1123--bc1154,Prunus avium,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,159,0,0,trnF,bc1098--bc1107,Chenopodium acuminatum,4,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Crop,Lamiaceae,Peppermint,Mentha,160,0,0,ITS,bc1124--bc1154,Mentha x,14,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Grass,Poaceae,Annual Ryegrass,Lolium,160,0,0,ITS,bc1124--bc1154,Lolium rigidum,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,160,0,0,trnF,bc1097--bc1107,Bassia littorea,3,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,160,0,0,ITS,bc1124--bc1154,Bassia scoparia,41,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,160,0,0,ITS,bc1124--bc1154,Brassica carinata,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Black Nightshade,Solanum,160,0,0,trnF,bc1097--bc1107,Solanum nigrum,3,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,160,0,0,ITS,bc1124--bc1154,Solanum pinnatisectum,8,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,160,0,0,ITS,bc1124--bc1154,Amaranthus hybridus,34,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,160,0,0,ITS,bc1124--bc1154,Amaranthus hybridus,5,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,160,0,0,ITS,bc1124--bc1154,Kali turgidum,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,160,0,0,trnF,bc1097--bc1107,Salsola komarovii,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Tree,Juglandaceae,English walnut,Juglans,160,0,0,ITS,bc1124--bc1154,Juglans regia,3,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,161,0,0,ITS,bc1169--bc1178,Bassia littorea,72,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,161,0,0,ITS,bc1150--bc1173,Bassia scoparia,58,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,161,0,0,ITS,bc1150--bc1173,Chenopodium album,9,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,161,0,0,ITS,bc1150--bc1173,Brassica carinata,3,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Black Nightshade,Solanum,161,0,0,ITS,bc1169--bc1178,Solanum nigrum,7,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Black Nightshade,Solanum,161,0,0,ITS,bc1150--bc1173,Solanum nigrum,4,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,161,0,0,ITS,bc1150--bc1173,Solanum pinnatisectum,4,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,161,0,0,ITS,bc1169--bc1178,Solanum tuberosum,6,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,161,0,0,ITS,bc1169--bc1178,Salsola komarovii,34,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,161,0,0,ITS,bc1169--bc1178,Citrus aurantium,5,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Weed,Convolvulaceae,Morning Glory,Ipomoea,161,0,0,ITS,bc1150--bc1173,Ipomoea marabensis,7,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,161,0,0,ITS,bc1150--bc1173,Tribulus terrestris,12,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Crop,Polygonaceae,Common Buckwheat,Fagopyrum,162,0,0,trnF,bc1169--bc1177,Fagopyrum esculentum,69,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Crop,Polygonaceae,Common Buckwheat,Fagopyrum,162,0,0,ITS,bc1146--bc1173,Fagopyrum esculentum,35,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,162,0,0,trnF,bc1169--bc1177,Lactuca sativa,178,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,162,0,0,ITS,bc1146--bc1173,Raphanus sativus,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,162,0,0,trnF,bc1169--bc1177,Bassia littorea,8,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,162,0,0,ITS,bc1146--bc1173,Bassia scoparia,123,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,162,0,0,ITS,bc1146--bc1173,Chenopodium album,33,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,162,0,0,ITS,bc1146--bc1173,Solanum pinnatisectum,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,162,0,0,trnF,bc1169--bc1177,Amaranthus blitum,13,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,162,0,0,ITS,bc1146--bc1173,Amaranthus hybridus,8,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,162,0,0,ITS,bc1146--bc1173,Solanum tuberosum,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,162,0,0,trnF,bc1169--bc1177,Solanum tuberosum,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,162,0,0,ITS,bc1146--bc1173,Kali turgidum,3,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,162,0,0,trnF,bc1169--bc1177,Salsola komarovii,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Weed,Brassicaceae,Wild cabbage/Kale,Brassica,162,0,0,ITS,bc1146--bc1173,Brassica oleracea,54,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,162,0,0,trnF,bc1169--bc1177,Chenopodium acuminatum,2,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Weed,Convolvulaceae,Field Bindweed,Convolvulus,162,0,0,ITS,bc1146--bc1173,Convolvulus arvensis,24,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Weed,Convolvulaceae,Field Bindweed,Convolvulus,162,0,0,trnF,bc1169--bc1177 ,Convolvulus arvensis,23,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Weed,Asteraceae,Prickly Lettuce,Lactuca,162,0,0,ITS,bc1146--bc1173,Lactuca serriola,40,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Weed,Asteraceae,Prickly Lettuce,Lactuca,162,0,0,ITS,bc1146--bc1173,Lactuca serriola,18,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,162,0,0,ITS,bc1146--bc1173,Tribulus terrestris,8,"Thursday, August 1, 2019",Early August,Paterson,475,Kochia,2019
+Crop,Cucurbitaceae,Watermelon,Citrullus,163,0,0,trnF,bc1169--bc1176,Citrullus lanatus,3,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,163,0,0,trnF,bc1169--bc1176,Lactuca sativa,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,163,0,0,ITS,bc1152--bc1173,Raphanus sativus,3,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,163,0,0,trnF,bc1169--bc1176,Bassia littorea,8,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,163,0,0,ITS,bc1152--bc1173,Bassia scoparia,33,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,163,0,0,ITS,bc1152--bc1173,Solanum pinnatisectum,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,163,0,0,trnF,bc1169--bc1176,Amaranthus blitum,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,163,0,0,ITS,bc1152--bc1173,Amaranthus hybridus,6,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,163,0,0,trnF,bc1169--bc1176,Solanum tuberosum,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,163,0,0,ITS,bc1152--bc1173 ,Kali turgidum,47,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,163,0,0,trnF,bc1169--bc1176,Salsola komarovii,36,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Tree,Betulaceae,Alpine birch,Betula,163,0,0,ITS,bc1152--bc1173,Betula nana,22,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,163,0,0,ITS,bc1152--bc1173,Erigeron strigosus,4,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,164,0,0,trnF,bc1110--bc1169,Bassia littorea,26,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,164,0,0,ITS,bc1153--bc1173,Bassia scoparia,68,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,164,0,0,ITS,bc1153--bc1173,Amaranthus hybridus,3,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,164,0,0,ITS,bc1153--bc1173,Kali turgidum,144,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,164,0,0,trnF,bc1110--bc1169,Salsola komarovii,100,"Friday, August 2, 2019",Early August,Pasco,WSU,Kochia,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,166,0,0,ITS,bc1135--bc1140,Cucumis sativus,3,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Crop,Fabaceae,Alfalfa,Medicago,166,0,0,ITS,bc1135--bc1140,Medicago sativa,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Grass,Poaceae,Perennial Ryegrass,Lolium,166,0,0,ITS,bc1135--bc1140,Lolium perenne,4,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,166,0,0,ITS,bc1135--bc1140,Brassica carinata,8,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,166,0,0,trnF,bc1144--bc1176,Solanum dulcamara,18,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,166,0,0,ITS,bc1135--bc1140,Solanum pinnatisectum,29,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,166,0,0,trnF,bc1144--bc1176,Amaranthus blitum,14,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,166,0,0,ITS,bc1134--bc1189,Amaranthus hybridus,11,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,166,0,0,trnF,bc1144--bc1176,Amaranthus viridis,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Potato,Solanaceae,Potato,Solanum,166,0,0,trnF,bc1144--bc1176,Solanum tuberosum,11,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,166,0,0,ITS,bc1134--bc1189,Kali turgidum,7,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Tree,Rosaceae,Pear,Pyrus,166,0,0,ITS,bc1135--bc1140,Pyrus communis,23,"Friday, August 2, 2019",Early August,Pasco,WSU,Pigweed,2019
+Crop,Fabaceae,Alfalfa,Medicago,167,0,0,ITS,bc1158--bc1173,Medicago sativa,4,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Crop,Rosaceae,Blackberry,Rubus,167,0,0,ITS,bc1158--bc1173,Rubus allegheniensis,2,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,167,0,0,trnF,bc1109--bc1169,Bassia littorea,2,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,167,0,0,ITS,bc1158--bc1173,Bassia scoparia,3,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,167,0,0,ITS,bc1158--bc1173,Chenopodium album,4,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Mustard,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,167,0,0,ITS,bc1158--bc1173,Chorispora tenella,6,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,167,0,0,ITS,bc1158--bc1173,Sisymbrium altissimum,2,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,167,0,0,ITS,bc1158--bc1173,Solanum pinnatisectum,4,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,167,0,0,ITS,bc1158--bc1173,Amaranthus hybridus,6,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,167,0,0,ITS,bc1158--bc1173,Kali turgidum,7,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,167,0,0,trnF,bc1109--bc1169,Salsola komarovii,11,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,168,0,0,trnF,bc1120--bc1169,Lactuca sativa,2,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,168,0,0,trnF,bc1120--bc1169,Bassia littorea,6,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,168,0,0,ITS,bc1157--bc1173,Bassia scoparia,6,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,168,0,0,ITS,bc1157--bc1173,Brassica carinata,2,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Nightshade,Solanaceae,Black Nightshade,Solanum,168,0,0,trnF,bc1120--bc1169,Solanum nigrum,6,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,168,0,0,trnF,bc1120--bc1169,Amaranthus blitum,2,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,168,0,0,trnF,bc1120--bc1169,Solanum tuberosum,14,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,168,0,0,ITS,bc1157--bc1173 ,Kali turgidum,213,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,168,0,0,trnF,bc1120--bc1169,Salsola komarovii,175,"Friday, August 2, 2019",Early August,Pasco,413,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,169,0,0,trnF,bc1115--bc1169,Lactuca sativa,3,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Crop,Fabaceae,Alfalfa,Medicago,169,0,0,ITS,bc1156--bc1173,Medicago sativa,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Crop,Brassicaceae,Radish,Raphanus,169,0,0,trnF,bc1115--bc1169,Raphanus sativus,10,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,169,0,0,ITS,bc1156--bc1173,Bassia scoparia,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,169,0,0,trnF,bc1115--bc1169,Sisymbrium altissimum,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,169,0,0,ITS,bc1156--bc1173,Solanum pinnatisectum,4,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,169,0,0,trnF,bc1115--bc1169,Amaranthus blitum,11,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,169,0,0,ITS,bc1156--bc1173,Amaranthus hybridus,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,169,0,0,trnF,bc1115--bc1169,Solanum tuberosum,12,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,169,0,0,ITS,bc1156--bc1173,Kali turgidum,42,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,169,0,0,trnF,bc1115--bc1169,Salsola komarovii,114,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Weed,Asteraceae,Horseweed,Erigeron,169,0,0,trnF,bc1115--bc1169,Erigeron canadensis,14,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Weed,Asteraceae,Fleabane,Erigeron,169,0,0,ITS,bc1156--bc1173,Erigeron strigosus,3,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Grass,Poaceae,Cottonball Bluegrass,Poa,173,0,0,trnF,bc1114--bc1169,Poa sublanata,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,173,0,0,ITS,bc1159--bc1173,Bassia scoparia,4,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,173,0,0,ITS,bc1159--bc1173,Solanum pinnatisectum,13,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,173,0,0,trnF,bc1114--bc1169,Solanum tuberosum,12,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,173,0,0,ITS,bc1159--bc1173,Kali turgidum,47,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,173,0,0,trnF,bc1114--bc1169,Salsola komarovii,70,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,174,0,0,trnF,bc1113--bc1169,Lactuca sativa,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,174,0,0,ITS,bc1135--bc1173,Solanum pinnatisectum,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,174,0,0,trnF,bc1113--bc1169,Amaranthus blitum,4,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,174,0,0,trnF,bc1113--bc1169,Solanum tuberosum,5,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,174,0,0,ITS,bc1135--bc1173,Kali turgidum,29,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,174,0,0,trnF,bc1113--bc1169 ,Salsola komarovii,11,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Shrub,Solanaceae,African Boxthorn,Lycium,175,0,0,trnF,bc1112--bc1169,Lycium ferocissimum,11,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,175,0,0,trnF,bc1112--bc1169,Solanum dulcamara,8,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,175,0,0,trnF,bc1112--bc1169,Amaranthus blitum,41,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,175,0,0,ITS,bc1148--bc1173,Amaranthus hybridus,19,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,175,0,0,trnF,bc1112--bc1169,Amaranthus viridis,9,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,175,0,0,trnF,bc1112--bc1169,Solanum tuberosum,4,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,175,0,0,ITS,bc1148--bc1173,Kali turgidum,52,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,175,0,0,trnF,bc1112--bc1169,Salsola komarovii,138,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Weed,Fabaceae,Wild Legume,Lotus,175,0,0,ITS,bc1148--bc1173,Lotus japonicus,2,"Friday, August 2, 2019",Early August,Pasco,WSU,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,204,1,0,trnF,bc1111--bc1169,Lactuca sativa,2,"Friday, October 18, 2019",Late October,Pasco,RDJ,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,204,1,0,trnF,bc1111--bc1169,Solanum tuberosum,7,"Friday, October 18, 2019",Late October,Pasco,RDJ,Russian thistle,2019
+Tree,Oleaceae,Ash tree,Fraxinus,204,1,0,trnF,bc1111--bc1169,Fraxinus hupehensis,13,"Friday, October 18, 2019",Late October,Pasco,RDJ,Russian thistle,2019

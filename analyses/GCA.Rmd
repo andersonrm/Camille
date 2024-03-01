@@ -1,0 +1,578 @@
+---
+title: "Gut Content Analysis"
+author: "Dr. Riley M. Anderson & Camille Wagstaff"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+graphics: yes
+output:
+  github_document:
+    toc: yes
+    toc_depth: 5
+    pandoc_args: --webtex
+  html_document:
+    keep_md: yes
+    theme: readable
+    mathjax: default
+  html_notebook:
+    code_folding: hide
+    theme: readable
+    mathjax: default
+  pdf_document:
+    toc: yes
+header-includes:
+  \usepackage{float}
+  \floatplacement{figure}{H}
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include = F}
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Knitr Options
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Set root directory to the project directory
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+
+
+# Set default knitr options: 
+# Suppress warnings and messages, cache chunks, 
+#  set default figure size to 6x8 at 300 dpi, and save a png and pdf
+knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
+    fig.height = 6, fig.width = 8, dpi = 300, # 6x8" @ 300dpi:1800x2400=4.3MP
+    dev = c('png', 'pdf'), dev.args = list(pdf = list(onefile = F)))
+
+```
+
+
+
+# Overview
+
+This analysis compares gut content communities to pathogen infection status.
+
+Ordination plots depict each BLH as a point. Their position in NMDS space is a function of their gut contents (plant species identity and abundance). 
+
+### Summary of Results
+* PERMUTATION tests upcoming
+
+```{r Main_Code, include = F, cache = F}
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Setup - This code is run, but output is hidden
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Load Packages
+library(tidyverse) # Needed for data wrangling: dplyr, tidyr, ggplot2
+library(cowplot) # Needed for publication-quality ggplots
+library(vegan)
+library(lubridate)
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Data Preparation
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Import datasets
+gca.raw <- read.csv("data/GCA.all.years.csv")
+
+# RNG
+set.seed(1976)
+
+```
+
+
+```{r Data_Wrangling, echo = F, comment = ""}
+
+# convert to factors:
+gca.raw <- gca.raw %>% 
+  mutate(across(c(
+    idBLH, BLTVA, BCTV, Organism
+  ), as.factor))
+
+# identify the rare plants:
+rare.plants <- gca.raw %>% 
+  group_by(Organism) %>% 
+  tally() %>% 
+  filter(n > 4)
+
+# remove the rare plants from the gca data:
+gca.long <- semi_join(gca.raw, rare.plants, by = "Organism")
+
+# which BLH ate > 1 plant? Needed to make Bray-Curtis distance matrix
+gca.long.ids <- gca.long %>% 
+  group_by(idBLH) %>% 
+  tally() %>% 
+  filter(n > 1)
+
+# only use BLH that ate >1 plant:
+gca.long <- semi_join(gca.long, gca.long.ids, by = "idBLH")
+
+# matrix format for NMDS:
+gca.wide <- gca.long %>% 
+  select(idBLH, Organism, Sequences) %>% 
+  pivot_wider(names_from = Organism,
+              values_from = Sequences) %>% 
+  replace(is.na(.), 0) %>% 
+  column_to_rownames('idBLH')
+
+
+
+#################
+# nmds meta data
+gca.meta <- gca.long %>% 
+  select(idBLH, BCTV, BLTVA, Date, Region, HostPlant, Year) %>% 
+  distinct() %>% 
+  mutate(Date = ymd(Date),
+         DoY = yday(Date),
+         across(c(Region, HostPlant, Year), as.factor)) %>% 
+  slice(-204) %>% 
+  column_to_rownames('idBLH')
+
+############
+# distance matrix
+gca.dist <- vegdist(gca.wide, method = "bray")
+
+```
+
+
+```{r NMDS_solutions, echo = F, include = F}
+
+nmds_gca_1 <- metaMDS(gca.wide, distance = "bray",
+                      k = 1, try = 250, autotransform = FALSE)
+
+nmds_gca_2 <- metaMDS(gca.wide, distance = "bray",
+                      k = 2, try = 250, autotransform = T)
+
+nmds_gca_3 <- metaMDS(gca.wide, distance = "bray",
+                      k = 3, trymax = 250, autotransform = T)
+
+nmds_gca_4 <- metaMDS(gca.wide, distance = "bray",
+                      k = 4, try = 250, autotransform = FALSE)
+
+nmds_gca_5 <- metaMDS(gca.wide, distance = "bray",
+                      k = 5, try = 250, autotransform = FALSE)
+
+nmds_gca_6 <- metaMDS(gca.wide, distance = "bray",
+                      k = 6, try = 250, autotransform = FALSE)
+
+
+
+```
+
+```{r stress_plot_dims1-6, echo = F}
+gca_stressvector <- as.vector(c(
+  nmds_gca_1$stress, nmds_gca_2$stress, nmds_gca_3$stress,
+  nmds_gca_4$stress, nmds_gca_5$stress, nmds_gca_6$stress
+))
+
+plot(gca_stressvector)
+
+```
+
+NMDS may need 3 dimensions to bring stress within acceptable range. 2 dimensions is on the cusp of acceptability.
+
+* 3D stress: `r nmds_gca_3$stress`
+* 2D stress: `r nmds_gca_2$stress`
+* stress reduced from 2 to 3 dimensions: `r gca_stressvector[2]-gca_stressvector[3]`
+
+
+### Stress plot of NMDS solution with 3 dimensions
+
+```{r stress_plot_3d, echo = F}
+stressplot(nmds_gca_3)
+```
+
+
+## Plots
+
+```{r site_scores, echo = F}
+
+site_scores_3d <- as.data.frame(scores(nmds_gca_3)$sites)
+
+site_scores_3d <- merge(site_scores_3d,
+                        select(gca.meta, c(BCTV, BLTVA,
+                                           Region, HostPlant, Year)),
+                        by.x = "row.names", by.y = "row.names")
+
+```
+
+```{r species_scores, echo = F}
+
+spp_scores_3d <- as.data.frame(scores(nmds_gca_3)$species)
+
+spp_scores_3d <- cbind(spp_scores_3d,
+                       Species = row.names(spp_scores_3d))
+
+```
+
+```{r date_vector, echo = F}
+
+gca_num_stand <- decostand(select_if(gca.meta, is.numeric), method = "max")
+
+gca_fit <- envfit(nmds_gca_3, gca_num_stand,
+                  choices = 1:3, permutations = 999)
+
+date.scores <- as.data.frame(scores(gca_fit, display = "vectors"))
+
+date.scores2 <- cbind(date.scores, date = rownames(date.scores),
+                      pval = gca_fit$vectors$pvals)
+
+
+```
+
+
+### BCTV
+
+```{r nmds_plot_BCTV, echo = F}
+
+# NMDS 1 & 2
+
+# site_scores_3d %>% 
+#   filter(!is.na(BCTV)) %>% 
+#   ggplot(aes(x = NMDS1, y = NMDS2)) +
+#   geom_point(aes(NMDS1, NMDS2, color = BCTV),
+#              size = 4) +
+#   labs(color = "BCTV") +
+#   ggrepel::geom_text_repel(data = spp_scores_3d,
+#                            aes(x = NMDS1, y = NMDS2, label = Species),
+#                            size = 2.0) +
+#   geom_segment(data = date.scores2,
+#                aes(x = 0, xend = NMDS1, y = 0, yend = NMDS2),
+#                arrow = arrow(length = unit(0.25, "cm")),
+#                colour = "grey10", lwd = 0.3) +
+#   ggrepel::geom_text_repel(data = date.scores2,
+#                            aes(x = NMDS1,
+#                                y = NMDS2,
+#                                label = date),
+#                            cex = 4, direction = "both",
+#                            segment.size = 0.25)
+
+
+# NMDS 2 & 3
+
+site_scores_3d %>% 
+  filter(!is.na(BCTV)) %>% 
+  ggplot(aes(x = NMDS2, y = NMDS3)) +
+  geom_point(aes(NMDS2, NMDS3, color = BCTV),
+             size = 4) +
+  labs(color = "BCTV") +
+  ggrepel::geom_text_repel(data = spp_scores_3d,
+                           aes(x = NMDS2, y = NMDS3, label = Species),
+                           size = 2.0) +
+  geom_segment(data = date.scores2,
+               aes(x = 0, xend = NMDS2, y = 0, yend = NMDS3),
+               arrow = arrow(length = unit(0.25, "cm")),
+               colour = "grey10", lwd = 0.3) +
+  ggrepel::geom_text_repel(data = date.scores2,
+                           aes(x = NMDS2,
+                               y = NMDS3,
+                               label = date),
+                           cex = 4, direction = "both",
+                           segment.size = 0.25) +
+  theme_cowplot()
+
+# NMDS 1 & 3
+
+# site_scores_3d %>% 
+#   filter(!is.na(BCTV)) %>% 
+#   ggplot(aes(x = NMDS1, y = NMDS3)) +
+#   geom_point(aes(NMDS1, NMDS3, color = BCTV),
+#              size = 4) +
+#   labs(color = "BCTV") +
+#   ggrepel::geom_text_repel(data = spp_scores_3d,
+#                            aes(x = NMDS1, y = NMDS3, label = Species),
+#                            size = 2.0) +
+#   geom_segment(data = date.scores2,
+#                aes(x = 0, xend = NMDS1, y = 0, yend = NMDS3),
+#                arrow = arrow(length = unit(0.25, "cm")),
+#                colour = "grey10", lwd = 0.3) +
+#   ggrepel::geom_text_repel(data = date.scores2,
+#                            aes(x = NMDS1,
+#                                y = NMDS3,
+#                                label = date),
+#                            cex = 4, direction = "both",
+#                            segment.size = 0.25)
+
+```
+
+
+### BLTVA
+
+```{r nmds_plot_BLTVA, echo = F}
+
+# NMDS 2 & 3
+# site_scores_3d %>% 
+#   ggplot(aes(x = NMDS2, y = NMDS3)) +
+#   geom_point(aes(NMDS2, NMDS3, color = BLTVA),
+#              size = 4) +
+#   labs(color = "BLTVA") +
+#   ggrepel::geom_text_repel(data = spp_scores_3d,
+#                            aes(x = NMDS2, y = NMDS3, label = Species),
+#                            size = 2.0) +
+#   geom_segment(data = date.scores2,
+#                aes(x = 0, xend = NMDS2, y = 0, yend = NMDS3),
+#                arrow = arrow(length = unit(0.25, "cm")),
+#                colour = "grey10", lwd = 0.3) +
+#   ggrepel::geom_text_repel(data = date.scores2,
+#                            aes(x = NMDS2,
+#                                y = NMDS3,
+#                                label = date),
+#                            cex = 4, direction = "both",
+#                            segment.size = 0.25) +
+#   theme_cowplot()
+
+
+# NMDS 1 & 3
+# site_scores_3d %>% 
+#   ggplot(aes(x = NMDS1, y = NMDS3)) +
+#   geom_point(aes(NMDS1, NMDS3, color = BLTVA),
+#              size = 4) +
+#   labs(color = "BLTVA") +
+#   ggrepel::geom_text_repel(data = spp_scores_3d,
+#                            aes(x = NMDS1, y = NMDS3, label = Species),
+#                            size = 2.0) +
+#   geom_segment(data = date.scores2,
+#                aes(x = 0, xend = NMDS1, y = 0, yend = NMDS3),
+#                arrow = arrow(length = unit(0.25, "cm")),
+#                colour = "grey10", lwd = 0.3) +
+#   ggrepel::geom_text_repel(data = date.scores2,
+#                            aes(x = NMDS1,
+#                                y = NMDS3,
+#                                label = date),
+#                            cex = 4, direction = "both",
+#                            segment.size = 0.25) +
+#   theme_cowplot()
+
+site_scores_3d %>% 
+  ggplot(aes(x = NMDS1, y = NMDS2)) +
+  geom_point(aes(NMDS1, NMDS2, color = BLTVA),
+             size = 4) +
+  labs(color = "BLTVA") +
+  ggrepel::geom_text_repel(data = spp_scores_3d,
+                           aes(x = NMDS1, y = NMDS2, label = Species),
+                           size = 2.0) +
+  geom_segment(data = date.scores2,
+               aes(x = 0, xend = NMDS1, y = 0, yend = NMDS2),
+               arrow = arrow(length = unit(0.25, "cm")),
+               colour = "grey10", lwd = 0.3) +
+  ggrepel::geom_text_repel(data = date.scores2,
+                           aes(x = NMDS1,
+                               y = NMDS2,
+                               label = date),
+                           cex = 4, direction = "both",
+                           segment.size = 0.25) +
+  theme_cowplot()
+
+```
+
+
+### BCTV by Region
+
+```{r nmds_plot_Region_BCTV, echo = F}
+
+# NMDS 1 & 2
+
+# site_scores_3d %>% 
+#   filter(!is.na(BCTV)) %>% 
+#   ggplot(aes(x = NMDS1, y = NMDS2)) +
+#   geom_point(aes(NMDS1, NMDS2, color = BCTV, shape = Region),
+#              size = 4) +
+#   labs(color = "BCTV", shape = "Region") +
+#   ggrepel::geom_text_repel(data = spp_scores_3d,
+#                            aes(x = NMDS1, y = NMDS2, label = Species),
+#                            size = 2.0) +
+#   geom_segment(data = date.scores2,
+#                aes(x = 0, xend = NMDS1, y = 0, yend = NMDS2),
+#                arrow = arrow(length = unit(0.25, "cm")),
+#                colour = "grey10", lwd = 0.3) +
+#   ggrepel::geom_text_repel(data = date.scores2,
+#                            aes(x = NMDS1,
+#                                y = NMDS2,
+#                                label = date),
+#                            cex = 4, direction = "both",
+#                            segment.size = 0.25)
+
+
+# NMDS 2 & 3
+
+site_scores_3d %>% 
+  filter(!is.na(BCTV)) %>% 
+  ggplot(aes(x = NMDS2, y = NMDS3)) +
+  geom_point(aes(NMDS2, NMDS3, color = BCTV, shape = Region),
+             size = 4) +
+  labs(color = "BCTV", shape = "Region") +
+  ggrepel::geom_text_repel(data = spp_scores_3d,
+                           aes(x = NMDS2, y = NMDS3, label = Species),
+                           size = 2.0) +
+  geom_segment(data = date.scores2,
+               aes(x = 0, xend = NMDS2, y = 0, yend = NMDS3),
+               arrow = arrow(length = unit(0.25, "cm")),
+               colour = "grey10", lwd = 0.3) +
+  ggrepel::geom_text_repel(data = date.scores2,
+                           aes(x = NMDS2,
+                               y = NMDS3,
+                               label = date),
+                           cex = 4, direction = "both",
+                           segment.size = 0.25) +
+  theme_cowplot()
+
+```
+
+
+### BLTVA by Region
+
+```{r nmds_plot_Region_BLTVA, echo = F}
+
+# NMDS 1 & 2
+
+site_scores_3d %>% 
+  ggplot(aes(x = NMDS1, y = NMDS2)) +
+  geom_point(aes(NMDS1, NMDS2, color = BLTVA, shape = Region),
+             size = 4) +
+  labs(color = "BLTVA", shape = "Region") +
+  ggrepel::geom_text_repel(data = spp_scores_3d,
+                           aes(x = NMDS1, y = NMDS2, label = Species),
+                           size = 2.0) +
+  geom_segment(data = date.scores2,
+               aes(x = 0, xend = NMDS1, y = 0, yend = NMDS2),
+               arrow = arrow(length = unit(0.25, "cm")),
+               colour = "grey10", lwd = 0.3) +
+  ggrepel::geom_text_repel(data = date.scores2,
+                           aes(x = NMDS1,
+                               y = NMDS2,
+                               label = date),
+                           cex = 4, direction = "both",
+                           segment.size = 0.25) +
+  theme_cowplot()
+
+```
+
+
+### BCTV by Host Plant
+
+```{r nmds_plot_HostPlant_BCTV, echo = F}
+
+# NMDS 2 & 3
+
+site_scores_3d %>% 
+  filter(!is.na(BCTV)) %>% 
+  ggplot(aes(x = NMDS2, y = NMDS3)) +
+  geom_point(aes(NMDS2, NMDS3, color = HostPlant, shape = BCTV),
+             size = 4) +
+  labs(color = "HostPlant", shape = "BCTV") +
+  ggrepel::geom_text_repel(data = spp_scores_3d,
+                           aes(x = NMDS2, y = NMDS3, label = Species),
+                           size = 2.0) +
+  geom_segment(data = date.scores2,
+               aes(x = 0, xend = NMDS2, y = 0, yend = NMDS3),
+               arrow = arrow(length = unit(0.25, "cm")),
+               colour = "grey10", lwd = 0.3) +
+  ggrepel::geom_text_repel(data = date.scores2,
+                           aes(x = NMDS2,
+                               y = NMDS3,
+                               label = date),
+                           cex = 4, direction = "both",
+                           segment.size = 0.25) +
+  theme_cowplot()
+
+
+```
+
+
+### BLTVA by Host Plant
+
+```{r nmds_plot_HostPlant_BLTVA, echo = F}
+
+# NMDS 1 & 2
+
+site_scores_3d %>% 
+  ggplot(aes(x = NMDS1, y = NMDS2)) +
+  geom_point(aes(NMDS1, NMDS2, color = HostPlant, shape = BLTVA),
+             size = 4) +
+  labs(color = "HostPlant", shape = "BLTVA") +
+  ggrepel::geom_text_repel(data = spp_scores_3d,
+                           aes(x = NMDS1, y = NMDS2, label = Species),
+                           size = 2.0) +
+  geom_segment(data = date.scores2,
+               aes(x = 0, xend = NMDS1, y = 0, yend = NMDS2),
+               arrow = arrow(length = unit(0.25, "cm")),
+               colour = "grey10", lwd = 0.3) +
+  ggrepel::geom_text_repel(data = date.scores2,
+                           aes(x = NMDS1,
+                               y = NMDS2,
+                               label = date),
+                           cex = 4, direction = "both",
+                           segment.size = 0.25) +
+  theme_cowplot()
+
+
+```
+
+
+### BCTV by year
+
+```{r nmds_plot_Year_BCTV, echo = F}
+
+site_scores_3d %>% 
+  filter(!is.na(BCTV)) %>% 
+  ggplot(aes(x = NMDS2, y = NMDS3)) +
+  geom_point(aes(NMDS2, NMDS3, color = BCTV, shape = Year),
+             size = 4) +
+  labs(color = "BCTV", shape = "Year") +
+  ggrepel::geom_text_repel(data = spp_scores_3d,
+                           aes(x = NMDS2, y = NMDS3, label = Species),
+                           size = 2.0) +
+  geom_segment(data = date.scores2,
+               aes(x = 0, xend = NMDS2, y = 0, yend = NMDS3),
+               arrow = arrow(length = unit(0.25, "cm")),
+               colour = "grey10", lwd = 0.3) +
+  ggrepel::geom_text_repel(data = date.scores2,
+                           aes(x = NMDS2,
+                               y = NMDS3,
+                               label = date),
+                           cex = 4, direction = "both",
+                           segment.size = 0.25) +
+  theme_cowplot()
+
+
+```
+
+
+### BLTVA by year
+
+```{r nmds_plot_year_BLTVA, echo = F}
+
+# NMDS 1 & 2
+
+site_scores_3d %>% 
+  ggplot(aes(x = NMDS1, y = NMDS2)) +
+  geom_point(aes(NMDS1, NMDS2, color = BLTVA, shape = Year),
+             size = 4) +
+  labs(color = "BLTVA", shape = "Year") +
+  ggrepel::geom_text_repel(data = spp_scores_3d,
+                           aes(x = NMDS1, y = NMDS2, label = Species),
+                           size = 2.0) +
+  geom_segment(data = date.scores2,
+               aes(x = 0, xend = NMDS1, y = 0, yend = NMDS2),
+               arrow = arrow(length = unit(0.25, "cm")),
+               colour = "grey10", lwd = 0.3) +
+  ggrepel::geom_text_repel(data = date.scores2,
+                           aes(x = NMDS1,
+                               y = NMDS2,
+                               label = date),
+                           cex = 4, direction = "both",
+                           segment.size = 0.25) +
+  theme_cowplot()
+
+```
+
+
+# Session Information
+
+```{r Session_Info, echo = F, comment = ""}
+
+# Add session information to help with reproduceability
+sessionInfo()
+
+
+```
+
+

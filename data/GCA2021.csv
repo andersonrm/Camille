@@ -1,0 +1,236 @@
+Type,Family,Common,Genus,BLH,BLTVA ,BCTV,BarCode,Query,Organism,Sequences,Date,Time,Region,Site,HostPlant,Year
+Weed,Asteraceae,Goats beard,Tragopogon,2,0,,trnF,bc1103--bc1112,Tragopogon pratensis,3,"Tuesday, March 23, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,4,0,1,trnF,bc1103--bc1114,Bassia littorea,37,"Tuesday, March 23, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,4,0,1,trnF,bc1103--bc1114,Sisymbrium altissimum,8,"Tuesday, March 23, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,4,0,1,trnF,bc1103--bc1114,Salsola collina,35,"Tuesday, March 23, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Grass,Poaceae,Poverty Brome,Bromus,5,0,,trnF,bc1103--bc1120,Bromus sterilis,8,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,5,0,,trnF,bc1103--bc1120,Bassia littorea,8,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,5,0,,trnF,bc1103--bc1120,Sisymbrium altissimum,402,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,6,0,0,trnF,bc1103--bc1109,Lactuca sativa,3,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,6,0,0,trnF,bc1103--bc1109,Hordeum marinum,4,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,6,0,0,trnF,bc1103--bc1109,Bassia littorea,4,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,6,0,0,trnF,bc1103--bc1109,Sisymbrium altissimum,8,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Weed,Asteraceae,Goats beard,Tragopogon,6,0,0,trnF,bc1103--bc1109,Tragopogon pratensis,7,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,7,0,0,trnF,bc1103--bc1110,Lactuca sativa,24,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,7,0,0,trnF,bc1103--bc1110,Bassia littorea,403,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,7,0,0,trnF,bc1103--bc1110,Sisymbrium altissimum,102,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,9,0,0,trnF,bc1105--bc1120,Bassia littorea,25,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,9,0,0,trnF,bc1105--bc1120,Sisymbrium altissimum,4,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Solanaceae,Tomato,Solanum,10,0,1,trnF,bc1105--bc1109,Solanum lycopersicum,4,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,10,0,1,trnF,bc1105--bc1109,Bassia littorea,258,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,10,0,1,trnF,bc1105--bc1109,Sisymbrium altissimum,12,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,10,0,1,ITS,bc1140--bc1180,Sisymbrium altissimum,97,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,11,0,0,trnF,bc1105--bc1110,Lactuca sativa,4,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,11,0,0,trnF,bc1105--bc1110,Bromus sterilis,36,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,11,0,0,trnF,bc1105--bc1110,Bassia littorea,137,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,11,0,0,trnF,bc1105--bc1110,Sisymbrium altissimum,56,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,12,0,0,trnF,bc1099--bc1106,Hordeum marinum,5,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,12,0,0,trnF,bc1099--bc1106,Bassia littorea,356,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,12,0,0,trnF,bc1099--bc1106,Sisymbrium altissimum,114,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,15,0,0,trnF,bc1106--bc1120,Bassia littorea,1211,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,16,0,0,trnF,bc1106--bc1109,Lactuca sativa,2,"Tuesday, March 23, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,17,0,0,trnF,bc1106--bc1110,Bromus sterilis,25,"Tuesday, March 23, 2021",Late March,Othello,Othello farm,Flixweed,2021
+Potato,Solanaceae,potato,Solanum,17,0,0,trnF,bc1106--bc1110,Solanum tuberosum,23,"Tuesday, March 23, 2021",Late March,Othello,Othello farm,Flixweed,2021
+Crop,Fabaceae,cowpea,Vigna,26,0,0,trnF,bc1112--bc1175,Vigna unguiculata,4,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,26,0,0,trnF,bc1112--bc1175,Descurainia sophia,2,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,26,0,0,trnF,bc1112--bc1175,Sisymbrium altissimum,2,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,26,0,0,trnF,bc1112--bc1175,Salsola collina,4,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Grass,Poaceae,Poverty Brome,Bromus,32,0,0,trnF,bc1114--bc1175,Bromus sterilis,10,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,32,0,0,trnF,bc1114--bc1175,Descurainia sophia,3,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,32,0,0,trnF,bc1114--bc1175,Sisymbrium altissimum,68,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,32,0,0,trnF,bc1120--bc1175,Salsola collina,11,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Tree,Pinaceae,Japanese Red Pine,Pinus,32,0,0,trnF,bc1114--bc1175,Pinus densiflora,2,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Crop,Fabaceae,cowpea,Vigna,44,1,0,trnF,bc1109--bc1175,Vigna unguiculata,4,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,44,1,0,trnF,bc1109--bc1175,Hordeum brevisubulatum,6,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,44,1,0,trnF,bc1109--bc1175,Sisymbrium altissimum,4,"Tuesday, March 30, 2021",Late March,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,58,0,0,trnF,bc1113--bc1169,Bassia littorea,9,"Tuesday, March 30, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,58,0,0,trnF,bc1113--bc1169,Sisymbrium altissimum,63,"Tuesday, March 30, 2021",Late March,Pasco,Pasco farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,70,0,0,trnF,bc1110--bc1169,Salsola collina,12,"Tuesday, April 6, 2021",Early April,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,76,0,0,trnF,bc1097--bc1107,Bassia littorea,5,"Tuesday, April 6, 2021",Early April,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,76,0,0,trnF,bc1097--bc1107,Sisymbrium altissimum,4,"Tuesday, April 6, 2021",Early April,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,88,1,0,ITS,bc1140--bc1152,Sisymbrium altissimum,18,"Tuesday, April 13, 2021",Early April,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Apiaceae,carrot,Daucus,89,0,,trnF,bc1107--bc1114,Daucus carota,2,"Tuesday, April 13, 2021",Early April,Othello,Othello farm,Flixweed,2021
+Crop,Fabaceae,cowpea,Vigna,89,0,,trnF,bc1107--bc1114,Vigna unguiculata,5,"Tuesday, April 13, 2021",Early April,Othello,Othello farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,89,0,,trnF,bc1107--bc1114,Bassia littorea,2,"Tuesday, April 13, 2021",Early April,Othello,Othello farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,89,0,,trnF,bc1107--bc1114,Sisymbrium altissimum,7,"Tuesday, April 13, 2021",Early April,Othello,Othello farm,Flixweed,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,89,0,,trnF,bc1107--bc1114,Convolvulus arvensis,2,"Tuesday, April 13, 2021",Early April,Othello,Othello farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,96,0,1,trnF,bc1107--bc1109,Sisymbrium altissimum,6,"Tuesday, April 20, 2021",Late April,Pasco,Pasco farm,Tumble mustard,2021
+Potato,Solanaceae,potato,Solanum,96,0,1,trnF,bc1107--bc1109,Solanum tuberosum,28,"Tuesday, April 20, 2021",Late April,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,97,1,1,trnF,bc1107--bc1110,Lactuca sativa,7,"Tuesday, April 20, 2021",Late April,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,97,1,1,trnF,bc1107--bc1110,Sisymbrium altissimum,34,"Tuesday, April 20, 2021",Late April,Pasco,Pasco farm,Tumble mustard,2021
+Tree,Fabaceae,Japanese pagoda tree,Styphnolobium,97,1,1,trnF,bc1107--bc1110,Styphnolobium japonicum,7,"Tuesday, April 20, 2021",Late April,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,98,0,0,trnF,bc1097--bc1108,Lactuca sativa,3,"Tuesday, April 20, 2021",Late April,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,98,0,0,trnF,bc1097--bc1108,Bassia littorea,319,"Tuesday, April 20, 2021",Late April,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,98,0,0,trnF,bc1097--bc1108,Sisymbrium altissimum,133,"Tuesday, April 20, 2021",Late April,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,99,0,1,trnF,bc1108--bc1111,Lactuca sativa,2,"Tuesday, April 20, 2021",Late April,Othello,Othello farm,Flixweed,2021
+Grass,Poaceae,Poverty Brome,Bromus,99,0,1,trnF,bc1108--bc1111,Bromus sterilis,6,"Tuesday, April 20, 2021",Late April,Othello,Othello farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,99,0,1,trnF,bc1108--bc1111,Salsola collina,63,"Tuesday, April 20, 2021",Late April,Othello,Othello farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,103,1,1,trnF,bc1108--bc1112,Salsola collina,19,"Tuesday, April 20, 2021",Late April,Moxee,Moxee farm,Flixweed,2021
+Crop,Solanaceae,Tomato,Solanum,108,1,1,trnF,bc1108--bc1109,Solanum lycopersicum,2,"Tuesday, April 20, 2021",Late April,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,108,1,1,trnF,bc1108--bc1109,Bassia littorea,2,"Tuesday, April 20, 2021",Late April,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tall mustard,Sisymbrium,108,1,1,trnF,bc1108--bc1109,Sisymbrium loeselii,2,"Tuesday, April 20, 2021",Late April,Moxee,Moxee farm,Flixweed,2021
+Weed,Asteraceae,Prickly Lettuce,Lactuca,108,1,1,trnF,bc1108--bc1109,Lactuca serriola,2,"Tuesday, April 20, 2021",Late April,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,118,0,1,trnF,bc1097--bc1142,Sisymbrium altissimum,2,"Tuesday, April 20, 2021",Late April,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,136,0,0,trnF,bc1097--bc1143,Salsola collina,14,"Tuesday, April 27, 2021",Late April,Moxee,Moxee farm,Blue mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,170,0,0,trnF,bc1112--bc1143,Salsola collina,6,"Tuesday, May 4, 2021",Early May,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,178,0,0,trnF,bc1109--bc1143,Sisymbrium altissimum,54,"Tuesday, May 4, 2021",Early May,Moxee,Moxee farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,178,0,0,trnF,bc1109--bc1143,Solanum tuberosum,29,"Tuesday, May 4, 2021",Early May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,179,0,1,trnF,bc1110--bc1143,Sisymbrium altissimum,2,"Tuesday, May 4, 2021",Early May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,193,0,0,trnF,bc1100--bc1144,Sisymbrium altissimum,,"Tuesday, May 11, 2021",Early May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,203,0,0,trnF,bc1111--bc1144,Lactuca sativa,13,"Tuesday, May 11, 2021",Early May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,203,0,0,trnF,bc1111--bc1144,Sisymbrium altissimum,6,"Tuesday, May 11, 2021",Early May,Moxee,Moxee farm,Kochia,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,203,0,0,trnF,bc1111--bc1144,Convolvulus arvensis,6,"Tuesday, May 11, 2021",Early May,Moxee,Moxee farm,Kochia,2021
+Weed,Asteraceae,Prickly Lettuce,Lactuca,203,0,0,trnF,bc1111--bc1144,Lactuca serriola,13,"Tuesday, May 11, 2021",Early May,Moxee,Moxee farm,Kochia,2021
+Crop,Fabaceae,cowpea,Vigna,204,0,0,trnF,bc1112--bc1144,Vigna unguiculata,3,"Tuesday, May 11, 2021",Early May,Othello,Othello farm,Kochia,2021
+Grass,Poaceae,Poverty Brome,Bromus,204,0,0,trnF,bc1112--bc1144,Bromus sterilis,2,"Tuesday, May 11, 2021",Early May,Othello,Othello farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,204,0,0,trnF,bc1112--bc1144,Sisymbrium altissimum,4,"Tuesday, May 11, 2021",Early May,Othello,Othello farm,Kochia,2021
+Mustard,Brassicaceae,Tall mustard,Sisymbrium,204,0,0,trnF,bc1112--bc1144,Sisymbrium loeselii,2,"Tuesday, May 11, 2021",Early May,Othello,Othello farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,204,0,0,trnF,bc1112--bc1144,Solanum tuberosum,5,"Tuesday, May 11, 2021",Early May,Othello,Othello farm,Kochia,2021
+Tree,Rosaceae,Apple,Malus,204,0,0,trnF,bc1112--bc1144,Malus x,2,"Tuesday, May 11, 2021",Early May,Othello,Othello farm,Kochia,2021
+Crop,Fabaceae,cowpea,Vigna,205,0,0,trnF,bc1113--bc1144,Vigna unguiculata,7,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,205,0,0,trnF,bc1113--bc1144,Bassia scoparia,2,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,205,0,0,trnF,bc1113--bc1144,Sisymbrium altissimum,7,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,205,0,0,trnF,bc1113--bc1144,Solanum tuberosum,2,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,206,0,1,trnF,bc1114--bc1144,Bassia littorea,42,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,206,0,1,trnF,bc1114--bc1144,Descurainia sophia,2,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,206,0,1,trnF,bc1114--bc1144,Sisymbrium altissimum,533,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,206,0,1,ITS,bc1135--bc1161,Sisymbrium altissimum,362,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Fabaceae,cowpea,Vigna,248,1,1,trnF,bc1109--bc1144,Vigna unguiculata,5,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,248,1,1,trnF,bc1109--bc1144,Bassia littorea,2,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Blue mustard,Chorispora,248,1,1,trnF,bc1109--bc1144,Chorispora tenella,2,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,248,1,1,trnF,bc1109--bc1144,Sisymbrium altissimum,7,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,248,1,1,trnF,bc1109--bc1144,Convolvulus arvensis,2,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Fabaceae,cowpea,Vigna,253,1,1,trnF,bc1110--bc1144,Vigna unguiculata,4,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,253,1,1,trnF,bc1110--bc1144,Bassia littorea,3,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,unknown,Pseudofortuynia,253,1,1,trnF,bc1110--bc1144,Pseudofortuynia leucoclada,3,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,253,1,1,trnF,bc1110--bc1144,Sisymbrium altissimum,4,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Fabaceae,cowpea,Vigna,254,0,0,trnF,bc1103--bc1176,Vigna unguiculata,5,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,254,0,0,trnF,bc1103--bc1176,Bromus sterilis,5,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,254,0,0,trnF,bc1103--bc1176,Bassia littorea,3,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,unknown,Pseudofortuynia,254,0,0,trnF,bc1103--bc1176,Pseudofortuynia leucoclada,3,"Tuesday, May 11, 2021",Early May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,292,0,0,trnF,bc1105--bc1176,Lactuca sativa,118,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,292,0,0,trnF,bc1105--bc1176,Bassia littorea,3,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,295,1,0,trnF,bc1106--bc1176,Lactuca sativa,420,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Poverty Brome,Bromus,295,1,0,trnF,bc1106--bc1176,Bromus sterilis,3,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,295,1,0,trnF,bc1106--bc1176,Bassia littorea,2,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,295,1,0,trnF,bc1106--bc1176,Sisymbrium altissimum,9,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Fabaceae,cowpea,Vigna,320,0,0,trnF,bc1107--bc1176,Vigna unguiculata,6,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,320,0,0,trnF,bc1107--bc1176,Bromus sterilis,6,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,320,0,0,trnF,bc1107--bc1176,Bassia littorea,6,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,320,0,0,trnF,bc1107--bc1176,Descurainia sophia,4,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Tumble mustard,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,320,0,0,trnF,bc1107--bc1176,Convolvulus arvensis,2,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,321,0,1,trnF,bc1108--bc1176,Bromus sterilis,8,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Grass,Poaceae,Wheatgrass,Elymus,321,0,1,trnF,bc1108--bc1176,Elymus magellanicus,21,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,321,0,1,trnF,bc1108--bc1176,Bassia littorea,135,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,321,0,1,trnF,bc1108--bc1176,Salsola collina,1120,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Tree,Rutaceaae,Amanatsu,Citrus,321,0,1,trnF,bc1108--bc1176,Citrus natsudaidai,18,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Tree,Rosaceae,Apple,Malus,321,0,1,trnF,bc1108--bc1176,Malus x,5,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Weed,Plantaginaceae,plantain,Plantago,321,0,1,trnF,bc1108--bc1176,Plantago lanceolata,34,"Tuesday, May 18, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Potato,Solanaceae,potato,Solanum,326,0,1,trnF,bc1142--bc1176,Solanum tuberosum,28,"Tuesday, May 18, 2021",Late May,Othello,Othello farm,Kochia,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,326,0,1,trnF,bc1142--bc1176,Salsola collina,72,"Tuesday, May 18, 2021",Late May,Othello,Othello farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,330,1,0,ITS,bc1124--bc1160,Sisymbrium altissimum,798,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,339,0,0,trnF,bc1103--bc1177,Lactuca sativa,20,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Kochia,2021
+Crop,Solanaceae,Tomato,Solanum,339,0,0,trnF,bc1103--bc1177,Solanum lycopersicum,9,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,339,0,0,trnF,bc1103--bc1177,Bassia littorea,19,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,339,0,0,ITS,bc1124--bc1161,Sisymbrium altissimum,53,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Kochia,2021
+Weed,Asteraceae,Goats beard,Tragopogon,339,0,0,trnF,bc1103--bc1177,Tragopogon pratensis,15,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,340,0,1,trnF,bc1105--bc1177,Lactuca sativa,4,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,340,0,1,trnF,bc1105--bc1177,Bromus sterilis,193,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,340,0,1,trnF,bc1105--bc1177,Bassia littorea,15,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,340,0,1,ITS,bc1124--bc1162,Sisymbrium altissimum,32,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Potato,Solanaceae,potato,Solanum,340,0,1,trnF,bc1105--bc1177,Solanum tuberosum,2,"Tuesday, May 18, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,365,0,0,trnF,bc1106--bc1177,Lactuca sativa,5,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,365,0,0,trnF,bc1106--bc1177,Bassia littorea,2,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,365,0,0,trnF,bc1106--bc1177,Sisymbrium altissimum,2,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Potato,Solanaceae,potato,Solanum,365,0,0,trnF,bc1106--bc1177,Solanum tuberosum,2,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Tree,Betulaceae,Alder,Alnus,365,0,0,trnF,bc1106--bc1177,Alnus jorullensis,2,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,365,0,0,trnF,bc1106--bc1177,Convolvulus arvensis,2,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Weed,Asteraceae,Prickly Lettuce,Lactuca,365,0,0,trnF,bc1106--bc1177,Lactuca serriola,3,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Flixweed,2021
+Grass,Poaceae,Poverty Brome,Bromus,366,0,0,ITS,bc1134--bc1160,Bromus sterilis,6,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,366,0,0,ITS,bc1134--bc1160,Sisymbrium altissimum,123,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,379,0,0,ITS,bc1134--bc1172,Sisymbrium altissimum,289,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Solanaceae,Tomato,Solanum,380,0,0,trnF,bc1107--bc1177,Solanum lycopersicum,471,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,380,0,0,ITS,bc1134--bc1161,Sisymbrium altissimum,101,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,380,0,0,trnF,bc1107--bc1177,Amaranthus spinosus,14,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Tree,Juglandaceae,English walnut,Juglans,380,0,0,trnF,bc1107--bc1177,Juglans regia,4,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Weed,Basellaceae,Vine Spinach,Basella,380,0,0,trnF,bc1107--bc1177,Basella alba,8,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,381,0,0,trnF,bc1108--bc1177,Lactuca sativa,4,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Solanaceae,Tomato,Solanum,381,0,0,trnF,bc1108--bc1177,Solanum lycopersicum,90,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,381,0,0,trnF,bc1108--bc1177,Hordeum marinum,7,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,381,0,0,trnF,bc1108--bc1177,Bassia littorea,8,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,381,0,0,trnF,bc1108--bc1177,Sisymbrium altissimum,94,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,381,0,0,trnF,bc1108--bc1177,Salsola collina,66,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Solanaceae,Tomato,Solanum,392,1,0,trnF,bc1103--bc1178,Solanum lycopersicum,7,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Fabaceae,cowpea,Vigna,392,1,0,trnF,bc1103--bc1178,Vigna unguiculata,4,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Wild barley,Hordeum,392,1,0,trnF,bc1103--bc1178,Hordeum brevisubulatum,3,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,392,1,0,trnF,bc1103--bc1178,Bassia littorea,2,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,392,1,0,trnF,bc1103--bc1178,Convolvulus arvensis,2,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,412,0,0,trnF,bc1105--bc1178,Bassia littorea,2,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,412,0,0,trnF,bc1105--bc1178,Solanum tuberosum,18,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,412,0,0,trnF,bc1105--bc1178,Salsola collina,20,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Tree,Pinaceae,Japanese Red Pine,Pinus,412,0,0,trnF,bc1105--bc1178,Pinus densiflora,10,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,412,0,0,trnF,bc1105--bc1178,Chenopodium album,26,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,413,0,0,trnF,bc1106--bc1178,Lactuca sativa,5,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Poverty Brome,Bromus,413,0,0,trnF,bc1106--bc1178,Bromus sterilis,7,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,413,0,0,trnF,bc1106--bc1178,Bassia littorea,2,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,413,0,0,trnF,bc1106--bc1178,Sisymbrium altissimum,2,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,413,0,0,trnF,bc1106--bc1178,Solanum tuberosum,62,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,414,0,,ITS,bc1123--bc1172,Sisymbrium altissimum,220,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Weed,Asteraceae,Prickly Lettuce,Lactuca,414,0,,ITS,bc1123--bc1172,Lactuca serriola,11,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,415,0,,ITS,bc1123--bc1160,Sisymbrium altissimum,88,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,416,0,,trnF,bc1107--bc1178,Lactuca sativa,9,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Solanaceae,Tomato,Solanum,416,0,,trnF,bc1107--bc1178,Solanum lycopersicum,84,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Poverty Brome,Bromus,416,0,,trnF,bc1107--bc1178,Bromus sterilis,12,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,416,0,,trnF,bc1107--bc1178,Sisymbrium altissimum,41,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,416,0,,ITS,bc1123--bc1191,Sisymbrium altissimum,103,"Wednesday, May 26, 2021",Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Poverty Brome,Bromus,448,0,0,trnF,bc1108--bc1178,Bromus sterilis,7,"Wednesday, May 26, 2021",Late May,Othello,Othello farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,448,0,0,trnF,bc1108--bc1178,Bassia littorea,48,"Wednesday, May 26, 2021",Late May,Othello,Othello farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,448,0,0,trnF,bc1108--bc1178,Sisymbrium altissimum,8,"Wednesday, May 26, 2021",Late May,Othello,Othello farm,Kochia,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,448,0,0,trnF,bc1108--bc1178,Salsola collina,146,"Wednesday, May 26, 2021",Late May,Othello,Othello farm,Kochia,2021
+Weed,Basellaceae,Vine Spinach,Basella,448,0,0,trnF,bc1108--bc1178,Basella alba,11,"Wednesday, May 26, 2021",Late May,Othello,Othello farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,449,0,,ITS,bc1123--bc1161,Sisymbrium altissimum,147,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,466,0,,trnF,bc1097--bc1103,Bassia littorea,11,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,466,0,,trnF,bc1097--bc1103,Salsola collina,5,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,467,0,,trnF,bc1100--bc1103,Hordeum marinum,4,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,467,0,,trnF,bc1100--bc1103,Bassia littorea,290,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,468,0,0,trnF,bc1097--bc1105,Lactuca sativa,88,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,468,0,0,trnF,bc1097--bc1105,Bromus sterilis,4,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Meadow Fescue,Festuca,468,0,0,trnF,bc1097--bc1105,Festuca pratensis,23,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,468,0,0,trnF,bc1097--bc1105,Bassia littorea,15,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,468,0,0,trnF,bc1097--bc1105,Descurainia sophia,130,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,468,0,0,ITS,bc1124--bc1163,Sisymbrium altissimum,30,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,499,1,,trnF,bc1100--bc1105,Bromus sterilis,43,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,499,1,,trnF,bc1100--bc1105,Bassia littorea,33,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,499,1,,trnF,bc1100--bc1105,Sisymbrium altissimum,80,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,499,1,,trnF,bc1100--bc1105,Salsola collina,10,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,530,1,,trnF,bc1105--bc1111,Lactuca sativa,8,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Solanaceae,Tomato,Solanum,530,1,,trnF,bc1105--bc1111,Solanum lycopersicum,6,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,530,1,,trnF,bc1105--bc1111,Bromus sterilis,9,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,530,1,,trnF,bc1105--bc1111,Hordeum marinum,5,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,530,1,,trnF,bc1105--bc1111,Bassia littorea,477,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,530,1,,trnF,bc1105--bc1111,Sisymbrium altissimum,39,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,530,1,,trnF,bc1105--bc1111,Salsola collina,53,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,541,0,0,trnF,bc1105--bc1113,Lactuca sativa,10,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,541,0,0,trnF,bc1105--bc1113,Bromus sterilis,18,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,541,0,0,trnF,bc1105--bc1113,Bassia littorea,47,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,541,0,0,trnF,bc1105--bc1113,Sisymbrium altissimum,52,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,541,0,0,trnF,bc1105--bc1113,Salsola collina,16,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,541,0,0,trnF,bc1105--bc1113,Chenopodium album,19,"Wednesday, May 26, 2021",Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,548,0,0,trnF,bc1097--bc1106,Lactuca sativa,4,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Loesel's mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,548,0,0,trnF,bc1097--bc1106,Bromus sterilis,10,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Loesel's mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,548,0,0,trnF,bc1097--bc1106,Bassia littorea,14,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Loesel's mustard,2021
+Potato,Solanaceae,potato,Solanum,548,0,0,trnF,bc1097--bc1106,Solanum tuberosum,111,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Loesel's mustard,2021
+Crop,Fabaceae,cowpea,Vigna,549,0,,trnF,bc1100--bc1106,Vigna unguiculata,5,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Flixweed,2021
+Grass,Poaceae,Wild barley,Hordeum,549,0,,trnF,bc1100--bc1106,Hordeum brevisubulatum,6,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,549,0,,trnF,bc1100--bc1106,Bassia littorea,5,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,623,0,,trnF,bc1106--bc1112,Bassia littorea,68,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,623,0,,trnF,bc1106--bc1112,Salsola collina,11,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,624,0,,trnF,bc1106--bc1113,Lactuca sativa,158,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,624,0,,trnF,bc1106--bc1113,Bassia littorea,347,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,624,0,,trnF,bc1106--bc1113,Sisymbrium altissimum,3,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021
+Potato,Solanaceae,potato,Solanum,624,0,,trnF,bc1106--bc1113,Solanum tuberosum,228,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,625,0,,trnF,bc1114--bc1169,Descurainia sophia,655,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,625,0,,trnF,bc1114--bc1169,Sisymbrium altissimum,276,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,626,0,,trnF,bc1100--bc1107,Bromus sterilis,11,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,626,0,,trnF,bc1100--bc1107,Bassia littorea,6,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,626,0,,trnF,bc1100--bc1107,Sisymbrium altissimum,12,"Wednesday, June 2, 2021",Early June,Moxee,Moxee farm,Tumble mustard,2021

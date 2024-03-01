@@ -1,0 +1,1280 @@
+Type,Family,Common,Genus,BLH ,idBLH,BLTVA,BCTV,Barcode,Query,Organism,Sequences,Date,Time,Region,Site,HostPlant ,Year
+Tree,Pinaceae,White Pine,Abies,141,141_2019,1,0,trnF,bc1115--bc1144,Abies concolor,3,2019-7-18,Late July,Paterson,529,Pigweed,2019
+Tree,Sapindaceae,Japanese Maple,Acer,482,482_2020,1,0,trnF,bc1110--bc1144,Acer palmatum,2,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Tree,Sapindaceae,Red maple,Acer,20,20_2019,0,0,ITS,bc1140--bc1146 ,Acer rubrum,4,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Tree,Sapindaceae,Red maple,Acer,56,56_2019,0,0,ITS,bc1140--bc1156,Acer rubrum,3,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Tree,Sapindaceae,Sugar maple,Acer,43,43_2019,0,0,ITS,bc1155--bc1157,Acer saccharinum,71,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Tree,Sapindaceae,Silver Maple,Acer,122,122_2020,1,1,ITS,bc1152--bc1190,Acer saccharinum,10,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Tree,Sapindaceae,Full moon Japanese Maple,Acer,482,482_2020,1,0,trnF,bc1110--bc1144,Acer tenuifolium,4,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Weed,Asteraceae,Yarrow,Achillea,171,171_2020,0,0,trnF,bc1107--bc1113,Achillea millefolium,19,2020-5-27,Late May,Paterson,J,Russian thistle,2020
+Weed,Asteraceae,Yarrow,Achillea,171,171_2020,0,0,ITS,bc1140--bc1152,Achillea millefolium,10,2020-5-27,Late May,Paterson,J,Russian thistle,2020
+Grass,Poaceae,Barbed Goatgrass,Aegilops,123,123_2020,0,1,ITS,bc1152--bc1191,Aegilops triuncialis,6,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Crop,Amaryllidaceae,Onion,Allium,40,40_2019,0,0,ITS,bc1140--bc1153,Allium cepa,3,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Weed,Amaryllidaceae,Wild onion,Allium,37,37_2020,0,1,ITS,bc1146--bc1172,Allium pskemense,493,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Weed,Amaryllidaceae,Wild onion,Allium,28,28_2020,0,0,ITS,bc1146--bc1171,Allium pskemense,5,2020-5-18,Late May,Moxee,A,Kochia,2020
+Weed,Amaryllidaceae,Wild onion,Allium,84,84_2020,1,1,ITS,bc1146--bc1155,Allium pskemense,4,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Tree,Betulaceae,Alder,Alnus,365,365_2021,0,0,trnF,bc1106--bc1177,Alnus jorullensis,2,2021-5-26,Late May,Moxee,Moxee farm,Flixweed,2021
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,39,39_2019,0,0,trnF,bc1109--bc1142,Amaranthus blitum,6,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,40,40_2019,0,0,trnF,bc1110--bc1142,Amaranthus blitum,23,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,52,52_2019,0,0,trnF,bc1142--bc1176,Amaranthus blitum,48,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,96,96_2019,1,0,trnF,bc1110--bc1143,Amaranthus blitum,9,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,97,97_2019,0,0,trnF,bc1143--bc1176,Amaranthus blitum,334,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,106,106_2019,0,0,trnF,bc1143--bc1177,Amaranthus blitum,2,2019-7-11,Early July,Paterson,107,Potato,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,108,108_2019,1,0,trnF,bc1107--bc1120,Amaranthus blitum,15,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,112,112_2019,1,0,trnF,bc1107--bc1112,Amaranthus blitum,53,2019-7-11,Early July,Paterson,475,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,114,114_2019,0,0,trnF,bc1113--bc1144,Amaranthus blitum,6,2019-7-11,Early July,Paterson,475,Potato,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,141,141_2019,1,0,trnF,bc1115--bc1144,Amaranthus blitum,52,2019-7-18,Late July,Paterson,529,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,162,162_2019,0,0,trnF,bc1169--bc1177,Amaranthus blitum,13,2019-8-1,Early August,Paterson,475,Kochia,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,163,163_2019,0,0,trnF,bc1169--bc1176,Amaranthus blitum,2,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,166,166_2019,0,0,trnF,bc1144--bc1176,Amaranthus blitum,14,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,168,168_2019,0,0,trnF,bc1120--bc1169,Amaranthus blitum,2,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,169,169_2019,0,0,trnF,bc1115--bc1169,Amaranthus blitum,11,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,174,174_2019,0,0,trnF,bc1113--bc1169,Amaranthus blitum,4,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Purple amaranth or Guernsey pigweed,Amaranthus,175,175_2019,0,0,trnF,bc1112--bc1169,Amaranthus blitum,41,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Pigweed,Amaranthus,504,504_2020,1,0,trnF,bc1100--bc1105,Amaranthus capensis,3,2020-6-25,Late June,Pasco,M,Netseed Lambsquarters,2020
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,19,19_2019,0,1,ITS,bc1140--bc1150,Amaranthus hybridus,3,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,35,35_2019,0,0,ITS,bc1155--bc1158,Amaranthus hybridus,3,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,39,39_2019,0,0,ITS,bc1140--bc1152,Amaranthus hybridus,97,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,40,40_2019,0,0,ITS,bc1140--bc1153,Amaranthus hybridus,399,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,52,52_2019,0,0,ITS,bc1140--bc1158,Amaranthus hybridus,1061,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,54,54_2019,0,0,ITS,bc1140--bc1157,Amaranthus hybridus,7,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,69,69_2019,1,0,ITS,bc1133--bc1155,Amaranthus hybridus,8,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,70,70_2019,0,0,ITS,bc1134--bc1155,Amaranthus hybridus,7,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,71,71_2019,0,1,ITS,bc1123--bc1155,Amaranthus hybridus,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,72,72_2019,0,0,ITS,bc1124--bc1155,Amaranthus hybridus,10,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,96,96_2019,1,0,ITS,bc1152--bc1189,Amaranthus hybridus,119,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,97,97_2019,0,0,ITS,bc1153--bc1189,Amaranthus hybridus,481,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,103,103_2019,1,1,ITS,bc1154--bc1158,Amaranthus hybridus,3,2019-7-10,Early July,Mattawa,RDJ,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,106,106_2019,0,0,ITS,bc1158--bc1189,Amaranthus hybridus,3,2019-7-11,Early July,Paterson,107,Potato,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,108,108_2019,1,0,ITS,bc1154--bc1157,Amaranthus hybridus,3,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,111,111_2019,1,0,ITS,bc1135--bc1154,Amaranthus hybridus,3,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,114,114_2019,0,0,ITS,bc1156--bc1189,Amaranthus hybridus,5,2019-7-11,Early July,Paterson,475,Potato,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,128,128_2019,1,0,ITS,bc1134--bc1154,Amaranthus hybridus,6,2019-7-12,Early July,Pasco,WSU,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,141,141_2019,1,0,ITS,bc1135--bc1189,Amaranthus hybridus,49,2019-7-18,Late July,Paterson,529,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,145,145_2019,0,0,ITS,bc1148--bc1189,Amaranthus hybridus,28,2019-7-19,Late July,Pasco,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,153,153_2019,0,0,ITS,bc1133--bc1189,Amaranthus hybridus,5,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,160,160_2019,0,0,ITS,bc1124--bc1154,Amaranthus hybridus,34,2019-8-1,Early August,Paterson,475,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,162,162_2019,0,0,ITS,bc1146--bc1173,Amaranthus hybridus,8,2019-8-1,Early August,Paterson,475,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,163,163_2019,0,0,ITS,bc1152--bc1173,Amaranthus hybridus,6,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,164,164_2019,0,0,ITS,bc1153--bc1173,Amaranthus hybridus,3,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,166,166_2019,0,0,ITS,bc1134--bc1189,Amaranthus hybridus,11,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,167,167_2019,0,0,ITS,bc1158--bc1173,Amaranthus hybridus,6,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,169,169_2019,0,0,ITS,bc1156--bc1173,Amaranthus hybridus,2,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Smooth amaranth or Smooth pigweed,Amaranthus,175,175_2019,0,0,ITS,bc1148--bc1173,Amaranthus hybridus,19,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Pigweed,Amaranthaceae,Smooth Pigweed,Amaranthus,504,504_2020,1,0,ITS,bc1133--bc1171,Amaranthus hybridus,13,2020-6-25,Late June,Pasco,M,Netseed Lambsquarters,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,504,504_2020,1,0,trnF,bc1100--bc1105,Amaranthus spinosus,5,2020-6-25,Late June,Pasco,M,Netseed Lambsquarters,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,655,655_2020,0,0,trnF,bc1144--bc1176,Amaranthus spinosus,4,2020-8-12,Early August,Othello,F,Russian thistle,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,496,496_2020,0,0,trnF,bc1097--bc1105,Amaranthus spinosus,2,2020-6-25,Late June,Paterson,I,Russian thistle,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,518,518_2020,1,0,trnF,bc1106--bc1111,Amaranthus spinosus,5,2020-6-25,Late June,Pasco,M,Russian thistle,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,201,201_2020,0,0,trnF,bc1108--bc1111,Amaranthus spinosus,17,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Pigweed,Amaranthaceae,Spiny Pigweed,Amaranthus,380,380_2021,0,0,trnF,bc1107--bc1177,Amaranthus spinosus,14,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,39,39_2019,0,0,trnF,bc1109--bc1142,Amaranthus viridis,8,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,96,96_2019,1,0,trnF,bc1110--bc1143,Amaranthus viridis,19,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,97,97_2019,0,0,trnF,bc1143--bc1176,Amaranthus viridis,156,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,141,141_2019,1,0,trnF,bc1115--bc1144,Amaranthus viridis,94,2019-7-18,Late July,Paterson,529,Pigweed,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,166,166_2019,0,0,trnF,bc1144--bc1176,Amaranthus viridis,2,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Pigweed,Amaranthaceae,Slender amaranth or Green amaranth,Amaranthus,175,175_2019,0,0,trnF,bc1112--bc1169,Amaranthus viridis,9,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Weed,Asteraceae,Ragweed,Ambrosia,12,12_2020,0,0,ITS,bc1150--bc1191,Ambrosia acanthicarpa,18,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Weed,Boraginaceae,Common fiddleneck(Intermediate),Amsinckia,40,40_2019,0,0,trnF,bc1110--bc1142,Amsinckia intermedia,7,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Weed,Boraginaceae,Borage,Amsinckia,787,787_2020,1,0,trnF,bc1169--bc1177,Amsinckia intermedia,8,2020-8-27,Late August,Othello,E,Kochia,2020
+Weed,Boraginaceae,Common fiddleneck(Menzie's),Amsinckia,33,33_2019,0,0,ITS,bc1152--bc1155,Amsinckia menziesii,6,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Artemisia Yin Chen Hao,Artemisia,33,33_2019,0,0,trnF,bc1108--bc1178,Artemisia capillaris,8,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Asteraceae,Tarragon,Artemisia,17,17_2020,1,1,ITS,bc1150--bc1154,Artemisia dracunculus,386,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Weed,Asteraceae,Artemisia Makino,Artemisia,34,34_2019,0,0,ITS,bc1153--bc1155,Artemisia fukudo,2,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Artemisia Makino,Artemisia,56,56_2019,0,0,ITS,bc1140--bc1156,Artemisia fukudo,2,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Weed,Amaranthaceae,Saltbush,Chenopodium,70,70_2019,0,0,ITS,bc1134--bc1155,Atriplex sp.,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Basellaceae,Vine Spinach,Basella,380,380_2021,0,0,trnF,bc1107--bc1177,Basella alba,8,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Weed,Basellaceae,Vine Spinach,Basella,448,448_2021,0,0,trnF,bc1108--bc1178,Basella alba,11,2021-5-26,Late May,Othello,Othello farm,Kochia,2021
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,44,44_2019,0,0,trnF,bc1108--bc1109,Bassia littorea,2,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,70,70_2019,0,0,trnF,bc1108--bc1111,Bassia littorea,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,72,72_2019,0,0,trnF,bc1097--bc1108,Bassia littorea,4,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,73,73_2019,1,0,trnF,bc1107--bc1178,Bassia littorea,38,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,82,82_2019,1,0,trnF,bc1107--bc1110,Bassia littorea,6,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,106,106_2019,0,0,trnF,bc1143--bc1177,Bassia littorea,10,2019-7-11,Early July,Paterson,107,Potato,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,128,128_2019,1,0,trnF,bc1100--bc1107,Bassia littorea,30,2019-7-12,Early July,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,141,141_2019,1,0,trnF,bc1115--bc1144,Bassia littorea,21,2019-7-18,Late July,Paterson,529,Pigweed,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,159,159_2019,0,0,trnF,bc1098--bc1107,Bassia littorea,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,160,160_2019,0,0,trnF,bc1097--bc1107,Bassia littorea,3,2019-8-1,Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,161,161_2019,0,0,ITS,bc1169--bc1178,Bassia littorea,72,2019-8-1,Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,162,162_2019,0,0,trnF,bc1169--bc1177,Bassia littorea,8,2019-8-1,Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,163,163_2019,0,0,trnF,bc1169--bc1176,Bassia littorea,8,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,164,164_2019,0,0,trnF,bc1110--bc1169,Bassia littorea,26,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,167,167_2019,0,0,trnF,bc1109--bc1169,Bassia littorea,2,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Kochia,Amaranthaceae,Mexican Fireweed/Kochia type,Bassia,168,168_2019,0,0,trnF,bc1120--bc1169,Bassia littorea,6,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia,Bassia,18,18_2020,0,0,trnF,bc1105--bc1120,Bassia littorea,2,2020-5-18,Late May,Moxee,A,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,217,217_2020,0,1,trnF,bc1108--bc1113,Bassia littorea,14,2020-6-3,Early June,Moxee,A,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,46,46_2020,1,0,trnF,bc1111--bc1175,Bassia littorea,2,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,472,472_2020,1,0,trnF,bc1113--bc1144,Bassia littorea,14,2020-6-17,Late June,Othello,F,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,663,663_2020,0,0,trnF,bc1103--bc1177,Bassia littorea,253,2020-8-12,Early August,Othello,G,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,788,788_2020,0,1,trnF,bc1107--bc1177,Bassia littorea,9,2020-8-27,Late August,Othello,E,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,127,127_2020,0,0,trnF,bc1110--bc1169,Bassia littorea,311,2020-5-18,Late May,Othello,F,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,190,190_2020,1,0,trnF,bc1107--bc1120,Bassia littorea,2,2020-5-27,Late May,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,193,193_2020,0,1,trnF,bc1107--bc1109,Bassia littorea,11,2020-5-27,Late May,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,391,391_2020,1,0,trnF,bc1114--bc1143,Bassia littorea,,2020-6-12,Early June,Pasco,N,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,508,508_2020,0,1,trnF,bc1105--bc1113,Bassia littorea,100,2020-6-25,Late June,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,582,582_2020,0,1,trnF,bc1175--bc1176,Bassia littorea,10,2020-7-15,Late July,Othello,E,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,626,626_2020,0,0,trnF,bc1142--bc1176,Bassia littorea,30,2020-8-12,Early August,Moxee,A,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,671,671_2020,1,0,trnF,bc1105--bc1177,Bassia littorea,261,2020-8-12,Early August,Othello,G,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,786,786_2020,0,1,trnF,bc1175--bc1177,Bassia littorea,42,2020-8-27,Late August,Othello,E,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,787,787_2020,1,0,trnF,bc1169--bc1177,Bassia littorea,93,2020-8-27,Late August,Othello,E,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,827,827_2020,0,1,trnF,bc1142--bc1177,Bassia littorea,16,2020-10-2,Early October,Moxee,A,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,504,504_2020,1,0,trnF,bc1100--bc1105,Bassia littorea,7,2020-6-25,Late June,Pasco,M,Netseed Lambsquarters,2020
+Kochia,Amaranthaceae,Kochia,Bassia,362,362_2020,0,1,trnF,bc1110--bc1142,Bassia littorea,2,2020-6-3,Early June,Mattawa,D,Potato,2020
+Kochia,Amaranthaceae,Kochia,Bassia,577,577_2020,0,1,trnF,bc1106--bc1176,Bassia littorea,51,2020-7-15,Late July,Mattawa,D,Potato,2020
+Kochia,Amaranthaceae,Kochia,Bassia,171,171_2020,0,0,trnF,bc1107--bc1113,Bassia littorea,4,2020-5-27,Late May,Paterson,J,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,487,487_2020,1,1,trnF,bc1100--bc1103,Bassia littorea,3,2020-6-25,Late June,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,655,655_2020,0,0,trnF,bc1144--bc1176,Bassia littorea,45,2020-8-12,Early August,Othello,F,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,792,792_2020,0,1,trnF,bc1108--bc1177,Bassia littorea,3,2020-8-27,Late August,Othello,E,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,137,137_2020,1,0,trnF,bc1097--bc1107,Bassia littorea,2,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,198,198_2020,0,0,trnF,bc1107--bc1110,Bassia littorea,39,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,232,232_2020,1,1,trnF,bc1108--bc1110,Bassia littorea,24,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,345,345_2020,1,1,trnF,bc1120--bc1142,Bassia littorea,84,2020-6-3,Early June,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,358,358_2020,0,1,trnF,bc1109--bc1142,Bassia littorea,11,2020-6-3,Early June,Mattawa,C,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,369,369_2020,1,1,trnF,bc1100--bc1143,Bassia littorea,3,2020-6-3,Early June,Mattawa,D,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,457,457_2020,1,0,trnF,bc1110--bc1143,Bassia littorea,14,2020-6-17,Late June,Moxee,A,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,468,468_2020,1,0,trnF,bc1100--bc1144,Bassia littorea,2,2020-6-17,Late June,Othello,E,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,482,482_2020,1,0,trnF,bc1110--bc1144,Bassia littorea,4,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,496,496_2020,0,0,trnF,bc1097--bc1105,Bassia littorea,5,2020-6-25,Late June,Paterson,I,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,556,556_2020,1,1,trnF,bc1100--bc1107,Bassia littorea,389,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,558,558_2020,1,1,trnF,bc1108--bc1114,Bassia littorea,14,2020-7-1,Early July,Othello,E,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,644,644_2020,0,0,trnF,bc1143--bc1176,Bassia littorea,32,2020-8-12,Early August,Moxee,A,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,763,763_2020,0,0,trnF,bc1106--bc1177,Bassia littorea,3,2020-8-27,Late August,Mattawa,C,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,16,16_2020,0,0,trnF,bc1103--bc1110,Bassia littorea,2,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,299,299_2020,1,1,trnF,bc1100--bc1142,Bassia littorea,2,2020-6-3,Early June,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,19,19_2020,0,0,trnF,bc1105--bc1109,Bassia littorea,6,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Kochia,Amaranthaceae,Kochia,Bassia,211,211_2020,0,1,trnF,bc1108--bc1112,Bassia littorea,39,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Kochia,Amaranthaceae,Kochia,Bassia,22,22_2020,0,0,trnF,bc1105--bc1110,Bassia littorea,7,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Kochia,Amaranthaceae,Kochia,Bassia,4,4_2021,0,1,trnF,bc1103--bc1114,Bassia littorea,37,2021-3-23,Late March,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,5,5_2021,0,,trnF,bc1103--bc1120,Bassia littorea,8,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,6,6_2021,0,0,trnF,bc1103--bc1109,Bassia littorea,4,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,7,7_2021,0,0,trnF,bc1103--bc1110,Bassia littorea,403,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,9,9_2021,0,0,trnF,bc1105--bc1120,Bassia littorea,25,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,10,10_2021,0,1,trnF,bc1105--bc1109,Bassia littorea,258,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,11,11_2021,0,0,trnF,bc1105--bc1110,Bassia littorea,137,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,12,12_2021,0,0,trnF,bc1099--bc1106,Bassia littorea,356,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,15,15_2021,0,0,trnF,bc1106--bc1120,Bassia littorea,1211,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,58,58_2021,0,0,trnF,bc1113--bc1169,Bassia littorea,9,2021-3-30,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,76,76_2021,0,0,trnF,bc1097--bc1107,Bassia littorea,5,2021-4-6,Early April,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,89,89_2021,0,,trnF,bc1107--bc1114,Bassia littorea,2,2021-4-13,Early April,Othello,Othello farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,98,98_2021,0,0,trnF,bc1097--bc1108,Bassia littorea,319,2021-4-20,Late April,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,108,108_2021,1,1,trnF,bc1108--bc1109,Bassia littorea,2,2021-4-20,Late April,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,206,206_2021,0,1,trnF,bc1114--bc1144,Bassia littorea,42,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,248,248_2021,1,1,trnF,bc1109--bc1144,Bassia littorea,2,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,253,253_2021,1,1,trnF,bc1110--bc1144,Bassia littorea,3,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,254,254_2021,0,0,trnF,bc1103--bc1176,Bassia littorea,3,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,292,292_2021,0,0,trnF,bc1105--bc1176,Bassia littorea,3,2021-5-18,Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,295,295_2021,1,0,trnF,bc1106--bc1176,Bassia littorea,2,2021-5-18,Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,320,320_2021,0,0,trnF,bc1107--bc1176,Bassia littorea,6,2021-5-18,Late May,Moxee,Moxee farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,321,321_2021,0,1,trnF,bc1108--bc1176,Bassia littorea,135,2021-5-18,Late May,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,339,339_2021,0,0,trnF,bc1103--bc1177,Bassia littorea,19,2021-5-18,Late May,Pasco,Pasco farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,340,340_2021,0,1,trnF,bc1105--bc1177,Bassia littorea,15,2021-5-18,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,365,365_2021,0,0,trnF,bc1106--bc1177,Bassia littorea,2,2021-5-26,Late May,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,381,381_2021,0,0,trnF,bc1108--bc1177,Bassia littorea,8,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,392,392_2021,1,0,trnF,bc1103--bc1178,Bassia littorea,2,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,412,412_2021,0,0,trnF,bc1105--bc1178,Bassia littorea,2,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,413,413_2021,0,0,trnF,bc1106--bc1178,Bassia littorea,2,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,448,448_2021,0,0,trnF,bc1108--bc1178,Bassia littorea,48,2021-5-26,Late May,Othello,Othello farm,Kochia,2021
+Kochia,Amaranthaceae,Kochia,Bassia,466,466_2021,0,,trnF,bc1097--bc1103,Bassia littorea,11,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,467,467_2021,0,,trnF,bc1100--bc1103,Bassia littorea,290,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,468,468_2021,0,0,trnF,bc1097--bc1105,Bassia littorea,15,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,499,499_2021,1,,trnF,bc1100--bc1105,Bassia littorea,33,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,530,530_2021,1,,trnF,bc1105--bc1111,Bassia littorea,477,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,541,541_2021,0,0,trnF,bc1105--bc1113,Bassia littorea,47,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,548,548_2021,0,0,trnF,bc1097--bc1106,Bassia littorea,14,2021-6-2,Early June,Moxee,Moxee farm,Loesel's mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,549,549_2021,0,,trnF,bc1100--bc1106,Bassia littorea,5,2021-6-2,Early June,Moxee,Moxee farm,Flixweed,2021
+Kochia,Amaranthaceae,Kochia,Bassia,623,623_2021,0,,trnF,bc1106--bc1112,Bassia littorea,68,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,624,624_2021,0,,trnF,bc1106--bc1113,Bassia littorea,347,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia,Bassia,626,626_2021,0,,trnF,bc1100--bc1107,Bassia littorea,6,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,12,12_2019,0,0,ITS,bc1123--bc1140,Bassia scoparia,3,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,33,33_2019,0,0,ITS,bc1152--bc1155,Bassia scoparia,7,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,40,40_2019,0,0,ITS,bc1140--bc1153,Bassia scoparia,2,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,43,43_2019,0,0,ITS,bc1155--bc1157,Bassia scoparia,14,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,44,44_2019,0,0,ITS,bc1155--bc1156,Bassia scoparia,5,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,52,52_2019,0,0,ITS,bc1140--bc1158,Bassia scoparia,13,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,72,72_2019,0,0,ITS,bc1124--bc1155,Bassia scoparia,24,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,73,73_2019,1,0,ITS,bc1150--bc1154,Bassia scoparia,80,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,74,74_2019,1,1,ITS,bc1146--bc1154,Bassia scoparia,4,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,96,96_2019,1,0,ITS,bc1152--bc1189,Bassia scoparia,4,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,128,128_2019,1,0,ITS,bc1134--bc1154,Bassia scoparia,57,2019-7-12,Early July,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,159,159_2019,0,0,ITS,bc1123--bc1154,Bassia scoparia,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,160,160_2019,0,0,ITS,bc1124--bc1154,Bassia scoparia,41,2019-8-1,Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,161,161_2019,0,0,ITS,bc1150--bc1173,Bassia scoparia,58,2019-8-1,Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,162,162_2019,0,0,ITS,bc1146--bc1173,Bassia scoparia,123,2019-8-1,Early August,Paterson,475,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,163,163_2019,0,0,ITS,bc1152--bc1173,Bassia scoparia,33,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,164,164_2019,0,0,ITS,bc1153--bc1173,Bassia scoparia,68,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,167,167_2019,0,0,ITS,bc1158--bc1173,Bassia scoparia,3,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,168,168_2019,0,0,ITS,bc1157--bc1173,Bassia scoparia,6,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,169,169_2019,0,0,ITS,bc1156--bc1173,Bassia scoparia,2,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia scoparia,Bassia,173,173_2019,0,0,ITS,bc1159--bc1173,Bassia scoparia,4,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Kochia,Amaranthaceae,Kochia,Bassia,12,12_2020,0,0,ITS,bc1150--bc1191,Bassia scoparia,3,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,39,39_2020,1,1,ITS,bc1146--bc1190,Bassia scoparia,17,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,217,217_2020,0,1,ITS,bc1140--bc1153,Bassia scoparia,422,2020-6-3,Early June,Moxee,A,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,46,46_2020,1,0,ITS,bc1146--bc1173,Bassia scoparia,2,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Kochia,Amaranthaceae,Kochia,Bassia,28,28_2020,0,0,ITS,bc1146--bc1171,Bassia scoparia,5,2020-5-18,Late May,Moxee,A,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,99,99_2020,0,1,ITS,bc1140--bc1146,Bassia scoparia,3334,2020-5-18,Late May,Mattawa,C,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,127,127_2020,0,0,ITS,bc1152--bc1173,Bassia scoparia,207,2020-5-18,Late May,Othello,F,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,190,190_2020,1,0,ITS,bc1153--bc1171,Bassia scoparia,2420,2020-5-27,Late May,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,193,193_2020,0,1,ITS,bc1153--bc1172,Bassia scoparia,377,2020-5-27,Late May,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,508,508_2020,0,1,ITS,bc1133--bc1190,Bassia scoparia,93,2020-6-25,Late June,Pasco,M,Kochia,2020
+Kochia,Amaranthaceae,Kochia,Bassia,107,107_2020,1,1,ITS,bc1146--bc1189,Bassia scoparia,3,2020-5-18,Late May,Mattawa,C,Potato,2020
+Kochia,Amaranthaceae,Kochia,Bassia,15,15_2020,0,0,ITS,bc1150--bc1192,Bassia scoparia,315,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,792,792_2020,0,1,ITS,bc1124--bc1171,Bassia scoparia,3,2020-8-27,Late August,Othello,E,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,61,61_2020,0,0,ITS,bc1146--bc1154,Bassia scoparia,3,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,124,124_2020,0,0,ITS,bc1152--bc1192,Bassia scoparia,8,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,198,198_2020,0,0,ITS,bc1153--bc1192,Bassia scoparia,6,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,199,199_2020,1,1,ITS,bc1153--bc1173,Bassia scoparia,8,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,227,227_2020,0,0,ITS,bc1153--bc1189,Bassia scoparia,38,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,556,556_2020,1,1,ITS,bc1134--bc1171,Bassia scoparia,,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,614,614_2020,1,1,ITS,bc1134--bc1140,Bassia scoparia,33,2020-7-16,Late July,Paterson,J,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,616,616_2020,1,0,ITS,bc1134--bc1189,Bassia scoparia,15,2020-7-16,Late July,Paterson,J,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,16,16_2020,0,0,ITS,bc1150--bc1173,Bassia scoparia,2,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,17,17_2020,1,1,ITS,bc1150--bc1154,Bassia scoparia,2,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,84,84_2020,1,1,ITS,bc1146--bc1155,Bassia scoparia,19,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,122,122_2020,1,1,ITS,bc1152--bc1190,Bassia scoparia,12,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Kochia,Amaranthaceae,Kochia,Bassia,201,201_2020,0,0,ITS,bc1153--bc1154,Bassia scoparia,6,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Kochia,Amaranthaceae,Kochia,Bassia,211,211_2020,0,1,ITS,bc1153--bc1155,Bassia scoparia,5,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Kochia,Amaranthaceae,Kochia,Bassia,205,205_2021,0,0,trnF,bc1113--bc1144,Bassia scoparia,2,2021-5-11,Early May,Pasco,Pasco farm,Kochia,2021
+Crop,Amaranthaceae,Beet,Beta,671,671_2020,1,0,trnF,bc1105--bc1177,Beta vulgaris,2,2020-8-12,Early August,Othello,G,Kochia,2020
+Tree,Betulaceae,Alpine birch,Betula,163,163_2019,0,0,ITS,bc1152--bc1173,Betula nana,22,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,2,2_2019,0,0,ITS,bc1134--bc1140,Brassica carinata,11,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,12,12_2019,0,0,ITS,bc1123--bc1140,Brassica carinata,124,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,18,18_2019,1,0,ITS,bc1124--bc1140,Brassica carinata,30,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,28,28_2019,1,1,ITS,bc1146--bc1155,Brassica carinata,315,2019-6-12,Early June,Mattawa ,RDR,Mustard,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,33,33_2019,0,0,ITS,bc1152--bc1155,Brassica carinata,323,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,34,34_2019,0,0,ITS,bc1153--bc1155,Brassica carinata,209,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,35,35_2019,0,0,ITS,bc1155--bc1158,Brassica carinata,2,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,40,40_2019,0,0,ITS,bc1140--bc1153,Brassica carinata,5,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,43,43_2019,0,0,ITS,bc1155--bc1157,Brassica carinata,27,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,45,45_2019,0,0,ITS,bc1155--bc1159,Brassica carinata,2,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,50,50_2019,0,0,ITS,bc1135--bc1155,Brassica carinata,73,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,52,52_2019,0,0,ITS,bc1140--bc1158,Brassica carinata,120,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,56,56_2019,0,0,ITS,bc1140--bc1156,Brassica carinata,47,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,92,92_2019,0,0,ITS,bc1150--bc1189,Brassica carinata,6,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,160,160_2019,0,0,ITS,bc1124--bc1154,Brassica carinata,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,161,161_2019,0,0,ITS,bc1150--bc1173,Brassica carinata,3,2019-8-1,Early August,Paterson,475,Kochia,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,166,166_2019,0,0,ITS,bc1135--bc1140,Brassica carinata,8,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,168,168_2019,0,0,ITS,bc1157--bc1173,Brassica carinata,2,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,10,10_2020,1,0,ITS,bc1150--bc1172,Brassica carinata,9,2020-4-22,Late April,Pasco,WSU,Filaree,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,18,18_2020,0,0,ITS,bc1150--bc1155,Brassica carinata,26,2020-5-18,Late May,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,11,11_2020,0,0,ITS,bc1150--bc1190,Brassica carinata,54,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,12,12_2020,0,0,ITS,bc1150--bc1191,Brassica carinata,45,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,39,39_2020,1,1,ITS,bc1146--bc1190,Brassica carinata,2,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,46,46_2020,1,0,ITS,bc1146--bc1173,Brassica carinata,8,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,28,28_2020,0,0,ITS,bc1146--bc1171,Brassica carinata,4,2020-5-18,Late May,Moxee,A,Kochia,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,15,15_2020,0,0,ITS,bc1150--bc1192,Brassica carinata,11,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,137,137_2020,1,0,ITS,bc1152--bc1154,Brassica carinata,24,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,153,153_2020,1,0,ITS,bc1152--bc1155,Brassica carinata,561,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,227,227_2020,0,0,ITS,bc1153--bc1189,Brassica carinata,2,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,16,16_2020,0,0,ITS,bc1150--bc1173,Brassica carinata,7,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,17,17_2020,1,1,ITS,bc1150--bc1154,Brassica carinata,9,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,84,84_2020,1,1,ITS,bc1146--bc1155,Brassica carinata,1107,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,8,8_2020,1,0,ITS,bc1150--bc1170,Brassica carinata,1044,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,9,9_2020,0,0,ITS,bc1150--bc1171,Brassica carinata,1892,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,19,19_2020,0,0,ITS,bc1140--bc1150,Brassica carinata,276,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,182,182_2020,1,1,ITS,bc1152--bc1189,Brassica carinata,344,2020-5-27,Late May,Pasco,N,Tumble mustard,2020
+Mustard,Brassicaceae,Ethiopian rape/mustard,Brassica,22,22_2020,0,0,ITS,bc1150--bc1189,Brassica carinata,5,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Weed,Brassicaceae,Wild cabbage/Kale,Brassica,18,18_2019,1,0,ITS,bc1124--bc1140,Brassica oleracea,2,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Weed,Brassicaceae,Wild cabbage/Kale,Brassica,52,52_2019,0,0,ITS,bc1140--bc1158,Brassica oleracea,2,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Weed,Brassicaceae,Wild cabbage/Kale,Brassica,162,162_2019,0,0,ITS,bc1146--bc1173,Brassica oleracea,54,2019-8-1,Early August,Paterson,475,Kochia,2019
+Mustard,Brassicaceae,Chinese kale,Brassica,481,481_2020,0,1,trnF,bc1109--bc1144,Brassica oleracea,6,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Mustard,Brassicaceae,Chinese kale,Brassica,644,644_2020,0,0,trnF,bc1143--bc1176,Brassica oleracea,5,2020-8-12,Early August,Moxee,A,Russian thistle,2020
+Mustard,Brassicaceae,Chinese kale,Brassica,17,17_2020,1,1,ITS,bc1150--bc1154,Brassica oleracea,9,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Grass,Poaceae,Bromus sterilis,Bromus,19,19_2020,0,0,trnF,bc1105--bc1109,Bromus sterilis,111,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Grass,Poaceae,Poverty Brome,Bromus,5,5_2021,0,,trnF,bc1103--bc1120,Bromus sterilis,8,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,11,11_2021,0,0,trnF,bc1105--bc1110,Bromus sterilis,36,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,17,17_2021,0,0,trnF,bc1106--bc1110,Bromus sterilis,25,2021-3-23,Late March,Othello,Othello farm,Flixweed,2021
+Grass,Poaceae,Poverty Brome,Bromus,32,32_2021,0,0,trnF,bc1114--bc1175,Bromus sterilis,10,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Grass,Poaceae,Poverty Brome,Bromus,99,99_2021,0,1,trnF,bc1108--bc1111,Bromus sterilis,6,2021-4-20,Late April,Othello,Othello farm,Flixweed,2021
+Grass,Poaceae,Poverty Brome,Bromus,204,204_2021,0,0,trnF,bc1112--bc1144,Bromus sterilis,2,2021-5-11,Early May,Othello,Othello farm,Kochia,2021
+Grass,Poaceae,Poverty Brome,Bromus,254,254_2021,0,0,trnF,bc1103--bc1176,Bromus sterilis,5,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,295,295_2021,1,0,trnF,bc1106--bc1176,Bromus sterilis,3,2021-5-18,Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Poverty Brome,Bromus,320,320_2021,0,0,trnF,bc1107--bc1176,Bromus sterilis,6,2021-5-18,Late May,Moxee,Moxee farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,321,321_2021,0,1,trnF,bc1108--bc1176,Bromus sterilis,8,2021-5-18,Late May,Moxee,Moxee farm,Flixweed,2021
+Grass,Poaceae,Poverty Brome,Bromus,340,340_2021,0,1,trnF,bc1105--bc1177,Bromus sterilis,193,2021-5-18,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,366,366_2021,0,0,ITS,bc1134--bc1160,Bromus sterilis,6,2021-5-26,Late May,Moxee,Moxee farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,413,413_2021,0,0,trnF,bc1106--bc1178,Bromus sterilis,7,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Poverty Brome,Bromus,416,416_2021,0,,trnF,bc1107--bc1178,Bromus sterilis,12,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Poverty Brome,Bromus,448,448_2021,0,0,trnF,bc1108--bc1178,Bromus sterilis,7,2021-5-26,Late May,Othello,Othello farm,Kochia,2021
+Grass,Poaceae,Poverty Brome,Bromus,468,468_2021,0,0,trnF,bc1097--bc1105,Bromus sterilis,4,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,499,499_2021,1,,trnF,bc1100--bc1105,Bromus sterilis,43,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,530,530_2021,1,,trnF,bc1105--bc1111,Bromus sterilis,9,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,541,541_2021,0,0,trnF,bc1105--bc1113,Bromus sterilis,18,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,548,548_2021,0,0,trnF,bc1097--bc1106,Bromus sterilis,10,2021-6-2,Early June,Moxee,Moxee farm,Loesel's mustard,2021
+Grass,Poaceae,Poverty Brome,Bromus,626,626_2021,0,,trnF,bc1100--bc1107,Bromus sterilis,11,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Grass,Poaceae,Cheatgrass,Bromus,19,19_2019,0,1,ITS,bc1140--bc1150,Bromus tectorum,2,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Grass,Poaceae,Cheatgrass,Bromus,18,18_2020,0,0,ITS,bc1150--bc1155,Bromus tectorum,13,2020-5-18,Late May,Moxee,A,Flixweed,2020
+Grass,Poaceae,Cheatgrass,Bromus,19,19_2020,0,0,ITS,bc1140--bc1150,Bromus tectorum,1282,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Shrub,Theaceae,Camellia,Camellia,69,69_2019,1,0,trnF,bc1108--bc1112,Camellia reticulata,4,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,19,19_2019,0,1,ITS,bc1140--bc1150,Cannabia sativa,724,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,20,20_2019,0,0,ITS,bc1140--bc1146,Cannabis sativa,2,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,34,34_2019,0,0,ITS,bc1153--bc1155,Cannabis sativa,8,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,40,40_2019,0,0,ITS,bc1140--bc1153,Cannabis sativa,10,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,52,52_2019,0,0,ITS,bc1140--bc1158,Cannabis sativa,3,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,54,54_2019,0,0,ITS,bc1140--bc1157,Cannabis sativa,89,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,56,56_2019,0,0,ITS,bc1140--bc1156,Cannabis sativa,10,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,60,60_2019,0,1,ITS,bc1140--bc1159,Cannabis sativa,2,2019-7-3,Early July,Mattawa ,RDJ,Potato,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,92,92_2019,0,0,ITS,bc1150--bc1189,Cannabis sativa,8,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,159,159_2019,0,0,ITS,bc1123--bc1154,Cannabis sativa,3,2019-8-1,Early August,Paterson,475,Kochia,2019
+Cannabis,Cannabaceae,Cannabis,Cannabis,10,10_2020,1,0,ITS,bc1150--bc1172,Cannabis sativa,10,2020-4-22,Late April,Pasco,WSU,Filaree,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,111,111_2020,0,1,ITS,bc1152--bc1171,Cannabis sativa,4,2020-5-18,Late May,Mattawa,C,Flixweed,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,217,217_2020,0,1,ITS,bc1140--bc1153,Cannabis sativa,1537,2020-6-3,Early June,Moxee,A,Flixweed,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,190,190_2020,1,0,ITS,bc1153--bc1171,Cannabis sativa,3,2020-5-27,Late May,Pasco,M,Kochia,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,193,193_2020,0,1,ITS,bc1153--bc1172,Cannabis sativa,61,2020-5-27,Late May,Pasco,M,Kochia,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,113,113_2020,1,1,ITS,bc1152--bc1172,Cannabis sativa,2894,2020-5-18,Late May,Mattawa,C,Russian thistle,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,153,153_2020,1,0,ITS,bc1152--bc1155,Cannabis sativa,2,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,227,227_2020,0,0,ITS,bc1153--bc1189,Cannabis sativa,2,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,201,201_2020,0,0,ITS,bc1153--bc1154,Cannabis sativa,2,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Cannabis,Cannabaceae,Cannabis,Cannabis,211,211_2020,0,1,ITS,bc1153--bc1155,Cannabis sativa,13,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Crop,Solanaceae,Cayenne Pepper ,Capsicum,91,91_2019,0,1,trnF,bc1115--bc1143,Capsicum annuum,19,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Crop,Solanaceae,Cayenne Pepper ,Capsicum,91,91_2019,0,1,ITS,bc1140--bc1148,Capsicum annuum,2,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Crop,Solanaceae,Chili Pepper,Capsicum,91,91_2019,0,1,trnF,bc1115--bc1143 ,Capsicum caatingae,2,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Weed,Asteraceae,Safflower,Carthamus,39,39_2019,0,0,ITS,bc1140--bc1152,Carthamus tinctorius,18,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Grass,Poaceae,Pearl millet,Cenchrus,69,69_2019,1,0,ITS,bc1133--bc1155,Cenchrus americanus,3,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Grass,Poaceae,Pearl millet,Cenchrus,71,71_2019,0,1,ITS,bc1123--bc1155,Cenchrus americanus,5,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Grass,Poaceae,Pearl millet,Cenchrus,73,73_2019,1,0,ITS,bc1150--bc1154,Cenchrus americanus,4,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Tumble knapweed,Centaurea,111,111_2019,1,0,ITS,bc1135--bc1154,Centaurea diffusa,2,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Spotted knapweed,Centaurea,39,39_2019,0,0,trnF,bc1109--bc1142,Centaurea maculosa,4,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Weed,Asteraceae,Spotted knapweed,Centaurea,111,111_2019,1,0,trnF,bc1107--bc1113,Centaurea maculosa,9,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,2,2_2019,0,0,trnF,bc1112--bc1142,Chenopodium acuminatum,3,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,69,69_2019,1,0,trnF,bc1108--bc1112,Chenopodium acuminatum,35,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,72,72_2019,0,0,trnF,bc1097--bc1108,Chenopodium acuminatum,36,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,73,73_2019,1,0,trnF,bc1107--bc1178,Chenopodium acuminatum,4,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,79,79_2019,1,0,trnF,bc1107--bc1176,Chenopodium acuminatum,5,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,96,96_2019,1,0,trnF,bc1110--bc1143,Chenopodium acuminatum,4,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,114,114_2019,0,0,trnF,bc1113--bc1144,Chenopodium acuminatum,46,2019-7-11,Early July,Paterson,475,Potato,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,153,153_2019,0,0,trnF,bc1110--bc1144,Chenopodium acuminatum,28,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,159,159_2019,0,0,trnF,bc1098--bc1107,Chenopodium acuminatum,4,2019-8-1,Early August,Paterson,475,Kochia,2019
+Weed,Amaranthaceae,Epazote,Chenopodium,162,162_2019,0,0,trnF,bc1169--bc1177,Chenopodium acuminatum,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,40,40_2019,0,0,ITS,bc1140--bc1153,Chenopodium album,15,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,44,44_2019,0,0,ITS,bc1155--bc1156,Chenopodium album,4,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,54,54_2019,0,0,ITS,bc1140--bc1157,Chenopodium album,249,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,56,56_2019,0,0,ITS,bc1140--bc1156,Chenopodium album,2,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,69,69_2019,1,0,ITS,bc1133--bc1155,Chenopodium album,377,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,71,71_2019,0,1,ITS,bc1123--bc1155,Chenopodium album,3,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,72,72_2019,0,0,ITS,bc1124--bc1155,Chenopodium album,49,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,73,73_2019,1,0,ITS,bc1150--bc1154,Chenopodium album,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,79,79_2019,1,0,ITS,bc1152--bc1154 ,Chenopodium album,3,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,82,82_2019,1,0,ITS,bc1153--bc1154,Chenopodium album,34,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,114,114_2019,0,0,ITS,bc1156--bc1189,Chenopodium album,41,2019-7-11,Early July,Paterson,475,Potato,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,153,153_2019,0,0,ITS,bc1133--bc1189,Chenopodium album,32,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,159,159_2019,0,0,ITS,bc1123--bc1154,Chenopodium album,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,161,161_2019,0,0,ITS,bc1150--bc1173,Chenopodium album,9,2019-8-1,Early August,Paterson,475,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,162,162_2019,0,0,ITS,bc1146--bc1173,Chenopodium album,33,2019-8-1,Early August,Paterson,475,Kochia,2019
+Lambsquarter,Amaranthaceae,Common Lambsquarter,Chenopodium,167,167_2019,0,0,ITS,bc1158--bc1173,Chenopodium album,4,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,18,18_2020,0,0,ITS,bc1150--bc1155,Chenopodium album,2,2020-5-18,Late May,Moxee,A,Flixweed,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,46,46_2020,1,0,trnF,bc1111--bc1175,Chenopodium album,7,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,127,127_2020,0,0,ITS,bc1152--bc1173,Chenopodium album,11,2020-5-18,Late May,Othello,F,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,190,190_2020,1,0,ITS,bc1153--bc1171,Chenopodium album,46,2020-5-27,Late May,Pasco,M,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,509,509_2020,0,0,ITS,bc1133--bc1191,Chenopodium album,106,2020-6-25,Late June,Pasco,M,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,671,671_2020,1,0,ITS,bc1123--bc1173,Chenopodium album,2,2020-8-12,Early August,Othello,G,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,787,787_2020,1,0,trnF,bc1169--bc1177,Chenopodium album,8,2020-8-27,Late August,Othello,E,Kochia,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,108,108_2020,0,1,trnF,bc1110--bc1175,Chenopodium album,15,2020-5-18,Late May,Mattawa,C,Potato,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,577,577_2020,0,1,trnF,bc1106--bc1176,Chenopodium album,23,2020-7-15,Late July,Mattawa,D,Potato,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,107,107_2020,1,1,ITS,bc1146--bc1189,Chenopodium album,9,2020-5-18,Late May,Mattawa,C,Potato,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,153,153_2020,1,0,ITS,bc1152--bc1155,Chenopodium album,26,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,198,198_2020,0,0,ITS,bc1153--bc1192,Chenopodium album,614,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,199,199_2020,1,1,ITS,bc1153--bc1173,Chenopodium album,1013,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,558,558_2020,1,1,trnF,bc1108--bc1114,Chenopodium album,167,2020-7-1,Early July,Othello,E,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,616,616_2020,1,0,ITS,bc1134--bc1189,Chenopodium album,4,2020-7-16,Late July,Paterson,J,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,16,16_2020,0,0,ITS,bc1150--bc1173,Chenopodium album,644,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,299,299_2020,1,1,trnF,bc1100--bc1142,Chenopodium album,4,2020-6-3,Early June,Mattawa,B,Russian thistle,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,9,9_2020,0,0,trnF,bc1103--bc1112,Chenopodium album,9,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,182,182_2020,1,1,trnF,bc1107--bc1114,Chenopodium album,10,2020-5-27,Late May,Pasco,N,Tumble mustard,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,201,201_2020,0,0,trnF,bc1108--bc1111,Chenopodium album,9,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,211,211_2020,0,1,ITS,bc1153--bc1155,Chenopodium album,3,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,412,412_2021,0,0,trnF,bc1105--bc1178,Chenopodium album,26,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,541,541_2021,0,0,trnF,bc1105--bc1113,Chenopodium album,19,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Weed,Amaranthaceae,Lambsquarter White goosefoot,Chenopodium,614,614_2020,1,1,trnF,bc1107--bc1176,Chenopodium quinoa,2,2020-7-16,Late July,Paterson,J,Russian thistle,2020
+Mustard,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,2,2_2019,0,0,ITS,bc1134--bc1140,Chorispora tenella,2,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Mustard,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,33,33_2019,0,0,ITS,bc1152--bc1155,Chorispora tenella,2,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,34,34_2019,0,0,ITS,bc1153--bc1155,Chorispora tenella,2,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,"Blue, Purple or Musk Mustard",Chorispora,167,167_2019,0,0,ITS,bc1158--bc1173,Chorispora tenella,6,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Mustard,Brassicaceae,Blue mustard,Chorispora,171,171_2020,0,0,ITS,bc1140--bc1152,Chorispora tenella,237,2020-5-27,Late May,Paterson,J,Russian thistle,2020
+Mustard,Brassicaceae,Blue mustard,Chorispora,153,153_2020,1,0,ITS,bc1152--bc1155,Chorispora tenella,2,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Blue mustard,Chorispora,248,248_2021,1,1,trnF,bc1109--bc1144,Chorispora tenella,2,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Cucurbitaceae,Watermelon,Citrullus,163,163_2019,0,0,trnF,bc1169--bc1176,Citrullus lanatus,3,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,33,33_2019,0,0,trnF,bc1108--bc1178,Citrus aurantium,3,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,161,161_2019,0,0,ITS,bc1169--bc1178,Citrus aurantium,5,2019-8-1,Early August,Paterson,475,Kochia,2019
+Tree,Rutaceae,Cam sành,Citrus,190,190_2020,1,0,trnF,bc1107--bc1120,Citrus benikoji,10,2020-5-27,Late May,Pasco,M,Kochia,2020
+Tree,Rutaceae,Cam sành,Citrus,22,22_2020,0,0,trnF,bc1105--bc1110,Citrus benikoji,20,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Tree,Rutaceae,Bitter orange or Seville orange,Citrus,92,92_2019,0,0,trnF,bc1120--bc1143,Citrus clementina,14,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Tree,Rutaceaae,Amanatsu,Citrus,321,321_2021,0,1,trnF,bc1108--bc1176,Citrus natsudaidai,18,2021-5-18,Late May,Moxee,Moxee farm,Flixweed,2021
+Tree,Rutaceae,Sweet orange,Citrus,52,52_2019,0,0,ITS,bc1140--bc1158,Citrus sinensis,2,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Tree,Rutaceae,Sweet orange,Citrus,82,82_2019,1,0,ITS,bc1153--bc1154,Citrus sinensis,4,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Convolvulaceae,Field Bindweed,Convolvulus,162,162_2019,0,0,ITS,bc1146--bc1173,Convolvulus arvensis,24,2019-8-1,Early August,Paterson,475,Kochia,2019
+Weed,Convolvulaceae,Field bindweed,Convolvulus,39,39_2020,1,1,trnF,bc1106--bc1109,Convolvulus arvensis,13,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Weed,Convolvulaceae,Field bindweed,Convolvulus,198,198_2020,0,0,ITS,bc1153--bc1192,Convolvulus arvensis,48,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Weed,Convolvulaceae,Field bindweed,Convolvulus,201,201_2020,0,0,ITS,bc1153--bc1154,Convolvulus arvensis,17,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Weed,Convolvulaceae,Field bindweed,Convolvulus,89,89_2021,0,,trnF,bc1107--bc1114,Convolvulus arvensis,2,2021-4-13,Early April,Othello,Othello farm,Flixweed,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,203,203_2021,0,0,trnF,bc1111--bc1144,Convolvulus arvensis,6,2021-5-11,Early May,Moxee,Moxee farm,Kochia,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,248,248_2021,1,1,trnF,bc1109--bc1144,Convolvulus arvensis,2,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,320,320_2021,0,0,trnF,bc1107--bc1176,Convolvulus arvensis,2,2021-5-18,Late May,Moxee,Moxee farm,Tumble mustard,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,365,365_2021,0,0,trnF,bc1106--bc1177,Convolvulus arvensis,2,2021-5-26,Late May,Moxee,Moxee farm,Flixweed,2021
+Weed,Convolvulaceae,Field bindweed,Convolvulus,392,392_2021,1,0,trnF,bc1103--bc1178,Convolvulus arvensis,2,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Weed,Asteraceae,Common sandaster or California Aster,Corethrogyne,20,20_2019,0,0,ITS,bc1140--bc1146,Corethrogyne filaginifolia,4,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Weed,Asteraceae,Common sandaster or California Aster,Corethrogyne,33,33_2019,0,0,ITS,bc1152--bc1155,Corethrogyne filaginifolia,8,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Apiaceae,Coriander or Cilantro,Coriandrum,45,45_2019,0,0,trnF,bc1108--bc1115,Coriandrum sativum,2,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Crop,Apiaceae,Coriander or Cilantro,Coriandrum,51,51_2019,0,0,trnF,bc1108--bc1113,Coriandrum sativum,3,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,39,39_2019,0,0,ITS,bc1140--bc1152,Cucumis sativus,7,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,45,45_2019,0,0,ITS,bc1155--bc1159,Cucumis sativus,6,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,52,52_2019,0,0,ITS,bc1140--bc1158,Cucumis sativus,2,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,69,69_2019,1,0,ITS,bc1133--bc1155,Cucumis sativus,5,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,72,72_2019,0,0,ITS,bc1124--bc1155,Cucumis sativus,18,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,73,73_2019,1,0,ITS,bc1150--bc1154,Cucumis sativus,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,93,93_2019,0,0,ITS,bc1146--bc1189,Cucumis sativus,12,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,153,153_2019,0,0,ITS,bc1133--bc1189,Cucumis sativus,8,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Crop,Cucurbitaceae,Cucumber,Cucumis,166,166_2019,0,0,ITS,bc1135--bc1140,Cucumis sativus,3,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Crop,Cucurbitaceae,Winter Squash or Pumpkin,Cucurbita,2,2_2019,0,0,ITS,bc1134--bc1140,Cucurbita pepo,3,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Crop,Cucurbitaceae,Winter Squash or Pumpkin,Cucurbita,60,60_2019,0,1,ITS,bc1140--bc1159,Cucurbita pepo,3,2019-7-3,Early July,Mattawa ,RDJ,Potato,2019
+Crop,Cucurbitaceae,pumpkin or winter squash,Cucurbita,37,37_2020,0,1,ITS,bc1146--bc1172,Cucurbita pepo,90,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Crop,Cucurbitaceae,pumpkin or winter squash,Cucurbita,792,792_2020,0,1,ITS,bc1124--bc1171,Cucurbita pepo,7,2020-8-27,Late August,Othello,E,Russian thistle,2020
+Crop,Apiaceae,carrot,Daucus,509,509_2020,0,0,ITS,bc1133--bc1191,Daucus carota,2,2020-6-25,Late June,Pasco,M,Kochia,2020
+Crop,Apiaceae,carrot,Daucus,171,171_2020,0,0,ITS,bc1140--bc1152,Daucus carota,55,2020-5-27,Late May,Paterson,J,Russian thistle,2020
+Crop,Apiaceae,carrot,Daucus,89,89_2021,0,,trnF,bc1107--bc1114,Daucus carota,2,2021-4-13,Early April,Othello,Othello farm,Flixweed,2021
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,12,12_2019,0,0,ITS,bc1123--bc1140,Descurainia sophia,765,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,18,18_2019,1,0,ITS,bc1124--bc1140,Descurainia sophia,51,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,33,33_2019,0,0,ITS,bc1152--bc1155,Descurainia sophia,5,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Flixweed or Tansy Mustard,Descurainia,69,69_2019,1,0,ITS,bc1133--bc1155,Descurainia sophia,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Flixweed,Descurainia,37,37_2020,0,1,ITS,bc1146--bc1172,Descurainia sophia,598,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,12,12_2020,0,0,ITS,bc1150--bc1191,Descurainia sophia,381,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,39,39_2020,1,1,ITS,bc1146--bc1190,Descurainia sophia,631,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,41,41_2020,0,1,ITS,bc1146--bc1191,Descurainia sophia,447,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,111,111_2020,0,1,ITS,bc1152--bc1171,Descurainia sophia,1473,2020-5-18,Late May,Mattawa,C,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,217,217_2020,0,1,ITS,bc1140--bc1153,Descurainia sophia,26,2020-6-3,Early June,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,46,46_2020,1,0,ITS,bc1146--bc1173,Descurainia sophia,742,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,28,28_2020,0,0,ITS,bc1146--bc1171,Descurainia sophia,25,2020-5-18,Late May,Moxee,A,Kochia,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,99,99_2020,0,1,ITS,bc1140--bc1146,Descurainia sophia,2,2020-5-18,Late May,Mattawa,C,Kochia,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,127,127_2020,0,0,ITS,bc1152--bc1173,Descurainia sophia,2,2020-5-18,Late May,Othello,F,Kochia,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,190,190_2020,1,0,ITS,bc1153--bc1171,Descurainia sophia,6,2020-5-27,Late May,Pasco,M,Kochia,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,193,193_2020,0,1,ITS,bc1153--bc1172,Descurainia sophia,2,2020-5-27,Late May,Pasco,M,Kochia,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,108,108_2020,0,1,ITS,bc1152--bc1170,Descurainia sophia,2,2020-5-18,Late May,Mattawa,C,Potato,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,171,171_2020,0,0,ITS,bc1140--bc1152,Descurainia sophia,140,2020-5-27,Late May,Paterson,J,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,61,61_2020,0,0,ITS,bc1146--bc1154,Descurainia sophia,4,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,123,123_2020,0,1,ITS,bc1152--bc1191,Descurainia sophia,2,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,153,153_2020,1,0,ITS,bc1152--bc1155,Descurainia sophia,2,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,199,199_2020,1,1,ITS,bc1153--bc1173,Descurainia sophia,5,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,227,227_2020,0,0,ITS,bc1153--bc1189,Descurainia sophia,20,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,16,16_2020,0,0,ITS,bc1150--bc1173,Descurainia sophia,2,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,84,84_2020,1,1,ITS,bc1146--bc1155,Descurainia sophia,2,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,9,9_2020,0,0,ITS,bc1150--bc1171,Descurainia sophia,11,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,201,201_2020,0,0,ITS,bc1153--bc1154,Descurainia sophia,934,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,211,211_2020,0,1,ITS,bc1153--bc1155,Descurainia sophia,615,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,405,405_2020,1,0,ITS,bc1135--bc1171,Descurainia sophia,837,2020-6-12,Early June,Paterson,J,Tumble mustard,2020
+Mustard,Brassicaceae,Flixweed,Descurainia,26,26_2021,0,0,trnF,bc1112--bc1175,Descurainia sophia,2,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,32,32_2021,0,0,trnF,bc1114--bc1175,Descurainia sophia,3,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,206,206_2021,0,1,trnF,bc1114--bc1144,Descurainia sophia,2,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,320,320_2021,0,0,trnF,bc1107--bc1176,Descurainia sophia,4,2021-5-18,Late May,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,468,468_2021,0,0,trnF,bc1097--bc1105,Descurainia sophia,130,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Flixweed,Descurainia,625,625_2021,0,,trnF,bc1114--bc1169,Descurainia sophia,655,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Tree,Sapindaceae,Longan Tropical Fruit,Dimocarpus,18,18_2019,1,0,ITS,bc1124--bc1140,Dimocarpus longan,2,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Weed,Asteraceae,Coneflower,Echinacea,12,12_2020,0,0,trnF,bc1103--bc1120,Echinacea purpurea,4,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Grass,Poaceae,Wheatgrass,Elymus,321,321_2021,0,1,trnF,bc1108--bc1176,Elymus magellanicus,21,2021-5-18,Late May,Moxee,Moxee farm,Flixweed,2021
+Weed,Asteraceae,Horseweed,Erigeron,19,19_2019,0,1,ITS,bc1140--bc1150,Erigeron canadensis,13,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Weed,Asteraceae,Horseweed,Erigeron,33,33_2019,0,0,trnF,bc1108--bc1178,Erigeron canadensis,86,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,35,35_2019,0,0,trnF,bc1108--bc1176,Erigeron canadensis,22,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,56,56_2019,0,0,ITS,bc1140--bc1156,Erigeron canadensis,2,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Weed,Asteraceae,Horseweed,Erigeron,73,73_2019,1,0,trnF,bc1107--bc1178,Erigeron canadensis,16,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,82,82_2019,1,0,trnF,bc1107--bc1110,Erigeron canadensis,28,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,103,103_2019,1,1,trnF,bc1107--bc1109,Erigeron canadensis,48,2019-7-10,Early July,Mattawa,RDJ,Kochia,2019
+Weed,Asteraceae,Horseweed,Erigeron,108,108_2019,1,0,trnF,bc1107--bc1120,Erigeron canadensis,7,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Horseweed,Erigeron,109,109_2019,0,0,trnF,bc1107--bc1115,Erigeron canadensis,17,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Horseweed,Erigeron,169,169_2019,0,0,trnF,bc1115--bc1169,Erigeron canadensis,14,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Weed,Asteraceae,Horseweed,Erigeron,39,39_2020,1,1,trnF,bc1106--bc1109,Erigeron canadensis,47,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Weed,Asteraceae,Fleabane,Erigeron,39,39_2020,1,1,ITS,bc1146--bc1190,Erigeron leptorhizon,15,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Weed,Asteraceae,Fleabane,Erigeron,35,35_2019,0,0,ITS,bc1155--bc1158,Erigeron strigosus,88,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,69,69_2019,1,0,ITS,bc1133--bc1155,Erigeron strigosus,7,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,73,73_2019,1,0,ITS,bc1150--bc1154,Erigeron strigosus,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,74,74_2019,1,1,ITS,bc1146--bc1154,Erigeron strigosus,12,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,79,79_2019,1,0,ITS,bc1152--bc1154,Erigeron strigosus,120,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,82,82_2019,1,0,ITS,bc1153--bc1154,Erigeron strigosus,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,92,92_2019,0,0,ITS,bc1150--bc1189,Erigeron strigosus,6,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Weed,Asteraceae,Fleabane,Erigeron,103,103_2019,1,1,ITS,bc1154--bc1158,Erigeron strigosus,133,2019-7-10,Early July,Mattawa,RDJ,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,106,106_2019,0,0,ITS,bc1158--bc1189,Erigeron strigosus,18,2019-7-11,Early July,Paterson,107,Potato,2019
+Weed,Asteraceae,Fleabane,Erigeron,108,108_2019,1,0,ITS,bc1154--bc1157,Erigeron strigosus,2,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Fleabane,Erigeron,111,111_2019,1,0,ITS,bc1135--bc1154,Erigeron strigosus,2,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Weed,Asteraceae,Fleabane,Erigeron,163,163_2019,0,0,ITS,bc1152--bc1173,Erigeron strigosus,4,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Weed,Asteraceae,Fleabane,Erigeron,169,169_2019,0,0,ITS,bc1156--bc1173,Erigeron strigosus,3,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,44,44_2019,0,0,trnF,bc1108--bc1109,Erodium carvifolium,7,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,50,50_2019,0,0,trnF,bc1108--bc1114,Erodium carvifolium,2,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Weed,Geraniaceae,Heronsbill or Storksbill,Erodium,56,56_2019,0,0,trnF,bc1142--bc1178,Erodium carvifolium,4,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Weed,Geraniaceae,stork's bill,Erodium,153,153_2020,1,0,trnF,bc1107--bc1111,Erodium carvifolium,5,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Weed,Geraniaceae,stork's bill,Erodium,16,16_2020,0,0,trnF,bc1103--bc1110,Erodium carvifolium,22,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Weed,Geraniaceae,Redstem Filaree,Erodium,43,43_2019,0,0,ITS,bc1155--bc1157,Erodium cicutarium,10,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Weed,Geraniaceae,Redstem Filaree,Erodium,44,44_2019,0,0,ITS,bc1155--bc1156,Erodium cicutarium,58,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Weed,Geraniaceae,Redstem Filaree,Erodium,45,45_2019,0,0,ITS,bc1155--bc1159,Erodium cicutarium,26,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Weed,Geraniaceae,Redstem Filaree,Erodium,51,51_2019,0,0,ITS,bc1148--bc1155,Erodium cicutarium,14,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Weed,Geraniaceae,redstem filaree,Erodium,10,10_2020,1,0,ITS,bc1150--bc1172,Erodium cicutarium,2357,2020-4-22,Late April,Pasco,WSU,Filaree,2020
+Weed,Geraniaceae,redstem filaree,Erodium,171,171_2020,0,0,ITS,bc1140--bc1152,Erodium cicutarium,190,2020-5-27,Late May,Paterson,J,Russian thistle,2020
+Weed,Geraniaceae,redstem filaree,Erodium,153,153_2020,1,0,ITS,bc1152--bc1155,Erodium cicutarium,4,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Weed,Geraniaceae,redstem filaree,Erodium,9,9_2020,0,0,ITS,bc1150--bc1171,Erodium cicutarium,2,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Weed,Geraniaceae,redstem filaree,Erodium,182,182_2020,1,1,ITS,bc1152--bc1189,Erodium cicutarium,20,2020-5-27,Late May,Pasco,N,Tumble mustard,2020
+Crop,Polygonaceae,Common Buckwheat,Fagopyrum,69,69_2019,1,0,trnF,bc1108--bc1112,Fagopyrum esculentum,10,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Polygonaceae,Common Buckwheat,Fagopyrum,162,162_2019,0,0,trnF,bc1169--bc1177,Fagopyrum esculentum,69,2019-8-1,Early August,Paterson,475,Kochia,2019
+Crop,Polygonaceae,Common Buckwheat,Fagopyrum,162,162_2019,0,0,ITS,bc1146--bc1173,Fagopyrum esculentum,35,2019-8-1,Early August,Paterson,475,Kochia,2019
+Crop,Polygonaceae,Buckwheat,Fagopyrum,655,655_2020,0,0,trnF,bc1144--bc1176,Fagopyrum esculentum,2,2020-8-12,Early August,Othello,F,Russian thistle,2020
+Grass,Poaceae,Meadow Fescue,Festuca,552,552_2020,0,0,trnF,bc1114--bc1169,Festuca pratensis,6,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Grass,Poaceae,Meadow Fescue,Festuca,468,468_2021,0,0,trnF,bc1097--bc1105,Festuca pratensis,23,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Tree,Oleaceae,Ash,Fraxinus,482,482_2020,1,0,trnF,bc1110--bc1144,Fraxinus angustifolia,157,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Tree,Oleaceae,Ash tree,Fraxinus,60,60_2019,0,1,trnF,bc1113--bc1143,Fraxinus hupehensis,2,2019-7-3,Early July,Mattawa ,RDJ,Potato,2019
+Tree,Oleaceae,Ash tree,Fraxinus,134,134_2019,0,0,trnF,bc1114--bc1144,Fraxinus hupehensis,9,2019-7-12,Early July,Pasco,WSU,Potato,2019
+Tree,Oleaceae,Ash tree,Fraxinus,204,204_2019,1,0,trnF,bc1111--bc1169,Fraxinus hupehensis,13,2019-10-18,Late October,Pasco,RDJ,Russian thistle,2019
+Crop,Fabaceae,soybean,Glycine,12,12_2020,0,0,ITS,bc1150--bc1191,Glycine max,2,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Crop,Fabaceae,soybean,Glycine,16,16_2020,0,0,ITS,bc1150--bc1173,Glycine max,555,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Crop,Fabaceae,soybean,Glycine,16,16_2020,0,0,trnF,bc1103--bc1110,Glycine soja,6,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Crop,Asteraceae,Common sunflower,Helianthus,134,134_2019,0,0,trnF,bc1114--bc1144,Helianthus annuus,4,2019-7-12,Early July,Pasco,WSU,Potato,2019
+Crop,Asteraceae,Common Sunflower,Helianthus,159,159_2019,0,0,ITS,bc1123--bc1154,Helianthus annuus,119,2019-8-1,Early August,Paterson,475,Kochia,2019
+Grass,Poaceae,Mediterranean barley,Hordeum,44,44_2021,1,0,trnF,bc1109--bc1175,Hordeum brevisubulatum,6,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Grass,Poaceae,Wild barley,Hordeum,392,392_2021,1,0,trnF,bc1103--bc1178,Hordeum brevisubulatum,3,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Wild barley,Hordeum,549,549_2021,0,,trnF,bc1100--bc1106,Hordeum brevisubulatum,6,2021-6-2,Early June,Moxee,Moxee farm,Flixweed,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,6,6_2021,0,0,trnF,bc1103--bc1109,Hordeum marinum,4,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,12,12_2021,0,0,trnF,bc1099--bc1106,Hordeum marinum,5,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,381,381_2021,0,0,trnF,bc1108--bc1177,Hordeum marinum,7,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,467,467_2021,0,,trnF,bc1100--bc1103,Hordeum marinum,4,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Mediterranean barley,Hordeum,530,530_2021,1,,trnF,bc1105--bc1111,Hordeum marinum,5,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Poaceae,Barley,Hordeum,199,199_2020,1,1,trnF,bc1097--bc1108,Hordeum vulgare,14,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,1,1_2019,1,0,ITS,bc1133--bc1140,Hyoscyamus niger,31,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,2,2_2019,0,0,ITS,bc1134--bc1140,Hyoscyamus niger,3,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,33,33_2019,0,0,ITS,bc1152--bc1155,Hyoscyamus niger,5,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,35,35_2019,0,0,ITS,bc1155--bc1158,Hyoscyamus niger,9,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,39,39_2019,0,0,ITS,bc1140--bc1152,Hyoscyamus niger,7,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,72,72_2019,0,0,ITS,bc1124--bc1155,Hyoscyamus niger,7,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Black Henbane,Hyoscyamus,73,73_2019,1,0,ITS,bc1150--bc1154,Hyoscyamus niger,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Convolvulaceae,Ginger-leaf Morning Glory,Ipomoea,56,56_2019,0,0,ITS,bc1140--bc1156,Ipomoea asarifolia,2,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Weed,Convolvulaceae,Morning Glory,Ipomoea,161,161_2019,0,0,ITS,bc1150--bc1173,Ipomoea marabensis,7,2019-8-1,Early August,Paterson,475,Kochia,2019
+Tree,Juglandaceae,English walnut,Juglans,160,160_2019,0,0,ITS,bc1124--bc1154,Juglans regia,3,2019-8-1,Early August,Paterson,475,Kochia,2019
+Tree,Juglandaceae,English walnut,Juglans,11,11_2020,0,0,trnF,bc1103--bc1114,Juglans regia,16,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Tree,Juglandaceae,English walnut,Juglans,23,23_2020,0,0,trnF,bc1099--bc1106,Juglans regia,2,2020-5-18,Late May,Moxee,A,Kochia,2020
+Tree,Juglandaceae,English walnut,Juglans,380,380_2021,0,0,trnF,bc1107--bc1177,Juglans regia,4,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,1,1_2019,1,0,ITS,bc1133--bc1140,Kali turgidum,7,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,2,2_2019,0,0,ITS,bc1134--bc1140,Kali turgidum,4,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,12,12_2019,0,0,ITS,bc1123--bc1140,Kali turgidum,88,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,18,18_2019,1,0,ITS,bc1124--bc1140,Kali turgidum,292,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,20,20_2019,0,0,ITS,bc1140--bc1146,Kali turgidum,5,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,28,28_2019,1,1,ITS,bc1146--bc1155,Kali turgidum,77,2019-6-12,Early June,Mattawa ,RDR,Mustard,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,33,33_2019,0,0,ITS,bc1152--bc1155,Kali turgidum,41,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,34,34_2019,0,0,ITS,bc1153--bc1155,Kali turgidum,14,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,35,35_2019,0,0,ITS,bc1155--bc1158,Kali turgidum,10,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,40,40_2019,0,0,ITS,bc1140--bc1153,Kali turgidum,3,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,44,44_2019,0,0,ITS,bc1155--bc1156,Kali turgidum,5,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,50,50_2019,0,0,ITS,bc1135--bc1155,Kali turgidum,303,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,51,51_2019,0,0,ITS,bc1148--bc1155,Kali turgidum,317,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,52,52_2019,0,0,ITS,bc1140--bc1158,Kali turgidum,8,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,60,60_2019,0,1,ITS,bc1140--bc1159,Kali turgidum,2,2019-7-3,Early July,Mattawa ,RDJ,Potato,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,69,69_2019,1,0,ITS,bc1133--bc1155,Kali turgidum,198,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,70,70_2019,0,0,ITS,bc1134--bc1155,Kali turgidum,23,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,72,72_2019,0,0,ITS,bc1124--bc1155,Kali turgidum,33,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,73,73_2019,1,0,ITS,bc1150--bc1154,Kali turgidum,77,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,79,79_2019,1,0,ITS,bc1152--bc1154,Kali turgidum,53,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,82,82_2019,1,0,ITS,bc1153--bc1154,Kali turgidum,80,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,92,92_2019,0,0,ITS,bc1150--bc1189,Kali turgidum,46,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,96,96_2019,1,0,ITS,bc1152--bc1189,Kali turgidum,7,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,97,97_2019,0,0,ITS,bc1153--bc1189,Kali turgidum,36,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,108,108_2019,1,0,ITS,bc1154--bc1157,Kali turgidum,7,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,109,109_2019,0,0,ITS,bc1154--bc1156,Kali turgidum,26,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,111,111_2019,1,0,ITS,bc1135--bc1154,Kali turgidum,149,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,112,112_2019,1,0,ITS,bc1148--bc1154 ,Kali turgidum,7,2019-7-11,Early July,Paterson,475,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,114,114_2019,0,0,ITS,bc1156--bc1189,Kali turgidum,7,2019-7-11,Early July,Paterson,475,Potato,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,122,122_2019,1,0,ITS,bc1133--bc1154,Kali turgidum,62,2019-7-11,Early July,Paterson,529,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,128,128_2019,1,0,ITS,bc1134--bc1154,Kali turgidum,194,2019-7-12,Early July,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,159,159_2019,0,0,ITS,bc1123--bc1154,Kali turgidum,34,2019-8-1,Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,160,160_2019,0,0,ITS,bc1124--bc1154,Kali turgidum,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,162,162_2019,0,0,ITS,bc1146--bc1173,Kali turgidum,3,2019-8-1,Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,163,163_2019,0,0,ITS,bc1152--bc1173 ,Kali turgidum,47,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,164,164_2019,0,0,ITS,bc1153--bc1173,Kali turgidum,144,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,166,166_2019,0,0,ITS,bc1134--bc1189,Kali turgidum,7,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,167,167_2019,0,0,ITS,bc1158--bc1173,Kali turgidum,7,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,168,168_2019,0,0,ITS,bc1157--bc1173 ,Kali turgidum,213,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,169,169_2019,0,0,ITS,bc1156--bc1173,Kali turgidum,42,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,173,173_2019,0,0,ITS,bc1159--bc1173,Kali turgidum,47,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,174,174_2019,0,0,ITS,bc1135--bc1173,Kali turgidum,29,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian Thistle (Salwort or Glasswort),Kali,175,175_2019,0,0,ITS,bc1148--bc1173,Kali turgidum,52,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,11,11_2020,0,0,ITS,bc1150--bc1190,Kali turgidum,4,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,39,39_2020,1,1,ITS,bc1146--bc1190,Kali turgidum,39,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,111,111_2020,0,1,ITS,bc1152--bc1171,Kali turgidum,2,2020-5-18,Late May,Mattawa,C,Flixweed,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,46,46_2020,1,0,ITS,bc1146--bc1173,Kali turgidum,189,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,28,28_2020,0,0,ITS,bc1146--bc1171,Kali turgidum,11,2020-5-18,Late May,Moxee,A,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,127,127_2020,0,0,ITS,bc1152--bc1173,Kali turgidum,12,2020-5-18,Late May,Othello,F,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,190,190_2020,1,0,ITS,bc1153--bc1171,Kali turgidum,29,2020-5-27,Late May,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,508,508_2020,0,1,ITS,bc1133--bc1190,Kali turgidum,3,2020-6-25,Late June,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,509,509_2020,0,0,ITS,bc1133--bc1191,Kali turgidum,181,2020-6-25,Late June,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,827,827_2020,0,1,ITS,bc1124--bc1172,Kali turgidum,646,2020-10-2,Early October,Moxee,A,Kochia,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,15,15_2020,0,0,ITS,bc1150--bc1192,Kali turgidum,7,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,792,792_2020,0,1,ITS,bc1124--bc1171,Kali turgidum,31,2020-8-27,Late August,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,113,113_2020,1,1,ITS,bc1152--bc1172,Kali turgidum,5,2020-5-18,Late May,Mattawa,C,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,123,123_2020,0,1,ITS,bc1152--bc1191,Kali turgidum,4,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,124,124_2020,0,0,ITS,bc1152--bc1192,Kali turgidum,2539,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,137,137_2020,1,0,ITS,bc1152--bc1154,Kali turgidum,909,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,198,198_2020,0,0,ITS,bc1153--bc1192,Kali turgidum,464,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,199,199_2020,1,1,ITS,bc1153--bc1173,Kali turgidum,1141,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,227,227_2020,0,0,ITS,bc1153--bc1189,Kali turgidum,233,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,518,518_2020,1,0,ITS,bc1133--bc1154,Kali turgidum,19,2020-6-25,Late June,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,549,549_2020,1,0,ITS,bc1133--bc1155,Kali turgidum,35,2020-7-1,Early July,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,550,550_2020,1,0,ITS,bc1133--bc1140,Kali turgidum,38,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,568,568_2020,1,0,ITS,bc1134--bc1191,Kali turgidum,33,2020-7-15,Late July,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,587,587_2020,1,0,ITS,bc1134--bc1155,Kali turgidum,137,2020-7-15,Late July,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,614,614_2020,1,1,ITS,bc1134--bc1140,Kali turgidum,6,2020-7-16,Late July,Paterson,J,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,16,16_2020,0,0,ITS,bc1150--bc1173,Kali turgidum,490,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,17,17_2020,1,1,ITS,bc1150--bc1154,Kali turgidum,7,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,84,84_2020,1,1,ITS,bc1146--bc1155,Kali turgidum,151,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,122,122_2020,1,1,ITS,bc1152--bc1190,Kali turgidum,1888,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,9,9_2020,0,0,ITS,bc1150--bc1171,Kali turgidum,68,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Prickly Russian thistle,Kali,211,211_2020,0,1,ITS,bc1153--bc1155,Kali turgidum,2,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Crop,Asteraceae,Lettuce,Lactuca,18,18_2019,1,0,trnF,bc1099--bc1142,Lactuca sativa,2,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,33,33_2019,0,0,trnF,bc1108--bc1178,Lactuca sativa,42,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,44,44_2019,0,0,trnF,bc1108--bc1109,Lactuca sativa,2,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,50,50_2019,0,0,trnF,bc1108--bc1114,Lactuca sativa,13,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,52,52_2019,0,0,trnF,bc1142--bc1176,Lactuca sativa,3,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Crop,Asteraceae,Lettuce,Lactuca,60,60_2019,0,1,trnF,bc1113--bc1143,Lactuca sativa,3,2019-7-3,Early July,Mattawa ,RDJ,Potato,2019
+Crop,Asteraceae,Lettuce,Lactuca,72,72_2019,0,0,trnF,bc1097--bc1108,Lactuca sativa,19,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,73,73_2019,1,0,trnF,bc1107--bc1178,Lactuca sativa,73,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,91,91_2019,0,1,trnF,bc1115--bc1143,Lactuca sativa,2,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Crop,Asteraceae,Lettuce,Lactuca,92,92_2019,0,0,trnF,bc1120--bc1143,Lactuca sativa,19,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Crop,Asteraceae,Lettuce,Lactuca,93,93_2019,0,0,trnF,bc1109--bc1143,Lactuca sativa,3,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Crop,Asteraceae,Lettuce,Lactuca,97,97_2019,0,0,trnF,bc1143--bc1176,Lactuca sativa,4,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Crop,Asteraceae,Lettuce,Lactuca,106,106_2019,0,0,trnF,bc1143--bc1177,Lactuca sativa,42,2019-7-11,Early July,Paterson,107,Potato,2019
+Crop,Asteraceae,Lettuce,Lactuca,108,108_2019,1,0,trnF,bc1107--bc1120,Lactuca sativa,3,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,145,145_2019,0,0,trnF,bc1109--bc1144,Lactuca sativa,754,2019-7-19,Late July,Pasco,WSU,Pigweed,2019
+Crop,Asteraceae,Lettuce,Lactuca,153,153_2019,0,0,trnF,bc1110--bc1144,Lactuca sativa,18,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Crop,Asteraceae,Lettuce,Lactuca,162,162_2019,0,0,trnF,bc1169--bc1177,Lactuca sativa,178,2019-8-1,Early August,Paterson,475,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,163,163_2019,0,0,trnF,bc1169--bc1176,Lactuca sativa,2,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Crop,Asteraceae,Lettuce,Lactuca,168,168_2019,0,0,trnF,bc1120--bc1169,Lactuca sativa,2,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,169,169_2019,0,0,trnF,bc1115--bc1169,Lactuca sativa,3,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,174,174_2019,0,0,trnF,bc1113--bc1169,Lactuca sativa,2,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Crop,Asteraceae,Lettuce,Lactuca,204,204_2019,1,0,trnF,bc1111--bc1169,Lactuca sativa,2,2019-10-18,Late October,Pasco,RDJ,Russian thistle,2019
+Crop,Asteraceae,garden lettuce,Lactuca,12,12_2020,0,0,trnF,bc1103--bc1120,Lactuca sativa,108,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Crop,Asteraceae,garden lettuce,Lactuca,582,582_2020,0,1,trnF,bc1175--bc1176,Lactuca sativa,4,2020-7-15,Late July,Othello,E,Kochia,2020
+Crop,Asteraceae,garden lettuce,Lactuca,626,626_2020,0,0,trnF,bc1142--bc1176,Lactuca sativa,6,2020-8-12,Early August,Moxee,A,Kochia,2020
+Crop,Asteraceae,garden lettuce,Lactuca,496,496_2020,0,0,trnF,bc1097--bc1105,Lactuca sativa,5,2020-6-25,Late June,Paterson,I,Russian thistle,2020
+Crop,Asteraceae,garden lettuce,Lactuca,568,568_2020,1,0,trnF,bc1103--bc1176,Lactuca sativa,5,2020-7-15,Late July,Moxee,A,Russian thistle,2020
+Crop,Asteraceae,garden lettuce,Lactuca,6,6_2021,0,0,trnF,bc1103--bc1109,Lactuca sativa,3,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,7,7_2021,0,0,trnF,bc1103--bc1110,Lactuca sativa,24,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,11,11_2021,0,0,trnF,bc1105--bc1110,Lactuca sativa,4,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,16,16_2021,0,0,trnF,bc1106--bc1109,Lactuca sativa,2,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,97,97_2021,1,1,trnF,bc1107--bc1110,Lactuca sativa,7,2021-4-20,Late April,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,98,98_2021,0,0,trnF,bc1097--bc1108,Lactuca sativa,3,2021-4-20,Late April,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,99,99_2021,0,1,trnF,bc1108--bc1111,Lactuca sativa,2,2021-4-20,Late April,Othello,Othello farm,Flixweed,2021
+Crop,Asteraceae,garden lettuce,Lactuca,203,203_2021,0,0,trnF,bc1111--bc1144,Lactuca sativa,13,2021-5-11,Early May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,292,292_2021,0,0,trnF,bc1105--bc1176,Lactuca sativa,118,2021-5-18,Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,295,295_2021,1,0,trnF,bc1106--bc1176,Lactuca sativa,420,2021-5-18,Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,339,339_2021,0,0,trnF,bc1103--bc1177,Lactuca sativa,20,2021-5-18,Late May,Pasco,Pasco farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,340,340_2021,0,1,trnF,bc1105--bc1177,Lactuca sativa,4,2021-5-18,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,365,365_2021,0,0,trnF,bc1106--bc1177,Lactuca sativa,5,2021-5-26,Late May,Moxee,Moxee farm,Flixweed,2021
+Crop,Asteraceae,garden lettuce,Lactuca,381,381_2021,0,0,trnF,bc1108--bc1177,Lactuca sativa,4,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,413,413_2021,0,0,trnF,bc1106--bc1178,Lactuca sativa,5,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,416,416_2021,0,,trnF,bc1107--bc1178,Lactuca sativa,9,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Asteraceae,garden lettuce,Lactuca,468,468_2021,0,0,trnF,bc1097--bc1105,Lactuca sativa,88,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,530,530_2021,1,,trnF,bc1105--bc1111,Lactuca sativa,8,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,541,541_2021,0,0,trnF,bc1105--bc1113,Lactuca sativa,10,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,548,548_2021,0,0,trnF,bc1097--bc1106,Lactuca sativa,4,2021-6-2,Early June,Moxee,Moxee farm,Loesel's mustard,2021
+Crop,Asteraceae,garden lettuce,Lactuca,624,624_2021,0,,trnF,bc1106--bc1113,Lactuca sativa,158,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Weed,Asteraceae,Prickly Lettuce,Lactuca,40,40_2019,0,0,ITS,bc1140--bc1153,Lactuca serriola,3,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Weed,Asteraceae,Prickly Lettuce,Lactuca,52,52_2019,0,0,ITS,bc1140--bc1158,Lactuca serriola,40,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Weed,Asteraceae,Prickly Lettuce,Lactuca,162,162_2019,0,0,ITS,bc1146--bc1173,Lactuca serriola,40,2019-8-1,Early August,Paterson,475,Kochia,2019
+Weed,Asteraceae,Prickly Lettuce,Lactuca,41,41_2020,0,1,ITS,bc1146--bc1191,Lactuca serriola,26,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Weed,Asteraceae,Prickly Lettuce,Lactuca,108,108_2021,1,1,trnF,bc1108--bc1109,Lactuca serriola,2,2021-4-20,Late April,Moxee,Moxee farm,Flixweed,2021
+Weed,Asteraceae,Prickly Lettuce,Lactuca,203,203_2021,0,0,trnF,bc1111--bc1144,Lactuca serriola,13,2021-5-11,Early May,Moxee,Moxee farm,Kochia,2021
+Weed,Asteraceae,Prickly Lettuce,Lactuca,365,365_2021,0,0,trnF,bc1106--bc1177,Lactuca serriola,3,2021-5-26,Late May,Moxee,Moxee farm,Flixweed,2021
+Weed,Asteraceae,Prickly Lettuce,Lactuca,414,414_2021,0,,ITS,bc1123--bc1172,Lactuca serriola,11,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Tree,Lythraceae,Myrtle,Lagerstroemia,482,482_2020,1,0,trnF,bc1110--bc1144,Lagerstroemia suprareticulata,6,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Weed,Apocynaceae,Khimp or Markh,Leptadenia,1,1_2019,1,0,ITS,bc1133--bc1140,Leptadenia pyrotechnica,3,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Tree,Oleaceae,Chinese Privet,Ligustrum,45,45_2019,0,0,trnF,bc1108--bc1115,Ligustrum lucidum,7,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Tree,Oleaceae,Privet,Ligustrum,644,644_2020,0,0,trnF,bc1143--bc1176,Ligustrum lucidum,3,2020-8-12,Early August,Moxee,A,Russian thistle,2020
+Shrub,Lauraceae,Spicebush,Lindera,2,2_2019,0,0,trnF,bc1112--bc1142,Lindera fragrans,7,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Weed,Linaceae,Narrow Leaf Flax,Linum,74,74_2019,1,1,ITS,bc1146--bc1154,Linum bienne,10,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Grass,Poaceae,Perennial Ryegrass,Lolium,166,166_2019,0,0,ITS,bc1135--bc1140,Lolium perenne,4,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Grass,Poaceae,Perennial Ryegrass,Lolium,552,552_2020,0,0,trnF,bc1114--bc1169,Lolium perenne,2,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Grass,Poaceae,Annual Ryegrass,Lolium,122,122_2019,1,0,ITS,bc1133--bc1154,Lolium rigidum,19,2019-7-11,Early July,Paterson,529,Russian thistle,2019
+Grass,Poaceae,Annual Ryegrass,Lolium,160,160_2019,0,0,ITS,bc1124--bc1154,Lolium rigidum,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Weed,Fabaceae,Wild Legume,Lotus,175,175_2019,0,0,ITS,bc1148--bc1173,Lotus japonicus,2,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Shrub,Solanaceae,Goji Berry,Lycium,1,1_2019,1,0,ITS,bc1133--bc1140,Lycium barbarum,12,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Shrub,Solanaceae,Goji Berry,Lycium,73,73_2019,1,0,ITS,bc1150--bc1154,Lycium barbarum,3,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Matrimony vine,Lycium,227,227_2020,0,0,ITS,bc1153--bc1189,Lycium barbarum,308,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,Goji,Lycium,11,11_2020,0,0,trnF,bc1103--bc1114,Lycium chinense,20,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Nightshade,Solanaceae,Goji,Lycium,39,39_2020,1,1,trnF,bc1106--bc1109,Lycium chinense,50,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Nightshade,Solanaceae,Goji,Lycium,153,153_2020,1,0,trnF,bc1107--bc1111,Lycium chinense,14,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Nightshade,Solanaceae,Goji,Lycium,358,358_2020,0,1,trnF,bc1109--bc1142,Lycium chinense,15,2020-6-3,Early June,Mattawa,C,Russian thistle,2020
+Nightshade,Solanaceae,Goji,Lycium,22,22_2020,0,0,trnF,bc1105--bc1110,Lycium chinense,5,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Shrub,Solanaceae,African Boxthorn,Lycium,56,56_2019,0,0,trnF,bc1142--bc1178,Lycium ferocissimum,3,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Shrub,Solanaceae,African Boxthorn,Lycium,92,92_2019,0,0,trnF,bc1120--bc1143,Lycium ferocissimum,7,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Shrub,Solanaceae,African Boxthorn,Lycium,175,175_2019,0,0,trnF,bc1112--bc1169,Lycium ferocissimum,11,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Nightshade,Solanaceae,Goji,Lycium,113,113_2020,1,1,trnF,bc1112--bc1169,Lycium ferocissimum,10,2020-5-18,Late May,Mattawa,C,Russian thistle,2020
+Tree,Fabaceae,Amur Maackia ,Maackia,345,345_2020,1,1,trnF,bc1120--bc1142,Maackia amurensis,2,2020-6-3,Early June,Mattawa,B,Russian thistle,2020
+Tree,Rosaceae,Apple,Malus,204,204_2021,0,0,trnF,bc1112--bc1144,Malus x,2,2021-5-11,Early May,Othello,Othello farm,Kochia,2021
+Tree,Rosaceae,Apple,Malus,321,321_2021,0,1,trnF,bc1108--bc1176,Malus x,5,2021-5-18,Late May,Moxee,Moxee farm,Flixweed,2021
+Weed,Malvaceae,Little Mallow,Malva,56,56_2019,0,0,ITS,bc1140--bc1156,Malva parviflora,2,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Weed,Malvaceae,Mallow,Malva,39,39_2020,1,1,ITS,bc1146--bc1190,Malva parviflora,3,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Weed,Malvaceae,Mallow,Malva,46,46_2020,1,0,ITS,bc1146--bc1173,Malva parviflora,3,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Crop,Fabaceae,Alfalfa,Medicago,43,43_2019,0,0,ITS,bc1155--bc1157 ,Medicago sativa,23,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,69,69_2019,1,0,ITS,bc1133--bc1155,Medicago sativa,6,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,70,70_2019,0,0,ITS,bc1134--bc1155,Medicago sativa,8,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,73,73_2019,1,0,ITS,bc1150--bc1154,Medicago sativa,5,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,74,74_2019,1,1,ITS,bc1146--bc1154,Medicago sativa,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,82,82_2019,1,0,ITS,bc1153--bc1154,Medicago sativa,4,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,Alfalfa,Medicago,91,91_2019,0,1,ITS,bc1140--bc1148,Medicago sativa,40,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Crop,Fabaceae,Alfalfa,Medicago,92,92_2019,0,0,ITS,bc1150--bc1189,Medicago sativa,5,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Crop,Fabaceae,Alfalfa,Medicago,166,166_2019,0,0,ITS,bc1135--bc1140,Medicago sativa,2,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Crop,Fabaceae,Alfalfa,Medicago,167,167_2019,0,0,ITS,bc1158--bc1173,Medicago sativa,4,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Crop,Fabaceae,Alfalfa,Medicago,169,169_2019,0,0,ITS,bc1156--bc1173,Medicago sativa,2,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Weed,Fabaceae,Alfalfa,Medicago,127,127_2020,0,0,ITS,bc1152--bc1173,Medicago sativa,247,2020-5-18,Late May,Othello,F,Kochia,2020
+Weed,Fabaceae,Alfalfa,Medicago,124,124_2020,0,0,ITS,bc1152--bc1192,Medicago sativa,2,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,198,198_2020,0,0,ITS,bc1153--bc1192,Medicago sativa,100,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,199,199_2020,1,1,ITS,bc1153--bc1173,Medicago sativa,2,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,549,549_2020,1,0,ITS,bc1133--bc1155,Medicago sativa,3,2020-7-1,Early July,Moxee,A,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,550,550_2020,1,0,ITS,bc1133--bc1140,Medicago sativa,4,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Weed,Fabaceae,Alfalfa,Medicago,16,16_2020,0,0,ITS,bc1150--bc1173,Medicago sativa,6,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Crop,Lamiaceae,Peppermint,Mentha,160,160_2019,0,0,ITS,bc1124--bc1154,Mentha x,14,2019-8-1,Early August,Paterson,475,Kochia,2019
+Tree,Morceae,Himalyan Mulberry,Morus,33,33_2019,0,0,trnF,bc1108--bc1178,Morus serrata,25,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Coyote tobacco,Nicotiana,552,552_2020,0,0,trnF,bc1114--bc1169,Nicotiana attenuata,4,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Crop,Solanaceae,Common Tobacco,Nicotiana,33,33_2019,0,0,ITS,bc1152--bc1155,Nicotiana tabacum,3,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Tree,Oleaceae,Common Olive,Olea,54,54_2019,0,0,ITS,bc1140--bc1157,Olea europaea,4,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Tree,Oleaceae,Common Olive,Olea,69,69_2019,1,0,ITS,bc1133--bc1155,Olea europaea,7,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Hydrophyllaceae,Franklin’s phacelia,Phacelia,71,71_2019,0,1,ITS,bc1123--bc1155,Phacelia franklinii,3,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Fabaceae,lima bean,Phaseolus,37,37_2020,0,1,ITS,bc1146--bc1172,Phaseolus lunatus,139,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Tree,Lauraceae,Phoebe hungmoensis,Phoebe,153,153_2020,1,0,trnF,bc1107--bc1111,Phoebe hungmoensis,18,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Shrub,Rosaceae,Japanese Photinia,Photinia,19,19_2019,0,1,ITS,bc1140--bc1150,Photinia glabra,3,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Shrub,Rosaceae,Taiwanese Photinia,Photinia,2,2_2019,0,0,ITS,bc1134--bc1140,Photinia serratifolia,2,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Nightshade,Solanaceae,Clammy Groundcherry,Physalis,60,60_2019,0,1,trnF,bc1113--bc1143,Physalis heterophylla,2,2019-7-3,Early July,Mattawa ,RDJ,Potato,2019
+Nightshade,Solanaceae,Clammy Groundcherry,Physalis,91,91_2019,0,1,trnF,bc1115--bc1143,Physalis heterophylla,4,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Nightshade,Solanaceae,Clammy Groundcherry,Physalis,663,663_2020,0,0,trnF,bc1103--bc1177,Physalis heterophylla,2,2020-8-12,Early August,Othello,G,Kochia,2020
+Nightshade,Solanaceae,Cape gooseberry,Physalis,1,1_2019,1,0,ITS,bc1133--bc1140,Physalis peruviana,10,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Tree,Pinaceae,lodgepole pine,Pinus,17,17_2020,1,1,trnF,bc1105--bc1112,Pinus contorta,13,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Tree,Pinaceae,Japanese Red Pine,Pinus,18,18_2020,0,0,trnF,bc1105--bc1120,Pinus densiflora,6,2020-5-18,Late May,Moxee,A,Flixweed,2020
+Tree,Pinaceae,Japanese Red Pine,Pinus,32,32_2021,0,0,trnF,bc1114--bc1175,Pinus densiflora,2,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Tree,Pinaceae,Japanese Red Pine,Pinus,412,412_2021,0,0,trnF,bc1105--bc1178,Pinus densiflora,10,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Tree,Pinaceae,Mexican Mountain Pine,Pinus,19,19_2020,0,0,trnF,bc1105--bc1109,Pinus hartwegii,2,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Tree,Pinaceae,Chinese Red Pine,Pinus,18,18_2020,0,0,trnF,bc1105--bc1120,Pinus tabuliformis,44,2020-5-18,Late May,Moxee,A,Flixweed,2020
+Tree,Anacardiaceae,Chinese Pistachio,Pistacia,51,51_2019,0,0,trnF,bc1108--bc1113,Pistacia chinensis,12,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Tree,Anacardiaceae,Chinese Pistachio,Pistacia,90,90_2019,0,0,trnF,bc1114--bc1143,Pistacia chinensis,4,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Tree,Anacardiaceae,Cashew,Pistacia,482,482_2020,1,0,trnF,bc1110--bc1144,Pistacia vera,5,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Tree,x,Pistachio?,Pistacia,159,159_2019,0,0,ITS,bc1123--bc1154,Pistacia weinmaniifolia,10,2019-8-1,Early August,Paterson,475,Kochia,2019
+Crop,Fabaceae,Pea,Pisum,60,60_2019,0,1,ITS,bc1140--bc1159,Pisum sativum,2,2019-7-3,Early July,Mattawa ,RDJ,Potato,2019
+Crop,Fabaceae,Pea,Pisum,18,18_2020,0,0,ITS,bc1150--bc1155,Pisum sativum,30,2020-5-18,Late May,Moxee,A,Flixweed,2020
+Crop,Fabaceae,Pea,Pisum,671,671_2020,1,0,ITS,bc1123--bc1173,Pisum sativum,10,2020-8-12,Early August,Othello,G,Kochia,2020
+Crop,Fabaceae,Pea,Pisum,227,227_2020,0,0,ITS,bc1153--bc1189,Pisum sativum,4,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Weed,Plantaginaceae,plantain,Plantago,321,321_2021,0,1,trnF,bc1108--bc1176,Plantago lanceolata,34,2021-5-18,Late May,Moxee,Moxee farm,Flixweed,2021
+Tree,Platanaceae,Sycamore,Platanus,482,482_2020,1,0,trnF,bc1110--bc1144,Platanus orientalis,2,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Grass,Poaceae,Cottonball Bluegrass,Poa,173,173_2019,0,0,trnF,bc1114--bc1169,Poa sublanata,2,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Grass,Poaceae,Wolly Blue Grass,Poa,108,108_2020,0,1,trnF,bc1110--bc1175,Poa sublanata,16,2020-5-18,Late May,Mattawa,C,Potato,2020
+Weed,Polygonaceae,Common Knotgrass,Polygonum,111,111_2019,1,0,trnF,bc1107--bc1113,Polygonum aviculare,7,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Weed,Portulacaceae,Purslane,Portulaca,373,373_2020,1,0,trnF,bc1113--bc1143,Portulaca oleracea,7,2020-6-12,Early June,Pasco,N,Russian thistle,2020
+Tree,Rosaceae,Sweet Cherry,Prunus,159,159_2019,0,0,ITS,bc1123--bc1154,Prunus avium,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Tree,Rosaceae,Peach,Prunus,43,43_2019,0,0,ITS,bc1155--bc1157,Prunus persica,64,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Tree,Rosaceae,Peach,Prunus,44,44_2019,0,0,ITS,bc1155--bc1156,Prunus persica,4,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Tree,Rosaceae,peach,Prunus,41,41_2020,0,1,ITS,bc1146--bc1191,Prunus persica,31,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Tree,Rosaceae,peach,Prunus,190,190_2020,1,0,ITS,bc1153--bc1171,Prunus persica,2,2020-5-27,Late May,Pasco,M,Kochia,2020
+Mustard,Brassicaceae,unknown,Pseudofortuynia,487,487_2020,1,1,trnF,bc1100--bc1103,Pseudofortuynia leucoclada,4,2020-6-25,Late June,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,unknown,Pseudofortuynia,8,8_2020,1,0,trnF,bc1103--bc1111,Pseudofortuynia leucoclada,859,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,unknown,Pseudofortuynia,9,9_2020,0,0,trnF,bc1103--bc1112,Pseudofortuynia leucoclada,267,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,unknown,Pseudofortuynia,253,253_2021,1,1,trnF,bc1110--bc1144,Pseudofortuynia leucoclada,3,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,unknown,Pseudofortuynia,254,254_2021,0,0,trnF,bc1103--bc1176,Pseudofortuynia leucoclada,3,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Grass,Poaceae,Bluebunch Wheat Grass,Pseudoroegneria,69,69_2019,1,0,trnF,bc1108--bc1112,Pseudoroegneria gracillima,3,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Tree,Rosaceae,Pear,Pyrus,166,166_2019,0,0,ITS,bc1135--bc1140,Pyrus communis,23,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Tree,Rosaceae,pear,Pyrus,472,472_2020,1,0,trnF,bc1113--bc1144,Pyrus communis,2,2020-6-17,Late June,Othello,F,Kochia,2020
+Tree,Rosaceae,pear,Pyrus,16,16_2020,0,0,trnF,bc1103--bc1110,Pyrus communis,99,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Tree,Rosaceae,Pendula or Willow-Leaf Pear,Pyrus,90,90_2019,0,0,trnF,bc1114--bc1143,Pyrus salicifolia,8,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Tree,Fagaceae,Oak,Quercus,19,19_2019,0,1,ITS,bc1140--bc1150,Quercus robur,4,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Tree,Fagaceae,Oak,Quercus,91,91_2019,0,1,ITS,bc1140--bc1148,Quercus robur,2,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Tree,Fagaceae,English oak,Quercus,122,122_2020,1,1,ITS,bc1152--bc1190,Quercus robur,3,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Tree,Fagaceae,Northern red oak,Quercus,35,35_2019,0,0,ITS,bc1155--bc1158,Quercus rubra,18,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Tree,Fagaceae,Oak,Quercus,20,20_2019,0,0,ITS,bc1140--bc1146,Quercus sp.,26,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Crop,Brassicaceae,Radish,Raphanus,28,28_2019,1,1,ITS,bc1146--bc1155,Raphanus sativus,4,2019-6-12,Early June,Mattawa ,RDR,Mustard,2019
+Crop,Brassicaceae,Radish,Raphanus,33,33_2019,0,0,ITS,bc1152--bc1155,Raphanus sativus,10,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,39,39_2019,0,0,ITS,bc1140--bc1152,Raphanus sativus,3,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Crop,Brassicaceae,Radish,Raphanus,52,52_2019,0,0,trnF,bc1142--bc1176,Raphanus sativus,2,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Crop,Brassicaceae,Radish,Raphanus,69,69_2019,1,0,ITS,bc1133--bc1155,Raphanus sativus,17,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,70,70_2019,0,0,ITS,bc1134--bc1155,Raphanus sativus,64,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,71,71_2019,0,1,ITS,bc1123--bc1155,Raphanus sativus,6,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,72,72_2019,0,0,ITS,bc1124--bc1155,Raphanus sativus,21,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,73,73_2019,1,0,ITS,bc1150--bc1154,Raphanus sativus,19,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,79,79_2019,1,0,trnF,bc1107--bc1176,Raphanus sativus,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,82,82_2019,1,0,trnF,bc1107--bc1110,Raphanus sativus,5,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,92,92_2019,0,0,ITS,bc1150--bc1189,Raphanus sativus,35,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Crop,Brassicaceae,Radish,Raphanus,96,96_2019,1,0,ITS,bc1152--bc1189,Raphanus sativus,3,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Crop,Brassicaceae,Radish,Raphanus,97,97_2019,0,0,ITS,bc1153--bc1189,Raphanus sativus,6,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Crop,Brassicaceae,Radish,Raphanus,109,109_2019,0,0,trnF,bc1107--bc1115,Raphanus sativus,7,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Crop,Brassicaceae,Radish,Raphanus,111,111_2019,1,0,ITS,bc1135--bc1154,Raphanus sativus,3,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Crop,Brassicaceae,Radish,Raphanus,122,122_2019,1,0,ITS,bc1133--bc1154,Raphanus sativus,32,2019-7-11,Early July,Paterson,529,Russian thistle,2019
+Crop,Brassicaceae,Radish,Raphanus,128,128_2019,1,0,ITS,bc1134--bc1154,Raphanus sativus,8,2019-7-12,Early July,Pasco,WSU,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,134,134_2019,0,0,trnF,bc1114--bc1144,Raphanus sativus,5,2019-7-12,Early July,Pasco,WSU,Potato,2019
+Crop,Brassicaceae,Radish,Raphanus,153,153_2019,0,0,ITS,bc1133--bc1189,Raphanus sativus,5,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Crop,Brassicaceae,Radish,Raphanus,162,162_2019,0,0,ITS,bc1146--bc1173,Raphanus sativus,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,163,163_2019,0,0,ITS,bc1152--bc1173,Raphanus sativus,3,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Crop,Brassicaceae,Radish,Raphanus,169,169_2019,0,0,trnF,bc1115--bc1169,Raphanus sativus,10,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Tree,Fabaceae,Black Locust,Robinia,217,217_2020,0,1,ITS,bc1140--bc1153,Robinia pseudoacacia,68,2020-6-3,Early June,Moxee,A,Flixweed,2020
+Tree,Fabaceae,Black Locust,Robinia,504,504_2020,1,0,trnF,bc1100--bc1105,Robinia pseudoacacia,3,2020-6-25,Late June,Pasco,M,Netseed Lambsquarters,2020
+Tree,Fabaceae,Black Locust,Robinia,504,504_2020,1,0,ITS,bc1133--bc1171,Robinia pseudoacacia,10,2020-6-25,Late June,Pasco,M,Netseed Lambsquarters,2020
+Tree,Fabaceae,Black Locust,Robinia,211,211_2020,0,1,ITS,bc1153--bc1155,Robinia pseudoacacia,2,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Crop,Rosaceae,Blackberry,Rubus,167,167_2019,0,0,ITS,bc1158--bc1173,Rubus allegheniensis,2,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Shrub,Rosaceae,Blackberry,Rubus,193,193_2020,0,1,ITS,bc1153--bc1172,Rubus allegheniensis,5,2020-5-27,Late May,Pasco,M,Kochia,2020
+Tree,Salicaceae,Corkscrew Willow,Salix,103,103_2019,1,1,trnF,bc1107--bc1109,Salix matsudana,3,2019-7-10,Early July,Mattawa,RDJ,Kochia,2019
+Tree,Salicaceae,Dark-leaved Willow,Salix,103,103_2019,1,1,ITS,bc1154--bc1158,Salix myrsinifolia,67,2019-7-10,Early July,Mattawa,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,11,11_2020,0,0,trnF,bc1103--bc1114,Salsola collina,23,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,39,39_2020,1,1,trnF,bc1106--bc1109,Salsola collina,333,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,41,41_2020,0,1,trnF,bc1106--bc1110,Salsola collina,2,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,111,111_2020,0,1,trnF,bc1111--bc1169,Salsola collina,17,2020-5-18,Late May,Mattawa,C,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,217,217_2020,0,1,trnF,bc1108--bc1113,Salsola collina,3,2020-6-3,Early June,Moxee,A,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,46,46_2020,1,0,trnF,bc1111--bc1175,Salsola collina,269,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,788,788_2020,0,1,trnF,bc1107--bc1177,Salsola collina,2,2020-8-27,Late August,Othello,E,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,28,28_2020,0,0,trnF,bc1106--bc1114,Salsola collina,446,2020-5-18,Late May,Moxee,A,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,127,127_2020,0,0,trnF,bc1110--bc1169,Salsola collina,8,2020-5-18,Late May,Othello,F,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,190,190_2020,1,0,trnF,bc1107--bc1120,Salsola collina,6,2020-5-27,Late May,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,193,193_2020,0,1,trnF,bc1107--bc1109,Salsola collina,36,2020-5-27,Late May,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,471,471_2020,0,1,trnF,bc1112--bc1144,Salsola collina,4,2020-6-17,Late June,Othello,F,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,476,476_2020,1,0,trnF,bc1114--bc1144,Salsola collina,2,2020-6-17,Late June,Othello,F,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,509,509_2020,0,0,trnF,bc1105--bc1114,Salsola collina,480,2020-6-25,Late June,Pasco,M,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,557,557_2020,1,1,trnF,bc1107--bc1112,Salsola collina,376,2020-7-1,Early July,Mattawa,D,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,626,626_2020,0,0,trnF,bc1142--bc1176,Salsola collina,6,2020-8-12,Early August,Moxee,A,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,671,671_2020,1,0,trnF,bc1105--bc1177,Salsola collina,4,2020-8-12,Early August,Othello,G,Kochia,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,372,372_2020,0,1,trnF,bc1112--bc1143,Salsola collina,3,2020-6-3,Early June,Othello,F,Potato,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,577,577_2020,0,1,trnF,bc1106--bc1176,Salsola collina,218,2020-7-15,Late July,Mattawa,D,Potato,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,487,487_2020,1,1,trnF,bc1100--bc1103,Salsola collina,8,2020-6-25,Late June,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,655,655_2020,0,0,trnF,bc1144--bc1176,Salsola collina,212,2020-8-12,Early August,Othello,F,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,792,792_2020,0,1,trnF,bc1108--bc1177,Salsola collina,36,2020-8-27,Late August,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,137,137_2020,1,0,trnF,bc1097--bc1107,Salsola collina,31,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,198,198_2020,0,0,trnF,bc1107--bc1110,Salsola collina,16,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,199,199_2020,1,1,trnF,bc1097--bc1108,Salsola collina,15,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,358,358_2020,0,1,trnF,bc1109--bc1142,Salsola collina,5,2020-6-3,Early June,Mattawa,C,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,364,364_2020,1,1,trnF,bc1097--bc1143,Salsola collina,19,2020-6-3,Early June,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,369,369_2020,1,1,trnF,bc1100--bc1143,Salsola collina,25,2020-6-3,Early June,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,370,370_2020,0,1,trnF,bc1111--bc1143,Salsola collina,13,2020-6-3,Early June,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,373,373_2020,1,0,trnF,bc1113--bc1143,Salsola collina,28,2020-6-12,Early June,Pasco,N,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,457,457_2020,1,0,trnF,bc1110--bc1143,Salsola collina,9,2020-6-17,Late June,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,468,468_2020,1,0,trnF,bc1100--bc1144,Salsola collina,2,2020-6-17,Late June,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,481,481_2020,0,1,trnF,bc1109--bc1144,Salsola collina,98,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,482,482_2020,1,0,trnF,bc1110--bc1144,Salsola collina,4,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,496,496_2020,0,0,trnF,bc1097--bc1105,Salsola collina,112,2020-6-25,Late June,Paterson,I,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,512,512_2020,0,1,trnF,bc1100--bc1106,Salsola collina,45,2020-6-25,Late June,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,518,518_2020,1,0,trnF,bc1106--bc1111,Salsola collina,136,2020-6-25,Late June,Pasco,M,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,549,549_2020,1,0,trnF,bc1106--bc1112,Salsola collina,123,2020-7-1,Early July,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,550,550_2020,1,0,trnF,bc1106--bc1113,Salsola collina,34,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,552,552_2020,0,0,trnF,bc1114--bc1169,Salsola collina,37,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,558,558_2020,1,1,trnF,bc1108--bc1114,Salsola collina,13,2020-7-1,Early July,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,568,568_2020,1,0,trnF,bc1103--bc1176,Salsola collina,162,2020-7-15,Late July,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,587,587_2020,1,0,trnF,bc1169--bc1176,Salsola collina,13,2020-7-15,Late July,Othello,E,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,614,614_2020,1,1,trnF,bc1107--bc1176,Salsola collina,16,2020-7-16,Late July,Paterson,J,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,616,616_2020,1,0,trnF,bc1108--bc1176,Salsola collina,122,2020-7-16,Late July,Paterson,J,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,644,644_2020,0,0,trnF,bc1143--bc1176,Salsola collina,79,2020-8-12,Early August,Moxee,A,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,763,763_2020,0,0,trnF,bc1106--bc1177,Salsola collina,10,2020-8-27,Late August,Mattawa,C,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,17,17_2020,1,1,trnF,bc1105--bc1112,Salsola collina,2,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,122,122_2020,1,1,trnF,bc1113--bc1169,Salsola collina,31,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,299,299_2020,1,1,trnF,bc1100--bc1142,Salsola collina,59,2020-6-3,Early June,Mattawa,B,Russian thistle,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,9,9_2020,0,0,trnF,bc1103--bc1112,Salsola collina,173,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,182,182_2020,1,1,trnF,bc1107--bc1114,Salsola collina,2,2020-5-27,Late May,Pasco,N,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,201,201_2020,0,0,trnF,bc1108--bc1111,Salsola collina,73,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,211,211_2020,0,1,trnF,bc1108--bc1112,Salsola collina,47,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,4,4_2021,0,1,trnF,bc1103--bc1114,Salsola collina,35,2021-3-23,Late March,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,26,26_2021,0,0,trnF,bc1112--bc1175,Salsola collina,4,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,32,32_2021,0,0,trnF,bc1120--bc1175,Salsola collina,11,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,70,70_2021,0,0,trnF,bc1110--bc1169,Salsola collina,12,2021-4-6,Early April,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,99,99_2021,0,1,trnF,bc1108--bc1111,Salsola collina,63,2021-4-20,Late April,Othello,Othello farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,103,103_2021,1,1,trnF,bc1108--bc1112,Salsola collina,19,2021-4-20,Late April,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,136,136_2021,0,0,trnF,bc1097--bc1143,Salsola collina,14,2021-4-27,Late April,Moxee,Moxee farm,Blue mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,170,170_2021,0,0,trnF,bc1112--bc1143,Salsola collina,6,2021-5-4,Early May,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,321,321_2021,0,1,trnF,bc1108--bc1176,Salsola collina,1120,2021-5-18,Late May,Moxee,Moxee farm,Flixweed,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,326,326_2021,0,1,trnF,bc1142--bc1176,Salsola collina,72,2021-5-18,Late May,Othello,Othello farm,Kochia,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,381,381_2021,0,0,trnF,bc1108--bc1177,Salsola collina,66,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,412,412_2021,0,0,trnF,bc1105--bc1178,Salsola collina,20,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,448,448_2021,0,0,trnF,bc1108--bc1178,Salsola collina,146,2021-5-26,Late May,Othello,Othello farm,Kochia,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,466,466_2021,0,,trnF,bc1097--bc1103,Salsola collina,5,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,499,499_2021,1,,trnF,bc1100--bc1105,Salsola collina,10,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,530,530_2021,1,,trnF,bc1105--bc1111,Salsola collina,53,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,541,541_2021,0,0,trnF,bc1105--bc1113,Salsola collina,16,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Slender Russian Thistle,Salsola,623,623_2021,0,,trnF,bc1106--bc1112,Salsola collina,11,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,2,2_2019,0,0,trnF,bc1112--bc1142,Salsola komarovii,5,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,12,12_2019,0,0,trnF,bc1100--bc1142,Salsola komarovii,12,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,18,18_2019,1,0,trnF,bc1099--bc1142,Salsola komarovii,9,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,33,33_2019,0,0,trnF,bc1108--bc1178,Salsola komarovii,72,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,35,35_2019,0,0,trnF,bc1108--bc1176,Salsola komarovii,3,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,40,40_2019,0,0,trnF,bc1110--bc1142,Salsola komarovii,4,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,45,45_2019,0,0,trnF,bc1108--bc1115,Salsola komarovii,7,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,50,50_2019,0,0,trnF,bc1108--bc1114,Salsola komarovii,68,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,51,51_2019,0,0,trnF,bc1108--bc1113,Salsola komarovii,259,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,69,69_2019,1,0,trnF,bc1108--bc1112,Salsola komarovii,47,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,70,70_2019,0,0,trnF,bc1108--bc1111,Salsola komarovii,20,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,72,72_2019,0,0,trnF,bc1097--bc1108,Salsola komarovii,28,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,73,73_2019,1,0,trnF,bc1107--bc1178,Salsola komarovii,58,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,79,79_2019,1,0,trnF,bc1107--bc1176,Salsola komarovii,95,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,82,82_2019,1,0,trnF,bc1107--bc1110,Salsola komarovii,25,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,91,91_2019,0,1,trnF,bc1115--bc1143,Salsola komarovii,7,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,96,96_2019,1,0,trnF,bc1110--bc1143,Salsola komarovii,28,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,97,97_2019,0,0,trnF,bc1143--bc1176,Salsola komarovii,54,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,108,108_2019,1,0,trnF,bc1107--bc1120,Salsola komarovii,25,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,109,109_2019,0,0,trnF,bc1107--bc1115,Salsola komarovii,63,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,110,110_2019,1,0,trnF,bc1107--bc1114,Salsola komarovii,2,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,111,111_2019,1,0,trnF,bc1107--bc1113,Salsola komarovii,222,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,112,112_2019,1,0,trnF,bc1107--bc1112,Salsola komarovii,190,2019-7-11,Early July,Paterson,475,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,114,114_2019,0,0,trnF,bc1113--bc1144,Salsola komarovii,20,2019-7-11,Early July,Paterson,475,Potato,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,122,122_2019,1,0,trnF,bc1107--bc1111,Salsola komarovii,82,2019-7-11,Early July,Paterson,529,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,128,128_2019,1,0,trnF,bc1100--bc1107,Salsola komarovii,153,2019-7-12,Early July,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,134,134_2019,0,0,trnF,bc1114--bc1144,Salsola komarovii,5,2019-7-12,Early July,Pasco,WSU,Potato,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,141,141_2019,1,0,trnF,bc1115--bc1144,Salsola komarovii,34,2019-7-18,Late July,Paterson,529,Pigweed,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,153,153_2019,0,0,trnF,bc1110--bc1144,Salsola komarovii,33,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,159,159_2019,0,0,trnF,bc1098--bc1107,Salsola komarovii,11,2019-8-1,Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,160,160_2019,0,0,trnF,bc1097--bc1107,Salsola komarovii,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,161,161_2019,0,0,ITS,bc1169--bc1178,Salsola komarovii,34,2019-8-1,Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,162,162_2019,0,0,trnF,bc1169--bc1177,Salsola komarovii,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,163,163_2019,0,0,trnF,bc1169--bc1176,Salsola komarovii,36,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,164,164_2019,0,0,trnF,bc1110--bc1169,Salsola komarovii,100,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,167,167_2019,0,0,trnF,bc1109--bc1169,Salsola komarovii,11,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,168,168_2019,0,0,trnF,bc1120--bc1169,Salsola komarovii,175,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,169,169_2019,0,0,trnF,bc1115--bc1169,Salsola komarovii,114,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,173,173_2019,0,0,trnF,bc1114--bc1169,Salsola komarovii,70,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,174,174_2019,0,0,trnF,bc1113--bc1169 ,Salsola komarovii,11,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Russian Thistle,Amaranthaceae,Saltwort or Russian thistle,Salsola,175,175_2019,0,0,trnF,bc1112--bc1169,Salsola komarovii,138,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Nightshade,Solanaceae,Henbane bell,Scopolia,556,556_2020,1,1,trnF,bc1100--bc1107,Scopolia carniolica,2,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Grass,Poaceae,rye,Secale,190,190_2020,1,0,ITS,bc1153--bc1171,Secale cereale,2,2020-5-27,Late May,Pasco,M,Kochia,2020
+Grass,Poaceae,rye,Secale,123,123_2020,0,1,ITS,bc1152--bc1191,Secale cereale,14,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Grass,Poaceae,Green Foxtail,Setaria,79,79_2019,1,0,ITS,bc1152--bc1154,Setaria viridis,5,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,33,33_2019,0,0,trnF,bc1108--bc1178,Sisymbrium altissimum,13,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,35,35_2019,0,0,trnF,bc1108--bc1176,Sisymbrium altissimum,4,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,50,50_2019,0,0,trnF,bc1108--bc1114,Sisymbrium altissimum,2,2019-6-14,Early June,Pasco,WSU,Russian thistle,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,108,108_2019,1,0,trnF,bc1107--bc1120,Sisymbrium altissimum,2,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,110,110_2019,1,0,trnF,bc1107--bc1114,Sisymbrium altissimum,3,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,167,167_2019,0,0,ITS,bc1158--bc1173,Sisymbrium altissimum,2,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Mustard,Brassicaceae,Tumble Mustard,Sisymbrium altissimum,169,169_2019,0,0,trnF,bc1115--bc1169,Sisymbrium altissimum,2,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,12,12_2020,0,0,trnF,bc1103--bc1120,Sisymbrium altissimum,15,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,153,153_2020,1,0,ITS,bc1152--bc1155,Sisymbrium altissimum,12,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,84,84_2020,1,1,ITS,bc1146--bc1155,Sisymbrium altissimum,9,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,8,8_2020,1,0,trnF,bc1103--bc1111,Sisymbrium altissimum,55,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,9,9_2020,0,0,trnF,bc1103--bc1112,Sisymbrium altissimum,45,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,19,19_2020,0,0,ITS,bc1140--bc1150,Sisymbrium altissimum,4,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,182,182_2020,1,1,ITS,bc1152--bc1189,Sisymbrium altissimum,10,2020-5-27,Late May,Pasco,N,Tumble mustard,2020
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,4,4_2021,0,1,trnF,bc1103--bc1114,Sisymbrium altissimum,8,2021-3-23,Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,5,5_2021,0,,trnF,bc1103--bc1120,Sisymbrium altissimum,402,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,6,6_2021,0,0,trnF,bc1103--bc1109,Sisymbrium altissimum,8,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,7,7_2021,0,0,trnF,bc1103--bc1110,Sisymbrium altissimum,102,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,9,9_2021,0,0,trnF,bc1105--bc1120,Sisymbrium altissimum,4,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,10,10_2021,0,1,ITS,bc1140--bc1180,Sisymbrium altissimum,97,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,11,11_2021,0,0,trnF,bc1105--bc1110,Sisymbrium altissimum,56,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,12,12_2021,0,0,trnF,bc1099--bc1106,Sisymbrium altissimum,114,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,26,26_2021,0,0,trnF,bc1112--bc1175,Sisymbrium altissimum,2,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,32,32_2021,0,0,trnF,bc1114--bc1175,Sisymbrium altissimum,68,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,44,44_2021,1,0,trnF,bc1109--bc1175,Sisymbrium altissimum,4,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,58,58_2021,0,0,trnF,bc1113--bc1169,Sisymbrium altissimum,63,2021-3-30,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,76,76_2021,0,0,trnF,bc1097--bc1107,Sisymbrium altissimum,4,2021-4-6,Early April,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,88,88_2021,1,0,ITS,bc1140--bc1152,Sisymbrium altissimum,18,2021-4-13,Early April,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,89,89_2021,0,,trnF,bc1107--bc1114,Sisymbrium altissimum,7,2021-4-13,Early April,Othello,Othello farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,96,96_2021,0,1,trnF,bc1107--bc1109,Sisymbrium altissimum,6,2021-4-20,Late April,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,97,97_2021,1,1,trnF,bc1107--bc1110,Sisymbrium altissimum,34,2021-4-20,Late April,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,98,98_2021,0,0,trnF,bc1097--bc1108,Sisymbrium altissimum,133,2021-4-20,Late April,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,118,118_2021,0,1,trnF,bc1097--bc1142,Sisymbrium altissimum,2,2021-4-20,Late April,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,178,178_2021,0,0,trnF,bc1109--bc1143,Sisymbrium altissimum,54,2021-5-4,Early May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,179,179_2021,0,1,trnF,bc1110--bc1143,Sisymbrium altissimum,2,2021-5-4,Early May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,193,193_2021,0,0,trnF,bc1100--bc1144,Sisymbrium altissimum,,2021-5-11,Early May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,203,203_2021,0,0,trnF,bc1111--bc1144,Sisymbrium altissimum,6,2021-5-11,Early May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,204,204_2021,0,0,trnF,bc1112--bc1144,Sisymbrium altissimum,4,2021-5-11,Early May,Othello,Othello farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,205,205_2021,0,0,trnF,bc1113--bc1144,Sisymbrium altissimum,7,2021-5-11,Early May,Pasco,Pasco farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,206,206_2021,0,1,ITS,bc1135--bc1161,Sisymbrium altissimum,362,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,248,248_2021,1,1,trnF,bc1109--bc1144,Sisymbrium altissimum,7,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,253,253_2021,1,1,trnF,bc1110--bc1144,Sisymbrium altissimum,4,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,295,295_2021,1,0,trnF,bc1106--bc1176,Sisymbrium altissimum,9,2021-5-18,Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,330,330_2021,1,0,ITS,bc1124--bc1160,Sisymbrium altissimum,798,2021-5-18,Late May,Pasco,Pasco farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,339,339_2021,0,0,ITS,bc1124--bc1161,Sisymbrium altissimum,53,2021-5-18,Late May,Pasco,Pasco farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,340,340_2021,0,1,ITS,bc1124--bc1162,Sisymbrium altissimum,32,2021-5-18,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,365,365_2021,0,0,trnF,bc1106--bc1177,Sisymbrium altissimum,2,2021-5-26,Late May,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,366,366_2021,0,0,ITS,bc1134--bc1160,Sisymbrium altissimum,123,2021-5-26,Late May,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,379,379_2021,0,0,ITS,bc1134--bc1172,Sisymbrium altissimum,289,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,380,380_2021,0,0,ITS,bc1134--bc1161,Sisymbrium altissimum,101,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,381,381_2021,0,0,trnF,bc1108--bc1177,Sisymbrium altissimum,94,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,413,413_2021,0,0,trnF,bc1106--bc1178,Sisymbrium altissimum,2,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,414,414_2021,0,,ITS,bc1123--bc1172,Sisymbrium altissimum,220,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,415,415_2021,0,,ITS,bc1123--bc1160,Sisymbrium altissimum,88,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,416,416_2021,0,,ITS,bc1123--bc1191,Sisymbrium altissimum,103,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,448,448_2021,0,0,trnF,bc1108--bc1178,Sisymbrium altissimum,8,2021-5-26,Late May,Othello,Othello farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,449,449_2021,0,,ITS,bc1123--bc1161,Sisymbrium altissimum,147,2021-5-26,Late May,Pasco,Pasco farm,Kochia,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,468,468_2021,0,0,ITS,bc1124--bc1163,Sisymbrium altissimum,30,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,499,499_2021,1,,trnF,bc1100--bc1105,Sisymbrium altissimum,80,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,530,530_2021,1,,trnF,bc1105--bc1111,Sisymbrium altissimum,39,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,541,541_2021,0,0,trnF,bc1105--bc1113,Sisymbrium altissimum,52,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,624,624_2021,0,,trnF,bc1106--bc1113,Sisymbrium altissimum,3,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,625,625_2021,0,,trnF,bc1114--bc1169,Sisymbrium altissimum,276,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tumble mustard,Sisymbrium,626,626_2021,0,,trnF,bc1100--bc1107,Sisymbrium altissimum,12,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Mustard,Brassicaceae,Tall mustard,Sisymbrium,122,122_2020,1,1,ITS,bc1152--bc1190,Sisymbrium loeselii,4,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Mustard,Brassicaceae,Tall mustard,Sisymbrium,211,211_2020,0,1,ITS,bc1153--bc1155,Sisymbrium loeselii,3,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Mustard,Brassicaceae,Tall mustard,Sisymbrium,108,108_2021,1,1,trnF,bc1108--bc1109,Sisymbrium loeselii,2,2021-4-20,Late April,Moxee,Moxee farm,Flixweed,2021
+Mustard,Brassicaceae,Tall mustard,Sisymbrium,204,204_2021,0,0,trnF,bc1112--bc1144,Sisymbrium loeselii,2,2021-5-11,Early May,Othello,Othello farm,Kochia,2021
+Shrub,Smilacaceae,Greenbriar,Smilax,190,190_2020,1,0,ITS,bc1153--bc1171,Smilax aberrans,2,2020-5-27,Late May,Pasco,M,Kochia,2020
+Shrub,Smilacaceae,Greenbriar,Smilax,193,193_2020,0,1,ITS,bc1153--bc1172,Smilax aberrans,219,2020-5-27,Late May,Pasco,M,Kochia,2020
+Shrub,Smilacaceae,Greenbriar,Smilax,211,211_2020,0,1,ITS,bc1153--bc1155,Smilax aberrans,3,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Nightshade,Solanaceae,Wild Potato,Solanum,96,96_2019,1,0,trnF,bc1110--bc1143,Solanum acaule,8,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,2,2_2019,0,0,trnF,bc1112--bc1142,Solanum dulcamara,2,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,33,33_2019,0,0,trnF,bc1108--bc1178,Solanum dulcamara,10,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,43,43_2019,0,0,ITS,bc1155--bc1157,Solanum dulcamara,2,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,69,69_2019,1,0,ITS,bc1133--bc1155,Solanum dulcamara,6,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,153,153_2019,0,0,trnF,bc1110--bc1144,Solanum dulcamara,2,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,166,166_2019,0,0,trnF,bc1144--bc1176,Solanum dulcamara,18,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,Bittersweet Nightshade,Solanum,175,175_2019,0,0,trnF,bc1112--bc1169,Solanum dulcamara,8,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Nightshade,Solanaceae,Nightshade,Solanum,41,41_2020,0,1,trnF,bc1106--bc1110,Solanum gourlayi,12,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Nightshade,Solanaceae,Nightshade,Solanum,23,23_2020,0,0,trnF,bc1099--bc1106,Solanum gourlayi,9,2020-5-18,Late May,Moxee,A,Kochia,2020
+Nightshade,Solanaceae,Nightshade,Solanum,193,193_2020,0,1,trnF,bc1107--bc1109,Solanum gourlayi,2,2020-5-27,Late May,Pasco,M,Kochia,2020
+Nightshade,Solanaceae,Nightshade,Solanum,476,476_2020,1,0,trnF,bc1114--bc1144,Solanum gourlayi,11,2020-6-17,Late June,Othello,F,Kochia,2020
+Nightshade,Solanaceae,Nightshade,Solanum,671,671_2020,1,0,trnF,bc1105--bc1177,Solanum gourlayi,2,2020-8-12,Early August,Othello,G,Kochia,2020
+Nightshade,Solanaceae,Nightshade,Solanum,577,577_2020,0,1,trnF,bc1106--bc1176,Solanum gourlayi,10,2020-7-15,Late July,Mattawa,D,Potato,2020
+Nightshade,Solanaceae,Nightshade,Solanum,198,198_2020,0,0,trnF,bc1107--bc1110,Solanum gourlayi,2,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Nightshade,Solanaceae,Nightshade,Solanum,232,232_2020,1,1,trnF,bc1108--bc1110,Solanum gourlayi,3,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,Nightshade,Solanum,568,568_2020,1,0,trnF,bc1103--bc1176,Solanum gourlayi,2,2020-7-15,Late July,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,Nightshade,Solanum,17,17_2020,1,1,trnF,bc1105--bc1112,Solanum gourlayi,9,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Nightshade,Solanaceae,Nightshade,Solanum,22,22_2020,0,0,trnF,bc1105--bc1110,Solanum gourlayi,8,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Nightshade,Solanaceae,Bitter,Solanum,193,193_2020,0,1,trnF,bc1107--bc1109,Solanum gracilifrons,4,2020-5-27,Late May,Pasco,M,Kochia,2020
+Crop,Solanaceae,Tomato,Solanum,20,20_2019,0,0,ITS,bc1140--bc1146,Solanum lycopersicum,83,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Crop,Solanaceae,Tomato,Solanum,33,33_2019,0,0,ITS,bc1152--bc1155,Solanum lycopersicum,25,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Tomato,Solanum,34,34_2019,0,0,ITS,bc1153--bc1155,Solanum lycopersicum,2,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Tomato,Solanum,60,60_2019,0,1,ITS,bc1140--bc1159,Solanum lycopersicum,25,2019-7-3,Early July,Mattawa ,RDJ,Potato,2019
+Crop,Solanaceae,Tomato,Solanum,69,69_2019,1,0,ITS,bc1133--bc1155,Solanum lycopersicum,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Tomato,Solanum,70,70_2019,0,0,ITS,bc1134--bc1155,Solanum lycopersicum,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Tomato,Solanum,74,74_2019,1,1,ITS,bc1146--bc1154,Solanum lycopersicum,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Crop,Solanaceae,Tomato,Solanum,92,92_2019,0,0,ITS,bc1150--bc1189,Solanum lycopersicum,17,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Crop,Solanaceae,Tomato,Solanum,96,96_2019,1,0,ITS,bc1152--bc1189,Solanum lycopersicum,660,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Crop,Solanaceae,Tomato,Solanum,134,134_2019,0,0,ITS,bc1159--bc1189,Solanum lycopersicum,84,2019-7-12,Early July,Pasco,WSU,Potato,2019
+Crop,Solanaceae,Tomato,Solanum,37,37_2020,0,1,ITS,bc1146--bc1172,Solanum lycopersicum,90,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Crop,Solanaceae,Tomato,Solanum,39,39_2020,1,1,trnF,bc1106--bc1109,Solanum lycopersicum,35,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Crop,Solanaceae,Tomato,Solanum,99,99_2020,0,1,ITS,bc1140--bc1146,Solanum lycopersicum,2,2020-5-18,Late May,Mattawa,C,Kochia,2020
+Crop,Solanaceae,Tomato,Solanum,671,671_2020,1,0,ITS,bc1123--bc1173,Solanum lycopersicum,67,2020-8-12,Early August,Othello,G,Kochia,2020
+Crop,Solanaceae,Tomato,Solanum,504,504_2020,1,0,trnF,bc1100--bc1105,Solanum lycopersicum,7,2020-6-25,Late June,Pasco,M,Netseed Lambsquarters,2020
+Crop,Solanaceae,Tomato,Solanum,137,137_2020,1,0,ITS,bc1152--bc1154,Solanum lycopersicum,3,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Crop,Solanaceae,Tomato,Solanum,370,370_2020,0,1,trnF,bc1111--bc1143,Solanum lycopersicum,3,2020-6-3,Early June,Mattawa,D,Russian thistle,2020
+Crop,Solanaceae,Tomato,Solanum,512,512_2020,0,1,trnF,bc1100--bc1106,Solanum lycopersicum,9,2020-6-25,Late June,Pasco,M,Russian thistle,2020
+Crop,Solanaceae,Tomato,Solanum,552,552_2020,0,0,trnF,bc1114--bc1169,Solanum lycopersicum,10,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Crop,Solanaceae,Tomato,Solanum,182,182_2020,1,1,ITS,bc1152--bc1189,Solanum lycopersicum,470,2020-5-27,Late May,Pasco,N,Tumble mustard,2020
+Crop,Solanaceae,Tomato,Solanum,22,22_2020,0,0,ITS,bc1150--bc1189,Solanum lycopersicum,3,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Crop,Solanaceae,Tomato,Solanum,10,10_2021,0,1,trnF,bc1105--bc1109,Solanum lycopersicum,4,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Solanaceae,Tomato,Solanum,108,108_2021,1,1,trnF,bc1108--bc1109,Solanum lycopersicum,2,2021-4-20,Late April,Moxee,Moxee farm,Flixweed,2021
+Crop,Solanaceae,Tomato,Solanum,339,339_2021,0,0,trnF,bc1103--bc1177,Solanum lycopersicum,9,2021-5-18,Late May,Pasco,Pasco farm,Kochia,2021
+Crop,Solanaceae,Tomato,Solanum,380,380_2021,0,0,trnF,bc1107--bc1177,Solanum lycopersicum,471,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Solanaceae,Tomato,Solanum,381,381_2021,0,0,trnF,bc1108--bc1177,Solanum lycopersicum,90,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Solanaceae,Tomato,Solanum,392,392_2021,1,0,trnF,bc1103--bc1178,Solanum lycopersicum,7,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Solanaceae,Tomato,Solanum,416,416_2021,0,,trnF,bc1107--bc1178,Solanum lycopersicum,84,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Solanaceae,Tomato,Solanum,530,530_2021,1,,trnF,bc1105--bc1111,Solanum lycopersicum,6,2021-5-26,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Nightshade,Solanaceae,Black Nightshade,Solanum,160,160_2019,0,0,trnF,bc1097--bc1107,Solanum nigrum,3,2019-8-1,Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Black Nightshade,Solanum,161,161_2019,0,0,ITS,bc1169--bc1178,Solanum nigrum,7,2019-8-1,Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Black Nightshade,Solanum,168,168_2019,0,0,trnF,bc1120--bc1169,Solanum nigrum,6,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,43,43_2019,0,0,ITS,bc1155--bc1157,Solanum nigrum,2,2019-6-14,Early June,Pasco,WSU,Kochia,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,54,54_2019,0,0,ITS,bc1140--bc1157,Solanum nigrum,470,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,56,56_2019,0,0,ITS,bc1140--bc1156,Solanum nigrum,14,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,69,69_2019,1,0,ITS,bc1133--bc1155,Solanum nigrum,4,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,72,72_2019,0,0,ITS,bc1124--bc1155,Solanum nigrum,8,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,82,82_2019,1,0,ITS,bc1153--bc1154,Solanum nigrum,3,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,American Black Nightshade,Solanum,153,153_2019,0,0,ITS,bc1133--bc1189,Solanum nigrum,2,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Nightshade,Solanaceae,Wild Tomato,Solanum,72,72_2019,0,0,ITS,bc1124--bc1155,Solanum pennellii,4,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Wild Tomato,Solanum,82,82_2019,1,0,trnF,bc1107--bc1110,Solanum pennellii,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Wild Tomato,Solanum,96,96_2019,1,0,trnF,bc1110--bc1143,Solanum pennellii,473,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Nightshade,Solanaceae,Wild Tomato,Solanum,134,134_2019,0,0,trnF,bc1114--bc1144,Solanum pennellii,389,2019-7-12,Early July,Pasco,WSU,Potato,2019
+Crop,Solanaceae,Wild Tomato,Solanum,671,671_2020,1,0,ITS,bc1123--bc1173,Solanum pennellii,78,2020-8-12,Early August,Othello,G,Kochia,2020
+Crop,Solanaceae,Wild Tomato,Solanum,568,568_2020,1,0,ITS,bc1134--bc1191,Solanum pennellii,3,2020-7-15,Late July,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,White-Flowered Nightshade,Solanum,54,54_2019,0,0,trnF,bc1142--bc1177,Solanum physalifolium,6,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,White-Flowered Nightshade,Solanum,141,141_2019,1,0,trnF,bc1115--bc1144,Solanum physalifolium,6,2019-7-18,Late July,Paterson,529,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,20,20_2019,0,0,ITS,bc1140--bc1146,Solanum pinnatisectum,206,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,35,35_2019,0,0,ITS,bc1155--bc1158,Solanum pinnatisectum,13,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,40,40_2019,0,0,ITS,bc1140--bc1153,Solanum pinnatisectum,8,2019-6-14,Early June,Pasco,505,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,52,52_2019,0,0,ITS,bc1140--bc1158,Solanum pinnatisectum,3,2019-6-20,Late June,Paterson,475,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,54,54_2019,0,0,ITS,bc1140--bc1157,Solanum pinnatisectum,2,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,56,56_2019,0,0,ITS,bc1140--bc1156,Solanum pinnatisectum,3,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,60,60_2019,0,1,ITS,bc1140--bc1159,Solanum pinnatisectum,60,2019-7-3,Early July,Mattawa ,RDJ,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,69,69_2019,1,0,ITS,bc1133--bc1155,Solanum pinnatisectum,3,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,72,72_2019,0,0,ITS,bc1124--bc1155,Solanum pinnatisectum,7,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,73,73_2019,1,0,ITS,bc1150--bc1154,Solanum pinnatisectum,6,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,91,91_2019,0,1,ITS,bc1140--bc1148,Solanum pinnatisectum,40,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,92,92_2019,0,0,ITS,bc1150--bc1189,Solanum pinnatisectum,130,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,93,93_2019,0,0,ITS,bc1146--bc1189,Solanum pinnatisectum,12,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,108,108_2019,1,0,ITS,bc1154--bc1157,Solanum pinnatisectum,2,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,113,113_2019,0,0,ITS,bc1157--bc1189,Solanum pinnatisectum,18,2019-7-11,Early July,Paterson,475,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,114,114_2019,0,0,ITS,bc1156--bc1189,Solanum pinnatisectum,18,2019-7-11,Early July,Paterson,475,Potato,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,122,122_2019,1,0,ITS,bc1133--bc1154,Solanum pinnatisectum,15,2019-7-11,Early July,Paterson,529,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,128,128_2019,1,0,ITS,bc1134--bc1154,Solanum pinnatisectum,3,2019-7-12,Early July,Pasco,WSU,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,141,141_2019,1,0,ITS,bc1135--bc1189,Solanum pinnatisectum,2,2019-7-18,Late July,Paterson,529,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,160,160_2019,0,0,ITS,bc1124--bc1154,Solanum pinnatisectum,8,2019-8-1,Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,161,161_2019,0,0,ITS,bc1150--bc1173,Solanum pinnatisectum,4,2019-8-1,Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,162,162_2019,0,0,ITS,bc1146--bc1173,Solanum pinnatisectum,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,163,163_2019,0,0,ITS,bc1152--bc1173,Solanum pinnatisectum,2,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,166,166_2019,0,0,ITS,bc1135--bc1140,Solanum pinnatisectum,29,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,167,167_2019,0,0,ITS,bc1158--bc1173,Solanum pinnatisectum,4,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,169,169_2019,0,0,ITS,bc1156--bc1173,Solanum pinnatisectum,4,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,173,173_2019,0,0,ITS,bc1159--bc1173,Solanum pinnatisectum,13,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Nightshade,Solanaceae,Tansyleaf Nightshade,Solanum,174,174_2019,0,0,ITS,bc1135--bc1173,Solanum pinnatisectum,2,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,37,37_2020,0,1,ITS,bc1146--bc1172,Solanum pinnatisectum,2,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,39,39_2020,1,1,ITS,bc1146--bc1190,Solanum pinnatisectum,4,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,41,41_2020,0,1,ITS,bc1146--bc1191,Solanum pinnatisectum,870,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,111,111_2020,0,1,ITS,bc1152--bc1171,Solanum pinnatisectum,14,2020-5-18,Late May,Mattawa,C,Flixweed,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,99,99_2020,0,1,ITS,bc1140--bc1146,Solanum pinnatisectum,4,2020-5-18,Late May,Mattawa,C,Kochia,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,127,127_2020,0,0,ITS,bc1152--bc1173,Solanum pinnatisectum,145,2020-5-18,Late May,Othello,F,Kochia,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,190,190_2020,1,0,ITS,bc1153--bc1171,Solanum pinnatisectum,689,2020-5-27,Late May,Pasco,M,Kochia,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,508,508_2020,0,1,ITS,bc1133--bc1190,Solanum pinnatisectum,2,2020-6-25,Late June,Pasco,M,Kochia,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,671,671_2020,1,0,ITS,bc1123--bc1173,Solanum pinnatisectum,226,2020-8-12,Early August,Othello,G,Kochia,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,108,108_2020,0,1,ITS,bc1152--bc1170,Solanum pinnatisectum,2090,2020-5-18,Late May,Mattawa,C,Potato,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,107,107_2020,1,1,ITS,bc1146--bc1189,Solanum pinnatisectum,3287,2020-5-18,Late May,Mattawa,C,Potato,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,171,171_2020,0,0,ITS,bc1140--bc1152,Solanum pinnatisectum,5,2020-5-27,Late May,Paterson,J,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,61,61_2020,0,0,ITS,bc1146--bc1154,Solanum pinnatisectum,2,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,113,113_2020,1,1,ITS,bc1152--bc1172,Solanum pinnatisectum,4,2020-5-18,Late May,Mattawa,C,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,123,123_2020,0,1,ITS,bc1152--bc1191,Solanum pinnatisectum,4,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,124,124_2020,0,0,ITS,bc1152--bc1192,Solanum pinnatisectum,7,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,137,137_2020,1,0,ITS,bc1152--bc1154,Solanum pinnatisectum,136,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,153,153_2020,1,0,ITS,bc1152--bc1155,Solanum pinnatisectum,13,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,199,199_2020,1,1,ITS,bc1153--bc1173,Solanum pinnatisectum,25,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,549,549_2020,1,0,ITS,bc1133--bc1155,Solanum pinnatisectum,8,2020-7-1,Early July,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,568,568_2020,1,0,ITS,bc1134--bc1191,Solanum pinnatisectum,8,2020-7-15,Late July,Moxee,A,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,122,122_2020,1,1,ITS,bc1152--bc1190,Solanum pinnatisectum,4,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,8,8_2020,1,0,ITS,bc1150--bc1170,Solanum pinnatisectum,5,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,182,182_2020,1,1,ITS,bc1152--bc1189,Solanum pinnatisectum,35,2020-5-27,Late May,Pasco,N,Tumble mustard,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,201,201_2020,0,0,ITS,bc1153--bc1154,Solanum pinnatisectum,9,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,211,211_2020,0,1,ITS,bc1153--bc1155,Solanum pinnatisectum,379,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Nightshade,Solanaceae,tansyleaf nightshade,Solanum,22,22_2020,0,0,ITS,bc1150--bc1189,Solanum pinnatisectum,7,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Potato,Solanaceae,Potato,Solanum,18,18_2019,1,0,ITS,bc1124--bc1140,Solanum tuberosum,3,2019-6-3,Early June,Mattawa ,RDJ,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,33,33_2019,0,0,trnF,bc1108--bc1178,Solanum tuberosum,12,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,34,34_2019,0,0,trnF,bc1108--bc1177,Solanum tuberosum,10,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,35,35_2019,0,0,trnF,bc1108--bc1176,Solanum tuberosum,23,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,56,56_2019,0,0,trnF,bc1142--bc1178,Solanum tuberosum,2,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Potato,Solanaceae,Potato,Solanum,60,60_2019,0,1,trnF,bc1113--bc1143,Solanum tuberosum,182,2019-7-3,Early July,Mattawa ,RDJ,Potato,2019
+Potato,Solanaceae,Potato,Solanum,70,70_2019,0,0,trnF,bc1108--bc1111,Solanum tuberosum,3,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,71,71_2019,0,1,trnF,bc1098--bc1108,Solanum tuberosum,7,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,72,72_2019,0,0,trnF,bc1097--bc1108,Solanum tuberosum,11,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,73,73_2019,1,0,trnF,bc1107--bc1178,Solanum tuberosum,125,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,90,90_2019,0,0,trnF,bc1114--bc1143,Solanum tuberosum,6,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Potato,Solanaceae,Potato,Solanum,91,91_2019,0,1,trnF,bc1115--bc1143,Solanum tuberosum,208,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Potato,Solanaceae,Potato,Solanum,92,92_2019,0,0,trnF,bc1120--bc1143,Solanum tuberosum,105,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Potato,Solanaceae,Potato,Solanum,93,93_2019,0,0,trnF,bc1109--bc1143,Solanum tuberosum,30,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Potato,Solanaceae,Potato,Solanum,97,97_2019,0,0,trnF,bc1143--bc1176,Solanum tuberosum,2,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Potato,Solanaceae,Potato,Solanum,103,103_2019,1,1,trnF,bc1107--bc1109,Solanum tuberosum,3,2019-7-10,Early July,Mattawa,RDJ,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,106,106_2019,0,0,trnF,bc1143--bc1177,Solanum tuberosum,12,2019-7-11,Early July,Paterson,107,Potato,2019
+Potato,Solanaceae,Potato,Solanum,109,109_2019,0,0,trnF,bc1107--bc1115,Solanum tuberosum,11,2019-7-11,Early July,Paterson,107,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,112,112_2019,1,0,trnF,bc1107--bc1112,Solanum tuberosum,36,2019-7-11,Early July,Paterson,475,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,113,113_2019,0,0,ITS,bc1157--bc1189,Solanum tuberosum,4,2019-7-11,Early July,Paterson,475,Potato,2019
+Potato,Solanaceae,Potato,Solanum,114,114_2019,0,0,trnF,bc1113--bc1144,Solanum tuberosum,119,2019-7-11,Early July,Paterson,529,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,122,122_2019,1,0,trnF,bc1107--bc1111,Solanum tuberosum,23,2019-7-11,Early July,Paterson,529,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,128,128_2019,1,0,trnF,bc1100--bc1107,Solanum tuberosum,5,2019-7-12,Early July,Pasco,WSU,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,134,134_2019,0,0,trnF,bc1114--bc1144,Solanum tuberosum,45,2019-7-12,Early July,Pasco,WSU,Potato,2019
+Potato,Solanaceae,Potato,Solanum,141,141_2019,1,0,trnF,bc1115--bc1144,Solanum tuberosum,100,2019-7-18,Late July,Paterson,529,Pigweed,2019
+Potato,Solanaceae,Potato,Solanum,153,153_2019,0,0,trnF,bc1110--bc1144,Solanum tuberosum,23,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Potato,Solanaceae,Potato,Solanum,159,159_2019,0,0,trnF,bc1098--bc1107,Solanum tuberosum,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,161,161_2019,0,0,ITS,bc1169--bc1178,Solanum tuberosum,6,2019-8-1,Early August,Paterson,475,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,162,162_2019,0,0,ITS,bc1146--bc1173,Solanum tuberosum,2,2019-8-1,Early August,Paterson,475,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,163,163_2019,0,0,trnF,bc1169--bc1176,Solanum tuberosum,2,2019-8-2,Early August,Pasco,WSU,Kochia,2019
+Potato,Solanaceae,Potato,Solanum,166,166_2019,0,0,trnF,bc1144--bc1176,Solanum tuberosum,11,2019-8-2,Early August,Pasco,WSU,Pigweed,2019
+Potato,Solanaceae,Potato,Solanum,168,168_2019,0,0,trnF,bc1120--bc1169,Solanum tuberosum,14,2019-8-2,Early August,Pasco,413,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,169,169_2019,0,0,trnF,bc1115--bc1169,Solanum tuberosum,12,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,173,173_2019,0,0,trnF,bc1114--bc1169,Solanum tuberosum,12,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,174,174_2019,0,0,trnF,bc1113--bc1169,Solanum tuberosum,5,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,175,175_2019,0,0,trnF,bc1112--bc1169,Solanum tuberosum,4,2019-8-2,Early August,Pasco,WSU,Russian thistle,2019
+Potato,Solanaceae,Potato,Solanum,204,204_2019,1,0,trnF,bc1111--bc1169,Solanum tuberosum,7,2019-10-18,Late October,Pasco,RDJ,Russian thistle,2019
+Potato,Solanaceae,potato,Solanum,18,18_2020,0,0,trnF,bc1105--bc1120,Solanum tuberosum,113,2020-5-18,Late May,Moxee,A,Flixweed,2020
+Potato,Solanaceae,potato,Solanum,12,12_2020,0,0,trnF,bc1103--bc1120,Solanum tuberosum,66,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Potato,Solanaceae,potato,Solanum,39,39_2020,1,1,trnF,bc1106--bc1109,Solanum tuberosum,3,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Potato,Solanaceae,potato,Solanum,41,41_2020,0,1,trnF,bc1106--bc1110,Solanum tuberosum,866,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Potato,Solanaceae,potato,Solanum,217,217_2020,0,1,trnF,bc1108--bc1113,Solanum tuberosum,12,2020-6-3,Early June,Moxee,A,Flixweed,2020
+Potato,Solanaceae,potato,Solanum,472,472_2020,1,0,trnF,bc1113--bc1144,Solanum tuberosum,16,2020-6-17,Late June,Othello,F,Kochia,2020
+Potato,Solanaceae,potato,Solanum,788,788_2020,0,1,trnF,bc1107--bc1177,Solanum tuberosum,25,2020-8-27,Late August,Othello,E,Kochia,2020
+Potato,Solanaceae,potato,Solanum,23,23_2020,0,0,trnF,bc1099--bc1106,Solanum tuberosum,284,2020-5-18,Late May,Moxee,A,Kochia,2020
+Potato,Solanaceae,potato,Solanum,127,127_2020,0,0,trnF,bc1110--bc1169,Solanum tuberosum,70,2020-5-18,Late May,Othello,F,Kochia,2020
+Potato,Solanaceae,potato,Solanum,190,190_2020,1,0,trnF,bc1107--bc1120,Solanum tuberosum,103,2020-5-27,Late May,Pasco,M,Kochia,2020
+Potato,Solanaceae,potato,Solanum,193,193_2020,0,1,trnF,bc1107--bc1109,Solanum tuberosum,87,2020-5-27,Late May,Pasco,M,Kochia,2020
+Potato,Solanaceae,potato,Solanum,471,471_2020,0,1,trnF,bc1112--bc1144,Solanum tuberosum,6,2020-6-17,Late June,Othello,F,Kochia,2020
+Potato,Solanaceae,potato,Solanum,476,476_2020,1,0,trnF,bc1114--bc1144,Solanum tuberosum,829,2020-6-17,Late June,Othello,F,Kochia,2020
+Potato,Solanaceae,potato,Solanum,508,508_2020,0,1,trnF,bc1105--bc1113,Solanum tuberosum,12,2020-6-25,Late June,Pasco,M,Kochia,2020
+Potato,Solanaceae,potato,Solanum,557,557_2020,1,1,trnF,bc1107--bc1112,Solanum tuberosum,2,2020-7-1,Early July,Mattawa,D,Kochia,2020
+Potato,Solanaceae,potato,Solanum,582,582_2020,0,1,trnF,bc1175--bc1176,Solanum tuberosum,3,2020-7-15,Late July,Othello,E,Kochia,2020
+Potato,Solanaceae,potato,Solanum,671,671_2020,1,0,ITS,bc1123--bc1173,Solanum tuberosum,68,2020-8-12,Early August,Othello,G,Kochia,2020
+Potato,Solanaceae,potato,Solanum,787,787_2020,1,0,trnF,bc1169--bc1177,Solanum tuberosum,34,2020-8-27,Late August,Othello,E,Kochia,2020
+Potato,Solanaceae,potato,Solanum,504,504_2020,1,0,trnF,bc1100--bc1105,Solanum tuberosum,17,2020-6-25,Late June,Pasco,M,Netseed Lambsquarters,2020
+Potato,Solanaceae,potato,Solanum,108,108_2020,0,1,trnF,bc1110--bc1175,Solanum tuberosum,57,2020-5-18,Late May,Mattawa,C,Potato,2020
+Potato,Solanaceae,potato,Solanum,362,362_2020,0,1,trnF,bc1110--bc1142,Solanum tuberosum,2,2020-6-3,Early June,Mattawa,D,Potato,2020
+Potato,Solanaceae,potato,Solanum,372,372_2020,0,1,trnF,bc1112--bc1143,Solanum tuberosum,11,2020-6-3,Early June,Othello,F,Potato,2020
+Potato,Solanaceae,potato,Solanum,577,577_2020,0,1,trnF,bc1106--bc1176,Solanum tuberosum,560,2020-7-15,Late July,Mattawa,D,Potato,2020
+Potato,Solanaceae,potato,Solanum,107,107_2020,1,1,trnF,bc1109--bc1175,Solanum tuberosum,170,2020-5-18,Late May,Mattawa,C,Potato,2020
+Potato,Solanaceae,potato,Solanum,171,171_2020,0,0,ITS,bc1140--bc1152,Solanum tuberosum,22,2020-5-27,Late May,Paterson,J,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,655,655_2020,0,0,trnF,bc1144--bc1176,Solanum tuberosum,32,2020-8-12,Early August,Othello,F,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,792,792_2020,0,1,trnF,bc1108--bc1177,Solanum tuberosum,5,2020-8-27,Late August,Othello,E,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,113,113_2020,1,1,trnF,bc1112--bc1169,Solanum tuberosum,3,2020-5-18,Late May,Mattawa,C,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,137,137_2020,1,0,ITS,bc1152--bc1154,Solanum tuberosum,30,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,153,153_2020,1,0,trnF,bc1107--bc1111,Solanum tuberosum,34,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,198,198_2020,0,0,trnF,bc1107--bc1110,Solanum tuberosum,215,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,232,232_2020,1,1,trnF,bc1108--bc1110,Solanum tuberosum,177,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,369,369_2020,1,1,trnF,bc1100--bc1143,Solanum tuberosum,4,2020-6-3,Early June,Mattawa,D,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,370,370_2020,0,1,trnF,bc1111--bc1143,Solanum tuberosum,10,2020-6-3,Early June,Mattawa,D,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,457,457_2020,1,0,trnF,bc1110--bc1143,Solanum tuberosum,22,2020-6-17,Late June,Moxee,A,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,468,468_2020,1,0,trnF,bc1100--bc1144,Solanum tuberosum,10,2020-6-17,Late June,Othello,E,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,481,481_2020,0,1,trnF,bc1109--bc1144,Solanum tuberosum,5,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,482,482_2020,1,0,trnF,bc1110--bc1144,Solanum tuberosum,91,2020-6-17,Late June,Othello,F,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,511,511_2020,0,0,trnF,bc1097--bc1106,Solanum tuberosum,5,2020-6-25,Late June,Pasco,M,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,512,512_2020,0,1,trnF,bc1100--bc1106,Solanum tuberosum,16,2020-6-25,Late June,Pasco,M,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,549,549_2020,1,0,trnF,bc1106--bc1112,Solanum tuberosum,21,2020-7-1,Early July,Moxee,A,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,550,550_2020,1,0,trnF,bc1106--bc1113,Solanum tuberosum,2,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,552,552_2020,0,0,trnF,bc1114--bc1169,Solanum tuberosum,20,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,556,556_2020,1,1,trnF,bc1100--bc1107,Solanum tuberosum,2,2020-7-1,Early July,Mattawa,B,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,568,568_2020,1,0,trnF,bc1103--bc1176,Solanum tuberosum,64,2020-7-15,Late July,Moxee,A,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,587,587_2020,1,0,trnF,bc1169--bc1176,Solanum tuberosum,42,2020-7-15,Late July,Othello,E,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,616,616_2020,1,0,trnF,bc1108--bc1176,Solanum tuberosum,3,2020-7-16,Late July,Paterson,J,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,644,644_2020,0,0,trnF,bc1143--bc1176,Solanum tuberosum,3,2020-8-12,Early August,Moxee,A,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,763,763_2020,0,0,trnF,bc1106--bc1177,Solanum tuberosum,6,2020-8-27,Late August,Mattawa,C,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,17,17_2020,1,1,trnF,bc1105--bc1112,Solanum tuberosum,726,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Potato,Solanaceae,potato,Solanum,9,9_2020,0,0,trnF,bc1103--bc1112,Solanum tuberosum,49,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,19,19_2020,0,0,trnF,bc1105--bc1109,Solanum tuberosum,2,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,182,182_2020,1,1,trnF,bc1107--bc1114,Solanum tuberosum,92,2020-5-27,Late May,Pasco,N,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,211,211_2020,0,1,trnF,bc1108--bc1112,Solanum tuberosum,16,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,405,405_2020,1,0,trnF,bc1120--bc1143,Solanum tuberosum,3,2020-6-12,Early June,Paterson,J,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,22,22_2020,0,0,trnF,bc1105--bc1110,Solanum tuberosum,652,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Potato,Solanaceae,potato,Solanum,17,17_2021,0,0,trnF,bc1106--bc1110,Solanum tuberosum,23,2021-3-23,Late March,Othello,Othello farm,Flixweed,2021
+Potato,Solanaceae,potato,Solanum,96,96_2021,0,1,trnF,bc1107--bc1109,Solanum tuberosum,28,2021-4-20,Late April,Pasco,Pasco farm,Tumble mustard,2021
+Potato,Solanaceae,potato,Solanum,178,178_2021,0,0,trnF,bc1109--bc1143,Solanum tuberosum,29,2021-5-4,Early May,Moxee,Moxee farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,204,204_2021,0,0,trnF,bc1112--bc1144,Solanum tuberosum,5,2021-5-11,Early May,Othello,Othello farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,205,205_2021,0,0,trnF,bc1113--bc1144,Solanum tuberosum,2,2021-5-11,Early May,Pasco,Pasco farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,326,326_2021,0,1,trnF,bc1142--bc1176,Solanum tuberosum,28,2021-5-18,Late May,Othello,Othello farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,340,340_2021,0,1,trnF,bc1105--bc1177,Solanum tuberosum,2,2021-5-18,Late May,Pasco,Pasco farm,Tumble mustard,2021
+Potato,Solanaceae,potato,Solanum,365,365_2021,0,0,trnF,bc1106--bc1177,Solanum tuberosum,2,2021-5-26,Late May,Moxee,Moxee farm,Flixweed,2021
+Potato,Solanaceae,potato,Solanum,412,412_2021,0,0,trnF,bc1105--bc1178,Solanum tuberosum,18,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,413,413_2021,0,0,trnF,bc1106--bc1178,Solanum tuberosum,62,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Potato,Solanaceae,potato,Solanum,548,548_2021,0,0,trnF,bc1097--bc1106,Solanum tuberosum,111,2021-6-2,Early June,Moxee,Moxee farm,Loesel's mustard,2021
+Potato,Solanaceae,potato,Solanum,624,624_2021,0,,trnF,bc1106--bc1113,Solanum tuberosum,228,2021-6-2,Early June,Moxee,Moxee farm,Tumble mustard,2021
+Weed,Asteraceae,Goldernrod,Solidago,12,12_2020,0,0,trnF,bc1103--bc1120,Solidago canadensis,5,2020-4-23,Late April,Moxee,A,Flixweed,2020
+Weed,Asteraceae,Goldernrod,Solidago,193,193_2020,0,1,trnF,bc1107--bc1109,Solidago canadensis,2,2020-5-27,Late May,Pasco,M,Kochia,2020
+Weed,Asteraceae,Goldernrod,Solidago,616,616_2020,1,0,trnF,bc1108--bc1176,Solidago canadensis,87,2020-7-16,Late July,Paterson,J,Russian thistle,2020
+Weed,Asteraceae,Sow thistle or hare thistle,Sonchus,72,72_2019,0,0,trnF,bc1097--bc1108,Sonchus fragilis,5,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Sow thistle,Sonchus,73,73_2019,1,0,ITS,bc1150--bc1154,Sonchus oleraceus,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Weed,Asteraceae,Sow thistle,Sonchus,128,128_2019,1,0,ITS,bc1134--bc1154,Sonchus oleraceus,4,2019-7-12,Early July,Pasco,WSU,Kochia,2019
+Grass,Poaceae,Sorghum or Great Millet,Sorghum,96,96_2019,1,0,trnF,bc1110--bc1143,Sorghum bicolor,3,2019-7-5,Early July,Mattawa,WSU,Pigweed,2019
+Crop,Amaranthaceae,Spinach,Spinacia,74,74_2019,1,1,ITS,bc1146--bc1154,Spinacia oleracea,3,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Tree,Fabaceae,Japanese pagoda tree,Styphnolobium,97,97_2021,1,1,trnF,bc1107--bc1110,Styphnolobium japonicum,7,2021-4-20,Late April,Pasco,Pasco farm,Tumble mustard,2021
+Tree,Malvaceae,Little Leaf Linden,Tilia,93,93_2019,0,0,ITS,bc1146--bc1189,Tilia cordata,15,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Tree,Malvaceae,Linden,Tilia,190,190_2020,1,0,ITS,bc1153--bc1171,Tilia cordata,2,2020-5-27,Late May,Pasco,M,Kochia,2020
+Tree,Malvaceae,Linden,Tilia,199,199_2020,1,1,ITS,bc1153--bc1173,Tilia cordata,3,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,227,227_2020,0,0,ITS,bc1153--bc1189,Tilia cordata,138,2020-6-3,Early June,Moxee,A,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,201,201_2020,0,0,ITS,bc1153--bc1154,Tilia cordata,58,2020-6-3,Early June,Moxee,A,Tumble mustard,2020
+Tree,Malvaceae,Linden,Tilia,358,358_2020,0,1,trnF,bc1109--bc1142,Tilia cordata,9,2020-6-3,Early June,Mattawa,C,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,616,616_2020,1,0,trnF,bc1108--bc1176,Tilia cordata,4,2020-7-16,Late July,Paterson,J,Russian thistle,2020
+Tree,Malvaceae,Large Leaf Linden or Lime,Tilia,70,70_2019,0,0,trnF,bc1108--bc1111,Tilia cordata,2,2019-7-3,Early July,Mattawa ,RDJ,Kochia,2019
+Tree,Malvaceae,Linden,Tilia,20,20_2019,0,0,ITS,bc1140--bc1146,Tilia cordata,11,2019-6-12,Early June,Mattawa ,RDR,Potato,2019
+Tree,Malvaceae,Linden,Tilia,35,35_2019,0,0,ITS,bc1155--bc1158,Tilia cordata,24,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Tree,Malvaceae,Linden,Tilia,56,56_2019,0,0,ITS,bc1140--bc1156,Tilia cordata,2,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Tree,Malvaceae,Linden,Tilia,217,217_2020,0,1,ITS,bc1140--bc1153,Tilia cordata,2,2020-6-3,Early June,Moxee,A,Flixweed,2020
+Tree,Malvaceae,Linden,Tilia,153,153_2020,1,0,ITS,bc1152--bc1155,Tilia cordata,13,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,198,198_2020,0,0,ITS,bc1153--bc1192,Tilia cordata,182,2020-5-27,Late May,Pasco,M,Russian thistle,2020
+Tree,Malvaceae,Linden,Tilia,9,9_2020,0,0,ITS,bc1150--bc1171,Tilia cordata,10,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Weed,Asteraceae,Goats beard,Tragopogon,2,2_2021,0,,trnF,bc1103--bc1112,Tragopogon pratensis,3,2021-3-23,Late March,Moxee,Moxee farm,Flixweed,2021
+Weed,Asteraceae,Goats beard,Tragopogon,6,6_2021,0,0,trnF,bc1103--bc1109,Tragopogon pratensis,7,2021-3-23,Late March,Pasco,Pasco farm,Tumble mustard,2021
+Weed,Asteraceae,Goats beard,Tragopogon,339,339_2021,0,0,trnF,bc1103--bc1177,Tragopogon pratensis,15,2021-5-18,Late May,Pasco,Pasco farm,Kochia,2021
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,54,54_2019,0,0,ITS,bc1140--bc1157,Tribulus terrestris,140,2019-6-21,Late June,Pasco,WSU,Pigweed,2019
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,161,161_2019,0,0,ITS,bc1150--bc1173,Tribulus terrestris,12,2019-8-1,Early August,Paterson,475,Kochia,2019
+Weed,Zygophyllaceae,Puncture Vine,Tribulus,162,162_2019,0,0,ITS,bc1146--bc1173,Tribulus terrestris,8,2019-8-1,Early August,Paterson,475,Kochia,2019
+Grass,Poaceae,Wheat,Triticum,123,123_2020,0,1,ITS,bc1152--bc1191,Triticum aestivum,108,2020-5-18,Late May,Mattawa,D,Russian thistle,2020
+Tree,Ulmaceae,Bergman's Elm,Ulmus,153,153_2019,0,0,trnF,bc1110--bc1144,Ulmus bergmanniana,90,2019-7-31,Late July,Mattawa,RDR,Pigweed,2019
+Tree,Ulmaceae,Elm,Ulmus,46,46_2020,1,0,ITS,bc1146--bc1173,Ulmus pumila,2,2020-5-18,Late May,Mattawa,B,Flixweed,2020
+Tree,Ulmaceae,Elm,Ulmus,61,61_2020,0,0,ITS,bc1146--bc1154,Ulmus pumila,304,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Crop,Fabaceae,Fava Bean,Vicia,92,92_2019,0,0,ITS,bc1150--bc1189,Vicia faba 5.8S,9,2019-7-5,Early July,Mattawa,WSU,Potato,2019
+Weed,Fabaceae,Hairy Vetch,Vicia,2,2_2019,0,0,ITS,bc1134--bc1140,Vicia villosa,16,2019-6-3,Early June,Mattawa ,RDR,Russian thistle,2019
+Crop,Fabaceae,Cowpea,Vigna,34,34_2019,0,0,ITS,bc1153--bc1155,Vigna unguiculata,4,2019-6-12,Early June,Mattawa ,RDJ,Kochia,2019
+Crop,Fabaceae,cowpea,Vigna,153,153_2020,1,0,ITS,bc1152--bc1155,Vigna unguiculata,18,2020-5-25,Late May,Paterson,H,Russian thistle,2020
+Crop,Fabaceae,cowpea,Vigna,16,16_2020,0,0,ITS,bc1150--bc1173,Vigna unguiculata,2,2020-5-13,Early May,Paterson,H,Russian thistle,2020
+Crop,Fabaceae,cowpea,Vigna,84,84_2020,1,1,ITS,bc1146--bc1155,Vigna unguiculata,3,2020-5-18,Late May,Mattawa,B,Russian thistle,2020
+Crop,Fabaceae,cowpea,Vigna,8,8_2020,1,0,ITS,bc1150--bc1170,Vigna unguiculata,3,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Crop,Fabaceae,cowpea,Vigna,9,9_2020,0,0,ITS,bc1150--bc1171,Vigna unguiculata,9,2020-4-22,Late April,Pasco,WSU,Tumble mustard,2020
+Crop,Fabaceae,cowpea,Vigna,19,19_2020,0,0,ITS,bc1140--bc1150,Vigna unguiculata,2,2020-5-18,Late May,Moxee,A,Tumble mustard,2020
+Crop,Fabaceae,cowpea,Vigna,26,26_2021,0,0,trnF,bc1112--bc1175,Vigna unguiculata,4,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Crop,Fabaceae,cowpea,Vigna,44,44_2021,1,0,trnF,bc1109--bc1175,Vigna unguiculata,4,2021-3-30,Late March,Moxee,Moxee farm,Flixweed,2021
+Crop,Fabaceae,cowpea,Vigna,89,89_2021,0,,trnF,bc1107--bc1114,Vigna unguiculata,5,2021-4-13,Early April,Othello,Othello farm,Flixweed,2021
+Crop,Fabaceae,cowpea,Vigna,204,204_2021,0,0,trnF,bc1112--bc1144,Vigna unguiculata,3,2021-5-11,Early May,Othello,Othello farm,Kochia,2021
+Crop,Fabaceae,cowpea,Vigna,205,205_2021,0,0,trnF,bc1113--bc1144,Vigna unguiculata,7,2021-5-11,Early May,Pasco,Pasco farm,Kochia,2021
+Crop,Fabaceae,cowpea,Vigna,248,248_2021,1,1,trnF,bc1109--bc1144,Vigna unguiculata,5,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Fabaceae,cowpea,Vigna,253,253_2021,1,1,trnF,bc1110--bc1144,Vigna unguiculata,4,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Fabaceae,cowpea,Vigna,254,254_2021,0,0,trnF,bc1103--bc1176,Vigna unguiculata,5,2021-5-11,Early May,Pasco,Pasco farm,Tumble mustard,2021
+Crop,Fabaceae,cowpea,Vigna,320,320_2021,0,0,trnF,bc1107--bc1176,Vigna unguiculata,6,2021-5-18,Late May,Moxee,Moxee farm,Tumble mustard,2021
+Crop,Fabaceae,cowpea,Vigna,392,392_2021,1,0,trnF,bc1103--bc1178,Vigna unguiculata,4,2021-5-26,Late May,Moxee,Moxee farm,Kochia,2021
+Crop,Fabaceae,cowpea,Vigna,549,549_2021,0,,trnF,bc1100--bc1106,Vigna unguiculata,5,2021-6-2,Early June,Moxee,Moxee farm,Flixweed,2021
+Crop,Vitaceae,Grape vine,Vitis,45,45_2019,0,0,trnF,bc1108--bc1115,Vitis vinifera,10,2019-6-14,Early June,Pasco,WSU,Kochia,2019
