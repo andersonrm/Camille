@@ -12,3 +12,14 @@ cowplot
 permute
 lattice
 vegan
+randomForest
+caret
+sjPlot
+glmmTMB
+piecewiseSEM
+factoextra
+vegan3d
+scatterplot3d
+plot3D
+RColorBrewer
+rgl
