@@ -66,7 +66,7 @@ These data have been cleaned manually (species name errors) and are different fr
 # Load Packages
 library(tidyverse) # Needed for data wrangling: dplyr, tidyr, ggplot2
 library(cowplot) # Needed for publication-quality ggplots
-
+library(glmmTMB)
 
 # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 # @@@@@ Data Preparation
@@ -76,6 +76,8 @@ library(cowplot) # Needed for publication-quality ggplots
 d19 <- read.csv("data/2019.csv")
 d20 <- read.csv("data/2020.csv")
 d21 <- read.csv("data/2021.csv")
+
+plants <- read.csv("data/Plants.new.csv")
 
 ```
 
@@ -127,6 +129,34 @@ bltva <- dat2 %>%
 
 
 ##########################################################
+
+new.bltva <- plants %>% 
+  mutate(across(c(Plant, BLTVA), as.factor)) %>% 
+  group_by(Plant, BLTVA) %>% 
+  tally() %>% 
+  ungroup()
+
+new.bctv <- plants %>% 
+  mutate(Plant = factor(Plant),
+         BCTV = factor(BCTV)) %>% 
+  group_by(Plant, BCTV) %>% 
+  tally() %>% 
+  ungroup()
+
+new.plants.sampled <- plants %>% 
+  mutate(Plant = factor(Plant)) %>% 
+  group_by(Plant) %>% 
+  tally() %>% 
+  rename(plants.sampled = n)
+
+new.bctv <- left_join(new.bctv, new.plants.sampled, by = "Plant")
+
+new.bltva <- left_join(new.bltva, new.plants.sampled, by = "Plant")
+
+
+
+##########################################################
+
 # data for bubble plots
 dat3 <- dat1 %>% 
   # remove NAs
@@ -176,6 +206,89 @@ bctv1 <- dat7 %>%
 
 
 ```
+
+
+## Plots
+
+### BLTVA (new data)
+```{r new_bltva_infected, echo = F}
+
+new.bltva %>% 
+  filter(BLTVA == 1) %>% 
+  mutate(Prop.infected = n/plants.sampled) %>% 
+  ggplot(aes(x = Prop.infected, y = Plant, size = plants.sampled)) +
+  geom_point(shape = 21,
+             fill = 'lightgray',
+             color = 'black') +
+  scale_size(range = c(1, 10),
+             breaks = c(1, 50, 100, 200),
+             limits = c(1, 200)) +
+  theme_cowplot() +
+  labs(x = "Proportion infection",
+       y = "",
+       size = "Sample size",
+       title = "BLTVA infection")
+
+```
+
+### BCTV (new data)
+```{r new_bctv_infected, echo = F}
+
+new.bctv %>% 
+  filter(BCTV == 1) %>% 
+  mutate(Prop.infected = n/plants.sampled) %>% 
+  ggplot(aes(x = Prop.infected, y = Plant, size = plants.sampled)) +
+  geom_point(shape = 21,
+             fill = 'lightgray',
+             color = 'black') +
+  scale_size(range = c(1, 10),
+             breaks = c(1, 50, 100, 200),
+             limits = c(1, 200)) +
+  theme_cowplot() +
+  labs(x = "Proportion infected",
+       y = "",
+       size = "Sample size",
+       title = "BCTV Infection")
+
+```
+
+
+## GLM infection
+
+### BLTVA model
+```{r glm_BLTVA_new_data, echo = F}
+
+bltva.data <- new.bltva %>% 
+  filter(BLTVA == 1) %>% 
+  mutate(prop.infected = n/plants.sampled)
+
+bltva.glm <- glm(prop.infected ~ Plant,
+                family = binomial(link = logit),
+                weights = n,
+                data = bltva.data)
+
+summary(bltva.glm)
+
+
+```
+
+
+### BCTV model
+```{r glm_bctv_new_data, echo = F}
+
+bctv.data <- new.bctv %>% 
+  filter(BCTV == 1) %>% 
+  mutate(prop.infected = n/plants.sampled)
+
+bctv.glm <- glm(prop.infected ~ Plant,
+                family = binomial(),
+                weights = n,
+                data = bctv.data)
+
+summary(bctv.glm)
+
+```
+
 
 
 ```{r BLTVA_by_plant_and_time_period, echo = F, include = F}

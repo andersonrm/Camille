@@ -1,11 +1,17 @@
 Camille’s BLTV & BLTVA plant data
 ================
 Dr. Riley M. Anderson & Camille Wagstaff
-February 29, 2024
+May 23, 2024
 
   
 
 - [Overview](#overview)
+- [Plots](#plots)
+  - [BLTVA (new data)](#bltva-new-data)
+  - [BCTV (new data)](#bctv-new-data)
+- [GLM infection](#glm-infection)
+  - [BLTVA model](#bltva-model)
+  - [BCTV model](#bctv-model)
 - [BLTVA](#bltva)
   - [BLTVA proportion infected](#bltva-proportion-infected)
   - [BLTVA proportion healthy (not
@@ -27,6 +33,74 @@ The data used to generate these plots are:
 
 These data have been cleaned manually (species name errors) and are
 different from data on Camille’s machine.
+
+## Plots
+
+### BLTVA (new data)
+
+![](BLTVA_files/figure-gfm/new_bltva_infected-1.png)<!-- -->
+
+### BCTV (new data)
+
+![](BLTVA_files/figure-gfm/new_bctv_infected-1.png)<!-- -->
+
+## GLM infection
+
+### BLTVA model
+
+    ## 
+    ## Call:
+    ## glm(formula = prop.infected ~ Plant, family = binomial(link = logit), 
+    ##     data = bltva.data, weights = n)
+    ## 
+    ## Deviance Residuals: 
+    ## [1]  0  0  0  0  0  0  0
+    ## 
+    ## Coefficients:
+    ##                            Estimate Std. Error z value Pr(>|z|)
+    ## (Intercept)                 -2.6391     4.0089  -0.658    0.510
+    ## PlantKochia                  3.3982     4.0211   0.845    0.398
+    ## PlantMustard                 3.3673     4.0187   0.838    0.402
+    ## PlantNetseed lambsquarters   4.9416     4.0836   1.210    0.226
+    ## PlantPigweed                 0.9163     4.1984   0.218    0.827
+    ## PlantPotato                  3.9564     4.0222   0.984    0.325
+    ## PlantRussian thistle         1.4007     4.0445   0.346    0.729
+    ## 
+    ## (Dispersion parameter for binomial family taken to be 1)
+    ## 
+    ##     Null deviance: 3.4362e+01  on 6  degrees of freedom
+    ## Residual deviance: 1.1030e-14  on 0  degrees of freedom
+    ## AIC: 34.324
+    ## 
+    ## Number of Fisher Scoring iterations: 5
+
+### BCTV model
+
+    ## 
+    ## Call:
+    ## glm(formula = prop.infected ~ Plant, family = binomial(), data = bctv.data, 
+    ##     weights = n)
+    ## 
+    ## Deviance Residuals: 
+    ## [1]  0  0  0  0  0
+    ## 
+    ## Coefficients:
+    ##                            Estimate Std. Error z value Pr(>|z|)   
+    ## (Intercept)                 -0.8961     0.4929  -1.818  0.06904 . 
+    ## PlantMustard                 1.6778     0.5671   2.959  0.00309 **
+    ## PlantNetseed lambsquarters  -0.9497     1.7531  -0.542  0.58799   
+    ## PlantPotato                 -1.9223     2.2238  -0.864  0.38736   
+    ## PlantRussian thistle        -1.9253     2.0037  -0.961  0.33662   
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## 
+    ## (Dispersion parameter for binomial family taken to be 1)
+    ## 
+    ##     Null deviance: 2.2236e+01  on 4  degrees of freedom
+    ## Residual deviance: 3.6676e-15  on 0  degrees of freedom
+    ## AIC: 19.658
+    ## 
+    ## Number of Fisher Scoring iterations: 5
 
 # BLTVA
 
