@@ -79,6 +79,8 @@ d21 <- read.csv("data/2021.csv")
 
 plants <- read.csv("data/Plants.new.csv")
 
+plants.year <- read.csv("data/Plant_Data_2019_2021_JF_CW.csv")
+
 ```
 
 
@@ -127,7 +129,7 @@ bltva <- dat2 %>%
 #####################################
 
 
-
+# New data
 ##########################################################
 
 new.bltva <- plants %>% 
@@ -153,7 +155,31 @@ new.bctv <- left_join(new.bctv, new.plants.sampled, by = "Plant")
 
 new.bltva <- left_join(new.bltva, new.plants.sampled, by = "Plant")
 
+plants.year.inf <- plants.year %>% 
+  filter(!is.na(Year)) %>% 
+  mutate(across(c(Year:Plant), as.factor),
+         infection = case_when(
+           BLTVA == 0 & BCTV == 0 ~ "Healthy",
+           BLTVA == 1 & BCTV == 0 ~ "BLTVA",
+           BLTVA == 0 & BCTV == 1 ~ "BCTV",
+           TRUE ~ "Co-infection"
+         )) %>% 
+  group_by(Year, infection) %>% 
+  tally() %>% 
+  ungroup()
 
+plants_sampled_year <- plants.year %>% 
+  mutate(Year = factor(Year)) %>% 
+  group_by(Year) %>% 
+  tally() %>% 
+  filter(!is.na(Year),
+         n > 9) %>% 
+  ungroup() %>% 
+  rename(total = n)
+
+plants.year.inf <- left_join(plants.year.inf,
+                             plants_sampled_year,
+                             by = "Year")
 
 ##########################################################
 
@@ -209,6 +235,26 @@ bctv1 <- dat7 %>%
 
 
 ## Plots
+
+### Proportion infection class per year
+```{r prop_infect_by_year, echo = F}
+plants.year.inf %>% 
+  ggplot(aes(x = Year, y = n/total, fill = infection)) +
+  geom_col() +
+  scale_fill_manual(values = c(
+    "#E69F00", "#56B4E9", "#009E73", "#CC79A7"
+  )) +
+  theme_cowplot() +
+  labs(y = "Proportion of samples",
+       fill = "Infection status") +
+  scale_y_continuous(limits = c(0, 1.15),
+                     breaks = c(0, 0.25, 0.5, 0.75, 1)) +
+  annotate(geom = "text", "2019", 1.1, label = "n = 114") +
+  annotate(geom = "text", "2020", 1.1, label = "n = 250") +
+  annotate(geom = "text", "2021", 1.1, label = "n = 73")
+
+
+```
 
 ### BLTVA (new data)
 ```{r new_bltva_infected, echo = F}

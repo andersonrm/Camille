@@ -7,6 +7,8 @@ May 23, 2024
 
 - [Overview](#overview)
 - [Plots](#plots)
+  - [Proportion infection class per
+    year](#proportion-infection-class-per-year)
   - [BLTVA (new data)](#bltva-new-data)
   - [BCTV (new data)](#bctv-new-data)
 - [GLM infection](#glm-infection)
@@ -35,6 +37,10 @@ These data have been cleaned manually (species name errors) and are
 different from data on Camille’s machine.
 
 ## Plots
+
+### Proportion infection class per year
+
+![](BLTVA_files/figure-gfm/prop_infect_by_year-1.png)<!-- -->
 
 ### BLTVA (new data)
 

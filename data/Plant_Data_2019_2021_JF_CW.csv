@@ -1,0 +1,450 @@
+Sample,Name,Date,Year,Time period,Region,Plant,BLTVA,BCTV
+1,1,3-Jul,2019,Early July,Mattawa,Kochia,0,0
+2,2,3-Jul,2019,Early July,Mattawa,Prickly lettuce,0,0
+3,3,3-Jul,2019,Early July,Mattawa,Russian thistle,0,0
+4,4,3-Jul,2019,Early July,Mattawa,Potato,1,0
+5,5,3-Jul,2019,Early July,Mattawa,Kochia,0,0
+6,6,3-Jul,2019,Early July,Mattawa,Grasses,0,0
+7,7,5-Jul,2019,Early July,Pasco,Potato,0,0
+8,8,5-Jul,2019,Early July,Pasco,Pigweed,0,0
+9,9,5-Jul,2019,Early July,Pasco,Kochia,0,0
+10,10,5-Jul,2019,Early July,Pasco,Russian thistle,0,0
+11,11,5-Jul,2019,Early July,Pasco,Tumble mustard,1,0
+12,12,5-Jul,2019,Early July,Pasco,Potato,0,0
+13,13,5-Jul,2019,Early July,Pasco,Pigweed,0,0
+14,14,5-Jul,2019,Early July,Pasco,Kochia,0,0
+15,15,5-Jul,2019,Early July,Pasco,Tumble mustard,1,0
+16,16,5-Jul,2019,Early July,Pasco,Potato,0,0
+17,17,5-Jul,2019,Early July,Pasco,Kochia,0,0
+18,18,5-Jul,2019,Early July,Pasco,Pigweed,0,0
+19,19,5-Jul,2019,Early July,Pasco,Russian thistle,0,0
+20,20,10-Jul,2019,Early July,Mattawa,Potato,0,0
+21,21,10-Jul,2019,Early July,Mattawa,Russian thistle,0,0
+22,22,10-Jul,2019,Early July,Mattawa,Kochia,0,0
+23,23,10-Jul,2019,Early July,Mattawa,Prickly lettuce,0,0
+24,24,10-Jul,2019,Early July,Mattawa,Pigweed,0,0
+25,27,11-Jul,2019,Early July,Paterson,Kochia,1,1
+26,25,11-Jul,2019,Early July,Paterson,Potato,1,0
+27,26,11-Jul,2019,Early July,Paterson,Russian thistle,0,0
+28,28,11-Jul,2019,Early July,Paterson,Pigweed,0,0
+29,29,11-Jul,2019,Early July,Paterson,Potato,1,0
+30,30,11-Jul,2019,Early July,Paterson,Russian thistle,0,0
+31,31,11-Jul,2019,Early July,Paterson,Kochia,1,0
+32,32,11-Jul,2019,Early July,Paterson,Pigweed,0,0
+33,33,11-Jul,2019,Early July,Paterson,Potato,1,0
+34,34,11-Jul,2019,Early July,Paterson,Russian thistle,1,0
+35,35,11-Jul,2019,Early July,Paterson,Prickly lettuce,0,0
+36,36,12-Jul,2019,Early July,Moxee,Russian thistle,0,0
+37,37,12-Jul,2019,Early July,Moxee,Kochia,1,0
+38,38,12-Jul,2019,Early July,Pasco,Potato,0,0
+39,39,12-Jul,2019,Early July,Pasco,Kochia,1,0
+40,40,12-Jul,2019,Early July,Pasco,Russian thistle,0,0
+41,41,12-Jul,2019,Early July,Pasco,Pigweed,0,0
+42,42,12-Jul,2019,Early July,Pasco,Tumble mustard,1,0
+43,43,12-Jul,2019,Early July,Pasco,Russian thistle,0,0
+44,44,12-Jul,2019,Early July,Pasco,Prickly lettuce,0,0
+45,45,12-Jul,2019,Early July,Pasco,Pigweed,0,0
+46,46,12-Jul,2019,Early July,Pasco,Russian thistle,0,0
+47,47,12-Jul,2019,Early July,Pasco,Kochia,1,0
+48,55,18-Jul,2019,Late July,Paterson,Kochia,1,1
+49,48,18-Jul,2019,Late July,Paterson,Pigweed,0,0
+50,49,18-Jul,2019,Late July,Paterson,Prickly lettuce,0,0
+51,50,18-Jul,2019,Late July,Paterson,Russian thistle,0,0
+52,51,18-Jul,2019,Late July,Paterson,Kochia,0,0
+53,52,18-Jul,2019,Late July,Paterson,Potato,1,0
+54,53,18-Jul,2019,Late July,Paterson,Potato,0,0
+55,54,18-Jul,2019,Late July,Paterson,Russian thistle,0,0
+56,56,18-Jul,2019,Late July,Paterson,Potato,1,0
+57,57,18-Jul,2019,Late July,Paterson,Russian thistle,0,0
+58,58,18-Jul,2019,Late July,Paterson,Prickly lettuce,0,0
+59,59,18-Jul,2019,Late July,Paterson,Pigweed,0,0
+60,60,19-Jul,2019,Late July,Pasco,Pigweed,0,0
+61,61,19-Jul,2019,Late July,Pasco,Russian thistle,0,0
+62,62,19-Jul,2019,Late July,Pasco,Potato,1,0
+63,63,20-Jul,2019,Late July,Mattawa,Kochia,0,0
+64,64,20-Jul,2019,Late July,Mattawa,Pigweed,0,0
+65,65,20-Jul,2019,Late July,Mattawa,Russian thistle,0,0
+66,66,20-Jul,2019,Late July,Mattawa,Potato,1,0
+67,67,20-Jul,2019,Late July,Mattawa,Unknown plant,1,0
+68,68,20-Jul,2019,Late July,Mattawa,Grasses,0,0
+69,69,20-Jul,2019,Late July,Mattawa,Potato,1,0
+70,70,20-Jul,2019,Late July,Mattawa,Kochia,0,0
+71,71,20-Jul,2019,Late July,Mattawa,Pigweed,0,0
+72,72,20-Jul,2019,Late July,Mattawa,Russian thistle,0,0
+73,73,22-Jul,2019,Late July,Moxee,Kochia,1,1
+74,74,22-Jul,2019,Late July,Moxee,Russian thistle,0,0
+75,75,1-Aug,2019,Early August,Paterson,Pigweed,0,0
+76,76,1-Aug,2019,Early August,Paterson,Russian thistle,0,0
+77,77,1-Aug,2019,Early August,Paterson,Kochia,1,0
+78,78,1-Aug,2019,Early August,Paterson,Potato,1,0
+79,79,1-Aug,2019,Early August,Paterson,Kochia,1,0
+80,80,1-Aug,2019,Early August,Paterson,Potato,0,0
+81,81,1-Aug,2019,Early August,Paterson,Netseed Lambsquarters,1,0
+82,82,1-Aug,2019,Early August,Paterson,Russian thistle,0,0
+83,83,1-Aug,2019,Early August,Paterson,Pigweed,0,0
+84,84,1-Aug,2019,Early August,Paterson,Russian thistle,0,0
+85,85,1-Aug,2019,Early August,Paterson,Hairy nightshade,1,0
+86,86,1-Aug,2019,Early August,Paterson,Potato,0,0
+87,87,1-Aug,2019,Early August,Paterson,Pigweed,0,0
+88,88,2-Aug,2019,Early August,Pasco,Potato,1,0
+89,89,2-Aug,2019,Early August,Pasco,Pigweed,0,0
+90,90,2-Aug,2019,Early August,Pasco,Russian thistle,0,0
+91,91,2-Aug,2019,Early August,Pasco,Potato,1,0
+92,92,2-Aug,2019,Early August,Pasco,Russian thistle,0,0
+93,93,2-Aug,2019,Early August,Pasco,Kochia,1,0
+94,94,2-Aug,2019,Early August,Pasco,Pigweed,0,0
+95,95,14-Oct,2019,Late October,Paterson,Hairy nightshade,0,0
+96,96,16-Oct,2019,Late October,Pasco,Prickly lettuce,0,0
+97,97,16-Oct,2019,Late October,Pasco,Bindweed,0,0
+98,98,16-Oct,2019,Late October,Pasco,Mallow,0,0
+99,99,16-Oct,2019,Late October,Pasco,Kochia,1,0
+100,100,16-Oct,2019,Late October,Pasco,Pigweed,1,0
+101,101,16-Oct,2019,Late October,Pasco,Grasses,0,0
+102,102,16-Oct,2019,Late October,Pasco,Prickly lettuce,0,0
+103,103,16-Oct,2019,Late October,Pasco,Russian thistle,0,0
+104,104,16-Oct,2019,Late October,Paterson,Grasses,0,0
+105,105,16-Oct,2019,Late October,Paterson,Prickly lettuce,0,0
+106,106,16-Oct,2019,Late October,Paterson,Russian thistle,1,0
+107,107,16-Oct,2019,Late October,Paterson,Russian thistle,0,0
+108,108,18-Oct,2019,Late October,Mattawa,Prickly lettuce,0,0
+109,109,18-Oct,2019,Late October,Mattawa,Grasses,0,0
+110,110,18-Oct,2019,Late October,Mattawa,Horseweed,0,0
+111,111,18-Oct,2019,Late October,Mattawa,Russian thistle,1,0
+112,112,18-Oct,2019,Late October,Mattawa,Grasses,1,0
+113,113,18-Oct,2019,Late October,Mattawa,Russian thistle,0,0
+114,114,18-Oct,2019,Late October,Mattawa,Alfalfa,1,0
+115,1,22-Apr,2020,Late April,Pasco,Tumble Mustard,1,0
+116,2,22-Apr,2020,Late April,Pasco,Grasses,0,0
+117,3,22-Apr,2020,Late April,Pasco,Scotch thistle ,0,0
+118,4,22-Apr,2020,Late April,Pasco,Filaree,0,0
+119,5,24-Apr,2020,Late April,Moxee,Flixweed,1,0
+120,6,24-Apr,2020,Late April,Moxee,Blue mustard,0,0
+121,17,18-May,2020,Late May ,Mattawa,Black mustard,1,1
+122,18,18-May,2020,Late May ,Mattawa,Kochia,1,1
+123,7,18-May,2020,Late May ,Moxee,Flixweed,1,0
+124,8,18-May,2020,Late May ,Moxee,Tumble Mustard,1,0
+125,9,18-May,2020,Late May ,Moxee,Kochia,1,0
+126,10,18-May,2020,Late May ,Mattawa,Flixweed,1,0
+127,11,18-May,2020,Late May ,Mattawa,Potato,1,0
+128,15,18-May,2020,Late May ,Mattawa,Netseed lambsquarters,1,0
+129,16,18-May,2020,Late May ,Mattawa,Flixweed,1,0
+130,19,18-May,2020,Late May ,Mattawa,Black mustard,1,0
+131,22,18-May,2020,Late May ,Mattawa,Kochia,1,0
+132,24,18-May,2020,Late May ,Othello,Tumble Mustard,1,0
+133,25,18-May,2020,Late May ,Othello,Potato,1,0
+134,26,18-May,2020,Late May ,Othello,Tumble Mustard,1,0
+135,28,18-May,2020,Late May ,Othello,Potato,1,0
+136,12,18-May,2020,Late May ,Mattawa,Russian thistle,0,0
+137,13,18-May,2020,Late May ,Mattawa,Russian thistle,0,0
+138,14,18-May,2020,Late May ,Mattawa,Potato,0,0
+139,20,18-May,2020,Late May ,Mattawa,Russian thistle,0,0
+140,21,18-May,2020,Late May ,Mattawa,Potato,0,0
+141,23,18-May,2020,Late May ,Othello,Kochia,0,0
+142,27,18-May,2020,Late May ,Othello,Flixweed,0,0
+143,29,18-May,2020,Late May ,Othello,Filaree,0,0
+144,30,18-May,2020,Late May ,Othello,Blue mustard,0,0
+145,48,27-May,2020,Late May ,Pasco,Russian thistle,1,1
+146,51,27-May,2020,Late May ,Pasco,Potato,1,1
+147,32,27-May,2020,Late May ,Paterson,Potato,1,0
+148,33,27-May,2020,Late May ,Paterson,Tumble Mustard,1,0
+149,35,27-May,2020,Late May ,Paterson,Tumble Mustard,1,0
+150,37,27-May,2020,Late May ,Paterson,Potato,1,0
+151,38,27-May,2020,Late May ,Paterson,Potato,1,0
+152,41,27-May,2020,Late May ,Pasco,Potato,1,0
+153,43,27-May,2020,Late May ,Pasco,Netseed lambsquarters,1,0
+154,44,27-May,2020,Late May ,Pasco,Potato,1,0
+155,45,27-May,2020,Late May ,Pasco,Mesquite,1,0
+156,46,27-May,2020,Late May ,Pasco,Kochia,1,0
+157,47,27-May,2020,Late May ,Pasco,Russian thistle,1,0
+158,49,27-May,2020,Late May ,Pasco,Tumble Mustard,1,0
+159,31,27-May,2020,Late May ,Paterson,Russian thistle,0,0
+160,34,27-May,2020,Late May ,Paterson,Western yarrow,0,0
+161,36,27-May,2020,Late May ,Paterson,Russian thistle,0,0
+162,39,27-May,2020,Late May ,Paterson,Silver sagebrush,0,0
+163,40,27-May,2020,Late May ,Pasco,Horseweed,0,0
+164,42,27-May,2020,Late May ,Pasco,Russian thistle,0,0
+165,50,27-May,2020,Late May ,Pasco,Kochia,0,0
+166,52,3-Jun,2020,Early June,Moxee,Tumble Mustard,1,1
+167,54,3-Jun,2020,Early June,Moxee,Black mustard,1,1
+168,63,3-Jun,2020,Early June,Mattawa,Netseed lambsquarters,1,1
+169,68,3-Jun,2020,Early June,Mattawa,Kochia,1,1
+170,55,3-Jun,2020,Early June,Moxee,Flixweed,1,0
+171,56,3-Jun,2020,Early June,Moxee,Kochia,1,0
+172,58,3-Jun,2020,Early June,Mattawa,Alfalfa,1,0
+173,59,3-Jun,2020,Early June,Mattawa,Potato,1,0
+174,60,3-Jun,2020,Early June,Mattawa,Flixweed,1,0
+175,61,3-Jun,2020,Early June,Mattawa,Black mustard,1,0
+176,62,3-Jun,2020,Early June,Mattawa,Potato,1,0
+177,64,3-Jun,2020,Early June,Mattawa,Kochia,1,0
+178,66,3-Jun,2020,Early June,Mattawa,Potato,1,0
+179,69,3-Jun,2020,Early June,Othello,Kochia,1,0
+180,72,3-Jun,2020,Early June,Othello,Potato,1,0
+181,73,3-Jun,2020,Early June,Othello,Kochia,1,0
+182,53,3-Jun,2020,Early June,Moxee,Russian thistle,0,0
+183,57,3-Jun,2020,Early June,Mattawa,Russian thistle,0,0
+184,65,3-Jun,2020,Early June,Mattawa,Russian thistle,0,0
+185,67,3-Jun,2020,Early June,Mattawa,Russian thistle,0,0
+186,70,3-Jun,2020,Early June,Othello,Russian thistle,0,0
+187,71,3-Jun,2020,Early June,Othello,Potato,0,0
+188,75,17-Jun,2020,Late June,Moxee,Black mustard,1,1
+189,76,17-Jun,2020,Late June,Moxee,Kochia,1,1
+190,81,17-Jun,2020,Late June,Mattawa,Netseed lambsquarters,1,1
+191,86,17-Jun,2020,Late June,Othello,Kochia,1,1
+192,89,17-Jun,2020,Late June,Othello,Potato,1,1
+193,74,17-Jun,2020,Late June,Moxee,Russian thistle,1,0
+194,77,17-Jun,2020,Late June,Mattawa,Russian thistle,1,0
+195,78,17-Jun,2020,Late June,Mattawa,Alfalfa,1,0
+196,79,17-Jun,2020,Late June,Mattawa,Potato,1,0
+197,80,17-Jun,2020,Late June,Mattawa,Kochia,1,0
+198,82,17-Jun,2020,Late June,Mattawa,Russian thistle,1,0
+199,83,17-Jun,2020,Late June,Mattawa,Potato,1,0
+200,84,17-Jun,2020,Late June,Mattawa,Black mustard,1,0
+201,85,17-Jun,2020,Late June,Othello,Netseed lambsquarters,1,0
+202,87,17-Jun,2020,Late June,Othello,Russian thistle,1,0
+203,88,17-Jun,2020,Late June,Othello,Potato,1,0
+204,90,17-Jun,2020,Late June,Othello,Kochia,1,0
+205,92,17-Jun,2020,Late June,Othello,Potato,1,0
+206,91,17-Jun,2020,Late June,Othello,Russian thistle,0,0
+207,93,17-Jun,2020,Late June,Othello,Kochia,0,0
+208,107,25-Jun,2020,Late June,Pasco,Potato,1,1
+209,110,25-Jun,2020,Late June,Pasco,Kochia,1,1
+210,95,25-Jun,2020,Late June,Paterson,Russian thistle,0,1
+211,94,25-Jun,2020,Late June,Paterson,Potato,1,0
+212,97,25-Jun,2020,Late June,Paterson,Russian thistle,1,0
+213,98,25-Jun,2020,Late June,Paterson,Kochia,1,0
+214,99,25-Jun,2020,Late June,Paterson,Potato,1,0
+215,100,25-Jun,2020,Late June,Paterson,Potato,1,0
+216,102,25-Jun,2020,Late June,Pasco,Mesquite,1,0
+217,103,25-Jun,2020,Late June,Pasco,Netseed lambsquarters,1,0
+218,104,25-Jun,2020,Late June,Pasco,Russian thistle,1,0
+219,105,25-Jun,2020,Late June,Pasco,Kochia,1,0
+220,108,25-Jun,2020,Late June,Pasco,Potato,1,0
+221,109,25-Jun,2020,Late June,Pasco,Russian thistle,1,0
+222,96,25-Jun,2020,Late June,Paterson,Rabbitbrush,0,0
+223,101,25-Jun,2020,Late June,Paterson,Silver sagebrush,0,0
+224,106,25-Jun,2020,Late June,Pasco,Pigweed,0,0
+225,119,1-Jul,2020,Early July,Mattawa,Netseed lambsquarters,1,1
+226,122,1-Jul,2020,Early July,Mattawa,Kochia,1,1
+227,124,1-Jul,2020,Early July,Othello,Russian thistle,0,1
+228,112,1-Jul,2020,Early July,Moxee,Netseed lambsquarters,1,0
+229,114,1-Jul,2020,Early July,Mattawa,Potato,1,0
+230,115,1-Jul,2020,Early July,Mattawa,Alfalfa,1,0
+231,118,1-Jul,2020,Early July,Mattawa,Kochia,1,0
+232,120,1-Jul,2020,Early July,Mattawa,Potato,1,0
+233,123,1-Jul,2020,Early July,Mattawa,Russian thistle,1,0
+234,126,1-Jul,2020,Early July,Othello,Potato,1,0
+235,111,1-Jul,2020,Early July,Moxee,Kochia,0,0
+236,113,1-Jul,2020,Early July,Moxee,Russian thistle,0,0
+237,116,1-Jul,2020,Early July,Mattawa,Russian thistle,0,0
+238,117,1-Jul,2020,Early July,Mattawa,Russian thistle,0,0
+239,121,1-Jul,2020,Early July,Mattawa,Pigweed,0,0
+240,125,1-Jul,2020,Early July,Othello,Netseed lambsquarters,0,0
+241,127,8-Jul,2020,Early July,Paterson,Potato,1,0
+242,128,8-Jul,2020,Early July,Paterson,Russian thistle,1,0
+243,130,15-Jul,2020,Late July,Moxee,Kochia,0,1
+244,143,15-Jul,2020,Late July,Othello,Kochia,0,1
+245,131,15-Jul,2020,Late July,Moxee,Netseed lambsquarters,1,0
+246,132,15-Jul,2020,Late July,Mattawa,Netseed lambsquarters,1,0
+247,133,15-Jul,2020,Late July,Mattawa,Potato,1,0
+248,135,15-Jul,2020,Late July,Mattawa,Kochia,1,0
+249,136,15-Jul,2020,Late July,Mattawa,Kochia,1,0
+250,139,15-Jul,2020,Late July,Othello,Netseed lambsquarters,1,0
+251,140,15-Jul,2020,Late July,Othello,Kochia,1,0
+252,144,15-Jul,2020,Late July,Othello,Potato,1,0
+253,129,15-Jul,2020,Late July,Moxee,Russian thistle,0,0
+254,134,15-Jul,2020,Late July,Mattawa,Russian thistle,0,0
+255,137,15-Jul,2020,Late July,Mattawa,Russian thistle,0,0
+256,138,15-Jul,2020,Late July,Mattawa,Potato,0,0
+257,141,15-Jul,2020,Late July,Othello,Russian thistle,0,0
+258,142,15-Jul,2020,Late July,Othello,Potato,0,0
+259,145,15-Jul,2020,Late July,Othello,Russian thistle,0,0
+260,148,16-Jul,2020,Late July,Paterson,Potato,1,1
+261,156,16-Jul,2020,Late July,Pasco,Russian thistle,0,1
+262,150,16-Jul,2020,Late July,Paterson,Silver sagebrush,1,0
+263,151,16-Jul,2020,Late July,Paterson,Potato,1,0
+264,157,16-Jul,2020,Late July,Pasco,Potato,1,0
+265,146,16-Jul,2020,Late July,Paterson,Silver sagebrush,0,0
+266,147,16-Jul,2020,Late July,Paterson,Russian thistle,0,0
+267,149,16-Jul,2020,Late July,Paterson,Rabbitbrush,0,0
+268,152,16-Jul,2020,Late July,Pasco,Horseweed,0,0
+269,153,16-Jul,2020,Late July,Pasco,Russian thistle,0,0
+270,154,16-Jul,2020,Late July,Pasco,Pigweed,0,0
+271,155,16-Jul,2020,Late July,Pasco,Potato,0,0
+272,162,12-Aug,2020,Early August,Moxee,Kochia,0,1
+273,158,12-Aug,2020,Early August,Moxee,Pigweed,1,0
+274,159,12-Aug,2020,Early August,Moxee,Netseed lambsquarters,1,0
+275,167,12-Aug,2020,Early August,Mattawa,Netseed lambsquarters,1,0
+276,168,12-Aug,2020,Early August,Mattawa,Hairy nightshade,1,0
+277,170,12-Aug,2020,Early August,Mattawa,Potato,1,0
+278,173,12-Aug,2020,Early August,Othello,Potato,1,0
+279,178,12-Aug,2020,Early August,Othello,Puncturevine,1,0
+280,180,12-Aug,2020,Early August,Othello,Potato,1,0
+281,160,12-Aug,2020,Early August,Moxee,Prickly lettuce,0,0
+282,161,12-Aug,2020,Early August,Moxee,Russian thistle,0,0
+283,163,12-Aug,2020,Early August,Mattawa,Russian thistle,0,0
+284,164,12-Aug,2020,Early August,Mattawa,Kochia,0,0
+285,165,12-Aug,2020,Early August,Mattawa,Pigweed,0,0
+286,166,12-Aug,2020,Early August,Mattawa,Potato,0,0
+287,169,12-Aug,2020,Early August,Mattawa,Russian thistle,0,0
+288,171,12-Aug,2020,Early August,Othello,Russian thistle,0,0
+289,172,12-Aug,2020,Early August,Othello,Kochia,0,0
+290,174,12-Aug,2020,Early August,Othello,Russian thistle,0,0
+291,175,12-Aug,2020,Early August,Othello,Netseed lambsquarters,0,0
+292,176,12-Aug,2020,Early August,Othello,Kochia,0,0
+293,177,12-Aug,2020,Early August,Othello,Pigweed,0,0
+294,179,12-Aug,2020,Early August,Othello,Kochia,0,0
+295,183,13-Aug,2020,Early August,Paterson,Potato,1,0
+296,186,13-Aug,2020,Early August,Paterson,Kochia,1,0
+297,187,13-Aug,2020,Early August,Paterson,Common purslane,1,0
+298,189,13-Aug,2020,Early August,Paterson,Potato,1,0
+299,191,13-Aug,2020,Early August,Paterson,Puncturevine,1,0
+300,193,13-Aug,2020,Early August,Paterson,Potato,1,0
+301,196,13-Aug,2020,Early August,Pasco,Netseed lambsquarters,1,0
+302,197,13-Aug,2020,Early August,Pasco,Pigweed,1,0
+303,199,13-Aug,2020,Early August,Pasco,Potato,1,0
+304,200,13-Aug,2020,Early August,Pasco,Kochia,1,0
+305,201,13-Aug,2020,Early August,Pasco,Netseed lambsquarters,1,0
+306,181,13-Aug,2020,Early August,Paterson,Russian thistle,0,0
+307,182,13-Aug,2020,Early August,Paterson,Pigweed,0,0
+308,184,13-Aug,2020,Early August,Paterson,Rabbitbrush,0,0
+309,185,13-Aug,2020,Early August,Paterson,Russian thistle,0,0
+310,188,13-Aug,2020,Early August,Paterson,Pigweed,0,0
+311,190,13-Aug,2020,Early August,Paterson,Silver sagebrush,0,0
+312,192,13-Aug,2020,Early August,Paterson,Russian thistle,0,0
+313,194,13-Aug,2020,Early August,Pasco,Russian thistle,0,0
+314,195,13-Aug,2020,Early August,Pasco,Horseweed,0,0
+315,198,13-Aug,2020,Early August,Pasco,Russian thistle,0,0
+316,202,25-Aug,2020,Late August,Paterson,Russian thistle,1,0
+317,203,25-Aug,2020,Late August,Paterson,Potato,1,0
+318,204,25-Aug,2020,Late August,Paterson,Pigweed,1,0
+319,206,25-Aug,2020,Late August,Paterson,Kochia,1,0
+320,207,25-Aug,2020,Late August,Paterson,Potato,1,0
+321,208,25-Aug,2020,Late August,Paterson,Common purslane,1,0
+322,209,25-Aug,2020,Late August,Paterson,Pigweed,1,0
+323,212,25-Aug,2020,Late August,Paterson,Potato,1,0
+324,213,25-Aug,2020,Late August,Pasco,Horseweed,1,0
+325,214,25-Aug,2020,Late August,Pasco,Netseed lambsquarters,1,0
+326,216,25-Aug,2020,Late August,Pasco,Potato,1,0
+327,218,25-Aug,2020,Late August,Pasco,Netseed lambsquarters,1,0
+328,205,25-Aug,2020,Late August,Paterson,Rabbitbrush,0,0
+329,210,25-Aug,2020,Late August,Paterson,Russian thistle,0,0
+330,211,25-Aug,2020,Late August,Paterson,Silver sagebrush,0,0
+331,215,25-Aug,2020,Late August,Pasco,Russian thistle,0,0
+332,217,25-Aug,2020,Late August,Pasco,Russian thistle,0,0
+333,219,27-Aug,2020,Late August,Moxee,Russian thistle,1,0
+334,220,27-Aug,2020,Late August,Moxee,Kochia,1,0
+335,222,27-Aug,2020,Late August,Mattawa,Common purslane,1,0
+336,223,27-Aug,2020,Late August,Mattawa,Kochia,1,0
+337,224,27-Aug,2020,Late August,Mattawa,Puncturevine,1,0
+338,226,27-Aug,2020,Late August,Mattawa,Hairy nightshade,1,0
+339,227,27-Aug,2020,Late August,Mattawa,Netseed lambsquarters,1,0
+340,230,27-Aug,2020,Late August,Othello,Potato,1,0
+341,231,27-Aug,2020,Late August,Othello,Kochia,1,0
+342,221,27-Aug,2020,Late August,Mattawa,Russian thistle,0,0
+343,225,27-Aug,2020,Late August,Mattawa,Pigweed,0,0
+344,228,27-Aug,2020,Late August,Mattawa,Russian thistle,0,0
+345,229,27-Aug,2020,Late August,Mattawa,Russian thistle,0,0
+346,232,27-Aug,2020,Late August,Othello,Russian thistle,0,0
+347,240,1-Oct,2020,Early October,Pasco,Puncturevine,1,0
+348,241,1-Oct,2020,Early October,Pasco,Netseed lambsquarters,1,0
+349,243,1-Oct,2020,Early October,Pasco,Russian thistle,1,0
+350,233,1-Oct,2020,Early October,Paterson,Big sagebrush,0,0
+351,234,1-Oct,2020,Early October,Paterson,Russian thistle,0,0
+352,235,1-Oct,2020,Early October,Paterson,Rabbitbrush,0,0
+353,236,1-Oct,2020,Early October,Paterson,Russian thistle,0,0
+354,237,1-Oct,2020,Early October,Paterson,Rabbitbrush,0,0
+355,238,1-Oct,2020,Early October,Paterson,Silver sagebrush,0,0
+356,239,1-Oct,2020,Early October,Paterson,Silver sagebrush,0,0
+357,242,1-Oct,2020,Early October,Pasco,Pigweed,0,0
+358,244,2-Oct,2020,Early October,Moxee,Netseed lambsquarters,1,0
+359,245,2-Oct,2020,Early October,Moxee,Kochia,1,0
+360,247,2-Oct,2020,Early October,Mattawa,Common purslane,1,0
+361,248,2-Oct,2020,Early October,Mattawa,Russian thistle,1,0
+362,249,2-Oct,2020,Early October,Mattawa,Russian thistle,1,0
+363,250,2-Oct,2020,Early October,Mattawa,Kochia,1,0
+364,246,2-Oct,2020,Early October,Moxee,Pigweed,0,0
+365,2,15-Mar,2021,Early March,Moxee,Tumble mustard,0,1
+366,3,15-Mar,2021,Early March,Othello,Flixweed,0,1
+367,4,15-Mar,2021,Early March,Pasco,Tumble mustard,0,1
+368,1,15-Mar,2021,Early March,Moxee,Flixweed,1,1
+369,65,19-Mar,2021,Late March,Wapato,Blue mustard,0,1
+370,67,19-Mar,2021,Late March,Wapato,Blue mustard,0,1
+371,54,19-Mar,2021,Late March,Wapato,Blue mustard,1,1
+372,5,23-Mar,2021,Late March,Moxee,Blue mustard,0,1
+373,68,23-Mar,2021,Late March,Wapato,Blue mustard,0,1
+374,8,23-Mar,2021,Late March,Pasco,Tumble mustard,1,0
+375,6,23-Mar,2021,Late March,Moxee,Flixweed,1,1
+376,7,23-Mar,2021,Late March,Othello,Flixweed,1,1
+377,69,23-Mar,2021,Late March,Wapato,Blue mustard,1,1
+378,70,23-Mar,2021,Late March,Wapato,Blue mustard,1,1
+379,9,30-Mar,2021,Late March,Moxee,Blue mustard,0,1
+380,10,30-Mar,2021,Late March,Moxee,Flixweed,0,1
+381,71,30-Mar,2021,Late March,Wapato,Blue mustard,0,1
+382,12,30-Mar,2021,Late March,Pasco,Tumble mustard,1,0
+383,11,30-Mar,2021,Late March,Othello,Flixweed,1,1
+384,55,30-Mar,2021,Late March,Wapato,Flixweed,1,1
+385,72,30-Mar,2021,Late March,Wapato,Blue mustard,1,1
+386,73,30-Mar,2021,Late March,Wapato,Blue mustard,1,1
+387,16,6-Apr,2021,Early April,Pasco,Tumble mustard,1,0
+388,13,6-Apr,2021,Early April,Moxee,Blue mustard,1,1
+389,14,6-Apr,2021,Early April,Moxee,Flixweed,1,1
+390,15,6-Apr,2021,Early April,Othello,Flixweed,1,1
+391,56,6-Apr,2021,Early April,Wapato,Flixweed,1,1
+392,57,6-Apr,2021,Early April,Wapato,Blue mustard,1,1
+393,58,6-Apr,2021,Early April,Wapato,Blue mustard,1,1
+394,59,6-Apr,2021,Early April,Wapato,Blue mustard,1,1
+395,18,13-Apr,2021,Early April,Moxee,Flixweed,0,0
+396,20,13-Apr,2021,Early April,Pasco,Tumble mustard,0,0
+397,17,13-Apr,2021,Early April,Moxee,Blue mustard,0,1
+398,60,13-Apr,2021,Early April,Wapato,Flixweed,0,1
+399,63,13-Apr,2021,Early April,Wapato,Blue mustard,0,1
+400,66,13-Apr,2021,Early April,Wapato,Flixweed,0,1
+401,64,13-Apr,2021,Early April,Wapato,Blue mustard,1,0
+402,19,13-Apr,2021,Early April,Othello,Flixweed,1,1
+403,61,13-Apr,2021,Early April,Wapato,Blue mustard,1,1
+404,62,13-Apr,2021,Early April,Wapato,Flixweed,1,1
+405,23,20-Apr,2021,Late April,Othello,Flixweed,0,1
+406,24,20-Apr,2021,Late April,Pasco,Tumble mustard,0,1
+407,21,20-Apr,2021,Late April,Moxee,Blue mustard,1,1
+408,22,20-Apr,2021,Late April,Moxee,Flixweed,1,1
+409,25,27-Apr,2021,Late April,Moxee,Blue mustard,0,1
+410,26,27-Apr,2021,Late April,Moxee,Flixweed,0,1
+411,27,27-Apr,2021,Late April,Othello,Flixweed,1,1
+412,28,27-Apr,2021,Late April,Pasco,Tumble mustard,1,1
+413,33,4-May,2021,Early May,Othello,Flixweed,0,1
+414,34,4-May,2021,Early May,Othello,Kochia,0,1
+415,29,4-May,2021,Early May,Moxee,Blue mustard,1,1
+416,30,4-May,2021,Early May,Moxee,Flixweed,1,1
+417,31,4-May,2021,Early May,Moxee,Kochia,1,1
+418,32,4-May,2021,Early May,Moxee,Tumble mustard,1,1
+419,35,4-May,2021,Early May,Pasco,Kochia,1,1
+420,36,4-May,2021,Early May,Pasco,Tumble mustard,1,1
+421,39,11-May,2021,Early May,Moxee,Tumble mustard,0,1
+422,37,11-May,2021,Early May,Moxee,Flixweed,1,1
+423,38,11-May,2021,Early May,Moxee,Kochia,1,1
+424,40,11-May,2021,Early May,Othello,Flixweed,1,1
+425,41,11-May,2021,Early May,Othello,Kochia,1,1
+426,42,11-May,2021,Early May,Pasco,Kochia,1,1
+427,43,11-May,2021,Early May,Pasco,Tumble mustard,1,1
+428,52,26-May,2021,Late May,Pasco,Kochia,0,0
+429,53,26-May,2021,Late May,Pasco,Tumble mustard,0,0
+430,49,26-May,2021,Late May,Othello,Flixweed,0,1
+431,51,26-May,2021,Late May,Othello,Loesel's tumble mustard,0,1
+432,48,26-May,2021,Late May,Moxee,Tumble mustard,1,0
+433,44,26-May,2021,Late May,Moxee,Flixweed,1,1
+434,45,26-May,2021,Late May,Moxee,Kochia,1,1
+435,46,26-May,2021,Late May,Moxee,Loesel's tumble mustard,1,1
+436,47,26-May,2021,Late May,Moxee,Russian thistle,1,1
+437,50,26-May,2021,Late May,Othello,Kochia,1,1
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
