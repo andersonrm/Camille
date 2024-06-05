@@ -1,11 +1,15 @@
 Camille’s BLTV & BLTVA plant data
 ================
 Dr. Riley M. Anderson & Camille Wagstaff
-May 23, 2024
+June 05, 2024
 
   
 
 - [Overview](#overview)
+- [Sample by host plant and season (split by
+  years)](#sample-by-host-plant-and-season-split-by-years)
+- [Infection (BCTV) by host plant and season (split by
+  years)](#infection-bctv-by-host-plant-and-season-split-by-years)
 - [Plots](#plots)
   - [Proportion infection class per
     year](#proportion-infection-class-per-year)
@@ -35,6 +39,14 @@ The data used to generate these plots are:
 
 These data have been cleaned manually (species name errors) and are
 different from data on Camille’s machine.
+
+## Sample by host plant and season (split by years)
+
+![](BLTVA_files/figure-gfm/sample_host_plant_season_year-1.png)<!-- -->
+
+## Infection (BCTV) by host plant and season (split by years)
+
+![](BLTVA_files/figure-gfm/infection_hosplant_season_year-1.png)<!-- -->
 
 ## Plots
 

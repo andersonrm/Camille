@@ -155,6 +155,16 @@ new.bctv <- left_join(new.bctv, new.plants.sampled, by = "Plant")
 
 new.bltva <- left_join(new.bltva, new.plants.sampled, by = "Plant")
 
+
+plants.year <- plants.year %>% slice(1:437)
+
+
+
+plants.year2 <- plants.year %>% 
+  mutate(across(c(Year:Plant), as.factor))
+
+
+
 plants.year.inf <- plants.year %>% 
   filter(!is.na(Year)) %>% 
   mutate(across(c(Year:Plant), as.factor),
@@ -233,6 +243,57 @@ bctv1 <- dat7 %>%
 
 ```
 
+## Sample by host plant and season (split by years)
+
+```{r sample_host_plant_season_year, echo = F}
+
+plants3 <- plants.year2 %>% 
+  group_by(Year, Time.period, Plant, BCTV) %>% 
+  tally() %>% 
+  filter(n > 1) %>% 
+  droplevels() %>% 
+  ungroup()
+
+plants3 %>% 
+  ggplot(aes(x = Time.period, y = n, fill = Plant)) +
+  geom_col(position = position_dodge()) +
+  facet_wrap(~ Year, nrow = 3) +
+  scale_x_discrete(limits = c(
+    "Late March", "Early April", "Late April", "Early May", "Late May",
+    "Early June", "Late June", "Early July", "Late July", "Early August",
+    "Late August", "Early October", "Late October"
+  )) +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  labs(y = "Plants sampled")
+
+
+
+```
+
+## Infection (BCTV) by host plant and season (split by years)
+
+```{r infection_hosplant_season_year, echo = F}
+
+plants3 %>% 
+  group_by(Time.period, Year, Plant) %>% 
+  summarise(sumBCTV = sum(BCTV),
+            sumN = sum(n)) %>% 
+  mutate(prop.inf = sumBCTV/sumN) %>% 
+  ggplot(aes(x = Time.period, y = prop.inf, fill = Plant)) +
+  geom_col(position = position_dodge()) +
+  facet_wrap(~ Year, nrow = 3) +
+  scale_x_discrete(limits = c(
+    "Late March", "Early April", "Late April", "Early May", "Late May",
+    "Early June", "Late June", "Early July", "Late July", "Early August",
+    "Late August", "Early October", "Late October"
+  )) +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  labs(y = "Pr(Plants Infected with BCTV)")
+
+
+```
 
 ## Plots
 
