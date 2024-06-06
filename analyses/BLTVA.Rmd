@@ -156,7 +156,9 @@ new.bctv <- left_join(new.bctv, new.plants.sampled, by = "Plant")
 new.bltva <- left_join(new.bltva, new.plants.sampled, by = "Plant")
 
 
-plants.year <- plants.year %>% slice(1:437)
+plants.year <- plants %>% 
+  select(Year, Time.period, Specific, BCTV, BLTVA) %>% 
+  rename(Plant = Specific)
 
 
 
@@ -245,7 +247,7 @@ bctv1 <- dat7 %>%
 
 ## Sample by host plant and season (split by years)
 
-```{r sample_host_plant_season_year, echo = F}
+```{r sample_host_plant_season_year, echo = F, cache = F}
 
 plants3 <- plants.year2 %>% 
   group_by(Year, Time.period, Plant, BCTV) %>% 
@@ -273,7 +275,7 @@ plants3 %>%
 
 ## Infection (BCTV) by host plant and season (split by years)
 
-```{r infection_hosplant_season_year, echo = F}
+```{r infection_hosplant_season_year, echo = F, cache = F}
 
 plants3 %>% 
   group_by(Time.period, Year, Plant) %>% 
