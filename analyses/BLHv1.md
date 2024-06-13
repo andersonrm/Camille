@@ -1,7 +1,7 @@
 Camille’s BLH Analysis V1
 ================
 Riley M. Anderson & Camille Wagstaff
-November 16, 2023
+June 13, 2024
 
   
 
@@ -24,6 +24,12 @@ November 16, 2023
 ## Overview
 
 Camille’s beet leafhopper project.
+
+When (seasonal) and where (plants/regions?) do BCTV infections come
+from?
+
+Is virus positive predictive of diet? Difference in diet based on
+infection?
 
 ### Summary of Results
 

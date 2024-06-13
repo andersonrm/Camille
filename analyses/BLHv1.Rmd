@@ -224,7 +224,7 @@ dat1 %>%
 
 
 ### BCTV by time of year (all years together)
-```{r timeperiod_by_BCTV, echo = F}
+```{r timeperiod_by_BCTV, echo = F, cache = F}
 
 
 dat1 %>% 
@@ -236,13 +236,13 @@ dat1 %>%
   ggplot(aes(x = Time.Period, y = count, fill = BCTV)) +
   geom_col() +
   theme_classic() +
-  coord_flip() +
   scale_x_discrete(limits = c(
     "Late March", "Early April", "Late April", "Early May", "Late May",
     "Early June", "Late June", "Early July", "Late July", "Early August",
     "Late August", "Early October", "Late October"
   )) +
-  labs(x = "Time period\nearly      ----->       late")
+  labs(x = "Time period\nearly      ----->       late") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 ```
 
