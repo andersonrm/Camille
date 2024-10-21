@@ -150,6 +150,60 @@ dat1 %>%
 
 ```
 
+### BCTV by NEW plant type
+```{r planttype_by_BCTV_1, echo = F}
+
+dat1_crop <- dat1 %>% 
+  filter(Plant.Type == "Crop" | Plant.Type == "Weed") %>% 
+  mutate(plant_type = Common.Name)
+
+dat1_crop_10 <- dat1_crop %>% 
+  select(plant_type) %>% 
+  group_by(plant_type) %>% 
+  tally(name = "count") %>% 
+  filter(count > 10)
+
+dat2_crop <- dat1_crop %>% 
+  semi_join(dat1_crop_10, by = "plant_type") %>% 
+  mutate(Plant.Type = plant_type) %>% 
+  select(-plant_type)
+
+dat2 <- dat1 %>% 
+  filter(Plant.Type != "Crop" & Plant.Type != "Weed") %>% 
+  bind_rows(dat2_crop) %>% 
+  mutate(co_inf = if_else(BCTV == 1 & BLTVA == 1, 1, 0),
+         healthy = if_else(BCTV == 0 & BLTVA == 0, 1, 0),
+         Plant.Type = factor(Plant.Type)) %>% 
+  select(Plant.Type, BCTV, BLTVA, co_inf, healthy) %>% 
+  pivot_longer(cols = c(BCTV : healthy),
+               names_to = "Status") %>% 
+  filter(value == 1) %>% 
+  mutate(Status = factor(Status),
+         Plant.Type = case_when(
+           Plant.Type == "Lambsquarter White goosefoot" ~ 
+             "Lambsquarter",
+           Plant.Type == "garden lettuce" ~ "Lettuce",
+           Plant.Type == "cowpea" ~ "Pea",
+           TRUE ~ Plant.Type
+         )) %>% 
+  group_by(Plant.Type, Status) %>% 
+  tally(name = "count") %>% 
+  filter(Plant.Type != "Shrub" & Plant.Type != "Flowering Shrub"
+         & Plant.Type != "Grass")
+
+
+dat2 %>% 
+  ggplot(aes(x = Plant.Type, y = count, fill = Status)) +
+  geom_col() +
+  theme_classic() +
+  coord_flip() +
+  labs(x = "", y = "BLH count") +
+  scale_fill_discrete(labels = c("BCTV", "BLTVA",
+                               "Co-infected", "Healthy"))
+
+
+
+```
 
 ### BCTV by plant type and year
 ```{r planttype_by_BCTV_year, echo = F}

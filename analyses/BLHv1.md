@@ -1,7 +1,7 @@
 Camille’s BLH Analysis V1
 ================
 Riley M. Anderson & Camille Wagstaff
-June 13, 2024
+October 21, 2024
 
   
 
@@ -10,6 +10,7 @@ June 13, 2024
 - [Exploratory Data Analysis](#exploratory-data-analysis)
   - [BCTV by plant type (weed, crop, shrub,
     etc.)](#bctv-by-plant-type-weed-crop-shrub-etc)
+  - [BCTV by NEW plant type](#bctv-by-new-plant-type)
   - [BCTV by plant type and year](#bctv-by-plant-type-and-year)
   - [BCTV by family](#bctv-by-family)
   - [BCTV by genus](#bctv-by-genus)
@@ -40,6 +41,10 @@ infection?
 ### BCTV by plant type (weed, crop, shrub, etc.)
 
 ![](BLHv1_files/figure-gfm/planttype_by_BCTV-1.png)<!-- -->
+
+### BCTV by NEW plant type
+
+![](BLHv1_files/figure-gfm/planttype_by_BCTV_1-1.png)<!-- -->
 
 ### BCTV by plant type and year
 
