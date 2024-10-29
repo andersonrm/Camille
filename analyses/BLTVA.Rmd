@@ -297,6 +297,31 @@ plants3 %>%
 
 ```
 
+```{r infection_hosplant_season1, echo = F, cache = F}
+
+plants3 %>% 
+  filter(Plant != "Grasses" & Plant != "Rabbitbrush" &
+           Plant != "Silver sagebrush" & Plant != "Puncturevine" &
+           Plant != "Prickly lettuce" & Plant != "Common purslane") %>% 
+  group_by(Time.period, Year, Plant) %>% 
+  summarise(sumBCTV = sum(BCTV),
+            sumN = sum(n)) %>% 
+  mutate(prop.inf = sumBCTV/sumN) %>% 
+  ggplot(aes(x = Time.period, y = prop.inf, fill = Plant)) +
+  geom_col(position = position_dodge()) +
+  scale_x_discrete(limits = c(
+    "Late March", "Early April", "Late April", "Early May", "Late May",
+    "Early June", "Late June", "Early July", "Late July", "Early August",
+    "Late August", "Early October", "Late October"
+  )) +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  labs(y = "Pr(Plants Infected w/ BCTV)",
+       x = "", fill = "Plant type")
+
+
+```
+
 ## Plots
 
 ### Proportion infection class per year
