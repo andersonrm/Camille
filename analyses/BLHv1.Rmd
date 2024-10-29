@@ -215,7 +215,7 @@ dat2 %>%
   theme_classic() +
   coord_flip() +
   labs(x = "", y = "BLH count") +
-  scale_fill_discrete(labels = c("BLTVA", "Healthy"))
+  scale_fill_discrete(labels = c("BCTV", "Healthy"))
 
 ```
 
