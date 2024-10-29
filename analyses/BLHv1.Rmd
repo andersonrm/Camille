@@ -205,6 +205,20 @@ dat2 %>%
 
 ```
 
+
+```{r BCTV_and_healthy_plot, echo = F}
+
+dat2 %>% 
+  filter(Status == "BCTV" | Status == "healthy") %>% 
+  ggplot(aes(x = Plant.Type, y = count, fill = Status)) +
+  geom_col() +
+  theme_classic() +
+  coord_flip() +
+  labs(x = "", y = "BLH count") +
+  scale_fill_discrete(labels = c("BLTVA", "Healthy"))
+
+```
+
 ### BCTV by plant type and year
 ```{r planttype_by_BCTV_year, echo = F}
 

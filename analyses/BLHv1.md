@@ -1,7 +1,7 @@
 Camille’s BLH Analysis V1
 ================
 Riley M. Anderson & Camille Wagstaff
-October 21, 2024
+October 29, 2024
 
   
 
@@ -45,6 +45,8 @@ infection?
 ### BCTV by NEW plant type
 
 ![](BLHv1_files/figure-gfm/planttype_by_BCTV_1-1.png)<!-- -->
+
+![](BLHv1_files/figure-gfm/BCTV_and_healthy_plot-1.png)<!-- -->
 
 ### BCTV by plant type and year
 
