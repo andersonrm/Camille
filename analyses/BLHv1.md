@@ -46,7 +46,7 @@ infection?
 
 ![](BLHv1_files/figure-gfm/planttype_by_BCTV_1-1.png)<!-- -->
 
-![](BLHv1_files/figure-gfm/BCTV_and_healthy_plot-1.png)<!-- -->
+![](BLHv1_files/figure-gfm/BCTV_and_healthy_plot1-1.png)<!-- -->
 
 ### BCTV by plant type and year
 

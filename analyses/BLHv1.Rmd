@@ -206,7 +206,7 @@ dat2 %>%
 ```
 
 
-```{r BCTV_and_healthy_plot, echo = F}
+```{r BCTV_and_healthy_plot1, echo = F}
 
 dat2 %>% 
   filter(Status == "BCTV" | Status == "healthy") %>% 
