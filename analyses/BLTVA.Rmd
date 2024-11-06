@@ -273,6 +273,27 @@ plants3 %>%
 
 ```
 
+## Sample by host plant and season
+```{r sample_host_plant_season, echo = F, cache = F}
+
+
+plants3 %>% 
+  ggplot(aes(x = Time.period, y = n, fill = Plant)) +
+  geom_col(position = position_dodge()) +
+  scale_x_discrete(limits = c(
+    "Late March", "Early April", "Late April", "Early May", "Late May",
+    "Early June", "Late June", "Early July", "Late July", "Early August",
+    "Late August", "Early October", "Late October"
+  )) +
+  theme_classic() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  labs(y = "Plants sampled", x = "", fill = " Plant species")
+
+
+
+```
+
+
 ## Infection (BCTV) by host plant and season (split by years)
 
 ```{r infection_hosplant_season_year, echo = F, cache = F}
