@@ -134,9 +134,11 @@ bltva <- dat2 %>%
 
 new.bltva <- plants %>% 
   mutate(across(c(Plant, BLTVA), as.factor)) %>% 
-  group_by(Plant, BLTVA) %>% 
+  group_by(Plant, BLTVA, Time.period) %>% 
   tally() %>% 
   ungroup()
+
+new.bltva2 <- new.bltva
 
 new.bctv <- plants %>% 
   mutate(Plant = factor(Plant),
@@ -275,19 +277,30 @@ plants3 %>%
 
 ## Sample by host plant and season
 ```{r sample_host_plant_season, echo = F, cache = F}
+month_order <- c("April", "May", "June", "July", "August", "October")
+
+plants4 <- plants3 %>% 
+  mutate(season = case_when(
+    str_detect(Time.period, "March | April") ~ "April",
+    str_detect(Time.period, "May") ~ "May",
+    str_detect(Time.period, "June") ~ "June",
+    str_detect(Time.period, "July") ~ "July",
+    str_detect(Time.period, "August") ~ "August",
+    TRUE ~ "October"
+  ))
 
 
-plants3 %>% 
-  ggplot(aes(x = Time.period, y = n, fill = Plant)) +
-  geom_col(position = position_dodge()) +
-  scale_x_discrete(limits = c(
-    "Late March", "Early April", "Late April", "Early May", "Late May",
-    "Early June", "Late June", "Early July", "Late July", "Early August",
-    "Late August", "Early October", "Late October"
-  )) +
-  theme_classic() +
+plants4 %>% 
+  group_by(season, Plant) %>% 
+  summarise(n = sum(n)) %>% 
+  ggplot(aes(x = factor(season, levels = month_order),
+             y = n, color = Plant, group = Plant)) +
+  geom_point() +
+  geom_line() +
+  theme_cowplot(font_size = 22) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
-  labs(y = "Plants sampled", x = "", fill = " Plant species")
+  labs(y = "Plants sampled", x = "", color = " Plant species") +
+  theme(legend.text = element_text(size = 14))
 
 
 
@@ -318,30 +331,83 @@ plants3 %>%
 
 ```
 
-```{r infection_hosplant_season1, echo = F, cache = F}
+```{r BCTV_infection_season, echo = F, cache = F}
 
-plants3 %>% 
+plants4 %>% 
+  mutate(Plant = case_when(
+    Plant == "Loesel's tumble mustard" ~ "Tumble mustard",
+    TRUE ~ Plant
+  )) %>% 
   filter(Plant != "Grasses" & Plant != "Rabbitbrush" &
            Plant != "Silver sagebrush" & Plant != "Puncturevine" &
-           Plant != "Prickly lettuce" & Plant != "Common purslane") %>% 
-  group_by(Time.period, Year, Plant) %>% 
-  summarise(sumBCTV = sum(BCTV),
-            sumN = sum(n)) %>% 
-  mutate(prop.inf = sumBCTV/sumN) %>% 
-  ggplot(aes(x = Time.period, y = prop.inf, fill = Plant)) +
-  geom_col(position = position_dodge()) +
-  scale_x_discrete(limits = c(
-    "Late March", "Early April", "Late April", "Early May", "Late May",
-    "Early June", "Late June", "Early July", "Late July", "Early August",
-    "Late August", "Early October", "Late October"
-  )) +
-  theme_classic() +
-  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+           Plant != "Prickly lettuce" & Plant != "Common purslane" &
+         Plant != "Russian thistle" & Plant != "Pigweed" &
+           Plant != "Lambsquarters") %>% 
+  droplevels() %>% 
+  group_by(season, Plant, BCTV) %>% 
+  summarise(n = sum(n)) %>% 
+  pivot_wider(names_from = BCTV,
+              values_from = n,
+              values_fill = list(n = 0)) %>% 
+  mutate(total = `0` + `1`,
+         prop.inf = `1`/total) %>% 
+  ggplot(aes(x = factor(season, levels = month_order),
+             y = prop.inf, color = Plant, group = Plant)) +
+  geom_point() +
+  geom_line() +
+  theme_cowplot(font_size = 22) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.text = element_text(size = 14),
+        axis.title.x = element_blank()) +
   labs(y = "Pr(Plants Infected w/ BCTV)",
-       x = "", fill = "Plant type")
+       color = "Plant type")
 
 
 ```
+
+
+```{r CPt_infection_season, echo = F, cache = F}
+
+new.bltva2 %>% 
+  mutate(Plant = factor(case_when(
+    Plant == "Loesel's tumble mustard" ~ "Tumble mustard",
+    TRUE ~ as.factor(Plant)
+  ))) %>% 
+  filter(Plant != "Grasses" & Plant != "Rabbitbrush" &
+           Plant != "Silver sagebrush" & Plant != "Puncturevine" &
+           Plant != "Prickly lettuce" &
+           Plant != "Common purslane" & Plant != "Brush") %>% 
+  mutate(season = factor(case_when(
+    str_detect(Time.period, "March | April") ~ "April",
+    str_detect(Time.period, "May") ~ "May",
+    str_detect(Time.period, "June") ~ "June",
+    str_detect(Time.period, "July") ~ "July",
+    str_detect(Time.period, "August") ~ "August",
+    TRUE ~ "October"
+  ))) %>% 
+  droplevels() %>% 
+  group_by(Plant, season, BLTVA) %>% 
+  summarise(n = sum(n)) %>% 
+  pivot_wider(names_from = BLTVA,
+              values_from = n,
+              values_fill = list(n = 0)) %>% 
+  mutate(total = `0` + `1`,
+         prop.inf = `1`/total) %>% 
+  filter(total > 4) %>% 
+  ggplot(aes(x = factor(season, levels = month_order),
+             y = prop.inf, color = Plant, group = Plant)) +
+  geom_point() +
+  geom_line() +
+  theme_cowplot(font_size = 22) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.text = element_text(size = 14),
+        axis.title.x = element_blank()) +
+  labs(y = "Pr(Plants Infected w/ CPt)",
+       color = "Plant type")
+
+
+```
+
 
 ## Plots
 
@@ -369,20 +435,45 @@ plants.year.inf %>%
 ```{r new_bltva_infected, echo = F}
 
 new.bltva %>% 
-  filter(BLTVA == 1) %>% 
-  mutate(Prop.infected = n/plants.sampled) %>% 
-  ggplot(aes(x = Prop.infected, y = Plant, size = plants.sampled)) +
+  filter(Plant == "Russian thistle" |
+         Plant == "Potato" |
+         Plant == "Pigweed" |
+         Plant == "Lambsquarters" |
+         Plant == "Mustard" |
+         Plant == "Flixweed" |
+         Plant == "Kochia") %>% 
+  group_by(Plant, BLTVA) %>% 
+  summarise(n = sum(n)) %>% 
+  pivot_wider(names_from = BLTVA,
+              values_from = n,
+              values_fill = list(n = 0)) %>% 
+  mutate(total = `0` + `1`,
+         Prop.infected = `1`/total) %>% 
+  ggplot(aes(x = Prop.infected, y = Plant, size = total)) +
   geom_point(shape = 21,
              fill = 'lightgray',
              color = 'black') +
   scale_size(range = c(1, 10),
              breaks = c(1, 50, 100, 200),
              limits = c(1, 200)) +
-  theme_cowplot() +
-  labs(x = "Proportion infection",
+  theme_cowplot(font_size = 22) +
+  labs(x = "Prop infection w/ CPt",
        y = "",
-       size = "Sample size",
-       title = "BLTVA infection")
+       size = "Sample size") +
+  scale_y_discrete(label = c("Flixweed",
+                             "Kochia",
+                             "Lambsquarter",
+                             "Mustards",
+                             "Pigweed",
+                             "Potato",
+                             "Russian thistle")) +
+  scale_x_continuous(limits = c(0, 1.5),
+                     breaks = c(.25, .5, .75)) +
+  theme(legend.position = c(0.7, .6),
+        legend.box.background = 
+          element_rect(color = 'black',
+                       linewidth = 1.2))
+  
 
 ```
 
@@ -390,7 +481,8 @@ new.bltva %>%
 ```{r new_bctv_infected, echo = F}
 
 new.bctv %>% 
-  filter(BCTV == 1) %>% 
+  filter(BCTV == 1,
+         Plant != "Purslane") %>% 
   mutate(Prop.infected = n/plants.sampled) %>% 
   ggplot(aes(x = Prop.infected, y = Plant, size = plants.sampled)) +
   geom_point(shape = 21,
@@ -399,11 +491,15 @@ new.bctv %>%
   scale_size(range = c(1, 10),
              breaks = c(1, 50, 100, 200),
              limits = c(1, 200)) +
-  theme_cowplot() +
-  labs(x = "Proportion infected",
+  theme_cowplot(font_size = 22) +
+  labs(x = "Prop infected w/ BCTV",
        y = "",
-       size = "Sample size",
-       title = "BCTV Infection")
+       size = "Sample size") +
+  scale_x_continuous(breaks = c(0.2, 0.4, 0.6, 0.8),limits = c(0, 1)) +
+  theme(legend.position = c(.7, .65),
+        legend.box.background = 
+          element_rect(color = 'black',
+                       linewidth = 1.2))
 
 ```
 

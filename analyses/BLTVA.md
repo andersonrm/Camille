@@ -1,7 +1,7 @@
 Camille’s BLTV & BLTVA plant data
 ================
 Dr. Riley M. Anderson & Camille Wagstaff
-November 06, 2024
+January 29, 2025
 
   
 
@@ -53,7 +53,9 @@ different from data on Camille’s machine.
 
 ![](BLTVA_files/figure-gfm/infection_hosplant_season_year-1.png)<!-- -->
 
-![](BLTVA_files/figure-gfm/infection_hosplant_season1-1.png)<!-- -->
+![](BLTVA_files/figure-gfm/BCTV_infection_season-1.png)<!-- -->
+
+![](BLTVA_files/figure-gfm/CPt_infection_season-1.png)<!-- -->
 
 ## Plots
 
