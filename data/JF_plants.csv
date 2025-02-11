@@ -1,0 +1,418 @@
+date,site,region,host,BLTVA_status,BCTV_status
+43657,P107,Paterson,Pigweed,0,0
+43657,P107,Paterson,Potato,1,0
+43657,P107,Paterson,Russian thistle,1,0
+43657,P107,Paterson,Prickly lettuce,0,0
+43664,P107,Paterson,Potato,1,0
+43664,P107,Paterson,Russian thistle,0,0
+43664,P107,Paterson,Prickly lettuce,0,0
+43664,P107,Paterson,Pigweed,0,0
+43678,P107,Paterson,Russian thistle,0,0
+43678,P107,Paterson,Hairy nightshade,1,0
+43678,P107,Paterson,Potato,0,0
+43678,P107,Paterson,Pigweed,0,0
+43651,P413,Pasco,Potato,0,0
+43651,P413,Pasco,Pigweed,0,0
+43651,P413,Pasco,Kochia,0,0
+43651,P413,Pasco,Tumble mustard,1,0
+43658,P413,Pasco,Tumble mustard,1,0
+43658,P413,Pasco,Russian thistle,0,0
+43658,P413,Pasco,Prickly lettuce,0,0
+43679,P413,Pasco,Potato,1,0
+43679,P413,Pasco,Pigweed,0,0
+43679,P413,Pasco,Russian thistle,0,0
+43754,P413,Pasco,Prickly lettuce,0,0
+43754,P413,Pasco,Russian thistle,0,0
+43657,P475,Paterson,Pigweed,0,0
+43657,P475,Paterson,Potato,1,0
+43657,P475,Paterson,Russian thistle,0,0
+43657,P475,Paterson,Kochia,1,0
+43664,P475,Paterson,Potato,0,0
+43664,P475,Paterson,Russian thistle,0,0
+43664,P475,Paterson,Kochia,1,1
+43678,P475,Paterson,Kochia,1,0
+43678,P475,Paterson,Potato,0,0
+43678,P475,Paterson,Netseed Lambsquarters,1,0
+43678,P475,Paterson,Russian thistle,0,0
+43678,P475,Paterson,Pigweed,0,0
+43754,P475,Paterson,Russian thistle,0,0
+43651,P505,Pasco,Potato,0,0
+43651,P505,Pasco,Kochia,0,0
+43651,P505,Pasco,Pigweed,0,0
+43651,P505,Pasco,Russian thistle,0,0
+43658,P505,Pasco,Pigweed,0,0
+43658,P505,Pasco,Russian thistle,0,0
+43658,P505,Pasco,Kochia,1,0
+43754,P505,Pasco,Grasses,0,0
+43657,P529,Paterson,Potato,1,0
+43657,P529,Paterson,Russian thistle,0,0
+43657,P529,Paterson,Kochia,1,1
+43664,P529,Paterson,Pigweed,0,0
+43664,P529,Paterson,Prickly lettuce,0,0
+43664,P529,Paterson,Russian thistle,0,0
+43664,P529,Paterson,Kochia,0,0
+43664,P529,Paterson,Potato,1,0
+43678,P529,Paterson,Pigweed,0,0
+43678,P529,Paterson,Russian thistle,0,0
+43678,P529,Paterson,Kochia,1,0
+43678,P529,Paterson,Potato,1,0
+43752,P529,Paterson,Hairy nightshade,0,0
+43754,P529,Paterson,Grasses,0,0
+43754,P529,Paterson,Prickly lettuce,0,0
+43754,P529,Paterson,Russian thistle,1,0
+43658,Moxee,Moxee,Russian thistle,0,0
+43658,Moxee,Moxee,Kochia,1,0
+43668,Moxee,Moxee,Kochia,1,1
+43668,Moxee,Moxee,Russian thistle,0,0
+43649,RDJ,Mattawa,Kochia,0,0
+43649,RDJ,Mattawa,Grasses,0,0
+43666,RDJ,Mattawa,Potato,1,0
+43666,RDJ,Mattawa,Kochia,0,0
+43666,RDJ,Mattawa,Pigweed,0,0
+43666,RDJ,Mattawa,Russian thistle,0,0
+43756,RDJ,Mattawa,Grasses,1,0
+43756,RDJ,Mattawa,Russian thistle,0,0
+43756,RDJ,Mattawa,Alfalfa,1,0
+43649,RDR,Mattawa,Kochia,0,0
+43649,RDR,Mattawa,Prickly lettuce,0,0
+43649,RDR,Mattawa,Russian thistle,0,0
+43649,RDR,Mattawa,Potato,1,0
+43656,RDR,Mattawa,Potato,0,0
+43656,RDR,Mattawa,Russian thistle,0,0
+43656,RDR,Mattawa,Kochia,0,0
+43656,RDR,Mattawa,Prickly lettuce,0,0
+43656,RDR,Mattawa,Pigweed,0,0
+43666,RDR,Mattawa,Kochia,0,0
+43666,RDR,Mattawa,Pigweed,0,0
+43666,RDR,Mattawa,Russian thistle,0,0
+43666,RDR,Mattawa,Potato,1,0
+43666,RDR,Mattawa,Unknown plant,1,0
+43666,RDR,Mattawa,Grasses,0,0
+43756,RDR,Mattawa,Prickly lettuce,0,0
+43756,RDR,Mattawa,Grasses,0,0
+43756,RDR,Mattawa,Horseweed,0,0
+43756,RDR,Mattawa,Russian thistle,1,0
+43651,WSU,Pasco,Potato,0,0
+43651,WSU,Pasco,Pigweed,0,0
+43651,WSU,Pasco,Kochia,0,0
+43651,WSU,Pasco,Russian thistle,0,0
+43651,WSU,Pasco,Tumble mustard,1,0
+43658,WSU,Pasco,Potato,0,0
+43658,WSU,Pasco,Kochia,1,0
+43658,WSU,Pasco,Russian thistle,0,0
+43658,WSU,Pasco,Pigweed,0,0
+43665,WSU,Pasco,Pigweed,0,0
+43665,WSU,Pasco,Russian thistle,0,0
+43665,WSU,Pasco,Potato,1,0
+43679,WSU,Pasco,Potato,1,0
+43679,WSU,Pasco,Russian thistle,0,0
+43679,WSU,Pasco,Kochia,1,0
+43679,WSU,Pasco,Pigweed,0,0
+43754,WSU,Pasco,Prickly lettuce,0,0
+43754,WSU,Pasco,Bindweed,0,0
+43754,WSU,Pasco,Mallow,0,0
+43754,WSU,Pasco,Kochia,1,0
+43754,WSU,Pasco,Pigweed,1,0
+43943,WSU Pasco,Pasco,Tumble Mustard,1,0
+43943,WSU Pasco,Pasco,Grasses,0,0
+43943,WSU Pasco,Pasco,Scotch thistle ,0,0
+43943,WSU Pasco,Pasco,Filaree,0,0
+43945,A,Moxee,Flixweed,1,0
+43945,A,Moxee,Blue mustard,0,0
+43969,A,Moxee,Flixweed,1,0
+43969,A,Moxee,Tumble Mustard,1,0
+43969,A,Moxee,Kochia,1,0
+43969,B,Mattawa,Flixweed,1,0
+43969,B,Mattawa,Potato,1,0
+43969,B,Mattawa,Russian thistle,0,0
+43969,C,Mattawa,Russian thistle,0,0
+43969,C,Mattawa,Potato,0,0
+43969,C,Mattawa,Netseed lambsquarters,1,0
+43969,C,Mattawa,Flixweed,1,0
+43969,C,Mattawa,Black mustard,1,1
+43969,C,Mattawa,Kochia,1,1
+43969,D,Mattawa,Black mustard,1,0
+43969,D,Mattawa,Russian thistle,0,0
+43969,D,Mattawa,Potato,0,0
+43969,D,Mattawa,Kochia,1,0
+43969,F,Othello,Kochia,0,0
+43969,F,Othello,Tumble Mustard,1,0
+43969,F,Othello,Potato,1,0
+43969,G,Othello,Tumble Mustard,1,0
+43969,G,Othello,Flixweed,0,0
+43969,G,Othello,Potato,1,0
+43969,G,Othello,Filaree,0,0
+43969,G,Othello,Blue mustard,0,0
+43978,H,Paterson,Russian thistle,0,0
+43978,H,Paterson,Potato,1,0
+43978,H,Paterson,Tumble Mustard,1,0
+43978,H,Paterson,Western yarrow,0,0
+43978,J,Paterson,Tumble Mustard,1,0
+43978,J,Paterson,Russian thistle,0,0
+43978,J,Paterson,Potato,1,0
+43978,K,Paterson,Potato,1,0
+43978,K,Paterson,Silver sagebrush,0,0
+43978,L,Pasco,Horseweed,0,0
+43978,L,Pasco,Potato,1,0
+43978,L,Pasco,Russian thistle,0,0
+43978,M,Pasco,Netseed lambsquarters,1,0
+43978,M,Pasco,Potato,1,0
+43978,M,Pasco,Mesquite,1,0
+43978,M,Pasco,Kochia,1,0
+43978,M,Pasco,Russian thistle,1,0
+43978,N,Pasco,Russian thistle,1,1
+43978,N,Pasco,Tumble Mustard,1,0
+43978,N,Pasco,Kochia,0,0
+43978,N,Pasco,Potato,1,1
+43985,A,Moxee,Tumble Mustard,1,1
+43985,A,Moxee,Russian thistle,0,0
+43985,A,Moxee,Black mustard,1,1
+43985,A,Moxee,Flixweed,1,0
+43985,A,Moxee,Kochia,1,0
+43985,B,Mattawa,Russian thistle,0,0
+43985,B,Mattawa,Alfalfa,1,0
+43985,B,Mattawa,Potato,1,0
+43985,C,Mattawa,Flixweed,1,0
+43985,C,Mattawa,Black mustard,1,0
+43985,C,Mattawa,Potato,1,0
+43985,C,Mattawa,Netseed lambsquarters,1,1
+43985,C,Mattawa,Kochia,1,0
+43985,C,Mattawa,Russian thistle,0,0
+43985,D,Mattawa,Potato,1,0
+43985,D,Mattawa,Russian thistle,0,0
+43985,D,Mattawa,Kochia,1,1
+43985,F,Othello,Kochia,1,0
+43985,F,Othello,Russian thistle,0,0
+43985,F,Othello,Potato,0,0
+43985,G,Othello,Potato,1,0
+43985,G,Othello,Kochia,1,0
+43999,A,Moxee,Russian thistle,1,0
+43999,A,Moxee,Black mustard,1,1
+43999,A,Moxee,Kochia,1,1
+43999,B,Mattawa,Russian thistle,1,0
+43999,B,Mattawa,Alfalfa,1,0
+43999,B,Mattawa,Potato,1,0
+43999,C,Mattawa,Kochia,1,0
+43999,C,Mattawa,Netseed lambsquarters,1,1
+43999,C,Mattawa,Russian thistle,1,0
+43999,C,Mattawa,Potato,1,0
+43999,C,Mattawa,Black mustard,1,0
+43999,E,Othello,Netseed lambsquarters,1,0
+43999,E,Othello,Kochia,1,1
+43999,E,Othello,Russian thistle,1,0
+43999,E,Othello,Potato,1,0
+43999,F,Othello,Potato,1,1
+43999,F,Othello,Kochia,1,0
+43999,F,Othello,Russian thistle,0,0
+43999,G,Othello,Potato,1,0
+43999,G,Othello,Kochia,0,0
+44007,H,Paterson,Potato,1,0
+44007,H,Paterson,Russian thistle,0,1
+44007,H,Paterson,Rabbitbrush,0,0
+44007,I,Paterson,Russian thistle,1,0
+44007,I,Paterson,Kochia,1,0
+44007,I,Paterson,Potato,1,0
+44007,K,Paterson,Potato,1,0
+44007,K,Paterson,Silver sagebrush,0,0
+44007,M,Pasco,Mesquite,1,0
+44007,M,Pasco,Netseed lambsquarters,1,0
+44007,M,Pasco,Russian thistle,1,0
+44007,M,Pasco,Kochia,1,0
+44007,M,Pasco,Pigweed,0,0
+44007,M,Pasco,Potato,1,1
+44007,N,Pasco,Potato,1,0
+44007,N,Pasco,Russian thistle,1,0
+44007,N,Pasco,Kochia,1,1
+44013,A,Moxee,Kochia,0,0
+44013,A,Moxee,Netseed lambsquarters,1,0
+44013,A,Moxee,Russian thistle,0,0
+44013,B,Mattawa,Potato,1,0
+44013,B,Mattawa,Alfalfa,1,0
+44013,B,Mattawa,Russian thistle,0,0
+44013,C,Mattawa,Russian thistle,0,0
+44013,C,Mattawa,Kochia,1,0
+44013,C,Mattawa,Netseed lambsquarters,1,1
+44013,D,Mattawa,Potato,1,0
+44013,D,Mattawa,Pigweed,0,0
+44013,D,Mattawa,Kochia,1,1
+44013,D,Mattawa,Russian thistle,1,0
+44013,E,Othello,Russian thistle,0,1
+44013,E,Othello,Netseed lambsquarters,0,0
+44013,E,Othello,Potato,1,0
+44020,J,Paterson,Potato,1,0
+44020,J,Paterson,Russian thistle,1,0
+44027,A,Moxee,Russian thistle,0,0
+44027,A,Moxee,Kochia,0,1
+44027,A,Moxee,Netseed lambsquarters,1,0
+44027,C,Mattawa,Netseed lambsquarters,1,0
+44027,C,Mattawa,Potato,1,0
+44027,C,Mattawa,Russian thistle,0,0
+44027,C,Mattawa,Kochia,1,0
+44027,D,Mattawa,Kochia,1,0
+44027,D,Mattawa,Russian thistle,0,0
+44027,D,Mattawa,Potato,0,0
+44027,E,Othello,Netseed lambsquarters,1,0
+44027,E,Othello,Kochia,1,0
+44027,E,Othello,Russian thistle,0,0
+44027,E,Othello,Potato,0,0
+44027,F,Othello,Kochia,0,1
+44027,F,Othello,Potato,1,0
+44027,F,Othello,Russian thistle,0,0
+44028,J,Paterson,Silver sagebrush,0,0
+44028,J,Paterson,Russian thistle,0,0
+44028,J,Paterson,Potato,1,1
+44028,K,Paterson,Rabbitbrush,0,0
+44028,K,Paterson,Silver sagebrush,1,0
+44028,K,Paterson,Potato,1,0
+44028,L,Pasco,Horseweed,0,0
+44028,L,Pasco,Russian thistle,0,0
+44028,L,Pasco,Pigweed,0,0
+44028,L,Pasco,Potato,0,0
+44028,M,Pasco,Russian thistle,0,1
+44028,M,Pasco,Potato,1,0
+44055,A,Moxee,Pigweed,1,0
+44055,A,Moxee,Netseed lambsquarters,1,0
+44055,A,Moxee,Prickly lettuce,0,0
+44055,A,Moxee,Russian thistle,0,0
+44055,A,Moxee,Kochia,0,1
+44055,C,Mattawa,Russian thistle,0,0
+44055,C,Mattawa,Kochia,0,0
+44055,C,Mattawa,Pigweed,0,0
+44055,C,Mattawa,Potato,0,0
+44055,C,Mattawa,Netseed lambsquarters,1,0
+44055,C,Mattawa,Hairy nightshade,1,0
+44055,D,Mattawa,Russian thistle,0,0
+44055,D,Mattawa,Potato,1,0
+44055,E,Othello,Russian thistle,0,0
+44055,E,Othello,Kochia,0,0
+44055,E,Othello,Potato,1,0
+44055,F,Othello,Russian thistle,0,0
+44055,F,Othello,Netseed lambsquarters,0,0
+44055,F,Othello,Kochia,0,0
+44055,F,Othello,Pigweed,0,0
+44055,G,Othello,Puncturevine,1,0
+44055,G,Othello,Kochia,0,0
+44055,G,Othello,Potato,1,0
+44056,H,Paterson,Russian thistle,0,0
+44056,H,Paterson,Pigweed,0,0
+44056,H,Paterson,Potato,1,0
+44056,H,Paterson,Rabbitbrush,0,0
+44056,I,Paterson,Russian thistle,0,0
+44056,I,Paterson,Kochia,1,0
+44056,I,Paterson,Common purslane,1,0
+44056,I,Paterson,Pigweed,0,0
+44056,I,Paterson,Potato,1,0
+44056,J,Paterson,Silver sagebrush,0,0
+44056,J,Paterson,Puncturevine,1,0
+44056,J,Paterson,Russian thistle,0,0
+44056,J,Paterson,Potato,1,0
+44056,L,Pasco,Russian thistle,0,0
+44056,L,Pasco,Horseweed,0,0
+44056,L,Pasco,Netseed lambsquarters,1,0
+44056,M,Pasco,Pigweed,1,0
+44056,M,Pasco,Russian thistle,0,0
+44056,N,Pasco,Potato,1,0
+44056,N,Pasco,Kochia,1,0
+44056,N,Pasco,Netseed lambsquarters,1,0
+44068,H,Paterson,Russian thistle,1,0
+44068,H,Paterson,Potato,1,0
+44068,H,Paterson,Pigweed,1,0
+44068,H,Paterson,Rabbitbrush,0,0
+44068,I,Paterson,Kochia,1,0
+44068,I,Paterson,Potato,1,0
+44068,I,Paterson,Common purslane,1,0
+44068,I,Paterson,Pigweed,1,0
+44068,I,Paterson,Russian thistle,0,0
+44068,J,Paterson,Silver sagebrush,0,0
+44068,J,Paterson,Potato,1,0
+44068,L,Pasco,Horseweed,1,0
+44068,L,Pasco,Netseed lambsquarters,1,0
+44068,L,Pasco,Russian thistle,0,0
+44068,M,Pasco,Potato,1,0
+44068,M,Pasco,Russian thistle,0,0
+44068,M,Pasco,Netseed lambsquarters,1,0
+44070,A,Moxee,Russian thistle,1,0
+44070,A,Moxee,Kochia,1,0
+44070,B,Mattawa,Russian thistle,0,0
+44070,B,Mattawa,Common purslane,1,0
+44070,B,Mattawa,Kochia,1,0
+44070,C,Mattawa,Puncturevine,1,0
+44070,C,Mattawa,Pigweed,0,0
+44070,C,Mattawa,Hairy nightshade,1,0
+44070,C,Mattawa,Netseed lambsquarters,1,0
+44070,C,Mattawa,Russian thistle,0,0
+44070,D,Mattawa,Russian thistle,0,0
+44070,E,Othello,Potato,1,0
+44070,E,Othello,Kochia,1,0
+44070,E,Othello,Russian thistle,0,0
+44105,H,Paterson,Big sagebrush,0,0
+44105,H,Paterson,Russian thistle,0,0
+44105,H,Paterson,Rabbitbrush,0,0
+44105,I,Paterson,Russian thistle,0,0
+44105,I,Paterson,Rabbitbrush,0,0
+44105,J,Paterson,Silver sagebrush,0,0
+44105,K,Paterson,Silver sagebrush,0,0
+44105,L,Pasco,Puncturevine,1,0
+44105,L,Pasco,Netseed lambsquarters,1,0
+44105,L,Pasco,Pigweed,0,0
+44105,L,Pasco,Russian thistle,1,0
+44106,A,Moxee,Netseed lambsquarters,1,0
+44106,A,Moxee,Kochia,1,0
+44106,A,Moxee,Pigweed,0,0
+44106,B,Mattawa,Common purslane,1,0
+44106,B,Mattawa,Russian thistle,1,0
+44106,C,Mattawa,Russian thistle,1,0
+44106,C,Mattawa,Kochia,1,0
+44278,Moxee farm,Moxee,Blue mustard,0,1
+44285,Moxee farm,Moxee,Blue mustard,0,1
+44270,Moxee farm,Moxee,Flixweed,1,1
+44270,Othello farm,Othello,Flixweed,0,1
+44278,Moxee farm,Moxee,Flixweed,1,1
+44278,Othello farm,Othello,Flixweed,1,1
+44285,Moxee farm,Moxee,Flixweed,0,1
+44285,Othello farm,Othello,Flixweed,1,1
+44270,Moxee farm,Moxee,Tumble mustard,0,1
+44270,Pasco farm,Pasco,Tumble mustard,0,1
+44278,Pasco farm,Pasco,Tumble mustard,1,0
+44285,Pasco farm,Pasco,Tumble mustard,1,0
+44292,Moxee farm,Moxee,Blue mustard,1,0
+44299,Moxee farm,Moxee,Blue mustard,0,1
+44306,Moxee farm,Moxee,Blue mustard,1,1
+44313,Moxee farm,Moxee,Blue mustard,0,1
+44292,Moxee farm,Moxee,Flixweed,1,1
+44292,Othello farm,Othello,Flixweed,1,1
+44299,Moxee farm,Moxee,Flixweed,0,1
+44299,Othello farm,Othello,Flixweed,1,1
+44306,Moxee farm,Moxee,Flixweed,1,1
+44306,Othello farm,Othello,Flixweed,0,1
+44313,Moxee farm,Moxee,Flixweed,0,1
+44313,Othello farm,Othello,Flixweed,1,1
+44292,Pasco farm,Pasco,Tumble mustard,1,0
+44299,Pasco farm,Pasco,Tumble mustard,0,0
+44306,Pasco farm,Pasco,Tumble mustard,0,0
+44313,Pasco farm,Pasco,Tumble mustard,1,0
+44320,Moxee farm,Moxee,Blue mustard,1,0
+44320,Moxee farm,Moxee,Flixweed,1,1
+44320,Othello farm,Othello,Flixweed,0,1
+44327,Moxee farm,Moxee,Flixweed,1,1
+44327,Othello farm,Othello,Flixweed,1,0
+44342,Moxee farm,Moxee,Flixweed,1,1
+44342,Othello farm,Othello,Flixweed,0,0
+44320,Moxee farm,Moxee,Kochia,1,0
+44320,Othello farm,Othello,Kochia,0,0
+44320,Pasco farm,Pasco,Kochia,1,1
+44327,Moxee farm,Moxee,Kochia,1,0
+44327,Othello farm,Othello,Kochia,1,0
+44327,Pasco farm,Pasco,Kochia,1,0
+44342,Moxee farm,Moxee,Kochia,1,0
+44342,Othello farm,Othello,Kochia,1,0
+44342,Pasco farm,Pasco,Kochia,0,0
+44342,Moxee farm,Moxee,Loesel's tumble mustard,1,0
+44342,Othello farm,Othello,Loesel's tumble mustard,0,1
+44342,Moxee farm,Moxee,Russian thistle,1,1
+44320,Moxee farm,Moxee,Tumble mustard,1,0
+44320,Pasco farm,Pasco,Tumble mustard,1,0
+44327,Moxee farm,Moxee,Tumble mustard,0,0
+44327,Pasco farm,Pasco,Tumble mustard,1,0
+44342,Moxee farm,Moxee,Tumble mustard,1,0
+44342,Pasco farm,Pasco,Tumble mustard,0,0

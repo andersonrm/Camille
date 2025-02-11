@@ -1,0 +1,203 @@
+---
+title: "BLH--Foutz"
+author: "Dr. Riley M. Anderson"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+graphics: yes
+output:
+  github_document:
+    toc: yes
+    toc_depth: 5
+    pandoc_args: --webtex
+  html_document:
+    keep_md: yes
+    theme: readable
+    mathjax: default
+  html_notebook:
+    code_folding: hide
+    theme: readable
+    mathjax: default
+  pdf_document:
+    toc: yes
+header-includes:
+  \usepackage{float}
+  \floatplacement{figure}{H}
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include = F}
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Knitr Options
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Set root directory to the project directory
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+
+
+# Set default knitr options: 
+# Suppress warnings and messages, cache chunks, 
+#  set default figure size to 6x8 at 300 dpi, and save a png and pdf
+knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
+    fig.height = 6, fig.width = 8, dpi = 300, # 6x8" @ 300dpi:1800x2400=4.3MP
+    dev = c('png', 'pdf'), dev.args = list(pdf = list(onefile = F)))
+
+```
+
+
+
+## Overview
+
+What is this analysis about?
+
+### Summary of Results
+* 
+
+```{r Main_Code, include = F, cache = F}
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Setup - This code is run, but output is hidden
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Load Packages
+library(tidyverse) # Needed for data wrangling: dplyr, tidyr, ggplot2
+library(cowplot) # Needed for publication-quality ggplots
+library(viridis)
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Data Preparation
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Import datasets
+plants <- read.csv("data/JF_plants.csv")
+
+
+
+```
+
+
+```{r Data_Wrangling, echo = F, comment = ""}
+
+plants1 <- plants %>% 
+  mutate(
+         # converting the excel date into a Date class:
+         date = as.Date(date, origin = "1899-12-30"),
+         
+         # making the site, region, and host variables as factors:
+         across(c(site : host), factor),
+         
+         # creating and factoring a column for `year` and `month`:
+         Year = factor(year(date)),
+         Month = factor(month(date)),
+         
+         # creating a co-infection variable automatically:
+         co_inf = case_when(
+           BLTVA_status == 1 &
+             BCTV_status == 1 ~ 1,
+           TRUE ~ 0
+         ),
+         
+         # converting the infection "0,1" into a meaningful factor:
+         BLTVA_status = factor(case_when(
+           BLTVA_status == 1 ~ "infected",
+           BLTVA_status == 0 ~ "healthy",
+           TRUE ~ NA
+         )),
+         BCTV_status = factor(case_when(
+           BCTV_status == 1 ~ "infected",
+           BCTV_status == 0 ~ "healthy",
+           TRUE ~ NA
+         )),
+         
+         # removing typos:
+         host = factor(case_when(
+           host == "Tumble Mustard" ~
+             "Tumble mustard",
+           host == "Scotch thistle " ~ "Scotch thistle",
+           host == "Netseed Lambsquarters" ~ "Netseed lambsquarters",
+           TRUE ~ host
+         )))
+
+count_plants <- plants1 %>% 
+  group_by(Month, host) %>% 
+  tally(name = "plant_count") %>% 
+  group_by(host) %>% 
+  summarise(M = mean(plant_count)) %>% 
+  arrange(desc(M)) %>% 
+  filter(M > quantile(M, 0.8))
+
+bltva <- plants1 %>% 
+  group_by(Month, host, BLTVA_status) %>% 
+  tally(name = "bltva") %>% 
+  pivot_wider(names_from = BLTVA_status,
+              values_from = bltva,
+              values_fill = list(bltva = 0)) %>% 
+  mutate(total = healthy + infected,
+         pr_bltva = infected/total) %>% 
+  arrange(desc(total)) %>% 
+  semi_join(., y = count_plants, by = "host")
+
+
+bctv <- plants1 %>% 
+  group_by(Month, host, BCTV_status) %>% 
+  tally(name = "bctv") %>% 
+  pivot_wider(names_from = BCTV_status,
+              values_from = bctv,
+              values_fill = list(bctv = 0)) %>% 
+  mutate(total = healthy + infected,
+         pr_bctv = infected/total) %>% 
+  arrange(desc(total)) %>% 
+  semi_join(., y = count_plants, by = "host") %>% 
+  select(host, Month, pr_bctv)
+
+
+plant_props <- left_join(bltva, bctv, by = c("Month", "host"))
+
+```
+
+
+```{r BLH_plants, echo = F, fig.height = 4.5, fig.width = 11}
+
+pA <- plant_props %>% 
+  ggplot(aes(x = Month, y = host,
+             size = total, fill = pr_bltva)) +
+  geom_point(shape = 21,
+             color = 'black',
+             show.legend = F) +
+  scale_size(range = c(1, 14)) +
+  theme_cowplot(font_size = 18) +
+  theme(axis.title.y = element_blank()) +
+  scale_fill_viridis_c(option = "magma")
+
+pB <- plant_props %>% 
+  ggplot(aes(x = Month, y = host,
+             size = total, fill = pr_bctv)) +
+  geom_point(shape = 21,
+             color = 'black') +
+  scale_size(range = c(1, 14)) +
+  theme_cowplot(font_size = 18) +
+  theme(axis.title.y = element_blank(),
+        axis.text.y = element_blank()) +
+  labs(size = "No. plants",
+       fill = "Pr(infected)") +
+  scale_fill_viridis_c(option = "magma")
+
+
+plot_grid(pA, pB, labels = c("A)", "B)"),
+          rel_widths = c(1, 1),
+          nrow = 1,
+          label_x = c(0.2, -0.05))
+
+```
+
+
+## Session Information
+
+```{r Session_Info, echo = F, comment = ""}
+
+# Add session information to help with reproduceability
+sessionInfo()
+
+
+```
+
+
