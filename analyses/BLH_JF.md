@@ -1,23 +1,49 @@
 BLH–Foutz
 ================
 Dr. Riley M. Anderson
-February 10, 2025
+February 11, 2025
 
   
 
 - [Overview](#overview)
-  - [Summary of Results](#summary-of-results)
-- [Session Information](#session-information)
+- [BLH plants](#blh-plants)
+- [BLH nymphs](#blh-nymphs)
+- [BLH adults](#blh-adults)
+  - [Session Information](#session-information)
 
 ## Overview
 
-What is this analysis about?
+This markdown creates three figures for the Foutz et al. manuscript.
 
-### Summary of Results
-
-- 
+# BLH plants
 
 ![](BLH_JF_files/figure-gfm/BLH_plants-1.png)<!-- -->
+
+- **Figure 1.** Plants sampled and the proportion infected with **A)**
+  BLTVA, and **B)** BCTV. Point size is proportional to the total plants
+  sampled. Fill gradient continuously reflects proportion of infection,
+  with light points representing less infection, and dark points
+  representing more infection.
+
+# BLH nymphs
+
+![](BLH_JF_files/figure-gfm/BLH_nymphs-1.png)<!-- -->
+
+- **Figure 2.** Plants sampled and the proportion infected with **A)**
+  BLTVA, and **B)** BCTV. Point size is proportional to the total no. of
+  beet leafhopper nymphs sampled. Fill gradient continuously reflects
+  proportion of infection, with light points representing less
+  infection, and dark points representing more infection.
+
+# BLH adults
+
+![](BLH_JF_files/figure-gfm/BLH_adults-1.png)<!-- -->
+
+- **Figure 3.** Plants sampled and the proportion infected with **A)**
+  BLTVA, and **B)** BCTV. Point size is proportional to the total no. of
+  beet leafhopper adults sampled. Fill gradient continuously reflects
+  proportion of infection, with light points representing less
+  infection, and dark points representing more infection.
 
 ## Session Information
 

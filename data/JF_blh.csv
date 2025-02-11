@@ -1,0 +1,2390 @@
+date,site,region,host,BLTVA_status,BCTV_status,blh_lifestage
+43619,RDR,Mattawa,Russian thistle,1,0,adult
+43619,RDR,Mattawa,Russian thistle,0,0,adult
+43619,RDR,Mattawa,Russian thistle,0,0,adult
+43619,RDR,Mattawa,Russian thistle,0,0,adult
+43619,RDR,Mattawa,Russian thistle,0,0,adult
+43619,RDR,Mattawa,Mustard,0,0,adult
+43619,RDR,Mattawa,Mustard,0,0,adult
+43619,RDR,Mattawa,Mustard,0,0,adult
+43619,RDR,Mattawa,Mustard,0,0,adult
+43619,RDR,Mattawa,Mustard,0,0,adult
+43619,RDJ,Mattawa,Russian thistle,0,1,adult
+43619,RDJ,Mattawa,Russian thistle,0,0,adult
+43619,RDJ,Mattawa,Russian thistle,0,1,adult
+43619,RDJ,Mattawa,Russian thistle,0,0,adult
+43619,RDJ,Mattawa,Russian thistle,0,0,adult
+43619,RDJ,Mattawa,Russian thistle,0,0,adult
+43619,RDJ,Mattawa,Russian thistle,0,1,adult
+43619,RDJ,Mattawa,Russian thistle,1,0,adult
+43628,RDR,Mattawa,Potato,0,1,adult
+43628,RDR,Mattawa,Potato,0,0,adult
+43628,RDR,Mattawa,Russian thistle,0,1,adult
+43628,RDR,Mattawa,Russian thistle,0,0,adult
+43628,RDR,Mattawa,Russian thistle,1,0,adult
+43628,RDR,Mattawa,Russian thistle,0,0,adult
+43628,RDR,Mattawa,Russian thistle,0,0,adult
+43628,RDR,Mattawa,Russian thistle,0,0,adult
+43628,RDR,Mattawa,Russian thistle,0,0,adult
+43628,RDR,Mattawa,Mustard,1,1,adult
+43628,RDR,Mattawa,Mustard,0,0,adult
+43628,RDR,Mattawa,Mustard,0,0,adult
+43628,RDR,Mattawa,Mustard,0,0,adult
+43628,RDR,Mattawa,Mustard,0,0,adult
+43628,RDJ,Mattawa,Kochia,0,0,adult
+43628,RDJ,Mattawa,Kochia,0,0,adult
+43628,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDR,Mattawa,Russian thistle,0,0,adult
+43649,RDJ,Mattawa,Potato,0,1,adult
+43649,RDJ,Mattawa,Grasses,0,0,adult
+43649,RDJ,Mattawa,Grasses,0,0,adult
+43649,RDJ,Mattawa,Grasses,1,0,adult
+43649,RDJ,Mattawa,Grasses,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,1,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,1,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,1,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,1,0,adult
+43649,RDJ,Mattawa,Kochia,1,1,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,1,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,1,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,1,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43649,RDJ,Mattawa,Kochia,0,0,adult
+43651,M413,Mattawa,Kochia,0,0,adult
+43651,WSU,Mattawa,Mustard,0,0,adult
+43651,WSU,Mattawa,Potato,0,0,adult
+43651,WSU,Mattawa,Potato,0,1,adult
+43651,WSU,Mattawa,Potato,0,0,adult
+43651,WSU,Mattawa,Potato,0,0,adult
+43651,WSU,Mattawa,Kochia,0,0,adult
+43651,WSU,Mattawa,Kochia,0,0,adult
+43651,WSU,Mattawa,Pigweed,1,0,adult
+43651,WSU,Mattawa,Pigweed,0,0,adult
+43651,WSU,Mattawa,Russian thistle,0,0,adult
+43651,WSU,Mattawa,Russian thistle,0,0,adult
+43656,RDR,Mattawa,Prickly lettuce,0,0,adult
+43656,RDR,Mattawa,Russian thistle,0,0,adult
+43656,RDJ,Mattawa,Kochia,0,1,adult
+43656,RDJ,Mattawa,Kochia,1,1,adult
+43656,RDJ,Mattawa,Kochia,0,0,adult
+43656,RDJ,Mattawa,Kochia,0,1,adult
+43666,RDR,Mattawa,Russian thistle,0,1,adult
+43666,RDR,Mattawa,Russian thistle,0,1,adult
+43666,RDJ,Mattawa,Russian thistle,0,0,adult
+43666,RDJ,Mattawa,Russian thistle,0,0,adult
+43666,RDJ,Mattawa,Russian thistle,0,0,adult
+43677,RDR,Mattawa,Pigweed,0,0,adult
+43677,RDR,Mattawa,Russian thistle,0,0,adult
+43677,RDR,Mattawa,Russian thistle,0,0,adult
+43630,P505,Pasco,Mustard,0,0,adult
+43630,P505,Pasco,Pigweed,0,0,adult
+43630,P505,Pasco,Pigweed,0,0,adult
+43630,P413,Pasco,Russian thistle,0,0,adult
+43630,P413,Pasco,Mustard,0,0,adult
+43630,WSU,Pasco,Kochia,0,0,adult
+43630,WSU,Pasco,Kochia,0,0,adult
+43630,WSU,Pasco,Kochia,0,0,adult
+43630,WSU,Pasco,Kochia,0,0,adult
+43630,WSU,Pasco,Kochia,0,0,adult
+43630,WSU,Pasco,Mustard,0,0,adult
+43630,WSU,Pasco,Russian thistle,0,0,adult
+43630,WSU,Pasco,Russian thistle,0,0,adult
+43630,WSU,Pasco,Russian thistle,0,0,adult
+43637,WSU,Pasco,Pigweed,0,0,adult
+43637,WSU,Pasco,Pigweed,0,0,adult
+43637,WSU,Pasco,Pigweed,0,0,adult
+43637,WSU,Pasco,Russian thistle,0,0,adult
+43637,WSU,Pasco,Mustard,0,0,adult
+43658,WSU,Pasco,Kochia,1,0,adult
+43658,WSU,Pasco,Russian thistle,0,0,adult
+43658,WSU,Pasco,Russian thistle,0,1,adult
+43658,WSU,Pasco,Russian thistle,0,0,adult
+43658,WSU,Pasco,Russian thistle,0,0,adult
+43658,WSU,Pasco,Russian thistle,0,0,adult
+43658,WSU,Pasco,Potato,0,0,adult
+43658,P413,Pasco,Russian thistle,0,0,adult
+43658,P413,Pasco,Russian thistle,0,0,adult
+43665,P505,Pasco,Kochia,0,0,adult
+43665,WSU,Pasco,Pigweed,0,0,adult
+43665,WSU,Pasco,Kochia,0,0,adult
+43665,WSU,Pasco,Kochia,0,0,adult
+43679,WSU,Pasco,Kochia,0,0,adult
+43679,WSU,Pasco,Kochia,0,0,adult
+43679,WSU,Pasco,Kochia,0,0,adult
+43679,WSU,Pasco,Pigweed,0,0,adult
+43679,P413,Pasco,Russian thistle,0,0,adult
+43679,P413,Pasco,Russian thistle,0,0,adult
+43679,WSU,Pasco,Russian thistle,0,0,adult
+43679,WSU,Pasco,Russian thistle,0,0,adult
+43679,WSU,Pasco,Russian thistle,0,0,adult
+43679,WSU,Pasco,Russian thistle,0,0,adult
+43679,WSU,Pasco,Russian thistle,0,0,adult
+43679,WSU,Pasco,Russian thistle,0,0,adult
+43679,WSU,Pasco,Russian thistle,0,0,adult
+43754,P505,Pasco,Russian thistle,0,0,adult
+43754,P505,Pasco,Russian thistle,0,0,adult
+43754,P505,Pasco,Russian thistle,0,0,adult
+43754,P505,Pasco,Russian thistle,0,0,adult
+43754,P505,Pasco,Russian thistle,0,0,adult
+43754,P505,Pasco,Russian thistle,0,0,adult
+43754,P505,Pasco,Grasses,1,0,adult
+43754,P505,Pasco,Grasses,0,0,adult
+43754,P505,Pasco,Grasses,0,0,adult
+43754,P505,Pasco,Grasses,0,0,adult
+43754,P505,Pasco,Grasses,0,0,adult
+43756,RDJ,Pasco,Russian thistle,1,0,adult
+43756,RDJ,Pasco,Russian thistle,0,0,adult
+43756,RDJ,Pasco,Russian thistle,0,0,adult
+43756,RDJ,Pasco,Russian thistle,0,0,adult
+43756,RDJ,Pasco,Alfalfa,0,0,adult
+43629,P107,Paterson,Russian thistle,0,0,adult
+43629,P107,Paterson,Russian thistle,0,0,adult
+43664,P107,Paterson,Russian thistle,0,0,adult
+43664,P475,Paterson,Kochia,0,0,adult
+43664,P475,Paterson,Russian thistle,0,0,adult
+43664,P475,Paterson,Russian thistle,0,0,adult
+43664,P529,Paterson,Pigweed,1,0,adult
+43664,P529,Paterson,Prickly lettuce,1,0,adult
+43664,P529,Paterson,Russian thistle,0,0,adult
+43678,P107,Paterson,Russian thistle,0,0,adult
+43678,P107,Paterson,Russian thistle,0,0,adult
+43678,P107,Paterson,Russian thistle,0,0,adult
+43678,P475,Paterson,Kochia,0,0,adult
+43678,P475,Paterson,Kochia,0,0,adult
+43678,P475,Paterson,Kochia,0,0,adult
+43678,P475,Paterson,Kochia,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Hairy nightshade,0,0,adult
+43754,P529,Paterson,Grasses,0,0,adult
+43754,P529,Paterson,Grasses,0,0,adult
+43754,P529,Paterson,Grasses,0,0,adult
+43754,P529,Paterson,Grasses,1,0,adult
+43754,P529,Paterson,Grasses,0,0,adult
+43754,P529,Paterson,Grasses,0,0,adult
+43636,P475,Paterson ,Pigweed,0,0,adult
+43636,P107,Paterson ,Russian thistle,0,0,adult
+43657,P107,Paterson ,Potato,0,0,adult
+43657,P107,Paterson ,Russian thistle,0,0,adult
+43657,P107,Paterson ,Russian thistle,1,0,adult
+43657,P107,Paterson ,Russian thistle,0,0,adult
+43657,P107,Paterson ,Russian thistle,1,0,adult
+43657,P107,Paterson ,Russian thistle,1,0,adult
+43657,P475,Paterson ,Russian thistle,1,0,adult
+43657,P475,Paterson ,Potato,0,0,adult
+43657,P475,Paterson ,Potato,0,0,adult
+43657,P475,Paterson ,Kochia,0,0,adult
+43657,P475,Paterson ,Kochia,0,0,adult
+43657,P475,Paterson ,Kochia,0,0,adult
+43657,P475,Paterson ,Kochia,0,0,adult
+43657,P475,Paterson ,Kochia,0,0,adult
+43657,P475,Paterson ,Kochia,0,0,adult
+43657,P529,Paterson ,Russian thistle,0,0,adult
+43657,P529,Paterson ,Russian thistle,1,0,adult
+43657,P529,Paterson ,Russian thistle,0,0,adult
+43657,P529,Paterson ,Russian thistle,0,0,adult
+43657,P529,Paterson ,Russian thistle,0,0,adult
+43657,P529,Paterson ,Kochia,0,0,adult
+43657,P529,Paterson ,Kochia,0,0,adult
+43985,B,Mattawa,Alfalfa,0,0,adult
+43985,B,Mattawa,Alfalfa,0,1,adult
+43999,B,Mattawa,Alfalfa,1,0,adult
+43999,B,Mattawa,Alfalfa,0,1,adult
+43985,A,Moxee,Black mustard,0,1,adult
+43999,A,Moxee,Black mustard,1,0,adult
+43999,A,Moxee,Black mustard,1,0,adult
+43999,A,Moxee,Black mustard,0,0,adult
+43969,C,Mattawa,Black mustard,0,1,adult
+43969,C,Mattawa,Black mustard,0,1,adult
+43969,D,Mattawa,Black mustard,0,1,adult
+43969,G,Othello,Blue Mustard,0,0,adult
+44056,I,Paterson,Common Purslane,0,0,adult
+43943,WSU,Pasco,Filaree,1,0,adult
+43969,A,Moxee,Flixweed,0,0,adult
+43944,A,Moxee,Flixweed,0,0,adult
+43944,A,Moxee,Flixweed,0,0,adult
+43944,A,Moxee,Flixweed,0,0,adult
+43944,A,Moxee,Flixweed,0,0,adult
+43985,A,Moxee,Flixweed,0,0,adult
+43985,A,Moxee,Flixweed,0,1,adult
+43985,A,Moxee,Flixweed,0,0,adult
+43969,B,Mattawa,Flixweed,0,0,adult
+43969,B,Mattawa,Flixweed,0,1,adult
+43969,B,Mattawa,Flixweed,0,0,adult
+43969,B,Mattawa,Flixweed,1,1,adult
+43969,B,Mattawa,Flixweed,0,0,adult
+43969,B,Mattawa,Flixweed,0,1,adult
+43969,B,Mattawa,Flixweed,0,0,adult
+43969,B,Mattawa,Flixweed,0,0,adult
+43969,B,Mattawa,Flixweed,0,0,adult
+43969,B,Mattawa,Flixweed,0,0,adult
+43969,B,Mattawa,Flixweed,1,0,adult
+43969,C,Mattawa,Flixweed,0,1,adult
+43985,C,Mattawa,Flixweed,0,0,adult
+43969,G,Othello,Flixweed,0,0,adult
+43943,WSU,Pasco,Grasses,0,0,adult
+43943,WSU,Pasco,Grasses,0,0,adult
+43943,WSU,Pasco,Grasses,0,0,adult
+43969,A,Moxee,Kochia,0,0,adult
+43969,A,Moxee,Kochia,0,0,adult
+43969,A,Moxee,Kochia,0,0,adult
+43969,A,Moxee,Kochia,0,0,adult
+43969,A,Moxee,Kochia,0,0,adult
+43969,A,Moxee,Kochia,0,0,adult
+43985,A,Moxee,Kochia,0,0,adult
+43985,A,Moxee,Kochia,0,0,adult
+43985,A,Moxee,Kochia,0,0,adult
+43985,A,Moxee,Kochia,0,1,adult
+43985,A,Moxee,Kochia,0,0,adult
+43985,A,Moxee,Kochia,0,0,adult
+43985,A,Moxee,Kochia,0,0,adult
+43985,A,Moxee,Kochia,0,0,adult
+43999,A,Moxee,Kochia,0,1,adult
+43999,A,Moxee,Kochia,0,0,adult
+43999,A,Moxee,Kochia,0,1,adult
+44013,A,Moxee,Kochia,0,0,adult
+44013,A,Moxee,Kochia,0,0,adult
+44013,A,Moxee,Kochia,0,0,adult
+44013,A,Moxee,Kochia,0,0,adult
+44013,A,Moxee,Kochia,1,0,adult
+44013,A,Moxee,Kochia,0,1,adult
+44013,A,Moxee,Kochia,0,0,adult
+44013,A,Moxee,Kochia,0,0,adult
+44013,A,Moxee,Kochia,0,0,adult
+44013,A,Moxee,Kochia,0,1,adult
+44027,A,Moxee,Kochia,0,0,adult
+44027,A,Moxee,Kochia,0,1,adult
+44027,A,Moxee,Kochia,0,1,adult
+44055,A,Moxee,Kochia,0,0,adult
+44055,A,Moxee,Kochia,0,1,adult
+44055,A,Moxee,Kochia,0,0,adult
+44055,A,Moxee,Kochia,0,0,adult
+44055,A,Moxee,Kochia,0,0,adult
+44055,A,Moxee,Kochia,1,0,adult
+44055,A,Moxee,Kochia,0,0,adult
+44055,A,Moxee,Kochia,1,0,adult
+44055,A,Moxee,Kochia,0,1,adult
+44055,A,Moxee,Kochia,0,0,adult
+44055,A,Moxee,Kochia,0,1,adult
+44055,A,Moxee,Kochia,0,1,adult
+44055,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44070,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,1,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+44106,A,Moxee,Kochia,0,0,adult
+43969,C,Mattawa,Kochia,0,1,adult
+43969,C,Mattawa,Kochia,0,0,adult
+43969,C,Mattawa,Kochia,0,1,adult
+43969,C,Mattawa,Kochia,0,1,adult
+43969,C,Mattawa,Kochia,0,0,adult
+43969,C,Mattawa,Kochia,0,0,adult
+43969,C,Mattawa,Kochia,0,0,adult
+43969,C,Mattawa,Kochia,0,1,adult
+43985,C,Mattawa,Kochia,0,0,adult
+44106,C,Mattawa,Kochia,0,0,adult
+43969,D,Mattawa,Kochia,0,0,adult
+43985,D,Mattawa,Kochia,0,0,adult
+44013,D,Mattawa,Kochia,1,1,adult
+44027,D,Mattawa,Kochia,0,0,adult
+44027,D,Mattawa,Kochia,0,0,adult
+44027,D,Mattawa,Kochia,0,0,adult
+44027,E,Othello,Kochia,0,1,adult
+44027,E,Othello,Kochia,0,0,adult
+44070,E,Othello,Kochia,0,0,adult
+44070,E,Othello,Kochia,0,0,adult
+44070,E,Othello,Kochia,0,1,adult
+44070,E,Othello,Kochia,0,0,adult
+44070,E,Othello,Kochia,0,1,adult
+44070,E,Othello,Kochia,1,0,adult
+44070,E,Othello,Kochia,0,1,adult
+43969,F,Othello,Kochia,0,0,adult
+43969,F,Othello,Kochia,0,0,adult
+43969,F,Othello,Kochia,0,0,adult
+43999,F,Othello,Kochia,1,1,adult
+43999,F,Othello,Kochia,0,1,adult
+43999,F,Othello,Kochia,1,0,adult
+43999,F,Othello,Kochia,0,1,adult
+43999,F,Othello,Kochia,0,0,adult
+43999,F,Othello,Kochia,0,0,adult
+43999,F,Othello,Kochia,1,0,adult
+43999,F,Othello,Kochia,1,0,adult
+43999,F,Othello,Kochia,1,0,adult
+44027,F,Othello,Kochia,1,0,adult
+44027,F,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,1,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,1,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44055,G,Othello,Kochia,0,0,adult
+44007,I,Paterson,Kochia,0,0,adult
+44056,I,Paterson,Kochia,0,0,adult
+44056,I,Paterson,Kochia,0,0,adult
+44056,I,Paterson,Kochia,0,0,adult
+44056,I,Paterson,Kochia,0,0,adult
+43978,M,Pasco,Kochia,0,0,adult
+43978,M,Pasco,Kochia,0,0,adult
+43978,M,Pasco,Kochia,1,0,adult
+43978,M,Pasco,Kochia,0,0,adult
+43978,M,Pasco,Kochia,0,0,adult
+43978,M,Pasco,Kochia,0,1,adult
+43978,M,Pasco,Kochia,0,0,adult
+43978,M,Pasco,Kochia,0,0,adult
+44007,M,Pasco,Kochia,0,0,adult
+44007,M,Pasco,Kochia,0,1,adult
+44007,M,Pasco,Kochia,0,0,adult
+43994,N,Pasco,Kochia,1,0,adult
+43994,N,Pasco,Kochia,0,0,adult
+43994,N,Pasco,Kochia,0,0,adult
+43994,N,Pasco,Kochia,0,0,adult
+43994,N,Pasco,Kochia,0,0,adult
+43994,N,Pasco,Kochia,0,0,adult
+43994,N,Pasco,Kochia,0,0,adult
+44007,N,Pasco,Kochia,0,0,adult
+44007,M,Pasco,Mesquite,0,0,adult
+44106,A,Moxee,Netseed Lambsquarters,0,0,adult
+44106,A,Moxee,Netseed Lambsquarters,0,0,adult
+44106,A,Moxee,Netseed Lambsquarters,0,0,adult
+44106,A,Moxee,Netseed Lambsquarters,0,0,adult
+44106,A,Moxee,Netseed Lambsquarters,0,0,adult
+44013,A,Moxee,Netseed Lambsquarters,0,1,adult
+44027,A,Moxee,Netseed Lambsquarters,0,1,adult
+44027,A,Moxee,Netseed Lambsquarters,0,0,adult
+44027,A,Moxee,Netseed Lambsquarters,0,0,adult
+44055,A,Moxee,Netseed Lambsquarters,0,0,adult
+44055,A,Moxee,Netseed Lambsquarters,0,0,adult
+44055,A,Moxee,Netseed Lambsquarters,0,0,adult
+43969,C,Mattawa,Netseed Lambsquarters,0,0,adult
+43969,C,Mattawa,Netseed Lambsquarters,0,1,adult
+43978,M,Pasco,Netseed Lambsquarters,0,0,adult
+43978,M,Pasco,Netseed Lambsquarters,0,0,adult
+43978,M,Pasco,Netseed Lambsquarters,0,0,adult
+44007,M,Pasco,Netseed Lambsquarters,0,0,adult
+44007,M,Pasco,Netseed Lambsquarters,0,0,adult
+44007,M,Pasco,Netseed Lambsquarters,1,0,adult
+44055,A,Moxee,Pigweed,0,0,adult
+44106,A,Moxee,Pigweed,0,0,adult
+44056,I,Paterson,Pigweed,0,0,adult
+44007,M,Pasco,Pigweed,0,0,adult
+44007,M,Pasco,Pigweed,0,1,adult
+43969,B,Mattawa,Potato,0,0,adult
+43969,B,Mattawa,Potato,0,0,adult
+43969,B,Mattawa,Potato,0,0,adult
+43969,B,Mattawa,Potato,0,0,adult
+43969,B,Mattawa,Potato,0,0,adult
+43969,B,Mattawa,Potato,0,0,adult
+43969,B,Mattawa,Potato,0,0,adult
+43985,B,Mattawa,Potato,0,0,adult
+43985,B,Mattawa,Potato,0,0,adult
+43985,B,Mattawa,Potato,0,0,adult
+43985,B,Mattawa,Potato,0,0,adult
+43999,B,Mattawa,Potato,1,0,adult
+43969,C,Mattawa,Potato,1,1,adult
+43969,C,Mattawa,Potato,0,1,adult
+43985,C,Mattawa,Potato,0,0,adult
+44027,C,Mattawa,Potato,1,1,adult
+43985,D,Mattawa,Potato,0,1,adult
+44027,D,Mattawa,Potato,0,0,adult
+44027,D,Mattawa,Potato,0,0,adult
+44027,D,Mattawa,Potato,0,1,adult
+44055,D,Mattawa,Potato,0,0,adult
+43985,F,Othello,Potato,0,1,adult
+43999,G,Othello,Potato,0,1,adult
+43999,G,Othello,Potato,0,0,adult
+43976,H,Paterson,Potato,0,0,adult
+43976,H,Paterson,Potato,0,0,adult
+44007,I,Paterson,Potato,0,0,adult
+43978,J,Paterson,Potato,0,0,adult
+43978,J,Paterson,Potato,0,0,adult
+43978,J,Paterson,Potato,0,0,adult
+43994,K,Paterson,Potato,0,0,adult
+43978,M,Pasco,Potato,0,0,adult
+44055,G,Othello,Puncture vine,0,0,adult
+44055,G,Othello,Puncture vine,0,0,adult
+44055,G,Othello,Puncture vine,0,0,adult
+44055,G,Othello,Puncture vine,0,0,adult
+43978,K,Paterson,Rabbitbrush,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,1,1,adult
+43985,A,Moxee,Russian thistle,1,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,1,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,1,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,1,adult
+43985,A,Moxee,Russian thistle,1,0,adult
+43985,A,Moxee,Russian thistle,0,1,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43985,A,Moxee,Russian thistle,0,0,adult
+43999,A,Moxee,Russian thistle,0,0,adult
+43999,A,Moxee,Russian thistle,1,0,adult
+43999,A,Moxee,Russian thistle,1,0,adult
+43999,A,Moxee,Russian thistle,0,0,adult
+43999,A,Moxee,Russian thistle,0,0,adult
+44013,A,Moxee,Russian thistle,0,1,adult
+44013,A,Moxee,Russian thistle,0,0,adult
+44013,A,Moxee,Russian thistle,0,0,adult
+44013,A,Moxee,Russian thistle,0,0,adult
+44013,A,Moxee,Russian thistle,0,0,adult
+44013,A,Moxee,Russian thistle,0,0,adult
+44013,A,Moxee,Russian thistle,0,0,adult
+44013,A,Moxee,Russian thistle,1,0,adult
+44027,A,Moxee,Russian thistle,0,0,adult
+44027,A,Moxee,Russian thistle,0,0,adult
+44027,A,Moxee,Russian thistle,0,0,adult
+44027,A,Moxee,Russian thistle,1,0,adult
+44027,A,Moxee,Russian thistle,0,0,adult
+44027,A,Moxee,Russian thistle,0,0,adult
+44027,A,Moxee,Russian thistle,0,0,adult
+44027,A,Moxee,Russian thistle,0,0,adult
+44055,A,Moxee,Russian thistle,0,0,adult
+44055,A,Moxee,Russian thistle,0,1,adult
+44055,A,Moxee,Russian thistle,0,0,adult
+44055,A,Moxee,Russian thistle,0,1,adult
+44055,A,Moxee,Russian thistle,0,1,adult
+44055,A,Moxee,Russian thistle,0,0,adult
+44055,A,Moxee,Russian thistle,0,0,adult
+44055,A,Moxee,Russian thistle,0,1,adult
+44055,A,Moxee,Russian thistle,0,1,adult
+44055,A,Moxee,Russian thistle,0,0,adult
+44055,A,Moxee,Russian thistle,0,0,adult
+44055,A,Moxee,Russian thistle,0,0,adult
+44062,A,Moxee,Russian thistle,0,0,adult
+44062,A,Moxee,Russian thistle,0,0,adult
+44062,A,Moxee,Russian thistle,0,0,adult
+44062,A,Moxee,Russian thistle,0,0,adult
+44062,A,Moxee,Russian thistle,0,0,adult
+44070,A,Moxee,Russian thistle,0,0,adult
+44070,A,Moxee,Russian thistle,0,0,adult
+44070,A,Moxee,Russian thistle,0,1,adult
+44070,A,Moxee,Russian thistle,0,0,adult
+44070,A,Moxee,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,1,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,1,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,1,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,1,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,1,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,1,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,1,adult
+43969,B,Mattawa,Russian thistle,0,1,adult
+43969,B,Mattawa,Russian thistle,0,1,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,1,1,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,1,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,1,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43969,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,0,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,1,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,1,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,1,1,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,1,adult
+43985,B,Mattawa,Russian thistle,1,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,1,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,1,1,adult
+43985,B,Mattawa,Russian thistle,1,0,adult
+43985,B,Mattawa,Russian thistle,0,0,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43985,B,Mattawa,Russian thistle,0,1,adult
+43999,B,Mattawa,Russian thistle,0,0,adult
+43999,B,Mattawa,Russian thistle,0,1,adult
+44013,B,Mattawa,Russian thistle,1,0,adult
+44013,B,Mattawa,Russian thistle,0,0,adult
+44013,B,Mattawa,Russian thistle,0,0,adult
+44013,B,Mattawa,Russian thistle,0,0,adult
+44013,B,Mattawa,Russian thistle,0,1,adult
+44013,B,Mattawa,Russian thistle,0,0,adult
+44013,B,Mattawa,Russian thistle,1,1,adult
+43969,C,Mattawa,Russian thistle,0,0,adult
+43969,C,Mattawa,Russian thistle,1,1,adult
+43969,C,Mattawa,Russian thistle,0,0,adult
+43969,C,Mattawa,Russian thistle,0,1,adult
+43969,C,Mattawa,Russian thistle,0,1,adult
+43969,C,Mattawa,Russian thistle,0,0,adult
+43969,C,Mattawa,Russian thistle,0,1,adult
+43985,C,Mattawa,Russian thistle,0,1,adult
+43985,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44070,C,Mattawa,Russian thistle,0,0,adult
+44106,C,Mattawa,Russian thistle,0,0,adult
+43969,D,Mattawa,Russian thistle,0,0,adult
+43969,D,Mattawa,Russian thistle,1,1,adult
+43969,D,Mattawa,Russian thistle,0,1,adult
+43969,D,Mattawa,Russian thistle,0,0,adult
+43969,D,Mattawa,Russian thistle,0,0,adult
+43985,D,Mattawa,Russian thistle,0,0,adult
+43985,D,Mattawa,Russian thistle,1,1,adult
+43985,D,Mattawa,Russian thistle,1,0,adult
+43985,D,Mattawa,Russian thistle,0,1,adult
+43985,D,Mattawa,Russian thistle,0,0,adult
+43985,D,Mattawa,Russian thistle,1,1,adult
+43985,D,Mattawa,Russian thistle,1,1,adult
+43985,D,Mattawa,Russian thistle,0,1,adult
+44027,D,Mattawa,Russian thistle,0,0,adult
+44055,D,Mattawa,Russian thistle,0,0,adult
+44070,D,Mattawa,Russian thistle,0,0,adult
+44070,D,Mattawa,Russian thistle,0,0,adult
+44070,D,Mattawa,Russian thistle,0,0,adult
+43999,E,Othello,Russian thistle,0,1,adult
+43999,E,Othello,Russian thistle,0,0,adult
+43999,E,Othello,Russian thistle,0,1,adult
+43999,E,Othello,Russian thistle,1,0,adult
+43999,E,Othello,Russian thistle,0,1,adult
+44013,E,Othello,Russian thistle,1,1,adult
+44027,E,Othello,Russian thistle,0,0,adult
+44027,E,Othello,Russian thistle,0,1,adult
+44027,E,Othello,Russian thistle,0,0,adult
+44027,E,Othello,Russian thistle,1,0,adult
+44027,E,Othello,Russian thistle,0,0,adult
+44027,E,Othello,Russian thistle,1,0,adult
+44027,E,Othello,Russian thistle,0,0,adult
+44027,E,Othello,Russian thistle,0,0,adult
+44055,E,Othello,Russian thistle,0,0,adult
+44055,E,Othello,Russian thistle,0,1,adult
+44055,E,Othello,Russian thistle,0,0,adult
+44055,E,Othello,Russian thistle,0,0,adult
+44070,E,Othello,Russian thistle,0,0,adult
+44070,E,Othello,Russian thistle,0,0,adult
+44070,E,Othello,Russian thistle,0,0,adult
+44070,E,Othello,Russian thistle,0,1,adult
+44070,E,Othello,Russian thistle,0,0,adult
+43999,F,Othello,Russian thistle,0,0,adult
+43999,F,Othello,Russian thistle,0,0,adult
+43999,F,Othello,Russian thistle,0,1,adult
+43999,F,Othello,Russian thistle,1,0,adult
+44027,F,Othello,Russian thistle,0,0,adult
+44055,F,Othello,Russian thistle,0,1,adult
+44055,F,Othello,Russian thistle,0,0,adult
+44055,F,Othello,Russian thistle,0,0,adult
+43964,H,Paterson,Russian thistle,0,0,adult
+43964,H,Paterson,Russian thistle,0,0,adult
+43964,H,Paterson,Russian thistle,1,1,adult
+43976,H,Paterson,Russian thistle,1,0,adult
+43976,H,Paterson,Russian thistle,0,0,adult
+43976,H,Paterson,Russian thistle,0,0,adult
+43976,H,Paterson,Russian thistle,0,0,adult
+43976,H,Paterson,Russian thistle,0,0,adult
+43978,H,Paterson,Russian thistle,0,0,adult
+43978,H,Paterson,Russian thistle,0,0,adult
+43978,H,Paterson,Russian thistle,0,0,adult
+43978,H,Paterson,Russian thistle,0,0,adult
+43978,H,Paterson,Russian thistle,0,0,adult
+43978,H,Paterson,Russian thistle,0,0,adult
+43994,H,Paterson,Russian thistle,0,0,adult
+43994,H,Paterson,Russian thistle,0,0,adult
+43994,H,Paterson,Russian thistle,0,0,adult
+43994,H,Paterson,Russian thistle,1,0,adult
+43994,H,Paterson,Russian thistle,0,0,adult
+43994,H,Paterson,Russian thistle,0,0,adult
+43994,H,Paterson,Russian thistle,0,1,adult
+44007,H,Paterson,Russian thistle,0,1,adult
+44007,H,Paterson,Russian thistle,0,0,adult
+44007,H,Paterson,Russian thistle,1,1,adult
+44007,H,Paterson,Russian thistle,0,0,adult
+44007,H,Paterson,Russian thistle,0,0,adult
+44007,H,Paterson,Russian thistle,0,0,adult
+44007,H,Paterson,Russian thistle,0,0,adult
+43994,I,Paterson,Russian thistle,0,0,adult
+43994,I,Paterson,Russian thistle,0,0,adult
+43994,I,Paterson,Russian thistle,1,0,adult
+43994,I,Paterson,Russian thistle,0,0,adult
+43994,I,Paterson,Russian thistle,0,0,adult
+44007,I,Paterson,Russian thistle,0,0,adult
+44007,I,Paterson,Russian thistle,0,0,adult
+44007,I,Paterson,Russian thistle,0,0,adult
+44007,I,Paterson,Russian thistle,0,0,adult
+44056,I,Paterson,Russian thistle,0,0,adult
+44056,I,Paterson,Russian thistle,0,0,adult
+44056,I,Paterson,Russian thistle,0,0,adult
+44056,I,Paterson,Russian thistle,0,0,adult
+44056,I,Paterson,Russian thistle,0,0,adult
+44056,I,Paterson,Russian thistle,0,0,adult
+44068,I,Paterson,Russian thistle,0,0,adult
+44068,I,Paterson,Russian thistle,0,0,adult
+44068,I,Paterson,Russian thistle,0,0,adult
+44068,I,Paterson,Russian thistle,0,0,adult
+44105,I,Paterson,Russian thistle,0,0,adult
+44105,I,Paterson,Russian thistle,0,0,adult
+44105,I,Paterson,Russian thistle,0,0,adult
+44105,I,Paterson,Russian thistle,0,0,adult
+44105,I,Paterson,Russian thistle,0,0,adult
+44105,I,Paterson,Russian thistle,0,0,adult
+44105,I,Paterson,Russian thistle,0,0,adult
+44105,I,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,1,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,1,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43978,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,1,1,adult
+43994,J,Paterson,Russian thistle,0,1,adult
+43994,J,Paterson,Russian thistle,1,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,1,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+43994,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,0,1,adult
+44028,J,Paterson,Russian thistle,1,0,adult
+44028,J,Paterson,Russian thistle,1,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,1,0,adult
+44028,J,Paterson,Russian thistle,1,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,1,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,1,1,adult
+44028,J,Paterson,Russian thistle,0,0,adult
+44028,J,Paterson,Russian thistle,1,0,adult
+43978,M,Pasco,Russian thistle,0,0,adult
+43978,M,Pasco,Russian thistle,0,0,adult
+43978,M,Pasco,Russian thistle,0,0,adult
+43978,M,Pasco,Russian thistle,1,1,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,0,1,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,1,0,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,1,0,adult
+44007,M,Pasco,Russian thistle,0,0,adult
+44007,M,Pasco,Russian thistle,1,0,adult
+44007,M,Pasco,Russian thistle,1,0,adult
+44007,M,Pasco,Russian thistle,0,1,adult
+44028,M,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,1,0,adult
+43994,N,Pasco,Russian thistle,0,1,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,1,adult
+43994,N,Pasco,Russian thistle,1,0,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+43994,N,Pasco,Russian thistle,0,1,adult
+43994,N,Pasco,Russian thistle,0,1,adult
+43994,N,Pasco,Russian thistle,0,0,adult
+44007,N,Pasco,Russian thistle,0,0,adult
+44007,N,Pasco,Russian thistle,1,0,adult
+44007,N,Pasco,Russian thistle,0,0,adult
+44028,J,Paterson,Silver sagebrush,0,0,adult
+44028,J,Paterson,Silver sagebrush,0,0,adult
+44056,J,Paterson,Silver sagebrush,0,0,adult
+44105,J,Paterson,Silver sagebrush,0,0,adult
+44105,J,Paterson,Silver sagebrush,0,0,adult
+44105,J,Paterson,Silver sagebrush,0,0,adult
+44105,J,Paterson,Silver sagebrush,0,0,adult
+44105,J,Paterson,Silver sagebrush,0,0,adult
+43994,K,Paterson,Silver sagebrush,0,0,adult
+43994,K,Paterson,Silver sagebrush,0,0,adult
+43994,K,Paterson,Silver sagebrush,0,0,adult
+43994,K,Paterson,Silver sagebrush,0,0,adult
+43994,K,Paterson,Silver sagebrush,0,0,adult
+44007,K,Paterson,Silver sagebrush,0,0,adult
+44007,K,Paterson,Silver sagebrush,0,0,adult
+44105,K,Paterson,Silver sagebrush,0,0,adult
+44105,K,Paterson,Silver sagebrush,0,0,adult
+44105,K,Paterson,Silver sagebrush,0,0,adult
+44105,K,Paterson,Silver sagebrush,0,0,adult
+43969,A,Moxee,Tumble mustard,0,0,adult
+43969,A,Moxee,Tumble mustard,0,0,adult
+43969,A,Moxee,Tumble mustard,0,0,adult
+43969,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,1,0,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,1,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,1,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43985,A,Moxee,Tumble mustard,0,0,adult
+43969,F,Othello,Tumble mustard,0,0,adult
+43969,G,Othello,Tumble mustard,0,0,adult
+43976,H,Paterson,Tumble mustard,0,0,adult
+43976,H,Paterson,Tumble mustard,0,0,adult
+43978,J,Paterson,Tumble mustard,0,0,adult
+43978,J,Paterson,Tumble mustard,0,0,adult
+43978,J,Paterson,Tumble mustard,0,0,adult
+43978,J,Paterson,Tumble mustard,0,0,adult
+43978,J,Paterson,Tumble mustard,0,0,adult
+43978,J,Paterson,Tumble mustard,0,1,adult
+43978,J,Paterson,Tumble mustard,0,0,adult
+43994,J,Paterson,Tumble mustard,0,0,adult
+43994,J,Paterson,Tumble mustard,1,0,adult
+43994,J,Paterson,Tumble mustard,0,0,adult
+43994,J,Paterson,Tumble mustard,0,0,adult
+43994,J,Paterson,Tumble mustard,0,0,adult
+43994,J,Paterson,Tumble mustard,0,0,adult
+43994,J,Paterson,Tumble mustard,0,0,adult
+43994,J,Paterson,Tumble mustard,0,0,adult
+43994,J,Paterson,Tumble mustard,0,0,adult
+43978,N,Pasco,Tumble mustard,1,1,adult
+43978,N,Pasco,Tumble mustard,0,0,adult
+43943,WSU,Pasco,Tumble mustard,0,0,adult
+43943,WSU,Pasco,Tumble mustard,0,0,adult
+43943,WSU,Pasco,Tumble mustard,0,0,adult
+43943,WSU,Pasco,Tumble mustard,0,0,adult
+43943,WSU,Pasco,Tumble mustard,1,0,adult
+43943,WSU,Pasco,Tumble mustard,0,0,adult
+43985,B,Mattawa,Alfalfa,0,0,nymph
+43969,G,Othello ,Blue mustard,0,0,nymph
+43969,A,Moxee,Kochia,0,0,nymph
+43978,N,Pasco ,Kochia,0,0,nymph
+43978,M,Pasco,Kochia,0,0,nymph
+44027,D,Mattawa,Kochia,0,0,nymph
+44055,A,Moxee,Kochia,0,1,nymph
+44055,F,Othello ,Kochia,0,0,nymph
+44055,G,Othello ,Kochia,0,0,nymph
+44055,G,Othello ,Kochia,0,0,nymph
+44070,A,Moxee,Kochia,0,0,nymph
+44070,A,Moxee,Kochia,0,0,nymph
+44070,A,Moxee,Kochia,0,0,nymph
+44070,A,Moxee,Kochia,0,0,nymph
+44070,A,Moxee,Kochia,0,0,nymph
+44070,A,Moxee,Kochia,0,0,nymph
+44106,A,Moxee,Kochia,0,0,nymph
+44007,M,Pasco ,Pigweed,0,0,nymph
+43985,B,Mattawa,Russian thistle,0,0,nymph
+43994,I,Paterson,Russian thistle,0,0,nymph
+44027,A,Moxee,Russian thistle,0,0,nymph
+44055,A,Moxee,Russian thistle,0,0,nymph
+44055,E,Othello ,Russian thistle,0,0,nymph
+44055,I,Paterson,Russian thistle,0,0,nymph
+44055,I,Paterson,Russian thistle,0,0,nymph
+44070,A,Moxee,Russian thistle,0,0,nymph
+44070,D,Mattawa,Russian thistle,0,0,nymph
+43994,K,Paterson,Silver sagebrush,0,0,nymph
+43969,A,Moxee,Tumble mustard,0,0,nymph
+43994,J,Paterson,Tumble mustard,0,0,nymph
+44313,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44320,Moxee,Moxee,Blue mustard,0,0,nymph
+44306,Moxee,Moxee,Flixweed,0,0,nymph
+44306,Moxee,Moxee,Flixweed,0,0,nymph
+44306,Moxee,Moxee,Flixweed,0,0,nymph
+44306,Moxee,Moxee,Flixweed,0,0,nymph
+44306,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,1,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,1,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44313,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Flixweed,0,0,nymph
+44327,Moxee,Moxee,Flixweed,0,0,nymph
+44327,Moxee,Moxee,Flixweed,0,0,nymph
+44327,Moxee,Moxee,Flixweed,0,0,nymph
+44327,Moxee,Moxee,Flixweed,0,0,nymph
+44327,Moxee,Moxee,Flixweed,0,0,nymph
+44327,Moxee,Moxee,Flixweed,0,0,nymph
+44327,Moxee,Moxee,Flixweed,0,0,nymph
+44327,Moxee,Moxee,Flixweed,0,0,nymph
+44327,Moxee,Moxee,Flixweed,0,0,nymph
+44334,Moxee,Moxee,Flixweed,0,0,nymph
+44334,Othello,Othello,Flixweed,0,0,nymph
+44342,Moxee,Moxee,Flixweed,0,0,nymph
+44342,Moxee,Moxee,Flixweed,0,0,nymph
+44349,Moxee,Moxee,Flixweed,0,0,nymph
+44349,Moxee,Moxee,Flixweed,0,0,nymph
+44349,Moxee,Moxee,Flixweed,0,0,nymph
+44349,Moxee,Moxee,Flixweed,0,0,nymph
+44349,Moxee,Moxee,Flixweed,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,1,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Moxee,Moxee,Kochia,0,0,nymph
+44320,Othello,Othello,Kochia,0,0,nymph
+44320,Othello,Othello,Kochia,0,0,nymph
+44320,Othello,Othello,Kochia,0,0,nymph
+44320,Othello,Othello,Kochia,0,0,nymph
+44320,Othello,Othello,Kochia,0,0,nymph
+44320,Pasco,Pasco,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Moxee,Moxee,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Othello,Othello,Kochia,0,0,nymph
+44327,Pasco,Pasco,Kochia,0,0,nymph
+44327,Pasco,Pasco,Kochia,0,0,nymph
+44327,Pasco,Pasco,Kochia,0,0,nymph
+44327,Pasco,Pasco,Kochia,0,0,nymph
+44327,Pasco,Pasco,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Moxee,Moxee,Kochia,0,0,nymph
+44334,Othello,Othello,Kochia,0,0,nymph
+44334,Othello,Othello,Kochia,0,0,nymph
+44334,Othello,Othello,Kochia,0,0,nymph
+44334,Pasco,Pasco,Kochia,0,0,nymph
+44334,Pasco,Pasco,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Kochia,0,0,nymph
+44342,Othello,Othello,Kochia,0,0,nymph
+44342,Pasco,Pasco,Kochia,0,0,nymph
+44342,Pasco,Pasco,Kochia,0,0,nymph
+44342,Pasco,Pasco,Kochia,0,0,nymph
+44342,Pasco,Pasco,Kochia,0,0,nymph
+44349,Moxee,Moxee,Kochia,0,0,nymph
+44349,Moxee,Moxee,Kochia,0,0,nymph
+44349,Moxee,Moxee,Kochia,0,0,nymph
+44349,Moxee,Moxee,Kochia,0,0,nymph
+44349,Moxee,Moxee,Kochia,0,0,nymph
+44349,Moxee,Moxee,Kochia,0,0,nymph
+44349,Moxee,Moxee,Kochia,0,0,nymph
+44349,Moxee,Moxee,Kochia,0,0,nymph
+44349,Moxee,Moxee,Kochia,0,0,nymph
+44342,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44342,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44342,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44342,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44342,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44342,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44349,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44349,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44349,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44349,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44349,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44349,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44349,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44349,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44349,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44349,Moxee,Moxee,Loesel's mustard,0,0,nymph
+44299,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44306,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,1,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44313,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Moxee,Moxee,Tumble mustard,0,0,nymph
+44320,Moxee,Moxee,Tumble mustard,0,0,nymph
+44320,Moxee,Moxee,Tumble mustard,0,0,nymph
+44320,Moxee,Moxee,Tumble mustard,0,0,nymph
+44320,Moxee,Moxee,Tumble mustard,0,0,nymph
+44320,Moxee,Moxee,Tumble mustard,0,0,nymph
+44320,Moxee,Moxee,Tumble mustard,0,0,nymph
+44320,Moxee,Moxee,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,1,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44320,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Moxee,Moxee,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,1,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44327,Pasco,Pasco,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Moxee,Moxee,Tumble mustard,0,0,nymph
+44334,Pasco,Pasco,Tumble mustard,0,0,nymph
+44334,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Moxee,Moxee,Tumble mustard,0,0,nymph
+44342,Moxee,Moxee,Tumble mustard,0,0,nymph
+44342,Moxee,Moxee,Tumble mustard,0,0,nymph
+44342,Moxee,Moxee,Tumble mustard,0,0,nymph
+44342,Moxee,Moxee,Tumble mustard,0,0,nymph
+44342,Moxee,Moxee,Tumble mustard,0,0,nymph
+44342,Moxee,Moxee,Tumble mustard,0,0,nymph
+44342,Moxee,Moxee,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,1,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44342,Pasco,Pasco,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,1,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44349,Moxee,Moxee,Tumble mustard,0,0,nymph
+44285,Moxee farm,Moxee,Blue mustard,0,0,adult
+44285,Moxee farm,Moxee,Blue mustard,0,0,adult
+44292,Moxee farm,Moxee,Blue mustard,0,0,adult
+44313,Moxee farm,Moxee,Blue mustard,0,0,adult
+44313,Moxee farm,Moxee,Blue mustard,0,0,adult
+44313,Moxee farm,Moxee,Blue mustard,0,0,adult
+44278,Moxee farm,Moxee,Flixweed,0,0,adult
+44278,Moxee farm,Moxee,Flixweed,0,1,adult
+44278,Moxee farm,Moxee,Flixweed,0,0,adult
+44278,Moxee farm,Moxee,Flixweed,0,0,adult
+44278,Othello farm,Othello,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,1,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,0,0,adult
+44285,Moxee farm,Moxee,Flixweed,1,0,adult
+44292,Moxee farm,Moxee,Flixweed,0,1,adult
+44292,Moxee farm,Moxee,Flixweed,0,0,adult
+44292,Moxee farm,Moxee,Flixweed,0,0,adult
+44292,Moxee farm,Moxee,Flixweed,0,0,adult
+44292,Moxee farm,Moxee,Flixweed,0,0,adult
+44292,Moxee farm,Moxee,Flixweed,0,0,adult
+44292,Moxee farm,Moxee,Flixweed,0,0,adult
+44292,Moxee farm,Moxee,Flixweed,0,1,adult
+44292,Moxee farm,Moxee,Flixweed,0,0,adult
+44292,Moxee farm,Moxee,Flixweed,0,0,adult
+44292,Moxee farm,Moxee,Flixweed,0,0,adult
+44292,Moxee farm,Moxee,Flixweed,0,0,adult
+44292,Othello farm,Othello,Flixweed,0,0,adult
+44292,Othello farm,Othello,Flixweed,0,0,adult
+44292,Othello farm,Othello,Flixweed,0,0,adult
+44299,Othello farm,Othello,Flixweed,0,1,adult
+44299,Othello farm,Othello,Flixweed,0,0,adult
+44299,Moxee farm,Moxee,Flixweed,0,0,adult
+44299,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Othello farm,Othello,Flixweed,0,1,adult
+44306,Othello farm,Othello,Flixweed,0,0,adult
+44306,Othello farm,Othello,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,1,adult
+44306,Moxee farm,Moxee,Flixweed,1,1,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,1,1,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,1,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,1,adult
+44306,Moxee farm,Moxee,Flixweed,0,1,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,1,0,adult
+44306,Moxee farm,Moxee,Flixweed,1,0,adult
+44306,Moxee farm,Moxee,Flixweed,1,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,1,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,1,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,0,adult
+44306,Moxee farm,Moxee,Flixweed,0,1,adult
+44313,Moxee farm,Moxee,Flixweed,0,1,adult
+44314,Moxee farm,Moxee,Flixweed,0,0,adult
+44315,Moxee farm,Moxee,Flixweed,0,0,adult
+44316,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Moxee farm,Moxee,Flixweed,0,0,adult
+44313,Othello farm,Othello,Flixweed,0,0,adult
+44313,Othello farm,Othello,Flixweed,0,0,adult
+44313,Othello farm,Othello,Flixweed,0,0,adult
+44313,Othello farm,Othello,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Flixweed,0,0,adult
+44320,Othello farm,Othello,Flixweed,0,1,adult
+44327,Moxee farm,Moxee,Flixweed,0,0,adult
+44327,Moxee farm,Moxee,Flixweed,0,1,adult
+44334,Moxee farm,Moxee,Flixweed,0,0,adult
+44334,Moxee farm,Moxee,Flixweed,0,0,adult
+44334,Moxee farm,Moxee,Flixweed,0,0,adult
+44334,Moxee farm,Moxee,Flixweed,0,0,adult
+44334,Moxee farm,Moxee,Flixweed,0,0,adult
+44334,Othello farm,Othello,Flixweed,0,0,adult
+44334,Othello farm,Othello,Flixweed,0,1,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Moxee farm,Moxee,Flixweed,0,1,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Moxee farm,Moxee,Flixweed,0,1,adult
+44342,Moxee farm,Moxee,Flixweed,0,1,adult
+44342,Moxee farm,Moxee,Flixweed,0,1,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Moxee farm,Moxee,Flixweed,0,1,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Moxee farm,Moxee,Flixweed,0,0,adult
+44342,Othello farm,Othello,Flixweed,0,0,adult
+44342,Othello farm,Othello,Flixweed,0,0,adult
+44342,Othello farm,Othello,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,1,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,1,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,1,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,1,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,1,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,1,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,1,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Moxee farm,Moxee,Flixweed,0,0,adult
+44349,Othello farm,Othello,Flixweed,0,0,adult
+44349,Othello farm,Othello,Flixweed,0,0,adult
+44349,Othello farm,Othello,Flixweed,0,0,adult
+44320,Moxee farm,Moxee,Kochia,0,1,adult
+44320,Moxee farm,Moxee,Kochia,0,0,adult
+44320,Moxee farm,Moxee,Kochia,0,0,adult
+44320,Moxee farm,Moxee,Kochia,0,0,adult
+44320,Moxee farm,Moxee,Kochia,0,0,adult
+44327,Moxee farm,Moxee,Kochia,0,0,adult
+44327,Moxee farm,Moxee,Kochia,0,0,adult
+44327,Moxee farm,Moxee,Kochia,0,0,adult
+44327,Moxee farm,Moxee,Kochia,0,1,adult
+44327,Moxee farm,Moxee,Kochia,0,0,adult
+44327,Moxee farm,Moxee,Kochia,0,0,adult
+44327,Moxee farm,Moxee,Kochia,0,0,adult
+44327,Moxee farm,Moxee,Kochia,0,1,adult
+44327,Moxee farm,Moxee,Kochia,0,0,adult
+44327,Moxee farm,Moxee,Kochia,0,0,adult
+44327,Moxee farm,Moxee,Kochia,0,0,adult
+44327,Othello farm,Othello,Kochia,0,0,adult
+44327,Pasco farm,Pasco,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,1,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,1,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,1,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Moxee farm,Moxee,Kochia,0,0,adult
+44334,Othello farm,Othello,Kochia,0,0,adult
+44334,Pasco farm,Pasco,Kochia,1,0,adult
+44334,Pasco farm,Pasco,Kochia,0,0,adult
+44334,Pasco farm,Pasco,Kochia,0,0,adult
+44334,Pasco farm,Pasco,Kochia,0,0,adult
+44334,Pasco farm,Pasco,Kochia,0,0,adult
+44334,Pasco farm,Pasco,Kochia,0,0,adult
+44334,Pasco farm,Pasco,Kochia,0,0,adult
+44334,Pasco farm,Pasco,Kochia,0,0,adult
+44334,Pasco farm,Pasco,Kochia,0,0,adult
+44334,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,1,0,adult
+44342,Moxee farm,Moxee,Kochia,1,0,adult
+44342,Moxee farm,Moxee,Kochia,0,1,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,1,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,1,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Kochia,0,0,adult
+44342,Othello farm,Othello,Kochia,0,0,adult
+44342,Othello farm,Othello,Kochia,0,0,adult
+44342,Othello farm,Othello,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,1,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,1,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,1,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,1,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,1,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Moxee farm,Moxee,Kochia,0,1,adult
+44349,Moxee farm,Moxee,Kochia,0,0,adult
+44349,Othello farm,Othello,Kochia,0,0,adult
+44349,Othello farm,Othello,Kochia,0,0,adult
+44349,Othello farm,Othello,Kochia,0,0,adult
+44349,Othello farm,Othello,Kochia,0,0,adult
+44349,Othello farm,Othello,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,1,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,1,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,1,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,1,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,1,0,adult
+44349,Pasco farm,Pasco,Kochia,1,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44349,Pasco farm,Pasco,Kochia,0,0,adult
+44342,Moxee farm,Moxee,Loesel's mustard,0,0,adult
+44342,Moxee farm,Moxee,Loesel's mustard,0,1,adult
+44349,Moxee farm,Moxee,Loesel's mustard,0,0,adult
+44349,Moxee farm,Moxee,Loesel's mustard,0,0,adult
+44349,Moxee farm,Moxee,Loesel's mustard,0,0,adult
+44349,Moxee farm,Moxee,Loesel's mustard,0,0,adult
+44349,Moxee farm,Moxee,Loesel's mustard,0,0,adult
+44349,Moxee farm,Moxee,Loesel's mustard,0,0,adult
+44349,Moxee farm,Moxee,Loesel's mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44278,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,1,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44285,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44292,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44299,Pasco farm,Pasco,Tumble mustard,1,0,adult
+44306,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44306,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44306,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44306,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44306,Pasco farm,Pasco,Tumble mustard,1,1,adult
+44306,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44313,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44313,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44313,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44313,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44313,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44313,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44320,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44320,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44320,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44320,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44320,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44320,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44320,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44320,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44320,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44320,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44320,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,1,1,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44327,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44334,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44334,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44334,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44334,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44334,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44334,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44334,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44334,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44334,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44334,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44334,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44334,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44334,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44334,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44334,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44334,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44334,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44342,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44342,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44342,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44342,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44342,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44342,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44342,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44342,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44342,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,1,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,1,1,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,0,adult
+44342,Pasco farm,Pasco,Tumble mustard,0,1,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,1,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,1,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,1,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,1,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,1,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,1,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,1,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,1,adult
+44349,Moxee farm,Moxee,Tumble mustard,0,0,adult

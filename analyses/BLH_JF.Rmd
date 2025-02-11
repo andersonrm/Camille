@@ -47,10 +47,8 @@ knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
 
 ## Overview
 
-What is this analysis about?
+This markdown creates three figures for the Foutz et al. manuscript.
 
-### Summary of Results
-* 
 
 ```{r Main_Code, include = F, cache = F}
 
@@ -70,12 +68,14 @@ library(viridis)
 # Import datasets
 plants <- read.csv("data/JF_plants.csv")
 
-
+blh <- read.csv("data/JF_blh.csv")
 
 ```
 
 
-```{r Data_Wrangling, echo = F, comment = ""}
+```{r Data_Wrangling_plants, echo = F, comment = ""}
+
+## wrangling for the plant data:
 
 plants1 <- plants %>% 
   mutate(
@@ -117,26 +117,50 @@ plants1 <- plants %>%
            TRUE ~ host
          )))
 
+# which plants were most abundant?
 count_plants <- plants1 %>% 
+  
+  # group the data by month and host plant:
   group_by(Month, host) %>% 
+  
+  # count the occurrences of each host plant/grouping:
   tally(name = "plant_count") %>% 
+  
+  # group by host plant and calculate the mean of occurrences: 
   group_by(host) %>% 
   summarise(M = mean(plant_count)) %>% 
+  
+  # sort the plants my descending mean occurrence:
   arrange(desc(M)) %>% 
+  
+  # take only the top 20th percentile:
   filter(M > quantile(M, 0.8))
 
+
+# get the abundance and proportion infected (BLTVA):
 bltva <- plants1 %>% 
+  
+  # count the occurrences of each infection status per month and host:
   group_by(Month, host, BLTVA_status) %>% 
   tally(name = "bltva") %>% 
+  
+  # widen the infection status to calculate prop. infected:
   pivot_wider(names_from = BLTVA_status,
               values_from = bltva,
+              # fill any trimmed cell with a 0:
               values_fill = list(bltva = 0)) %>% 
+  
+  # calculate the total plants and proportion infected:
   mutate(total = healthy + infected,
          pr_bltva = infected/total) %>% 
-  arrange(desc(total)) %>% 
-  semi_join(., y = count_plants, by = "host")
+  
+  # return only hosts identified as the top 20th %tile in abundance:
+  semi_join(., y = count_plants, by = "host") %>% 
+  
+  select(-healthy, -infected)
 
 
+# get the abundance and proportion infected (BCTV):
 bctv <- plants1 %>% 
   group_by(Month, host, BCTV_status) %>% 
   tally(name = "bctv") %>% 
@@ -144,50 +168,355 @@ bctv <- plants1 %>%
               values_from = bctv,
               values_fill = list(bctv = 0)) %>% 
   mutate(total = healthy + infected,
-         pr_bctv = infected/total) %>% 
-  arrange(desc(total)) %>% 
+         pr_bctv = infected/total) %>%  
   semi_join(., y = count_plants, by = "host") %>% 
+  
+  # remove redundant columns:
   select(host, Month, pr_bctv)
 
-
+# join bltva and bctv props together:
 plant_props <- left_join(bltva, bctv, by = c("Month", "host"))
 
 ```
 
+# BLH plants
 
-```{r BLH_plants, echo = F, fig.height = 4.5, fig.width = 11}
+```{r BLH_plants, echo = F, fig.height = 4.8, fig.width = 11}
+
+plant_order <- c("Pigweed", "Russian thistle", "Kochia",
+                 "Potato", "Tumble mustard", "Flixweed")
 
 pA <- plant_props %>% 
-  ggplot(aes(x = Month, y = host,
+  ggplot(aes(x = Month,
+             y = factor(host, level = plant_order),
              size = total, fill = pr_bltva)) +
   geom_point(shape = 21,
              color = 'black',
              show.legend = F) +
-  scale_size(range = c(1, 14)) +
+  scale_size(range = c(2, 20)) +
   theme_cowplot(font_size = 18) +
-  theme(axis.title.y = element_blank()) +
-  scale_fill_viridis_c(option = "magma")
+  theme(axis.title.y = element_blank(),
+        strip.background = element_blank()) +
+  scale_fill_viridis_c(option = "magma",
+                       direction = -1) +
+  labs(size = "No. plants",
+       fill = "Pr(infected)") +
+  annotate(geom = "text",
+           label = "",
+           y = 7, x = 1)
 
 pB <- plant_props %>% 
-  ggplot(aes(x = Month, y = host,
+  ggplot(aes(x = Month,
+             y = factor(host, level = plant_order),
              size = total, fill = pr_bctv)) +
   geom_point(shape = 21,
              color = 'black') +
-  scale_size(range = c(1, 14)) +
+  scale_size(range = c(2, 20)) +
+  theme_cowplot(font_size = 18) +
+  theme(axis.title.y = element_blank(),
+        strip.background = element_blank(),
+        axis.text.y = element_blank()) +
+  scale_fill_viridis_c(option = "magma",
+                       direction = -1) +
+  labs(size = "No. plants",
+       fill = "Pr(infected)") +
+  annotate(geom = "text",
+           label = "",
+           y = 7, x = 1)
+
+plot_grid(pA, pB, labels = c("A", "B"),
+          nrow = 1,
+          label_x = c(.25, -0.025))
+
+```
+
+* **Figure 1.** Plants sampled and the proportion infected with **A)** BLTVA, and **B)** BCTV. Point size is proportional to the total plants sampled. Fill gradient continuously reflects proportion of infection, with light points representing less infection, and dark points representing more infection.
+
+```{r Data_Wrangling_BLH, echo = F, comment = ""}
+
+## wrangling for the BLH data:
+
+blh1 <- blh %>% 
+  mutate(
+         # converting the excel date into a Date class:
+         date = as.Date(date, origin = "1899-12-30"),
+         
+         # making the site, region, and host variables as factors:
+         across(c(site : host, blh_lifestage), factor),
+         
+         # creating and factoring a column for `year` and `month`:
+         Year = factor(year(date)),
+         Month = factor(month(date)),
+         
+         # creating a co-infection variable automatically:
+         co_inf = case_when(
+           BLTVA_status == 1 &
+             BCTV_status == 1 ~ 1,
+           TRUE ~ 0
+         ),
+         
+         # converting the infection "0,1" into a meaningful factor:
+         BLTVA_status = factor(case_when(
+           BLTVA_status == 1 ~ "infected",
+           BLTVA_status == 0 ~ "healthy",
+           TRUE ~ NA
+         )),
+         BCTV_status = factor(case_when(
+           BCTV_status == 1 ~ "infected",
+           BCTV_status == 0 ~ "healthy",
+           TRUE ~ NA
+         )),
+         host = factor(case_when(
+           host == "Blue Mustard" ~ "Blue mustard",
+           host == "Common Purslane" ~ "Common purslane",
+           host == "Netseed Lambsquarters" ~ "Netseed lambsquarters",
+           TRUE ~ host
+         )))
+
+
+
+# which plants had the most BLH nymphs?
+count_blh <- blh1 %>% 
+  filter(blh_lifestage == "nymph") %>% 
+  
+  # group the data by month and host plant:
+  group_by(Month, host) %>% 
+  
+  # count the occurrences of each host plant/grouping:
+  tally(name = "nymphs") %>% 
+  
+  # group by host plant and calculate the mean of occurrences: 
+  group_by(host) %>% 
+  summarise(M = mean(nymphs)) %>% 
+  
+  # sort the plants my descending mean occurrence:
+  arrange(desc(M)) %>% 
+  
+  # take only the top 60th percentile:
+  filter(M > quantile(M, 0.4))
+
+
+
+### BLH NYMPHS -------------------------------
+
+# NYMPHS -- get the abundance and proportion infected (BLTVA):
+blh_bltva_nymph <- blh1 %>% 
+  filter(blh_lifestage == "nymph") %>% 
+  
+  # count the occurrences of each infection status per month and host:
+  group_by(Month, host, BLTVA_status) %>% 
+  tally(name = "bltva") %>% 
+  
+  # widen the infection status to calculate prop. infected:
+  pivot_wider(names_from = BLTVA_status,
+              values_from = bltva,
+              # fill any trimmed cell with a 0:
+              values_fill = list(bltva = 0)) %>% 
+  
+  # calculate the total plants and proportion infected:
+  mutate(total = healthy + infected,
+         pr_bltva = infected/total) %>% 
+  
+  # return only hosts identified as the top 20th %tile in abundance:
+  semi_join(., y = count_blh, by = "host")
+
+
+# NYMPHS -- get the abundance and proportion infected (BCTV):
+blh_bctv_nymph <- blh1 %>% 
+  filter(blh_lifestage == "nymph") %>% 
+  group_by(Month, host, BCTV_status) %>% 
+  tally(name = "bctv") %>% 
+  pivot_wider(names_from = BCTV_status,
+              values_from = bctv,
+              values_fill = list(bctv = 0)) %>% 
+  mutate(total = healthy + infected,
+         pr_bctv = infected/total) %>%  
+  semi_join(., y = count_blh, by = "host") %>% 
+  
+  # remove redundant columns:
+  select(host, Month, pr_bctv)
+
+# join bltva and bctv props together:
+blh_nymph_props <- left_join(blh_bltva_nymph, blh_bctv_nymph,
+                             by = c("Month", "host"))
+
+
+
+### BLH ADULTS -------------------------------
+
+# which plants had the most BLH adults?
+count_blh_adults <- blh1 %>% 
+  filter(blh_lifestage != "nymph") %>% 
+  
+  # group the data by month and host plant:
+  group_by(Month, host) %>% 
+  
+  # count the occurrences of each host plant/grouping:
+  tally(name = "adults") %>% 
+  
+  # group by host plant and calculate the mean of occurrences: 
+  group_by(host) %>% 
+  summarise(M = sum(adults)) %>% 
+  
+  # sort the plants my descending mean occurrence:
+  arrange(desc(M)) %>% 
+  filter(M >= 15,
+         host != "Mustard")
+
+# ADULTS -- get the abundance and proportion infected (BLTVA):
+blh_bltva_adult <- blh1 %>% 
+  filter(blh_lifestage != "nymph") %>% 
+  
+  # count the occurrences of each infection status per month and host:
+  group_by(Month, host, BLTVA_status) %>% 
+  tally(name = "bltva") %>% 
+  
+  # widen the infection status to calculate prop. infected:
+  pivot_wider(names_from = BLTVA_status,
+              values_from = bltva,
+              # fill any trimmed cell with a 0:
+              values_fill = list(bltva = 0)) %>% 
+  
+  # calculate the total plants and proportion infected:
+  mutate(total = healthy + infected,
+         pr_bltva = infected/total) %>% 
+  
+  # return only hosts identified as the top 20th %tile in abundance:
+  semi_join(., y = count_blh_adults, by = "host")
+
+
+# ADUlTS -- get the abundance and proportion infected (BCTV):
+blh_bctv_adult <- blh1 %>% 
+  filter(blh_lifestage != "nymph") %>% 
+  group_by(Month, host, BCTV_status) %>% 
+  tally(name = "bctv") %>% 
+  pivot_wider(names_from = BCTV_status,
+              values_from = bctv,
+              values_fill = list(bctv = 0)) %>% 
+  mutate(total = healthy + infected,
+         pr_bctv = infected/total) %>%  
+  semi_join(., y = count_blh_adults, by = "host") %>% 
+  
+  # remove redundant columns:
+  select(host, Month, pr_bctv)
+
+# join bltva and bctv props together:
+blh_adult_props <- left_join(blh_bltva_adult, blh_bctv_adult,
+                             by = c("Month", "host"))
+
+```
+
+
+# BLH nymphs
+
+```{r BLH_nymphs, echo = F, fig.height = 4.6, fig.width = 11}
+
+blh_nymph_order <- c("Kochia", "Loesel's mustard", "Flixweed",
+               "Tumble mustard", "Blue mustard")
+
+nA <- blh_nymph_props %>% 
+  ggplot(aes(x = Month,
+             y = factor(host, level = blh_nymph_order),
+             size = total, fill = pr_bltva)) +
+  geom_point(shape = 21,
+             color = 'black',
+             show.legend = F) +
+  scale_size(range = c(2, 20)) +
+  theme_cowplot(font_size = 18) +
+  theme(axis.title.y = element_blank()) +
+  scale_fill_viridis_c(option = "magma",
+                       limits = c(0, 0.1),
+                       direction = -1) +
+  annotate(geom = "text",
+           x = 1, y = 6,
+           label = "")
+
+nB <- blh_nymph_props %>% 
+  ggplot(aes(x = Month,
+             y = factor(host, level = blh_nymph_order),
+             size = total, fill = pr_bctv)) +
+  geom_point(shape = 21,
+             color = 'black') +
+  scale_size(range = c(2, 20)) +
   theme_cowplot(font_size = 18) +
   theme(axis.title.y = element_blank(),
         axis.text.y = element_blank()) +
-  labs(size = "No. plants",
+  labs(size = "No. BLH",
        fill = "Pr(infected)") +
-  scale_fill_viridis_c(option = "magma")
+  scale_fill_viridis_c(option = "magma",
+                       direction = -1) +
+  annotate(geom = "text",
+           x = 1, y = 6,
+           label = "")
 
 
-plot_grid(pA, pB, labels = c("A)", "B)"),
+plot_grid(nA, nB, labels = c("A", "B"),
           rel_widths = c(1, 1),
           nrow = 1,
-          label_x = c(0.2, -0.05))
+          label_x = c(0.25, -0.05))
 
 ```
+
+* **Figure 2.** Plants sampled and the proportion infected with **A)** BLTVA, and **B)** BCTV. Point size is proportional to the total no. of beet leafhopper nymphs sampled. Fill gradient continuously reflects proportion of infection, with light points representing less infection, and dark points representing more infection.
+
+
+# BLH adults
+
+```{r BLH_adults, echo = F, fig.height = 5, fig.width = 12}
+
+blh_adult_order <- c("Silver sagebrush", "Pigweed", "Netseed lambsquarters",
+                     "Kochia", "Russian thistle", "Grasses",
+                     "Potato", "Tumble mustard", "Flixweed")
+
+aA <- blh_adult_props %>% 
+  ggplot(aes(x = Month,
+             y = factor(host, level = blh_adult_order),
+             size = total, fill = pr_bltva)) +
+  geom_point(shape = 21,
+             color = 'black',
+             show.legend = F) +
+  scale_size(range = c(2, 20)) +
+  theme_cowplot(font_size = 18) +
+  theme(axis.title.y = element_blank()) +
+  scale_fill_viridis_c(option = "magma",
+                       limits = c(0, 0.5),
+                       direction = -1) +
+  annotate(geom = "text",
+           x = 1, y = 10,
+           label = "")
+
+aB <- blh_adult_props %>% 
+  ggplot(aes(x = Month,
+             y = factor(host, level = blh_adult_order),
+             fill = pr_bctv, size = total)) +
+  geom_point(shape = 21,
+             color = 'black') +
+  scale_size(range = c(2, 20),
+             breaks = c(10, 50, 150, 250)) +
+  theme_cowplot(font_size = 18) +
+  theme(axis.title.y = element_blank(),
+        axis.text.y = element_blank()) +
+  labs(fill = "Pr(infected)",
+       size = "No. BLH") +
+  scale_fill_viridis_c(option = "magma",
+                       direction = -1) +
+  annotate(geom = "text",
+           x = 1, y = 10,
+           label = "") +
+  guides(fill = guide_colorbar(order = 1),
+         size = guide_legend(order = 2))
+
+
+plot_grid(aA, aB, labels = c("A", "B"),
+          rel_widths = c(1.1, 1),
+          nrow = 1,
+          label_x = c(0.25, -0.05))
+
+```
+
+* **Figure 3.** Plants sampled and the proportion infected with **A)** BLTVA, and **B)** BCTV. Point size is proportional to the total no. of beet leafhopper adults sampled. Fill gradient continuously reflects proportion of infection, with light points representing less infection, and dark points representing more infection.
+
+
 
 
 ## Session Information
