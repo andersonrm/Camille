@@ -1,0 +1,807 @@
+---
+title: "Gut Contents from Hemp, Hops, and Carrot"
+author: "Dr. Riley M. Anderson"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+graphics: yes
+output:
+  github_document:
+    toc: yes
+    toc_depth: 5
+    pandoc_args: --webtex
+  html_document:
+    keep_md: yes
+    theme: readable
+    mathjax: default
+  html_notebook:
+    code_folding: hide
+    theme: readable
+    mathjax: default
+  pdf_document:
+    toc: yes
+header-includes:
+  \usepackage{float}
+  \floatplacement{figure}{H}
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include = F}
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Knitr Options
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Set root directory to the project directory
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+
+
+# Set default knitr options: 
+# Suppress warnings and messages, cache chunks, 
+#  set default figure size to 6x8 at 300 dpi, and save a png and pdf
+knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
+    fig.height = 5, fig.width = 10, dpi = 300, # 6x8" @ 300dpi:1800x2400=4.3MP
+    dev = 'png', dev.args = list(pdf = list(onefile = F)))
+
+```
+
+
+
+## Overview
+
+Multivariate analyses of Camille's potato/hemp/hops/carrot BLH gut contents.
+
+### Summary of Results
+
+* Plant species composition in the gut contents of BLH is weakly tied to sampling date (the grey contours in the NMDS figures).
+
+* The predictors, **region**, and **BCTV** help explain some variation but do not differentiate gut composition. 
+
+* **Host plant** was used as a block effect (random intercept and permutation stratification) in the models.
+
+* The relationship with sampling date is convoluted and highly non-linear. I suspect this has much to do with the sampling across multiple years where regions were not sampled every year, or sampled at different times across years.
+
+* The benchmark plant *Solanum*, for standardizing primer efficiency stands out by an order of magnitude. To me, this suggests that **sequences** are not representative of concentration in the gut. Instead, **sequences** are a function of primer efficiency. If so, this entire analysis should be ignored, as the ordinations are built from the assumption that **sequences** are at least partially a function of concentration in the gut.
+
+
+```{r Main_Code, include = F, cache = F}
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Setup - This code is run, but output is hidden
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Load Packages
+library(tidyverse) # Needed for data wrangling: dplyr, tidyr, ggplot2
+library(cowplot) # Needed for publication-quality ggplots
+library(vegan)
+library(randomForest)
+library(sjPlot)
+library(ggrepel)
+library(mgcv)
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Data Preparation
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Import datasets
+dat1 <- read.csv("data/BLH_gut_contents_2025.csv")
+
+dat1 <- read.csv("data/gut_contents_full.csv")
+
+
+set.seed(123)
+```
+
+
+```{r Data_Wrangling, echo = F, comment = ""}
+
+dat1 <- dat1 %>% 
+  filter(!is.na(BCTV)) %>% 
+  mutate(Date = as.Date(Date, origin = "1899-12-30"),
+         extraction_date = as.Date(extraction_date,
+                                   origin = "1899-12-30"),
+         across(c(BLH_ID, type, family, common_name, Terpene,
+                genus, organism, primer, time_period,
+                region, site_name, host_plant, BCTV), factor),
+         Terpene = factor(case_when(
+           Terpene == "" ~ "none",
+           Terpene == "None" ~ "none",
+           TRUE ~ Terpene
+         ))) %>% 
+  # removing host_plants with few records:
+  filter(host_plant != "Filaree" &
+           host_plant != "Lambsquarter" &
+           host_plant != "Mustard") %>% 
+  droplevels() %>% 
+  # correcting typos in time_period
+  mutate(time_period = case_when(
+    time_period == " August" ~ "August",
+    time_period == " April" ~ "April",
+    time_period == " July" ~ "July",
+    time_period == " June" ~ "June",
+    time_period == " March" ~ "March",
+    time_period == " May" ~ "May",
+    time_period == " October" ~ "October",
+    TRUE ~ time_period),
+         time_period = factor(time_period,
+                              levels = c("March", "April", "May",
+                                         "June", "July", "August",
+                                         "October")))
+
+
+
+meta <- dat1 %>% 
+  select(BLH_ID, time_period, Date, extraction_date,
+         region, host_plant, BCTV, Terpene, Year) %>% 
+  distinct()
+
+## Matrix and species by "Crop type":
+
+species_counts <- dat1 %>%
+  filter(!is.na(Sequences)) %>% 
+  mutate(stan_seqs = Sequences / blh_mix_count,
+         stan_seqs = round(stan_seqs, 0)) %>% 
+  uncount(stan_seqs) %>% 
+  select(BLH_ID, type) %>%
+  group_by(BLH_ID, type) %>%
+  tally(name = "Sequences") %>% 
+  group_by(type) %>% 
+  summarise(total_counts = sum(Sequences))
+
+gut_matrix <- dat1 %>%
+  filter(!is.na(Sequences)) %>% 
+  mutate(stan_seqs = Sequences / blh_mix_count,
+         stan_seqs = round(stan_seqs, 0)) %>% 
+  uncount(stan_seqs) %>% 
+  select(BLH_ID, type) %>%
+  group_by(BLH_ID, type) %>%
+  tally(name = "Sequences") %>% 
+  pivot_wider(names_from = type,
+              values_from = Sequences,
+              values_fill = list(Sequences = 0)) %>% 
+  left_join(., meta, by = "BLH_ID") %>% 
+  mutate(sample_date = yday(Date),
+         ex_date = yday(extraction_date)) %>% 
+  select(-Date, -extraction_date)
+
+
+## Matrix and species by "Genus"
+
+genus_counts <- dat1 %>%
+  filter(!is.na(Sequences)) %>% 
+  mutate(stan_seqs = Sequences / blh_mix_count,
+         stan_seqs = round(stan_seqs, 0)) %>% 
+  uncount(stan_seqs) %>% 
+  select(BLH_ID, genus) %>%
+  group_by(BLH_ID, genus) %>%
+  tally(name = "Sequences") %>% 
+  group_by(genus) %>% 
+  summarise(total_counts = sum(Sequences)) %>% 
+  arrange(desc(total_counts)) %>% 
+  filter(total_counts > quantile(total_counts, .8),
+         genus != "Glycine")
+
+
+gut_genus_matrix <- dat1 %>%
+  filter(!is.na(Sequences)) %>% 
+  mutate(stan_seqs = Sequences / blh_mix_count,
+         stan_seqs = round(stan_seqs, 0)) %>% 
+  uncount(stan_seqs) %>% 
+  select(BLH_ID, genus) %>%
+  group_by(BLH_ID, genus) %>%
+  tally(name = "Sequences") %>% 
+  semi_join(., genus_counts, by = "genus") %>% 
+  pivot_wider(names_from = genus,
+              values_from = Sequences,
+              values_fill = list(Sequences = 0)) %>% 
+  left_join(., meta, by = "BLH_ID") %>% 
+  mutate(sample_date = yday(Date),
+         ex_date = yday(extraction_date)) %>% 
+  select(-Date, -extraction_date)
+  
+
+
+```
+
+## NMDS by crop type
+```{r NMDS_calcs_CropType, echo = F}
+
+gut_ord <- gut_matrix %>% ungroup() %>% 
+  select(Cannabis : Kochia) %>% 
+  metaMDS(., k = 3, distance = "bray",
+          trymax = 50, maxit = 1000)
+## stress is acceptable with 3 dimensions
+gut_ord$stress
+stressplot(gut_ord)
+
+# checking for trends with envfit():
+
+gut_mod_envfit <- envfit(gut_ord ~ sample_date +
+                           host_plant + BCTV,
+                         strata = gut_matrix$region,
+                         choices = c(1:3), na.rm = TRUE,
+                         data = gut_matrix, nperm = 999)
+
+gut_mod_envfit # Only sample date matters
+
+gut_mod_envfit1 <- envfit(gut_ord ~ sample_date + BCTV +
+                           host_plant + region,
+                         choices = c(1:3), na.rm = TRUE,
+                         data = gut_matrix, nperm = 999)
+
+gut_mod_envfit1 # Region appears to have strong effects,
+                # consider region as a fixed effect.
+
+## checking for trends with GAM:
+
+gut_mat_gam <- bind_cols(gut_matrix, scores(gut_ord)$sites)
+
+gut_gam1 <- gam(sample_date ~ s(NMDS1, NMDS2, NMDS3, k = 9) +
+                  region + BCTV + host_plant,
+                  data = gut_mat_gam)
+
+summary(gut_gam1) # Sample date has strong relationship
+
+#### checking for trends with PERMANOVA:
+
+gut_mat_species <- gut_matrix %>% ungroup() %>% 
+  select(Cannabis : Kochia)
+
+gut_mat_predictors <- gut_matrix %>% ungroup() %>% 
+  select(-Cannabis : -Kochia)
+
+# linear fit with samples date:
+gut_ord_adonis1 <- adonis2(gut_mat_species ~
+                            sample_date + BCTV +
+                            host_plant + region,
+                          data = gut_matrix)
+
+
+# linear fit with samples date and region stratified:
+gut_ord_adonis2 <- adonis2(gut_mat_species ~
+                            sample_date + BCTV +
+                            host_plant,
+                           strata = gut_matrix$region,
+                          data = gut_matrix)
+
+# checking for non-linearity in sample date
+gut_ord_adonis3 <- adonis2(gut_mat_species ~
+                            splines::ns(sample_date, df = 3) +
+                            host_plant + region + BCTV,
+                          data = gut_matrix)
+
+# checking for non-linearity in sample date with stratified region
+gut_ord_adonis4 <- adonis2(gut_mat_species ~
+                            splines::ns(sample_date, df = 3) +
+                            host_plant+ BCTV,
+                           strata = gut_matrix$region,
+                          data = gut_matrix)
+
+# relationship between sample date and gut contents is non-linear.
+
+```
+
+
+```{r gut_sample_date_figure_prep, echo = F}
+
+
+gut_sites <- data.frame(scores(gut_ord)$sites) %>% 
+  rownames_to_column("sample_num") %>% 
+  bind_cols(., gut_mat_predictors)
+
+gut_host_centroids <- gut_sites %>% 
+  group_by(host_plant) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2)) 
+
+gut_ord_sample_date <- gam(sample_date ~ s(NMDS1, NMDS2, k = 9),
+                       data = gut_sites)
+
+summary(gut_ord_sample_date)
+
+preddat <- expand.grid(NMDS1 = seq(-2.5, 2.5, 0.5),
+                       NMDS2 = seq(-1.5, 2.2, 0.5))
+preddat$date_pred <- predict(gut_ord_sample_date,
+                                 newdata = preddat)
+
+
+
+
+gut_species <- data.frame(scores(gut_ord)$species) %>% 
+  rownames_to_column("type")
+
+gut_species$date_centroid <- exp(predict(
+  gut_ord_sample_date, newdata = gut_species))
+
+
+
+gut_species <- gut_species %>% 
+  left_join(., species_counts, by = "type")
+
+```
+
+### Crop type by field plant
+
+```{r gut_sample_date_host_fig, echo = F}
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 1) +
+  geom_text_repel(data = gut_species, max.overlaps = 15,
+                  aes(label = type, size = total_counts)) +
+  scale_size_binned(transform = "log10", range = c(1.5, 5),
+             breaks = c(3, 30, 300)) +
+  theme_cowplot() +
+  stat_ellipse(data = gut_sites,
+               aes(x = NMDS1, y = NMDS2, color = host_plant)) +
+  geom_point(data = gut_host_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = host_plant),
+             shape = 21, size = 5, show.legend = F) +
+  # geom_point(data = bee_sites,
+  #            aes(x = NMDS1, y = NMDS2, color = period),
+  #            show.legend = F) +
+  labs(size = "Abundance",
+       color = "Host plant") 
+
+```
+
+### Crop type by regions
+
+```{r gut_sample_date_region_fig, echo = F}
+
+gut_region_centroids <- gut_sites %>% 
+  group_by(region) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2))
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 1) +
+  geom_text_repel(data = gut_species, max.overlaps = 15,
+                  aes(label = type, size = total_counts)) +
+  scale_size_binned(transform = "log10", range = c(1.5, 5),
+             breaks = c(3, 30, 300)) +
+  theme_cowplot() +
+  stat_ellipse(data = gut_sites,
+               aes(x = NMDS1, y = NMDS2, color = region)) +
+  geom_point(data = gut_region_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = region),
+             shape = 21, size = 5, show.legend = F) +
+  # geom_point(data = bee_sites,
+  #            aes(x = NMDS1, y = NMDS2, color = period),
+  #            show.legend = F) +
+  labs(size = "Abundance",
+       color = "Region")
+
+
+```
+
+
+### Crop type by BCTV
+
+```{r gut_sample_date_BCTV_fig, echo = F}
+
+gut_bctv_centroids <- gut_sites %>% 
+  group_by(BCTV) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2)) 
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 0) +
+  geom_text_repel(data = gut_species, max.overlaps = 15,
+                  aes(label = type, size = total_counts)) +
+  scale_size_binned(transform = "log10", range = c(1.5, 5),
+             breaks = c(3, 30, 300)) +
+  theme_cowplot() +
+  stat_ellipse(data = gut_sites,
+               aes(x = NMDS1, y = NMDS2, color = BCTV)) +
+  geom_point(data = gut_bctv_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = BCTV),
+             shape = 21, size = 5, show.legend = F) +
+  # geom_point(data = bee_sites,
+  #            aes(x = NMDS1, y = NMDS2, color = period),
+  #            show.legend = F) +
+  labs(size = "Abundance",
+       color = "BCTV",
+       x = "NMDS1",
+       y = "NMDS2") +
+  scale_color_manual(values = c("#009E73",
+                                "#CC79A7")) +
+  scale_fill_manual(values = c("#009E73",
+                                "#CC79A7"))
+
+
+```
+
+## NMDS by genus
+```{r NMDS_calcs_genus, echo = F, cache=F}
+
+gut_ord_genus <- gut_genus_matrix %>% ungroup() %>% 
+  select(Cannabis : Ulmus) %>% 
+  metaMDS(., k = 3, distance = "bray",
+          trymax = 50, maxit = 1000)
+## stress is fine with 3 dimensions
+
+
+stressplot(gut_ord_genus)
+plot(gut_ord_genus)
+# checking for trends with envfit():
+
+gut_genus_matrix <- gut_genus_matrix %>% 
+  mutate(Year = factor(Year))
+
+genus_mod_envfit <- envfit(gut_ord_genus ~ sample_date +
+                           region + BCTV + Year,
+                         strata = gut_genus_matrix$host_plant,
+                         choices = c(1:3),
+                         data = gut_genus_matrix, nperm = 999)
+
+genus_mod_envfit # Only sample date matters
+
+
+
+## checking for trends with GAM:
+library(gamm4)
+genus_mat_gam <- bind_cols(gut_genus_matrix,
+                           scores(gut_ord_genus)$sites)
+
+genus_gam1 <- gamm4(sample_date ~ s(NMDS1, NMDS2, NMDS3),
+                  random = ~(1 | host_plant),
+                  data = genus_mat_gam)
+
+summary(genus_gam1$gam) # Sample date has strong relationship
+plot(genus_gam1$gam)
+
+
+genus_gam2 <- gamm4(sample_date ~ s(NMDS1, NMDS2),
+                  random = ~(1 | host_plant),
+                  data = genus_mat_gam)
+
+summary(genus_gam2$gam) # Sample date has strong relationship
+plot(genus_gam2$gam)
+
+##@@@
+
+genus_mat_gam <- genus_mat_gam %>% 
+  mutate(year_time = case_when(
+    Year == "2019" ~ sample_date,
+    Year == "2020" ~ sample_date + 365,
+    Year == "2021" ~ sample_date + (2*365),
+    Year == "2022" ~ sample_date + (3*365),
+    TRUE ~ NA
+  ))
+
+genus_gam3 <- gamm4(year_time ~ s(NMDS1, NMDS2) + Year,
+                  random = ~(1 | host_plant),
+                  data = genus_mat_gam)
+
+summary(genus_gam3$gam) # Sample date has strong relationship
+plot(genus_gam3$gam)
+
+##@@@
+
+#### checking for trends with PERMANOVA:
+
+genus_mat_species <- gut_genus_matrix %>% ungroup() %>% 
+  select(Cannabis : Ulmus)
+
+genus_mat_predictors <- gut_genus_matrix %>% ungroup() %>% 
+  select(-Cannabis : -Ulmus)
+
+# This model below makes more sense, I think this is the structure
+# we're interested in. We expect the region to account for the variation
+# in gut contents. Host plant should have a large effect but the effect is
+# inflated because they also eat the host plant.
+genus_ord_adonis1 <- adonis2(genus_mat_species ~
+                            splines::ns(sample_date, df = 3) +
+                            region + Year + BCTV,
+                            strata = gut_genus_matrix$host_plant,
+                          data = gut_genus_matrix)
+
+
+gut_genus_matrix <- gut_genus_matrix %>% 
+  mutate(year_time = case_when(
+    Year == "2019" ~ sample_date,
+    Year == "2020" ~ sample_date + 365,
+    Year == "2021" ~ sample_date + (2*365),
+    Year == "2022" ~ sample_date + (3*365),
+    TRUE ~ NA
+  ))
+
+genus_ord_adonis2 <- adonis2(genus_mat_species ~
+                            splines::ns(year_time, df = 3) +
+                            region + BCTV,
+                            strata = gut_genus_matrix$host_plant,
+                          data = gut_genus_matrix)
+
+```
+
+
+
+
+```{r gut_sample_date_genus_figure_prep, echo = F, cache=F}
+
+
+genus_sites <- data.frame(scores(gut_ord_genus)$sites) %>% 
+  rownames_to_column("sample_num") %>% 
+  bind_cols(., genus_mat_predictors)
+
+genus_host_centroids <- genus_sites %>% 
+  group_by(host_plant) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2)) 
+
+genus_ord_sample_date <- gam(sample_date ~ s(NMDS1, NMDS2, bs = "ts"),
+                       data = genus_sites)
+
+summary(genus_ord_sample_date)
+
+preddat_genus <- expand.grid(NMDS1 = seq(-2, 2.3, 0.5),
+                       NMDS2 = seq(-1.5, 2.5, 0.5),
+                       Year = c(2019, 2020, 2021, 2022))
+preddat_genus$date_pred <- predict(genus_gam3$gam,
+                                 newdata = preddat_genus)
+
+
+preddat_genus <- preddat_genus %>% 
+  mutate(date_pred = case_when(
+    Year == 2019 ~ date_pred,
+    Year == 2020 ~ date_pred-365,
+    Year == 2021 ~ date_pred-(2*365),
+    Year == 2022 ~ date_pred-(3*365),
+    TRUE ~ NA
+  )) %>% 
+  select(-Year) %>% 
+  distinct() %>% 
+  group_by(NMDS1, NMDS2) %>% 
+  summarise(date_pred = mean(date_pred))
+
+
+
+genus_species <- data.frame(scores(gut_ord_genus)$species) %>% 
+  rownames_to_column("genus")
+
+
+
+
+genus_species <- genus_species %>% 
+  left_join(., genus_counts, by = "genus")
+
+```
+
+
+### Gut contents by sample date
+
+```{r gut_sample_date_genus_fig, echo = F, cache=F}
+
+
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat_genus,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat_genus,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 1) +
+  geom_text_repel(data = genus_species, max.overlaps = 25,
+                  aes(label = genus, size = total_counts)) +
+  scale_size_binned(transform = "log10", range = c(1.5, 5),
+             breaks = c(100, 200, 300, 400)) +
+  theme_cowplot() +
+  # geom_point(data = bee_sites,
+  #            aes(x = NMDS1, y = NMDS2, color = period),
+  #            show.legend = F) +
+  labs(size = "Abundance")
+```
+
+
+### Genus by year
+
+```{r gut_sample_date_year_genus_fig, echo = F, cache=F}
+
+genus_year_centroids <- genus_sites %>% 
+  group_by(Year) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2)) 
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat_genus,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat_genus,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 1) +
+  geom_text_repel(data = genus_species, max.overlaps = 20,
+                  aes(label = genus, size = total_counts)) +
+  scale_size_binned(transform = "log10", range = c(1.5, 5),
+             breaks = c(1000, 5000, 10000)) +
+  theme_cowplot() +
+  stat_ellipse(data = genus_sites,
+               aes(x = NMDS1, y = NMDS2, color = Year),
+               show.legend = F) +
+  geom_point(data = genus_year_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = Year),
+             shape = 21, size = 5) +
+  # geom_point(data = bee_sites,
+  #            aes(x = NMDS1, y = NMDS2, color = period),
+  #            show.legend = F) +
+  labs(size = "Abundance",
+       fill = "Year",
+       x = "NMDS1",
+       y = "NMDS2") +
+  scale_fill_viridis_d() +
+  scale_color_viridis_d()
+
+```
+
+### Genus by month
+
+```{r gut_sample_date__genus_fig, echo = F, cache=F}
+
+
+genus_month_centroids <- genus_sites %>% 
+  group_by(time_period) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2)) 
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat_genus,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat_genus,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 1) +
+  geom_text_repel(data = genus_species, max.overlaps = 20,
+                  aes(label = genus, size = total_counts)) +
+  scale_size_binned(transform = "log10", range = c(1.5, 5),
+             breaks = c(1000, 5000, 10000)) +
+  theme_cowplot() +
+  stat_ellipse(data = genus_sites,
+               aes(x = NMDS1, y = NMDS2, color = time_period),
+               show.legend = F) +
+  geom_point(data = genus_month_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = time_period),
+             shape = 21, size = 5) +
+  # geom_point(data = bee_sites,
+  #            aes(x = NMDS1, y = NMDS2, color = period),
+  #            show.legend = F) +
+  labs(size = "Abundance",
+       fill = "Month") +
+  scale_fill_viridis_d(direction = -1) +
+  scale_color_viridis_d(direction = -1)
+
+
+```
+
+### Genus by field type
+
+```{r gut_sample_date_host_genus_fig, echo = F, cache=F}
+
+
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat_genus,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat_genus,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 1) +
+  geom_text_repel(data = genus_species, max.overlaps = 20,
+                  aes(label = genus, size = total_counts)) +
+  scale_size_binned(transform = "log10", range = c(1.5, 5),
+             breaks = c(1000, 5000, 10000)) +
+  theme_cowplot() +
+  stat_ellipse(data = genus_sites,
+               aes(x = NMDS1, y = NMDS2, color = host_plant),
+               show.legend = F) +
+  geom_point(data = genus_host_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = host_plant),
+             shape = 21, size = 5) +
+  # geom_point(data = bee_sites,
+  #            aes(x = NMDS1, y = NMDS2, color = period),
+  #            show.legend = F) +
+  labs(size = "Abundance",
+       color = "Host plant",
+       x = "NMDS1",
+       y = "NMDS2") +
+  scale_fill_viridis_d() +
+  scale_color_viridis_d()
+
+
+
+```
+
+
+
+### Genus by regions
+
+```{r gut_sample_date_region_genus_fig, echo = F, cache=F}
+
+genus_region_centroids <- genus_sites %>% 
+  group_by(region) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2)) 
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat_genus,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat_genus,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 0) +
+  geom_text_repel(data = genus_species, max.overlaps = 25,
+                  aes(label = genus, size = total_counts)) +
+  scale_size_binned(transform = "log10", range = c(1.5, 5),
+             breaks = c(1000, 5000, 10000, 20000)) +
+  theme_cowplot() +
+  stat_ellipse(data = genus_sites,
+               aes(x = NMDS1, y = NMDS2, color = region),
+               show.legend = F) +
+  geom_point(data = genus_region_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = region),
+             shape = 21, size = 5) +
+  # geom_point(data = bee_sites,
+  #            aes(x = NMDS1, y = NMDS2, color = period),
+  #            show.legend = F) +
+  labs(size = "Abundance",
+       fill = "Region") +
+  scale_fill_viridis_d() +
+  scale_color_viridis_d()
+
+
+```
+
+
+### Genus by BCTV
+
+```{r gut_sample_date_BCTV_genus_fig, echo = F, cache = F}
+
+genus_bctv_centroids <- genus_sites %>% 
+  group_by(BCTV) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2)) 
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat_genus,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat_genus,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 0) +
+  geom_text_repel(data = genus_species, max.overlaps = 25,
+                  aes(label = genus, size = total_counts)) +
+  scale_size_binned(transform = "log10", range = c(1.5, 5),
+             breaks = c(1000, 5000, 10000)) +
+  theme_cowplot() +
+  stat_ellipse(data = genus_sites,
+               aes(x = NMDS1, y = NMDS2, color = BCTV)) +
+  geom_point(data = genus_bctv_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = BCTV),
+             shape = 21, size = 5, show.legend = F) +
+  # geom_point(data = bee_sites,
+  #            aes(x = NMDS1, y = NMDS2, color = period),
+  #            show.legend = F) +
+  labs(size = "Abundance",
+       color = "BCTV") +
+  scale_color_manual(values = c("#009E73",
+                                "#CC79A7")) +
+  scale_fill_manual(values = c("#009E73",
+                                "#CC79A7"))
+
+
+```
+
+
+## Session Information
+
+```{r Session_Info, echo = F, comment = ""}
+
+# Add session information to help with reproduceability
+sessionInfo()
+
+
+```
+
+
