@@ -38,7 +38,7 @@ knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
 # Suppress warnings and messages, cache chunks, 
 #  set default figure size to 6x8 at 300 dpi, and save a png and pdf
 knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
-    fig.height = 6, fig.width = 8, dpi = 300, # 6x8" @ 300dpi:1800x2400=4.3MP
+    fig.height = 4, fig.width = 8, dpi = 300, # 6x8" @ 300dpi:1800x2400=4.3MP
     dev = 'png', dev.args = list(pdf = list(onefile = F)))
 
 ```
@@ -455,7 +455,7 @@ dat1 %>%
   geom_bar(stat = "identity") +
   facet_wrap(~ crop_type, scales = "free") +
   coord_flip() +
-  theme_bw() +
+  theme_bw(base_size = 16) +
   scale_fill_viridis_d(option = "G", direction = -1) +
   theme(legend.title = element_blank(),
         strip.background = element_blank(),

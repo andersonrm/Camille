@@ -1,7 +1,7 @@
 BLH Gut Diversity in Potato
 ================
 Riley M. Anderson
-March 03, 2025
+March 04, 2025
 
   
 
@@ -260,15 +260,16 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
     [1] stats     graphics  grDevices utils     datasets  methods   base     
 
     other attached packages:
-     [1] knitr_1.47         yardstick_1.3.1    workflowsets_1.1.0 workflows_1.1.4   
-     [5] tune_1.2.1         rsample_1.2.1      recipes_1.0.10     parsnip_1.2.1     
-     [9] modeldata_1.3.0    infer_1.0.7        dials_1.2.1        scales_1.3.0      
-    [13] broom_1.0.6        tidymodels_1.2.0   sjPlot_2.8.16      glmmTMB_1.1.9     
-    [17] gamm4_0.2-6        mgcv_1.8-42        nlme_3.1-162       lme4_1.1-35.3     
-    [21] Matrix_1.5-3       vegan_2.6-6.1      lattice_0.20-45    permute_0.9-7     
-    [25] cowplot_1.1.3      lubridate_1.9.3    forcats_1.0.0      stringr_1.5.1     
-    [29] dplyr_1.1.4        purrr_1.0.2        readr_2.1.5        tidyr_1.3.1       
-    [33] tibble_3.2.1       ggplot2_3.5.1      tidyverse_2.0.0   
+     [1] gamm4_0.2-6        mgcv_1.8-42        nlme_3.1-162       lme4_1.1-35.3     
+     [5] Matrix_1.5-3       knitr_1.47         ggridges_0.5.6     yardstick_1.3.1   
+     [9] workflowsets_1.1.0 workflows_1.1.4    tune_1.2.1         rsample_1.2.1     
+    [13] recipes_1.0.10     parsnip_1.2.1      modeldata_1.3.0    infer_1.0.7       
+    [17] dials_1.2.1        scales_1.3.0       broom_1.0.6        tidymodels_1.2.0  
+    [21] sjPlot_2.8.16      glmmTMB_1.1.9      emmeans_1.10.2     vegan_2.6-6.1     
+    [25] lattice_0.20-45    permute_0.9-7      cowplot_1.1.3      lubridate_1.9.3   
+    [29] forcats_1.0.0      stringr_1.5.1      dplyr_1.1.4        purrr_1.0.2       
+    [33] readr_2.1.5        tidyr_1.3.1        tibble_3.2.1       ggplot2_3.5.1     
+    [37] tidyverse_2.0.0   
 
     loaded via a namespace (and not attached):
      [1] TH.data_1.1-2       minqa_1.2.7         colorspace_2.1-0   
@@ -278,26 +279,25 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
     [13] fansi_1.0.6         mvtnorm_1.2-5       codetools_0.2-19   
     [16] splines_4.2.3       sjmisc_2.8.10       nloptr_2.0.3       
     [19] ggeffects_1.6.0     cluster_2.1.4       compiler_4.2.3     
-    [22] sjstats_0.19.0      emmeans_1.10.2      backports_1.5.0    
-    [25] fastmap_1.2.0       cli_3.6.2           htmltools_0.5.8.1  
-    [28] tools_4.2.3         coda_0.19-4.1       gtable_0.3.5       
-    [31] glue_1.7.0          Rcpp_1.0.12         DiceDesign_1.10    
-    [34] vctrs_0.6.5         iterators_1.0.14    insight_1.0.1      
-    [37] timeDate_4032.109   xfun_0.44           gower_1.0.1        
-    [40] globals_0.16.3      timechange_0.3.0    lifecycle_1.0.4    
-    [43] future_1.33.2       MASS_7.3-58.2       zoo_1.8-12         
-    [46] ipred_0.9-14        hms_1.1.3           parallel_4.2.3     
-    [49] sandwich_3.1-0      RColorBrewer_1.1-3  TMB_1.9.11         
-    [52] yaml_2.3.8          rpart_4.1.23        stringi_1.8.4      
-    [55] highr_0.11          foreach_1.5.2       lhs_1.1.6          
-    [58] hardhat_1.4.0       boot_1.3-28.1       lava_1.8.0         
-    [61] rlang_1.1.4         pkgconfig_2.0.3     evaluate_0.24.0    
-    [64] labeling_0.4.3      tidyselect_1.2.1    parallelly_1.37.1  
-    [67] magrittr_2.0.3      R6_2.5.1            generics_0.1.3     
-    [70] multcomp_1.4-25     haven_2.5.4         pillar_1.9.0       
-    [73] withr_3.0.0         survival_3.5-3      datawizard_0.11.0  
-    [76] nnet_7.3-18         future.apply_1.11.2 performance_0.12.0 
-    [79] utf8_1.2.4          tzdb_0.4.0          rmarkdown_2.27     
-    [82] grid_4.2.3          data.table_1.15.4   digest_0.6.35      
-    [85] xtable_1.8-4        numDeriv_2016.8-1.1 GPfit_1.0-8        
-    [88] munsell_0.5.1      
+    [22] sjstats_0.19.0      backports_1.5.0     fastmap_1.2.0      
+    [25] cli_3.6.2           htmltools_0.5.8.1   tools_4.2.3        
+    [28] coda_0.19-4.1       gtable_0.3.5        glue_1.7.0         
+    [31] Rcpp_1.0.12         DiceDesign_1.10     vctrs_0.6.5        
+    [34] iterators_1.0.14    insight_1.0.1       timeDate_4032.109  
+    [37] xfun_0.44           gower_1.0.1         globals_0.16.3     
+    [40] timechange_0.3.0    lifecycle_1.0.4     future_1.33.2      
+    [43] MASS_7.3-58.2       zoo_1.8-12          ipred_0.9-14       
+    [46] hms_1.1.3           parallel_4.2.3      sandwich_3.1-0     
+    [49] TMB_1.9.11          yaml_2.3.8          rpart_4.1.23       
+    [52] stringi_1.8.4       highr_0.11          foreach_1.5.2      
+    [55] lhs_1.1.6           hardhat_1.4.0       boot_1.3-28.1      
+    [58] lava_1.8.0          rlang_1.1.4         pkgconfig_2.0.3    
+    [61] evaluate_0.24.0     labeling_0.4.3      tidyselect_1.2.1   
+    [64] parallelly_1.37.1   magrittr_2.0.3      R6_2.5.1           
+    [67] generics_0.1.3      multcomp_1.4-25     pillar_1.9.0       
+    [70] withr_3.0.0         survival_3.5-3      datawizard_0.11.0  
+    [73] nnet_7.3-18         future.apply_1.11.2 performance_0.12.0 
+    [76] utf8_1.2.4          tzdb_0.4.0          rmarkdown_2.27     
+    [79] grid_4.2.3          data.table_1.15.4   digest_0.6.35      
+    [82] xtable_1.8-4        numDeriv_2016.8-1.1 GPfit_1.0-8        
+    [85] munsell_0.5.1       viridisLite_0.4.2  
