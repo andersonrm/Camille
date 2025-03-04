@@ -83,7 +83,7 @@ library(gamm4)
 # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 # Import datasets
-dat1 <- read.csv("data/BLH_gut_contents_2025.csv")
+# dat1 <- read.csv("data/BLH_gut_contents_2025.csv")
 
 dat1 <- read.csv("data/gut_contents_full.csv")
 
@@ -317,7 +317,7 @@ ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
 
 ### Genus by month
 
-```{r gut_sample_date_fig, echo = F, cache=F}
+```{r gut_sample_date_month_fig, echo = F, cache=F}
 
 
 gut_month_centroids <- gut_sites %>% 

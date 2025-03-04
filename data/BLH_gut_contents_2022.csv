@@ -1,0 +1,1121 @@
+BLH_ID,type,family,common_name,genus,organism,primer,short,BC,Code,Barcode,OTU ,Sequences,blh_mix_count,time_period,Year,Date,region,site_name,Terpene,host_plant,extraction_date,nucleic_acid,purity,quality,BCTV,CPt,S_citri
+L1,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,20,bc1137,D,bc1163 ,2,20,4,July,2022,44762,Othello,C7-Lin,linalool,Cannabis,45209,60.4,2.07,1.52,0,0,0
+L1,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,20,bc1137,D,bc1163 ,3,3,4,July,2022,44762,Othello,C7-Lin,linalool,Cannabis,45209,60.4,2.07,1.52,0,0,0
+L1,Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,ITS,20,bc1137,D,bc1163 ,5,106,4,July,2022,44762,Othello,C7-Lin,linalool,Cannabis,45209,60.4,2.07,1.52,0,0,0
+L1,Crop,Pedaliaceae,Sesame,Sesamum,Sesamum indicum,ITS,20,bc1137,D,bc1163 ,5,2,4,July,2022,44762,Othello,C7-Lin,linalool,Cannabis,45209,60.4,2.07,1.52,0,0,0
+L2,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,20,bc1137,F,bc1171 ,9,2,2,July,2022,44762,Othello,C5-Ter,terpinolene,Cannabis,45209,65.9,2.08,1.82,0,0,0
+L2,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,20,bc1137,F,bc1171 ,2,27,2,July,2022,44762,Othello,C5-Ter,terpinolene,Cannabis,45209,65.9,2.08,1.82,0,0,0
+L2,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,20,bc1137,F,bc1171 ,1,46,2,July,2022,44762,Othello,C5-Ter,terpinolene,Cannabis,45209,65.9,2.08,1.82,0,0,0
+L2,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,20,bc1137,F,bc1171 ,13,8,2,July,2022,44762,Othello,C5-Ter,terpinolene,Cannabis,45209,65.9,2.08,1.82,0,0,0
+L2,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,20,bc1137,F,bc1171 ,23,4,2,July,2022,44762,Othello,C5-Ter,terpinolene,Cannabis,45209,65.9,2.08,1.82,0,0,0
+L2,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,20,bc1137,F,bc1171 ,8,4,2,July,2022,44762,Othello,C5-Ter,terpinolene,Cannabis,45209,65.9,2.08,1.82,0,0,0
+L2,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,20,bc1137,F,bc1171 ,10,2,2,July,2022,44762,Othello,C5-Ter,terpinolene,Cannabis,45209,65.9,2.08,1.82,0,0,0
+L2,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,20,bc1137,F,bc1171 ,9,17,2,July,2022,44762,Othello,C5-Ter,terpinolene,Cannabis,45209,65.9,2.08,1.82,0,0,0
+L3,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,20,bc1137,G,bc1172 ,3,24,4,June,2022,44733,Prosser,Q5-Ter,terpinolene,Cannabis,45209,57.6,2.09,1.77,1,1,0
+L3,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,20,bc1137,G,bc1172 ,11,17,4,June,2022,44733,Prosser,Q5-Ter,terpinolene,Cannabis,45209,57.6,2.09,1.77,1,1,0
+L3,Weed,Apiaceae,Hemlock,Conium,Conium maculatum,ITS,20,bc1137,G,bc1172 ,1,111,4,June,2022,44733,Prosser,Q5-Ter,terpinolene,Cannabis,45209,57.6,2.09,1.77,1,1,0
+L3,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,20,bc1137,G,bc1172 ,12,29,4,June,2022,44733,Prosser,Q5-Ter,terpinolene,Cannabis,45209,57.6,2.09,1.77,1,1,0
+L3,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,20,bc1137,G,bc1172 ,11,2,4,June,2022,44733,Prosser,Q5-Ter,terpinolene,Cannabis,45209,57.6,2.09,1.77,1,1,0
+L3,Shrub,Rosaceae,Photinia,Pourthiaea,Pourthiaea arguta,ITS,20,bc1137,G,bc1172 ,9,3,4,June,2022,44733,Prosser,Q5-Ter,terpinolene,Cannabis,45209,57.6,2.09,1.77,1,1,0
+L3,Tree,Rosaceae,Pear,Pyrus,Pyrus communis,ITS,20,bc1137,G,bc1172 ,8,3,4,June,2022,44733,Prosser,Q5-Ter,terpinolene,Cannabis,45209,57.6,2.09,1.77,1,1,0
+L3,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,20,bc1137,G,bc1172 ,5,4,4,June,2022,44733,Prosser,Q5-Ter,terpinolene,Cannabis,45209,57.6,2.09,1.77,1,1,0
+L3,Crop,Vitaceae,Grape,Vitis,Vitis tsoi,ITS,20,bc1137,G,bc1172 ,6,3,4,June,2022,44733,Prosser,Q5-Ter,terpinolene,Cannabis,45209,57.6,2.09,1.77,1,1,0
+L3,Crop,Vitaceae,Grape,Vitis,Vitis vinifera,ITS,20,bc1137,G,bc1172 ,12,2,4,June,2022,44733,Prosser,Q5-Ter,terpinolene,Cannabis,45209,57.6,2.09,1.77,1,1,0
+L4,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,20,bc1137,H,bc1190 ,1,44,2,July,2022,44762,Prosser,Q1-Rli,limonene,Cannabis,45209,192.4,2.11,1.98,1,0,0
+L4,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,20,bc1137,H,bc1190 ,3,2,2,July,2022,44762,Prosser,Q1-Rli,limonene,Cannabis,45209,192.4,2.11,1.98,1,0,0
+L4,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,20,bc1137,H,bc1190 ,2,7,2,July,2022,44762,Prosser,Q1-Rli,limonene,Cannabis,45209,192.4,2.11,1.98,1,0,0
+L5,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,20,bc1137,i,bc1191 ,10,37,4,July,2022,44762,Prosser,Q2-Ger,geraniol,Cannabis,45209,128.6,2.09,1.95,1,0,0
+L5,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,20,bc1137,i,bc1191 ,7,3,4,July,2022,44762,Prosser,Q2-Ger,geraniol,Cannabis,45209,128.6,2.09,1.95,1,0,0
+L5,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,20,bc1137,i,bc1191 ,14,6,4,July,2022,44762,Prosser,Q2-Ger,geraniol,Cannabis,45209,128.6,2.09,1.95,1,0,0
+L5,Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,ITS,20,bc1137,i,bc1191 ,3,13,4,July,2022,44762,Prosser,Q2-Ger,geraniol,Cannabis,45209,128.6,2.09,1.95,1,0,0
+L5,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,20,bc1137,i,bc1191 ,6,3,4,July,2022,44762,Prosser,Q2-Ger,geraniol,Cannabis,45209,128.6,2.09,1.95,1,0,0
+L5,Nightshade,Solanaceae,Bittersweet nightshade,Solanum,Solanum dulcamara,ITS,20,bc1137,i,bc1191 ,10,2,4,July,2022,44762,Prosser,Q2-Ger,geraniol,Cannabis,45209,128.6,2.09,1.95,1,0,0
+L5,Weed,Scrophulariaceae,Mullein,Verbascum,Verbascum thapsus,ITS,20,bc1137,i,bc1191 ,5,67,4,July,2022,44762,Prosser,Q2-Ger,geraniol,Cannabis,45209,128.6,2.09,1.95,1,0,0
+L6,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,20,bc1137,R,bc1173 ,1,17,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,137.8,2.06,2.41,1,1,0
+L6,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,20,bc1137,R,bc1173 ,2,6,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,137.8,2.06,2.41,1,1,0
+L6,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,20,bc1137,R,bc1173 ,7,7,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,137.8,2.06,2.41,1,1,0
+L6,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,20,bc1137,R,bc1173 ,6,2,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,137.8,2.06,2.41,1,1,0
+L6,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,20,bc1137,R,bc1173 ,5,2,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,137.8,2.06,2.41,1,1,0
+L7,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,20,bc1137,S,bc1154 ,2,46,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,125.5,2.06,2.08,1,1,0
+L7,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,20,bc1137,S,bc1154 ,4,5,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,125.5,2.06,2.08,1,1,0
+L7,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,20,bc1137,S,bc1154 ,8,2,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,125.5,2.06,2.08,1,1,0
+L7,Crop,Fabaceae,Chickpea,Cicer,Cicer arietinum,ITS,20,bc1137,S,bc1154 ,7,66,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,125.5,2.06,2.08,1,1,0
+L7,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,20,bc1137,S,bc1154 ,14,6,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,125.5,2.06,2.08,1,1,0
+L7,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,20,bc1137,S,bc1154 ,7,2,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,125.5,2.06,2.08,1,1,0
+L7,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,20,bc1137,S,bc1154 ,3,6,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,125.5,2.06,2.08,1,1,0
+L8,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,20,bc1137,T,bc1155 ,1,28,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,134.1,2.06,1.8,1,1,0
+L8,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,20,bc1137,T,bc1155 ,5,4,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,134.1,2.06,1.8,1,1,0
+L8,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,20,bc1137,T,bc1155 ,13,6,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,134.1,2.06,1.8,1,1,0
+L8,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,20,bc1137,T,bc1155 ,8,13,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,134.1,2.06,1.8,1,1,0
+L8,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,20,bc1137,T,bc1155 ,3,4,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,134.1,2.06,1.8,1,1,0
+L8,Tree,Salicaceae,Willow,Salix,Salix myrsinifolia,ITS,20,bc1137,T,bc1155 ,7,2,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,134.1,2.06,1.8,1,1,0
+L8,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,20,bc1137,T,bc1155 ,8,2,4,July,2022,44762,Prosser,Q3-Lin,linalool,Cannabis,45211,134.1,2.06,1.8,1,1,0
+L9,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,20,bc1137,V,bc1140 ,1,8,5,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,70.9,2.07,1.51,1,1,0
+L9,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,20,bc1137,V,bc1140 ,2,2,5,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,70.9,2.07,1.51,1,1,0
+L10,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,A,bc1160,19,bc1166 ,14,2,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,A,bc1160,19,bc1166 ,2,30,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,A,bc1160,19,bc1166 ,7,11,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Mustard,Brassicaceae,Wild cabbage,Brassica,Brassica oleracea,ITS,A,bc1160,19,bc1166 ,9,7,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,A,bc1160,19,bc1166 ,5,12,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,A,bc1160,19,bc1166 ,8,8,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,A,bc1160,19,bc1166 ,16,17,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Weed,Fabaceae,Sainfoin,Onobrychis,Onobrychis viciifolia,ITS,A,bc1160,19,bc1166 ,25,7,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,A,bc1160,19,bc1166 ,6,12,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Grass,Poaceae,Bluegrass,Poa,Poa glauca,ITS,A,bc1160,19,bc1166 ,24,8,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,A,bc1160,19,bc1166 ,3,23,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L10,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,A,bc1160,19,bc1166 ,1,31,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45211,122.8,2.04,1.74,1,0,0
+L11,Tree,Pinaceae,Nordmann Pine,Abies,Abies nordmanniana,ITS,B,bc1161,19,bc1166 ,9,2,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,141.9,2.05,1.69,1,1,0
+L11,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,B,bc1161,19,bc1166 ,1,109,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,141.9,2.05,1.69,1,1,0
+L11,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,B,bc1161,19,bc1166 ,8,4,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,141.9,2.05,1.69,1,1,0
+L11,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,B,bc1161,19,bc1166 ,7,4,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,141.9,2.05,1.69,1,1,0
+L11,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,B,bc1161,19,bc1166 ,6,5,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,141.9,2.05,1.69,1,1,0
+L11,Grass,Poaceae,Ryegrass perennial,Lolium,Lolium perenne,ITS,B,bc1161,19,bc1166 ,5,5,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,141.9,2.05,1.69,1,1,0
+L11,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,B,bc1161,19,bc1166 ,2,74,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,141.9,2.05,1.69,1,1,0
+L11,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,B,bc1161,19,bc1166 ,26,55,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,141.9,2.05,1.69,1,1,0
+L11,Grass,Poaceae,Foxtail millet,Setaria,Setaria pumila,ITS,B,bc1161,19,bc1166 ,4,5,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,141.9,2.05,1.69,1,1,0
+L12,Pigweed,Amaranthaceae,Smooth pigweed,Amaranthus,Amaranthus hybridus,ITS,D,bc1163,19,bc1166 ,1,179,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,65.4,2.07,1.57,1,1,0
+L12,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,D,bc1163,19,bc1166 ,2,100,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,65.4,2.07,1.57,1,1,0
+L12,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,D,bc1163,19,bc1166 ,5,3,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,65.4,2.07,1.57,1,1,0
+L12,Crop,Fabaceae,Chickpea,Cicer,Cicer arietinum,ITS,D,bc1163,19,bc1166 ,6,2,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,65.4,2.07,1.57,1,1,0
+L12,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,D,bc1163,19,bc1166 ,4,3,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,65.4,2.07,1.57,1,1,0
+L12,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,D,bc1163,19,bc1166 ,3,96,4,June,2022,44719,Prosser,Q4-Car,caryophyllene,Cannabis,45211,65.4,2.07,1.57,1,1,0
+L13,Tree,Sapindaceae,Sugar maple,Acer,Acer saccharinum,ITS,19,bc1166,E,bc1170 ,3,3,5,June,2022,44719,Prosser,Q5-Ter,terpinolene,Cannabis,45211,82.4,2.04,1.6,1,1,0
+L13,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,19,bc1166,E,bc1170 ,8,2,5,June,2022,44719,Prosser,Q5-Ter,terpinolene,Cannabis,45211,82.4,2.04,1.6,1,1,0
+L13,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,19,bc1166,E,bc1170 ,7,3,5,June,2022,44719,Prosser,Q5-Ter,terpinolene,Cannabis,45211,82.4,2.04,1.6,1,1,0
+L13,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,19,bc1166,E,bc1170 ,6,7,5,June,2022,44719,Prosser,Q5-Ter,terpinolene,Cannabis,45211,82.4,2.04,1.6,1,1,0
+L13,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,19,bc1166,E,bc1170 ,1,7,5,June,2022,44719,Prosser,Q5-Ter,terpinolene,Cannabis,45211,82.4,2.04,1.6,1,1,0
+L13,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,19,bc1166,E,bc1170 ,5,3,5,June,2022,44719,Prosser,Q5-Ter,terpinolene,Cannabis,45211,82.4,2.04,1.6,1,1,0
+L13,Grass,Poaceae,Rye,Secale,Secale sylvestre,ITS,19,bc1166,E,bc1170 ,9,2,5,June,2022,44719,Prosser,Q5-Ter,terpinolene,Cannabis,45211,82.4,2.04,1.6,1,1,0
+L13,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,19,bc1166,E,bc1170 ,6,3,5,June,2022,44719,Prosser,Q5-Ter,terpinolene,Cannabis,45211,82.4,2.04,1.6,1,1,0
+L13,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,19,bc1166,E,bc1170 ,10,2,5,June,2022,44719,Prosser,Q5-Ter,terpinolene,Cannabis,45211,82.4,2.04,1.6,1,1,0
+L14,Pigweed,Amaranthaceae,Smooth pigweed,Amaranthus,Amaranthus hybridus,ITS,19,bc1166,F,bc1171 ,2,5,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,108.3,2.15,2.15,1,0,0
+L14,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,19,bc1166,F,bc1171 ,8,2,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,108.3,2.15,2.15,1,0,0
+L14,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,19,bc1166,F,bc1171 ,7,2,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,108.3,2.15,2.15,1,0,0
+L14,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,19,bc1166,F,bc1171 ,12,6,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,108.3,2.15,2.15,1,0,0
+L14,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,19,bc1166,F,bc1171 ,16,6,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,108.3,2.15,2.15,1,0,0
+L14,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,19,bc1166,F,bc1171 ,22,199,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,108.3,2.15,2.15,1,0,0
+L14,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,19,bc1166,F,bc1171 ,5,3,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,108.3,2.15,2.15,1,0,0
+L14,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,19,bc1166,F,bc1171 ,6,3,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,108.3,2.15,2.15,1,0,0
+L14,Weed,Amaranthaceae,Seepweed,Suaeda,Suaeda corniculata,trnF,4,bc1100,H,bc1107 ,2,NA,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,108.3,2.15,2.15,1,0,0
+L15,Weed,Amaryllidaceae,Wild onion,Allium,Allium pskemense,ITS,19,bc1166,G,bc1172 ,9,2,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,110.5,2.13,1.99,1,1,0
+L15,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,19,bc1166,G,bc1172 ,11,82,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,110.5,2.13,1.99,1,1,0
+L15,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,19,bc1166,G,bc1172 ,11,2,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,110.5,2.13,1.99,1,1,0
+L15,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,19,bc1166,G,bc1172 ,4,5,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,110.5,2.13,1.99,1,1,0
+L15,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,19,bc1166,G,bc1172 ,6,4,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,110.5,2.13,1.99,1,1,0
+L15,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,19,bc1166,G,bc1172 ,7,28,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,110.5,2.13,1.99,1,1,0
+L15,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,19,bc1166,G,bc1172 ,3,6,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,110.5,2.13,1.99,1,1,0
+L15,Grass,Poaceae,Bluegrass,Poa,Poa compressa,ITS,19,bc1166,G,bc1172 ,7,4,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,110.5,2.13,1.99,1,1,0
+L15,Tree,Pinaceae,Hemlock,Tsuga,Tsuga heterophylla,ITS,19,bc1166,G,bc1172 ,8,2,5,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,110.5,2.13,1.99,1,1,0
+L16,Grass,Poaceae,Fescue,Festuca,Festuca gudoschnikovii,ITS,19,bc1166,H,bc1190 ,3,5,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,28.2,2.15,1.62,1,1,1
+L16,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,19,bc1166,H,bc1190 ,13,7,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,28.2,2.15,1.62,1,1,1
+L16,Crop,Cucurbitaceae,Melon,Melon,Melon 17S,ITS,19,bc1166,H,bc1190 ,7,2,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,28.2,2.15,1.62,1,1,1
+L16,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,19,bc1166,H,bc1190 ,5,4,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,28.2,2.15,1.62,1,1,1
+L16,Tree,Pinaceae,Lodgepole Pine,Pinus,Pinus contorta,trnF,D,bc1106,5,bc1111 ,5,10,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,28.2,2.15,1.62,1,1,1
+L16,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,19,bc1166,H,bc1190 ,1,8,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,28.2,2.15,1.62,1,1,1
+L16,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,19,bc1166,H,bc1190 ,2,6,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,28.2,2.15,1.62,1,1,1
+L16,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,19,bc1166,H,bc1190 ,10,2,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,28.2,2.15,1.62,1,1,1
+L16,Tree,Pinaceae,Hemlock,Tsuga,Tsuga mertensiana,trnF,D,bc1106,5,bc1111 ,1,21,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,28.2,2.15,1.62,1,1,1
+L17,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,19,bc1166,i,bc1191 ,9,4,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,41.5,2.2,2.04,1,0,0
+L17,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,19,bc1166,i,bc1191 ,1,21,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,41.5,2.2,2.04,1,0,0
+L17,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,19,bc1166,i,bc1191 ,18,8,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,41.5,2.2,2.04,1,0,0
+L17,Mustard,Brassicaceae,Tansyweed,Descurainia,Descurainia pinnata,ITS,19,bc1166,i,bc1191 ,4,11,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,41.5,2.2,2.04,1,0,0
+L17,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,19,bc1166,i,bc1191 ,9,23,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,41.5,2.2,2.04,1,0,0
+L17,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,19,bc1166,i,bc1191 ,5,8,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,41.5,2.2,2.04,1,0,0
+L17,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,19,bc1166,i,bc1191 ,6,6,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,41.5,2.2,2.04,1,0,0
+L17,Grass,Poaceae,Bluegrass,Poa,Poa glauca,ITS,19,bc1166,i,bc1191 ,3,11,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,41.5,2.2,2.04,1,0,0
+L17,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,19,bc1166,i,bc1191 ,11,2,4,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,41.5,2.2,2.04,1,0,0
+L18,Weed,Brassicaceae,Cress,Arabidopsis,Arabidopsis thaliana,ITS,19,bc1166,R,bc1173 ,36,231,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L18,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,19,bc1166,R,bc1173 ,3,48,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L18,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,19,bc1166,R,bc1173 ,17,2,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L18,Tree,Fabaceae,Redbud,Cercis,Cercis glabra,ITS,19,bc1166,R,bc1173 ,11,3,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L18,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,19,bc1166,R,bc1173 ,16,2,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L18,Grass,Poaceae,Fescue,Festuca,Festuca gudoschnikovii,ITS,19,bc1166,R,bc1173 ,7,7,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L18,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,19,bc1166,R,bc1173 ,8,5,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L18,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,19,bc1166,R,bc1173 ,6,10,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L18,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,19,bc1166,R,bc1173 ,37,402,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L18,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,19,bc1166,R,bc1173 ,10,4,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L18,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,19,bc1166,R,bc1173 ,20,18,3,June,2022,44719,Prosser,Q6-Ger,geraniol,Cannabis,45218,30.6,2.24,2.33,1,1,0
+L19,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,S,bc1154,19,bc1166 ,8,27,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,14.2,1.89,1.89,1,0,0
+L19,Weed,Apiaceae,Hog fennel,Peucedanum,Peucedanum terebinthaceum,ITS,S,bc1154,19,bc1166 ,5,66,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,14.2,1.89,1.89,1,0,0
+L19,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,S,bc1154,19,bc1166 ,3,12,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,14.2,1.89,1.89,1,0,0
+L19,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,S,bc1154,19,bc1166 ,5,4,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,14.2,1.89,1.89,1,0,0
+L19,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,S,bc1154,19,bc1166 ,7,2,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,14.2,1.89,1.89,1,0,0
+L20,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,T,bc1155,19,bc1166 ,4,5,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.4,2.23,2.35,1,0,0
+L20,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,T,bc1155,19,bc1166 ,6,4,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.4,2.23,2.35,1,0,0
+L20,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,T,bc1155,19,bc1166 ,3,6,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.4,2.23,2.35,1,0,0
+L20,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,T,bc1155,19,bc1166 ,7,4,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.4,2.23,2.35,1,0,0
+L20,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,T,bc1155,19,bc1166 ,2,6,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.4,2.23,2.35,1,0,0
+L20,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,T,bc1155,19,bc1166 ,1,43,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.4,2.23,2.35,1,0,0
+L20,Tree,Salicaceae,Willow,Salix,Salix myrsinifolia,ITS,T,bc1155,19,bc1166 ,8,4,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.4,2.23,2.35,1,0,0
+L20,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,T,bc1155,19,bc1166 ,5,5,4,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.4,2.23,2.35,1,0,0
+L21,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,V,bc1140,19,bc1166 ,2,7,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,V,bc1140,19,bc1166 ,2,7,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,V,bc1140,19,bc1166 ,4,4,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,V,bc1140,19,bc1166 ,4,4,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,V,bc1140,19,bc1166 ,8,8,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,V,bc1140,19,bc1166 ,8,8,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,V,bc1140,19,bc1166 ,7,3,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,V,bc1140,19,bc1166 ,7,3,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,V,bc1140,19,bc1166 ,6,3,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,V,bc1140,19,bc1166 ,6,3,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Grass,Poaceae,Ryegrass perennial,Lolium,Lolium perenne,ITS,V,bc1140,19,bc1166 ,9,2,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Grass,Poaceae,Ryegrass perennial,Lolium,Lolium perenne,ITS,V,bc1140,19,bc1166 ,9,2,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Weed,Asteraceae,Pineapple weed,Matricaria,Matricaria matricarioides,ITS,V,bc1140,19,bc1166 ,1,64,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Weed,Asteraceae,Pineapple weed,Matricaria,Matricaria matricarioides,ITS,V,bc1140,19,bc1166 ,1,64,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,V,bc1140,19,bc1166 ,8,2,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L21,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,V,bc1140,19,bc1166 ,8,2,3,June,2022,44719,Prosser,Q7-Euc,eucalyptol,Cannabis,45218,24.2,2.15,2.11,1,0,0
+L22,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,A,bc1160,18,bc1165 ,1,21,5,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,90.4,2.13,1.86,1,1,0
+L22,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,A,bc1160,18,bc1165 ,11,5,5,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,90.4,2.13,1.86,1,1,0
+L22,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,A,bc1160,18,bc1165 ,3,5,5,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,90.4,2.13,1.86,1,1,0
+L22,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,A,bc1160,18,bc1165 ,8,2,5,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,90.4,2.13,1.86,1,1,0
+L22,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,A,bc1160,18,bc1165 ,2,8,5,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,90.4,2.13,1.86,1,1,0
+L22,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,A,bc1160,18,bc1165 ,5,3,5,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,90.4,2.13,1.86,1,1,0
+L22,Tree,Malvaceae,Linden,Tilia,Tilia x,ITS,A,bc1160,18,bc1165 ,6,2,5,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,90.4,2.13,1.86,1,1,0
+L23,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,B,bc1161,18,bc1165 ,1,12,3,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,20.3,2.34,1.64,1,0,0
+L23,Crop,Brassicaceae,Canola,Brassica,Brassica napus,ITS,B,bc1161,18,bc1165 ,9,2,3,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,20.3,2.34,1.64,1,0,0
+L23,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,B,bc1161,18,bc1165 ,11,8,3,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,20.3,2.34,1.64,1,0,0
+L23,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,B,bc1161,18,bc1165 ,19,11,3,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,20.3,2.34,1.64,1,0,0
+L23,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,B,bc1161,18,bc1165 ,2,9,3,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,20.3,2.34,1.64,1,0,0
+L23,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,B,bc1161,18,bc1165 ,3,7,3,June,2022,44719,Prosser,Q1-N/A,none,Cannabis,45218,20.3,2.34,1.64,1,0,0
+L24,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,D,bc1163,18,bc1165 ,6,7,5,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,257,2.14,1.89,1,0,0
+L24,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,D,bc1163,18,bc1165 ,4,8,5,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,257,2.14,1.89,1,0,0
+L24,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,D,bc1163,18,bc1165 ,5,32,5,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,257,2.14,1.89,1,0,0
+L24,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,D,bc1163,18,bc1165 ,10,2,5,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,257,2.14,1.89,1,0,0
+L24,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,D,bc1163,18,bc1165 ,1,92,5,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,257,2.14,1.89,1,0,0
+L24,Tree,Salicaceae,Willow,Salix,Salix myrsinifolia,ITS,D,bc1163,18,bc1165 ,9,2,5,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,257,2.14,1.89,1,0,0
+L24,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,D,bc1163,18,bc1165 ,8,3,5,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,257,2.14,1.89,1,0,0
+L24,Nightshade,Solanaceae,Nightshade,Solanum,Solanum neorossii,trnF,7,bc1113,E,bc1174 ,10,NA,5,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,257,2.14,1.89,1,0,0
+L24,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,D,bc1163,18,bc1165 ,23,17,5,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,257,2.14,1.89,1,0,0
+L25,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,18,bc1165,E,bc1170 ,1,9,4,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,111.9,2.11,2,1,0,0
+L25,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,18,bc1165,E,bc1170 ,3,2,4,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,111.9,2.11,2,1,0,0
+L25,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,18,bc1165,E,bc1170 ,2,6,4,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,111.9,2.11,2,1,0,0
+L26,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,18,bc1165,F,bc1171 ,9,2,3,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,158.9,2.14,2.21,1,0,0
+L26,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,18,bc1165,F,bc1171 ,3,9,3,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,158.9,2.14,2.21,1,0,0
+L26,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,18,bc1165,F,bc1171 ,2,10,3,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,158.9,2.14,2.21,1,0,0
+L26,Crop,Brassicaceae,Canola,Brassica,Brassica napus,ITS,18,bc1165,F,bc1171 ,4,6,3,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,158.9,2.14,2.21,1,0,0
+L26,Mustard,Brassicaceae,Wild cabbage,Brassica,Brassica oleracea,ITS,18,bc1165,F,bc1171 ,7,4,3,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,158.9,2.14,2.21,1,0,0
+L26,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,18,bc1165,F,bc1171 ,11,10,3,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,158.9,2.14,2.21,1,0,0
+L26,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,18,bc1165,F,bc1171 ,11,158,3,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,158.9,2.14,2.21,1,0,0
+L26,Weed,Fabaceae,Vetch,Vicia,Vicia villosa,ITS,18,bc1165,F,bc1171 ,8,3,3,June,2022,44719,Othello,C6.7,NA,Cannabis,45225,158.9,2.14,2.21,1,0,0
+L27,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,trnF,J,bc1108,8,bc1114 ,2,NA,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,88.3,2.1,1.85,1,0,0
+L27,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,18,bc1165,G,bc1172 ,22,5,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,88.3,2.1,1.85,1,0,0
+L27,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,18,bc1165,G,bc1172 ,32,16,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,88.3,2.1,1.85,1,0,0
+L27,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,18,bc1165,G,bc1172 ,13,79,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,88.3,2.1,1.85,1,0,0
+L27,Weed,Asteraceae,Thistle,Cirsium,Cirsium arvense,ITS,18,bc1165,G,bc1172 ,3,26,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,88.3,2.1,1.85,1,0,0
+L27,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,18,bc1165,G,bc1172 ,5,11,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,88.3,2.1,1.85,1,0,0
+L27,Crop,Fabaceae,Soybean,Glycine,Glycine max,ITS,18,bc1165,G,bc1172 ,14,2,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,88.3,2.1,1.85,1,0,0
+L27,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,18,bc1165,G,bc1172 ,12,2,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,88.3,2.1,1.85,1,0,0
+L27,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,18,bc1165,G,bc1172 ,7,10,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,88.3,2.1,1.85,1,0,0
+L27,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,18,bc1165,G,bc1172 ,12,33,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,88.3,2.1,1.85,1,0,0
+L28,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,18,bc1165,H,bc1190 ,5,4,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,278.9,2.14,2.12,1,0,0
+L28,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,18,bc1165,H,bc1190 ,7,3,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,278.9,2.14,2.12,1,0,0
+L28,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,18,bc1165,H,bc1190 ,33,136,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,278.9,2.14,2.12,1,0,0
+L28,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,18,bc1165,H,bc1190 ,6,3,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,278.9,2.14,2.12,1,0,0
+L28,Crop,Asteraceae,Lettuce,Lactuca,Lactuca sativa,trnF,A,bc1103,9,bc1115 ,3,25,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,278.9,2.14,2.12,1,0,0
+L28,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,18,bc1165,H,bc1190 ,4,24,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,278.9,2.14,2.12,1,0,0
+L28,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,18,bc1165,H,bc1190 ,11,2,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,278.9,2.14,2.12,1,0,0
+L29,Weed,Boraginaceae,Fiddleneck,Amsinckia,Amsinckia menziesii,ITS,18,bc1165,i,bc1191 ,12,3,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,18,bc1165,i,bc1191 ,2,27,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,18,bc1165,i,bc1191 ,7,5,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,18,bc1165,i,bc1191 ,4,8,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Crop,Cucurbitaceae,Pumpkin,Cucurbita,Cucurbita pepo,ITS,18,bc1165,i,bc1191 ,15,2,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,18,bc1165,i,bc1191 ,5,8,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Tree,Oleaceae,Ash,Fraxinus,Fraxinus excelsior,ITS,18,bc1165,i,bc1191 ,3,20,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,18,bc1165,i,bc1191 ,1,114,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,18,bc1165,i,bc1191 ,17,11,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,18,bc1165,i,bc1191 ,14,3,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Weed,Boraginaceae,Borage,Oreocarya,Oreocarya nubigena,ITS,18,bc1165,i,bc1191 ,13,3,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,18,bc1165,i,bc1191 ,8,4,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,18,bc1165,i,bc1191 ,9,4,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L29,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,18,bc1165,i,bc1191 ,10,4,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,108,2.12,1.97,1,0,0
+L30,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,18,bc1165,R,bc1173 ,10,2,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,110.3,2.09,1.9,1,0,0
+L30,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,18,bc1165,R,bc1173 ,9,2,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,110.3,2.09,1.9,1,0,0
+L30,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,18,bc1165,R,bc1173 ,4,5,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,110.3,2.09,1.9,1,0,0
+L30,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,18,bc1165,R,bc1173 ,6,4,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,110.3,2.09,1.9,1,0,0
+L30,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,18,bc1165,R,bc1173 ,7,3,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,110.3,2.09,1.9,1,0,0
+L30,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,18,bc1165,R,bc1173 ,13,6,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,110.3,2.09,1.9,1,0,0
+L30,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,18,bc1165,R,bc1173 ,2,12,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,110.3,2.09,1.9,1,0,0
+L30,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,18,bc1165,R,bc1173 ,1,20,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,110.3,2.09,1.9,1,0,0
+L30,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,18,bc1165,R,bc1173 ,3,8,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,110.3,2.09,1.9,1,0,0
+L31,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,S,bc1154,18,bc1165 ,5,2,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,271.3,2.12,2.13,1,1,0
+L31,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,S,bc1154,18,bc1165 ,2,9,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,271.3,2.12,2.13,1,1,0
+L31,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,S,bc1154,18,bc1165 ,1,13,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,271.3,2.12,2.13,1,1,0
+L31,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,S,bc1154,18,bc1165 ,10,5,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,271.3,2.12,2.13,1,1,0
+L31,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,S,bc1154,18,bc1165 ,7,2,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,271.3,2.12,2.13,1,1,0
+L31,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,S,bc1154,18,bc1165 ,3,8,4,June,2022,44719,Prosser,N6.7,NA,Hops,45225,271.3,2.12,2.13,1,1,0
+L32,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,T,bc1155,18,bc1165 ,3,7,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45225,85.3,2.09,2.03,1,0,0
+L32,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,T,bc1155,18,bc1165 ,12,2,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45225,85.3,2.09,2.03,1,0,0
+L32,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,T,bc1155,18,bc1165 ,11,2,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45225,85.3,2.09,2.03,1,0,0
+L32,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,T,bc1155,18,bc1165 ,10,16,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45225,85.3,2.09,2.03,1,0,0
+L32,Grass,Poaceae,Ryegrass perennial,Lolium,Lolium perenne,ITS,T,bc1155,18,bc1165 ,14,6,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45225,85.3,2.09,2.03,1,0,0
+L32,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,T,bc1155,18,bc1165 ,5,5,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45225,85.3,2.09,2.03,1,0,0
+L32,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,T,bc1155,18,bc1165 ,17,5,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45225,85.3,2.09,2.03,1,0,0
+L32,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,T,bc1155,18,bc1165 ,6,17,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45225,85.3,2.09,2.03,1,0,0
+L33,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,V,bc1140,18,bc1165 ,6,3,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,V,bc1140,18,bc1165 ,6,3,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,V,bc1140,18,bc1165 ,8,3,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,V,bc1140,18,bc1165 ,8,3,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Crop,Cucurbitaceae,Pumpkin,Cucurbita,Cucurbita pepo,ITS,V,bc1140,18,bc1165 ,17,11,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Crop,Cucurbitaceae,Pumpkin,Cucurbita,Cucurbita pepo,ITS,V,bc1140,18,bc1165 ,17,11,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,V,bc1140,18,bc1165 ,7,3,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,V,bc1140,18,bc1165 ,7,3,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,V,bc1140,18,bc1165 ,2,17,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,V,bc1140,18,bc1165 ,2,17,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Tree,Anacardiaceae,Sumac,Rhus,Rhus coriaria,ITS,V,bc1140,18,bc1165 ,5,45,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L33,Tree,Anacardiaceae,Sumac,Rhus,Rhus coriaria,ITS,V,bc1140,18,bc1165 ,5,45,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,64,2.07,1.53,1,0,0
+L34,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,17,bc1124,F,bc1171 ,6,2,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,129.2,2.08,1.92,1,1,0
+L34,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,17,bc1124,F,bc1171 ,14,29,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,129.2,2.08,1.92,1,1,0
+L34,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,17,bc1124,F,bc1171 ,7,6,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,129.2,2.08,1.92,1,1,0
+L34,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,17,bc1124,F,bc1171 ,7,2,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,129.2,2.08,1.92,1,1,0
+L34,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,17,bc1124,F,bc1171 ,2,4,5,June,2022,44719,Prosser,Q2-Rli,limonene,Cannabis,45226,129.2,2.08,1.92,1,1,0
+L35,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,17,bc1124,G,bc1172 ,281,1084,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,17,bc1124,G,bc1172 ,5,14,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,17,bc1124,G,bc1172 ,28,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,17,bc1124,G,bc1172 ,23,5,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Lambsquarter,Amaranthaceae,Lambsquarter,Chenopodium,Chenopodium amaranticolor,trnF,1,bc1097,J,bc1108 ,3,36,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,17,bc1124,G,bc1172 ,7,5,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,17,bc1124,G,bc1172 ,8,4,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,17,bc1124,G,bc1172 ,4,16,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,17,bc1124,G,bc1172 ,8,208,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,17,bc1124,G,bc1172 ,3,30,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,17,bc1124,G,bc1172 ,27,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L35,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,17,bc1124,G,bc1172 ,41,5,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,136.8,2.09,2.11,1,0,0
+L36,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,H,bc1190 ,17,bc1124,1,254,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,149.9,2.18,1.81,1,1,0
+L36,Crop,Fabaceae,Soybean,Glycine,Glycine max,ITS,H,bc1190 ,17,bc1124,3,5,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,149.9,2.18,1.81,1,1,0
+L36,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,H,bc1190 ,17,bc1124,2,26,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,149.9,2.18,1.81,1,1,0
+L36,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,H,bc1190 ,17,bc1124,4,3,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,149.9,2.18,1.81,1,1,0
+L37,Weed,Apiaceae,Burchervil,Anthriscus,Anthriscus caucalis,ITS,i,bc1191 ,17,bc1124,9,5,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,i,bc1191 ,17,bc1124,2,170,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,i,bc1191 ,17,bc1124,11,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,i,bc1191 ,17,bc1124,3,20,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,i,bc1191 ,17,bc1124,5,15,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,i,bc1191 ,17,bc1124,10,3,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Lambsquarter,Amaranthaceae,Lambsquarter,Chenopodium,Chenopodium amaranticolor,trnF,1,bc1097,M,bc1143 ,3,32,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,i,bc1191 ,17,bc1124,15,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,i,bc1191 ,17,bc1124,1,312,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,i,bc1191 ,17,bc1124,4,18,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,i,bc1191 ,17,bc1124,6,13,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,i,bc1191 ,17,bc1124,7,8,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,i,bc1191 ,17,bc1124,12,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,i,bc1191 ,17,bc1124,13,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,i,bc1191 ,17,bc1124,14,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,i,bc1191 ,17,bc1124,16,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L37,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,i,bc1191 ,17,bc1124,8,6,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,141.4,2.13,2.15,1,0,0
+L38,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,K,bc1192 ,17,bc1124,2,253,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,K,bc1192 ,17,bc1124,25,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,K,bc1192 ,17,bc1124,26,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,K,bc1192 ,17,bc1124,27,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,K,bc1192 ,17,bc1124,8,4,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Tree,Pinaceae,Cedar,Cedrus,Cedrus deodara,trnF,1,bc1097,N,bc1144 ,8,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Lambsquarter,Amaranthaceae,Lambsquarter,Chenopodium,Chenopodium amaranticolor,trnF,1,bc1097,N,bc1144 ,2,55,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Weed,Boraginaceae,Cat's eyes,Cryptantha,Cryptantha torreyana,ITS,K,bc1192 ,17,bc1124,11,3,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,K,bc1192 ,17,bc1124,30,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,K,bc1192 ,17,bc1124,7,4,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,K,bc1192 ,17,bc1124,3,151,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,K,bc1192 ,17,bc1124,28,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,K,bc1192 ,17,bc1124,29,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,1,657,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,4,7,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,5,5,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,6,4,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,9,3,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,10,3,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,13,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,14,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,15,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,16,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,17,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,18,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,19,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,20,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,21,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,22,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,23,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,ITS,K,bc1192 ,17,bc1124,24,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Bean,Phaseolus,Phaseolus vulgaris,trnF,1,bc1097,N,bc1144 ,26,96,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L38,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,K,bc1192 ,17,bc1124,12,3,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,130,2.11,2.3,1,1,0
+L39,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,17,bc1124,R,bc1173 ,6,130,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,138.5,2.09,1.96,1,0,0
+L39,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,17,bc1124,R,bc1173 ,6,3,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,138.5,2.09,1.96,1,0,0
+L39,Lambsquarter,Amaranthaceae,Lambsquarter,Chenopodium,Chenopodium amaranticolor,trnF,1,bc1097,S,bc1127 ,10,65,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,138.5,2.09,1.96,1,0,0
+L39,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,17,bc1124,R,bc1173 ,7,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,138.5,2.09,1.96,1,0,0
+L39,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,17,bc1124,R,bc1173 ,4,5,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,138.5,2.09,1.96,1,0,0
+L39,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,17,bc1124,R,bc1173 ,2,25,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,138.5,2.09,1.96,1,0,0
+L39,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,17,bc1124,R,bc1173 ,3,9,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,138.5,2.09,1.96,1,0,0
+L39,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium altissimum,ITS,17,bc1124,R,bc1173 ,8,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,138.5,2.09,1.96,1,0,0
+L40,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,17,bc1124,S,bc1154 ,7,3,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,142.4,2.13,2.09,1,0,0
+L40,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,17,bc1124,S,bc1154 ,1,92,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,142.4,2.13,2.09,1,0,0
+L40,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,17,bc1124,S,bc1154 ,10,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,142.4,2.13,2.09,1,0,0
+L40,Lambsquarter,Amaranthaceae,Lambsquarter,Chenopodium,Chenopodium amaranticolor,trnF,1,bc1097,T,bc1128 ,3,35,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,142.4,2.13,2.09,1,0,0
+L40,Mustard,Brassicaceae,Tansyweed,Descurainia,Descurainia pinnata,ITS,17,bc1124,S,bc1154 ,6,4,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,142.4,2.13,2.09,1,0,0
+L40,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,17,bc1124,S,bc1154 ,8,3,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,142.4,2.13,2.09,1,0,0
+L40,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,17,bc1124,S,bc1154 ,3,7,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,142.4,2.13,2.09,1,0,0
+L40,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,17,bc1124,S,bc1154 ,11,77,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,142.4,2.13,2.09,1,0,0
+L40,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,17,bc1124,S,bc1154 ,4,5,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,142.4,2.13,2.09,1,0,0
+L40,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,17,bc1124,S,bc1154 ,5,4,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,142.4,2.13,2.09,1,0,0
+L41,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,17,bc1124,T,bc1155 ,1,88,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,97,2.09,2.09,1,0,0
+L41,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,17,bc1124,T,bc1155 ,5,5,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,97,2.09,2.09,1,0,0
+L41,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,17,bc1124,T,bc1155 ,6,3,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,97,2.09,2.09,1,0,0
+L41,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,17,bc1124,T,bc1155 ,7,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,97,2.09,2.09,1,0,0
+L41,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,17,bc1124,T,bc1155 ,8,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,97,2.09,2.09,1,0,0
+L41,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,17,bc1124,T,bc1155 ,4,19,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,97,2.09,2.09,1,0,0
+L41,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,17,bc1124,T,bc1155 ,2,29,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,97,2.09,2.09,1,0,0
+L41,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,17,bc1124,T,bc1155 ,3,29,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,97,2.09,2.09,1,0,0
+L41,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,17,bc1124,T,bc1155 ,9,2,5,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,97,2.09,2.09,1,0,0
+L42,Weed,Brassicaceae,Cress,Arabidopsis,Arabidopsis thaliana,ITS,17,bc1124,V,bc1140 ,6,140,4,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,70.2,2.09,2,1,0,0
+L42,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,17,bc1124,V,bc1140 ,3,22,4,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,70.2,2.09,2,1,0,0
+L42,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,17,bc1124,V,bc1140 ,14,2,4,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,70.2,2.09,2,1,0,0
+L42,Grass,Poaceae,Fescue,Festuca,Festuca gudoschnikovii,ITS,17,bc1124,V,bc1140 ,7,6,4,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,70.2,2.09,2,1,0,0
+L42,Crop,Fabaceae,Soybean,Glycine,Glycine max,ITS,17,bc1124,V,bc1140 ,10,3,4,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,70.2,2.09,2,1,0,0
+L42,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,17,bc1124,V,bc1140 ,5,8,4,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,70.2,2.09,2,1,0,0
+L42,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,17,bc1124,V,bc1140 ,15,10,4,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,70.2,2.09,2,1,0,0
+L42,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,17,bc1124,V,bc1140 ,31,240,4,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,70.2,2.09,2,1,0,0
+L42,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,17,bc1124,V,bc1140 ,8,4,4,June,2022,44719,Prosser,Q6.7,NA,Cannabis,45226,70.2,2.09,2,1,0,0
+L43,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,W,bc1189 ,17,bc1124,3,7,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,W,bc1189 ,17,bc1124,2,9,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Weed,Geraniaceae,Redstem filaree,Erodium,Erodium cicutarium,ITS,W,bc1189 ,17,bc1124,8,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,1,674,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,4,4,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,5,4,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,6,3,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,7,3,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,9,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,10,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,11,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,12,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,13,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,W,bc1189 ,17,bc1124,14,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L43,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,W,bc1189 ,17,bc1124,15,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,113.8,2.11,2.03,1,0,0
+L44,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,16,bc1123,H,bc1190 ,1,34,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,139.9,2.12,1.86,1,1,0
+L44,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,16,bc1123,H,bc1190 ,2,5,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,139.9,2.12,1.86,1,1,0
+L44,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,16,bc1123,H,bc1190 ,3,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,139.9,2.12,1.86,1,1,0
+L44,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,16,bc1123,H,bc1190 ,4,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,139.9,2.12,1.86,1,1,0
+L45,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,16,bc1123,i,bc1191 ,2,15,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,142,2.18,1.91,1,1,0
+L45,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,16,bc1123,i,bc1191 ,4,9,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,142,2.18,1.91,1,1,0
+L45,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,16,bc1123,i,bc1191 ,6,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,142,2.18,1.91,1,1,0
+L45,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,16,bc1123,i,bc1191 ,1,156,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,142,2.18,1.91,1,1,0
+L45,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,16,bc1123,i,bc1191 ,5,8,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,142,2.18,1.91,1,1,0
+L45,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,16,bc1123,i,bc1191 ,3,9,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,142,2.18,1.91,1,1,0
+L46,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,16,bc1123,K,bc1192 ,3,5,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.84,1,0,0
+L46,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,16,bc1123,K,bc1192 ,2,7,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.84,1,0,0
+L46,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,16,bc1123,K,bc1192 ,5,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.84,1,0,0
+L46,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,16,bc1123,K,bc1192 ,4,4,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.84,1,0,0
+L46,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,16,bc1123,K,bc1192 ,1,58,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.84,1,0,0
+L47,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,16,bc1123,R,bc1173 ,3,16,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147,2.12,2.26,1,1,0
+L47,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,16,bc1123,R,bc1173 ,6,6,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147,2.12,2.26,1,1,0
+L47,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,16,bc1123,R,bc1173 ,5,8,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147,2.12,2.26,1,1,0
+L47,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,16,bc1123,R,bc1173 ,7,4,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147,2.12,2.26,1,1,0
+L47,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,16,bc1123,R,bc1173 ,21,19,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147,2.12,2.26,1,1,0
+L47,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,16,bc1123,R,bc1173 ,3,95,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147,2.12,2.26,1,1,0
+L48,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,16,bc1123,S,bc1154 ,2,8,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,149.7,2.1,1.61,1,0,0
+L48,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,16,bc1123,S,bc1154 ,4,3,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,149.7,2.1,1.61,1,0,0
+L48,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,16,bc1123,S,bc1154 ,5,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,149.7,2.1,1.61,1,0,0
+L48,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,16,bc1123,S,bc1154 ,1,20,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,149.7,2.1,1.61,1,0,0
+L48,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,16,bc1123,S,bc1154 ,3,3,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,149.7,2.1,1.61,1,0,0
+L49,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,16,bc1123,T,bc1155 ,1,63,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,160.9,2.15,1.96,1,0,0
+L49,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,16,bc1123,T,bc1155 ,4,4,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,160.9,2.15,1.96,1,0,0
+L49,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,16,bc1123,T,bc1155 ,5,3,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,160.9,2.15,1.96,1,0,0
+L49,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,16,bc1123,T,bc1155 ,6,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,160.9,2.15,1.96,1,0,0
+L49,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,16,bc1123,T,bc1155 ,2,8,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,160.9,2.15,1.96,1,0,0
+L49,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,16,bc1123,T,bc1155 ,3,5,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,160.9,2.15,1.96,1,0,0
+L49,Tree,Salicaceae,Willow,Salix,Salix myrsinifolia,ITS,16,bc1123,T,bc1155 ,7,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,160.9,2.15,1.96,1,0,0
+L50,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,16,bc1123,V,bc1140 ,1,109,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,115.9,2.1,2.38,1,0,0
+L50,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,16,bc1123,V,bc1140 ,6,5,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,115.9,2.1,2.38,1,0,0
+L50,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,16,bc1123,V,bc1140 ,5,8,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,115.9,2.1,2.38,1,0,0
+L50,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,16,bc1123,V,bc1140 ,8,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,115.9,2.1,2.38,1,0,0
+L50,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,16,bc1123,V,bc1140 ,13,60,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,115.9,2.1,2.38,1,0,0
+L50,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,16,bc1123,V,bc1140 ,3,40,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,115.9,2.1,2.38,1,0,0
+L50,Russian Thistle,Amaranthaceae,Russian thistle,Salsola,Salsola tragus,trnF,3,bc1099,P,bc1125 ,2,NA,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,115.9,2.1,2.38,1,0,0
+L51,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,16,bc1123,W,bc1189 ,3,10,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.7,1,1,0
+L51,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,16,bc1123,W,bc1189 ,5,4,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.7,1,1,0
+L51,Crop,Fabaceae,Chickpea,Cicer,Cicer arietinum,ITS,16,bc1123,W,bc1189 ,2,14,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.7,1,1,0
+L51,Weed,Geraniaceae,Redstem filaree,Erodium,Erodium cicutarium,ITS,16,bc1123,W,bc1189 ,6,3,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.7,1,1,0
+L51,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,16,bc1123,W,bc1189 ,1,44,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.7,1,1,0
+L51,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,16,bc1123,W,bc1189 ,7,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.7,1,1,0
+L51,Grass,Poaceae,Wheat,Triticum,Triticum aestivum,ITS,16,bc1123,W,bc1189 ,4,5,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,147.6,2.11,1.7,1,1,0
+L52,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,16,bc1123,F,bc1171 ,34,480,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,333.7,2.2,1.88,1,0,0
+L52,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,16,bc1123,F,bc1171 ,5,4,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,333.7,2.2,1.88,1,0,0
+L52,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,16,bc1123,F,bc1171 ,4,5,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,333.7,2.2,1.88,1,0,0
+L52,Crop,Apiaceae,Carrot,Daucus,Daucus carota,ITS,16,bc1123,F,bc1171 ,3,5,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,333.7,2.2,1.88,1,0,0
+L52,Crop,Fabaceae,Lima bean,Phaseolus,Phaseolus lunatus,ITS,16,bc1123,F,bc1171 ,7,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,333.7,2.2,1.88,1,0,0
+L52,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,16,bc1123,F,bc1171 ,2,9,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,333.7,2.2,1.88,1,0,0
+L52,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,16,bc1123,F,bc1171 ,12,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,333.7,2.2,1.88,1,0,0
+L52,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,16,bc1123,F,bc1171 ,13,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,333.7,2.2,1.88,1,0,0
+L52,Grass,Poaceae,Wheat,Triticum,Triticum aestivum,ITS,16,bc1123,F,bc1171 ,11,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,333.7,2.2,1.88,1,0,0
+L53,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,15,bc1134,G,bc1172 ,2,27,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,123.7,2.13,2.09,1,1,0
+L53,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,15,bc1134,G,bc1172 ,3,17,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,123.7,2.13,2.09,1,1,0
+L53,Weed,Asteraceae,Aster,Canadanthus,Canadanthus modestus,ITS,15,bc1134,G,bc1172 ,6,7,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,123.7,2.13,2.09,1,1,0
+L53,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,15,bc1134,G,bc1172 ,10,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,123.7,2.13,2.09,1,1,0
+L53,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,15,bc1134,G,bc1172 ,11,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,123.7,2.13,2.09,1,1,0
+L53,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,15,bc1134,G,bc1172 ,7,7,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,123.7,2.13,2.09,1,1,0
+L53,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,15,bc1134,G,bc1172 ,18,176,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,123.7,2.13,2.09,1,1,0
+L53,Grass,Poaceae,Rye,Secale,Secale cereale,ITS,15,bc1134,G,bc1172 ,4,13,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,123.7,2.13,2.09,1,1,0
+L53,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,15,bc1134,G,bc1172 ,12,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,123.7,2.13,2.09,1,1,0
+L53,Grass,Poaceae,Wheat,Triticum,Triticum sp.,ITS,15,bc1134,G,bc1172 ,5,12,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,123.7,2.13,2.09,1,1,0
+L54,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,15,bc1134,i,bc1191 ,1,101,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,124.6,2.11,1.66,1,0,0
+L54,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,15,bc1134,i,bc1191 ,4,5,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,124.6,2.11,1.66,1,0,0
+L54,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,15,bc1134,i,bc1191 ,3,23,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,124.6,2.11,1.66,1,0,0
+L54,Crop,Cucurbitaceae,Pumpkin,Cucurbita,Cucurbita pepo,ITS,15,bc1134,i,bc1191 ,7,3,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,124.6,2.11,1.66,1,0,0
+L54,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,15,bc1134,i,bc1191 ,9,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,124.6,2.11,1.66,1,0,0
+L54,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,15,bc1134,i,bc1191 ,5,4,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,124.6,2.11,1.66,1,0,0
+L54,Grass,Poaceae,Ryegrass,Lolium,Lolium saxatile,ITS,15,bc1134,i,bc1191 ,8,2,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,124.6,2.11,1.66,1,0,0
+L54,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,15,bc1134,i,bc1191 ,2,26,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,124.6,2.11,1.66,1,0,0
+L54,Weed,Asteraceae,Goldenrod,Solidago,Solidago gigantea,ITS,15,bc1134,i,bc1191 ,6,4,5,June,2022,44719,Royal City,H6.7,NA,Carrot,45245,124.6,2.11,1.66,1,0,0
+L55,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,15,bc1134,K,bc1192 ,6,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,60.9,2.02,1.53,1,0,0
+L55,Grass,Poaceae,Fescue,Festuca,Festuca gudoschnikovii,ITS,15,bc1134,K,bc1192 ,2,7,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,60.9,2.02,1.53,1,0,0
+L55,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,15,bc1134,K,bc1192 ,3,4,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,60.9,2.02,1.53,1,0,0
+L55,Grass,Poaceae,Bluegrass,Poa,Poa pratensis,ITS,15,bc1134,K,bc1192 ,4,3,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,60.9,2.02,1.53,1,0,0
+L55,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,15,bc1134,K,bc1192 ,1,74,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,60.9,2.02,1.53,1,0,0
+L56,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,15,bc1134,R,bc1173 ,6,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,106.5,2.1,1.69,1,1,0
+L56,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,15,bc1134,R,bc1173 ,3,5,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,106.5,2.1,1.69,1,1,0
+L56,Grass,Poaceae,Fescue,Festuca,Festuca gudoschnikovii,ITS,15,bc1134,R,bc1173 ,4,3,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,106.5,2.1,1.69,1,1,0
+L56,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,15,bc1134,R,bc1173 ,2,5,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,106.5,2.1,1.69,1,1,0
+L56,Grass,Poaceae,Bluegrass,Poa,Poa glauca,ITS,15,bc1134,R,bc1173 ,7,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,106.5,2.1,1.69,1,1,0
+L56,Grass,Poaceae,Bluegrass,Poa,Poa pratensis,ITS,15,bc1134,R,bc1173 ,5,3,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,106.5,2.1,1.69,1,1,0
+L56,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,15,bc1134,R,bc1173 ,1,86,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,106.5,2.1,1.69,1,1,0
+L57,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,S,bc1154 ,15,bc1134,5,3,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L57,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,S,bc1154 ,15,bc1134,9,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L57,Mustard,Brassicaceae,Tansyweed,Descurainia,Descurainia pinnata,ITS,S,bc1154 ,15,bc1134,2,56,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L57,Grass,Poaceae,Fescue,Festuca,Festuca gudoschnikovii,ITS,S,bc1154 ,15,bc1134,4,7,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L57,Grass,Poaceae,Ryegrass perennial,Lolium,Lolium perenne,ITS,S,bc1154 ,15,bc1134,6,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L57,Grass,Poaceae,Ryegrass perennial,Lolium,Lolium perenne,ITS,S,bc1154 ,15,bc1134,7,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L57,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,S,bc1154 ,15,bc1134,3,13,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L57,Grass,Poaceae,Bluegrass,Poa,Poa pratensis,ITS,S,bc1154 ,15,bc1134,8,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L57,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,S,bc1154 ,15,bc1134,1,139,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L57,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,S,bc1154 ,15,bc1134,10,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L57,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,S,bc1154 ,15,bc1134,11,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,84.8,2.12,1.91,1,0,0
+L58,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,T,bc1155 ,15,bc1134,2,6,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,52.5,2.03,1.53,1,0,0
+L58,Crop,Fabaceae,Soybean,Glycine,Glycine max,ITS,T,bc1155 ,15,bc1134,5,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,52.5,2.03,1.53,1,0,0
+L58,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,T,bc1155 ,15,bc1134,1,157,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,52.5,2.03,1.53,1,0,0
+L58,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,T,bc1155 ,15,bc1134,4,4,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,52.5,2.03,1.53,1,0,0
+L58,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,T,bc1155 ,15,bc1134,3,4,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,52.5,2.03,1.53,1,0,0
+L58,Nightshade,Solanaceae,Nightshade,Solanum,Solanum neorossii,trnF,2,bc1098,S,bc1127 ,2,NA,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,52.5,2.03,1.53,1,0,0
+L59,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,V,bc1140 ,15,bc1134,1,10,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,134.7,2.1,1.6,1,0,0
+L59,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,V,bc1140 ,15,bc1134,3,2,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,134.7,2.1,1.6,1,0,0
+L59,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,V,bc1140 ,15,bc1134,2,9,5,June,2022,44719,Othello,C7-Lin,linalool,Cannabis,45245,134.7,2.1,1.6,1,0,0
+L60,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,15,bc1134,W,bc1189 ,2,30,5,June,2022,44719,Othello,C2-Car,caryophyllene,Cannabis,45246,72.1,2.16,1.74,1,0,0
+L60,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,15,bc1134,W,bc1189 ,4,2,5,June,2022,44719,Othello,C2-Car,caryophyllene,Cannabis,45246,72.1,2.16,1.74,1,0,0
+L60,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,15,bc1134,W,bc1189 ,8,2,5,June,2022,44719,Othello,C2-Car,caryophyllene,Cannabis,45246,72.1,2.16,1.74,1,0,0
+L60,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,15,bc1134,W,bc1189 ,7,2,5,June,2022,44719,Othello,C2-Car,caryophyllene,Cannabis,45246,72.1,2.16,1.74,1,0,0
+L60,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,15,bc1134,W,bc1189 ,6,214,5,June,2022,44719,Othello,C2-Car,caryophyllene,Cannabis,45246,72.1,2.16,1.74,1,0,0
+L60,Grass,Poaceae,Bluegrass,Poa,Poa pratensis,ITS,15,bc1134,W,bc1189 ,6,2,5,June,2022,44719,Othello,C2-Car,caryophyllene,Cannabis,45246,72.1,2.16,1.74,1,0,0
+L60,Tree,Malvaceae,Linden,Tilia,Tilia x,ITS,15,bc1134,W,bc1189 ,3,3,5,June,2022,44719,Othello,C2-Car,caryophyllene,Cannabis,45246,72.1,2.16,1.74,1,0,0
+L61,Tree,Pinaceae,Nordmann Pine,Abies,Abies nordmanniana,ITS,F,bc1171 ,15,bc1134,11,2,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,F,bc1171 ,15,bc1134,12,2,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,F,bc1171 ,15,bc1134,1,47,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,F,bc1171 ,15,bc1134,6,8,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Weed,Apiaceae,Hemlock,Conium,Conium maculatum,ITS,F,bc1171 ,15,bc1134,4,10,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,F,bc1171 ,15,bc1134,13,2,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,F,bc1171 ,15,bc1134,10,4,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,F,bc1171 ,15,bc1134,9,5,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Weed,Apiaceae,Hog fennel,Peucedanum,Peucedanum terebinthaceum,ITS,F,bc1171 ,15,bc1134,7,7,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,F,bc1171 ,15,bc1134,5,10,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,F,bc1171 ,15,bc1134,2,17,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,F,bc1171 ,15,bc1134,3,11,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L61,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,F,bc1171 ,15,bc1134,8,7,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,115.5,2.12,1.81,1,1,0
+L62,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,G,bc1172 ,14,bc1133,1,50,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,106,2.12,1.82,1,1,0
+L62,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,G,bc1172 ,14,bc1133,6,2,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,106,2.12,1.82,1,1,0
+L62,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,G,bc1172 ,14,bc1133,2,7,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,106,2.12,1.82,1,1,0
+L62,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,G,bc1172 ,14,bc1133,3,3,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,106,2.12,1.82,1,1,0
+L62,Tree,Pinaceae,Hemlock,Tsuga,Tsuga heterophylla,ITS,G,bc1172 ,14,bc1133,4,2,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,106,2.12,1.82,1,1,0
+L62,Crop,Vitaceae,Grape,Vitis,Vitis vinifera,ITS,G,bc1172 ,14,bc1133,5,2,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,106,2.12,1.82,1,1,0
+L63,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,H,bc1190 ,14,bc1133,1,24,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,134.9,2.14,1.77,1,1,0
+L63,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,H,bc1190 ,14,bc1133,7,2,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,134.9,2.14,1.77,1,1,0
+L63,Weed,Apiaceae,Hemlock,Conium,Conium maculatum,ITS,H,bc1190 ,14,bc1133,2,7,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,134.9,2.14,1.77,1,1,0
+L63,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,H,bc1190 ,14,bc1133,4,5,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,134.9,2.14,1.77,1,1,0
+L63,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,H,bc1190 ,14,bc1133,6,2,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,134.9,2.14,1.77,1,1,0
+L63,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,H,bc1190 ,14,bc1133,3,5,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,134.9,2.14,1.77,1,1,0
+L63,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,H,bc1190 ,14,bc1133,5,4,5,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,134.9,2.14,1.77,1,1,0
+L64,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,i,bc1191 ,14,bc1133,2,2,4,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,100.6,2.15,1.95,1,1,0
+L64,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,i,bc1191 ,14,bc1133,4,2,4,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,100.6,2.15,1.95,1,1,0
+L64,Weed,Brassicaceae,Sheperd's purse,Capsella,Capsella bursa-pastoris,ITS,i,bc1191 ,14,bc1133,3,2,4,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,100.6,2.15,1.95,1,1,0
+L64,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,i,bc1191 ,14,bc1133,1,4,4,June,2022,44733,Prosser,Q2-Ger,geraniol,Cannabis,45246,100.6,2.15,1.95,1,1,0
+L65,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,K,bc1192 ,14,bc1133,8,2,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L65,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,K,bc1192 ,14,bc1133,2,6,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L65,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,K,bc1192 ,14,bc1133,1,9,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L65,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,K,bc1192 ,14,bc1133,9,2,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L65,Weed,Boraginaceae,Hounds tongue,Cynoglossum,Cynoglossum officinale,ITS,K,bc1192 ,14,bc1133,3,5,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L65,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,K,bc1192 ,14,bc1133,6,4,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L65,Weed,Euphorbiaceae ,Euphorbia,Euphorbia,Euphorbia drupifera,ITS,K,bc1192 ,14,bc1133,10,2,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L65,Weed,Euphorbiaceae ,Euphorbia,Euphorbia,Euphorbia drupifera,ITS,K,bc1192 ,14,bc1133,11,2,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L65,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,K,bc1192 ,14,bc1133,5,4,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L65,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,K,bc1192 ,14,bc1133,4,4,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L65,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,K,bc1192 ,14,bc1133,7,3,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,81.9,2.13,1.85,1,1,0
+L66,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,S,bc1154 ,14,bc1133,4,3,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,80.1,2.15,1.87,1,1,0
+L66,Weed,Apiaceae,Hemlock,Conium,Conium maculatum,ITS,S,bc1154 ,14,bc1133,3,6,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,80.1,2.15,1.87,1,1,0
+L66,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,S,bc1154 ,14,bc1133,5,2,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,80.1,2.15,1.87,1,1,0
+L66,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,S,bc1154 ,14,bc1133,2,7,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,80.1,2.15,1.87,1,1,0
+L66,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,S,bc1154 ,14,bc1133,1,56,5,June,2022,44733,Prosser,Q1-Car,caryophyllene,Cannabis,45246,80.1,2.15,1.87,1,1,0
+L67,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,T,bc1155 ,14,bc1133,6,2,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,140.3,2.17,2.04,1,0,0
+L67,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,T,bc1155 ,14,bc1133,3,6,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,140.3,2.17,2.04,1,0,0
+L67,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,T,bc1155 ,14,bc1133,2,6,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,140.3,2.17,2.04,1,0,0
+L67,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,T,bc1155 ,14,bc1133,4,4,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,140.3,2.17,2.04,1,0,0
+L67,Shrub,Solanaceae,Matrimony vine,Lycium,Lycium barbarum,ITS,T,bc1155 ,14,bc1133,5,2,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,140.3,2.17,2.04,1,0,0
+L67,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,T,bc1155 ,14,bc1133,1,6,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,140.3,2.17,2.04,1,0,0
+L68,Pigweed,Amaranthaceae,Smooth pigweed,Amaranthus,Amaranthus hybridus,ITS,V,bc1140 ,14,bc1133,1,4,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,118.1,2.17,1.89,1,1,1
+L68,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,V,bc1140 ,14,bc1133,2,2,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,118.1,2.17,1.89,1,1,1
+L69,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,13,bc1148,S,bc1154 ,1,27,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,70.7,2.17,1.55,1,0,0
+L69,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,13,bc1148,S,bc1154 ,1,27,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,70.7,2.17,1.55,1,0,0
+L69,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,13,bc1148,S,bc1154 ,2,13,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,70.7,2.17,1.55,1,0,0
+L69,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,13,bc1148,S,bc1154 ,2,13,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,70.7,2.17,1.55,1,0,0
+L69,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,13,bc1148,S,bc1154 ,6,4,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,70.7,2.17,1.55,1,0,0
+L69,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,13,bc1148,S,bc1154 ,6,4,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,70.7,2.17,1.55,1,0,0
+L69,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,13,bc1148,S,bc1154 ,8,16,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,70.7,2.17,1.55,1,0,0
+L69,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,13,bc1148,S,bc1154 ,8,16,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,70.7,2.17,1.55,1,0,0
+L69,Weed,Asteraceae,Dandelion,Taraxacum,Taraxacum officinale,ITS,13,bc1148,S,bc1154 ,4,7,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,70.7,2.17,1.55,1,0,0
+L69,Weed,Asteraceae,Dandelion,Taraxacum,Taraxacum officinale,ITS,13,bc1148,S,bc1154 ,4,7,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,70.7,2.17,1.55,1,0,0
+L70,Tree,Betulaceae,Alder,Alnus,Alnus maximowiczii,ITS,13,bc1148,T,bc1155 ,4,4,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Tree,Betulaceae,Alder,Alnus,Alnus maximowiczii,ITS,13,bc1148,T,bc1155 ,4,4,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,13,bc1148,T,bc1155 ,1,102,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,13,bc1148,T,bc1155 ,1,102,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,13,bc1148,T,bc1155 ,5,4,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,13,bc1148,T,bc1155 ,5,4,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,13,bc1148,T,bc1155 ,9,20,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,13,bc1148,T,bc1155 ,9,20,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,13,bc1148,T,bc1155 ,10,2,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,13,bc1148,T,bc1155 ,10,2,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,13,bc1148,T,bc1155 ,3,6,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,13,bc1148,T,bc1155 ,3,6,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Weed,Malvaceae,Mallow,Malva,Malva parviflora,ITS,13,bc1148,T,bc1155 ,8,2,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Weed,Malvaceae,Mallow,Malva,Malva parviflora,ITS,13,bc1148,T,bc1155 ,8,2,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,13,bc1148,T,bc1155 ,9,2,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,13,bc1148,T,bc1155 ,9,2,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Crop,Vitaceae,Grape,Vitis,Vitis vinifera,ITS,13,bc1148,T,bc1155 ,6,3,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L70,Crop,Vitaceae,Grape,Vitis,Vitis vinifera,ITS,13,bc1148,T,bc1155 ,6,3,5,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,87.1,2.16,1.52,1,1,0
+L71,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,V,bc1140,13,bc1148 ,1,3,4,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,84.6,2.11,1.6,1,1,0
+L71,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,V,bc1140,13,bc1148 ,2,2,4,June,2022,44733,Prosser,Q4-Euc,eucalyptol,Cannabis,45246,84.6,2.11,1.6,1,1,0
+L72,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,13,bc1148,F,bc1171 ,1,3,5,June,2022,44733,Prosser,Q6-Lin,linalool,Cannabis,45246,111.4,2.14,1.71,1,0,0
+L72,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,13,bc1148,F,bc1171 ,1,3,5,June,2022,44733,Prosser,Q6-Lin,linalool,Cannabis,45246,111.4,2.14,1.71,1,0,0
+L72,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,13,bc1148,F,bc1171 ,2,3,5,June,2022,44733,Prosser,Q6-Lin,linalool,Cannabis,45246,111.4,2.14,1.71,1,0,0
+L72,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,13,bc1148,F,bc1171 ,2,3,5,June,2022,44733,Prosser,Q6-Lin,linalool,Cannabis,45246,111.4,2.14,1.71,1,0,0
+L72,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,13,bc1148,F,bc1171 ,4,2,5,June,2022,44733,Prosser,Q6-Lin,linalool,Cannabis,45246,111.4,2.14,1.71,1,0,0
+L72,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,13,bc1148,F,bc1171 ,4,2,5,June,2022,44733,Prosser,Q6-Lin,linalool,Cannabis,45246,111.4,2.14,1.71,1,0,0
+L72,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,13,bc1148,F,bc1171 ,3,2,5,June,2022,44733,Prosser,Q6-Lin,linalool,Cannabis,45246,111.4,2.14,1.71,1,0,0
+L72,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,13,bc1148,F,bc1171 ,3,2,5,June,2022,44733,Prosser,Q6-Lin,linalool,Cannabis,45246,111.4,2.14,1.71,1,0,0
+L73,Weed,Brassicaceae,Cress,Arabidopsis,Arabidopsis thaliana,ITS,12,bc1135,i,bc1191 ,8,25,5,June,2022,44733,Othello,C7-Car,caryophyllene,Cannabis,45247,74,2.16,1.8,1,0,0
+L73,Grass,Poaceae,Cheatgrass,Bromus,Bromus tectorum,ITS,12,bc1135,i,bc1191 ,5,2,5,June,2022,44733,Othello,C7-Car,caryophyllene,Cannabis,45247,74,2.16,1.8,1,0,0
+L73,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,12,bc1135,i,bc1191 ,3,7,5,June,2022,44733,Othello,C7-Car,caryophyllene,Cannabis,45247,74,2.16,1.8,1,0,0
+L73,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,12,bc1135,i,bc1191 ,4,6,5,June,2022,44733,Othello,C7-Car,caryophyllene,Cannabis,45247,74,2.16,1.8,1,0,0
+L73,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,12,bc1135,i,bc1191 ,2,21,5,June,2022,44733,Othello,C7-Car,caryophyllene,Cannabis,45247,74,2.16,1.8,1,0,0
+L73,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,12,bc1135,i,bc1191 ,6,2,5,June,2022,44733,Othello,C7-Car,caryophyllene,Cannabis,45247,74,2.16,1.8,1,0,0
+L74,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,12,bc1135,K,bc1192 ,4,2,3,June,2022,44733,Othello,C6-Ger,geraniol,Cannabis,45247,54.7,2.14,1.82,1,0,0
+L74,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,12,bc1135,K,bc1192 ,3,3,3,June,2022,44733,Othello,C6-Ger,geraniol,Cannabis,45247,54.7,2.14,1.82,1,0,0
+L74,Grass,Poaceae,Fescue,Festuca,Festuca pyrogea,ITS,12,bc1135,K,bc1192 ,5,2,3,June,2022,44733,Othello,C6-Ger,geraniol,Cannabis,45247,54.7,2.14,1.82,1,0,0
+L74,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,12,bc1135,K,bc1192 ,1,6,3,June,2022,44733,Othello,C6-Ger,geraniol,Cannabis,45247,54.7,2.14,1.82,1,0,0
+L74,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,12,bc1135,K,bc1192 ,2,3,3,June,2022,44733,Othello,C6-Ger,geraniol,Cannabis,45247,54.7,2.14,1.82,1,0,0
+L75,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,12,bc1135,S,bc1154 ,3,9,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L75,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,12,bc1135,S,bc1154 ,10,2,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L75,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,12,bc1135,S,bc1154 ,8,4,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L75,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,12,bc1135,S,bc1154 ,6,6,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L75,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,12,bc1135,S,bc1154 ,5,8,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L75,Weed,Asteraceae,Prickly Lettuce,Lactuca,Lactuca serriola,ITS,12,bc1135,S,bc1154 ,2,14,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L75,Crop,Cucurbitaceae,Melon,Melon,Melon 17S,ITS,12,bc1135,S,bc1154 ,9,2,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L75,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,12,bc1135,S,bc1154 ,1,29,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L75,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,12,bc1135,S,bc1154 ,4,9,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L75,Nightshade,Solanaceae,Bittersweet nightshade,Solanum,Solanum dulcamara,ITS,12,bc1135,S,bc1154 ,7,4,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L75,Tree,Ulmaceae,Elm,Ulmus,Ulmus pumila,ITS,12,bc1135,S,bc1154 ,11,2,4,June,2022,44733,Othello,Q7-Rli,limonene,Cannabis,45247,148.7,2.14,1.97,1,1,0
+L76,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,12,bc1135,T,bc1155 ,1,74,5,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,118.9,2.13,2.38,1,0,0
+L76,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,12,bc1135,T,bc1155 ,6,3,5,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,118.9,2.13,2.38,1,0,0
+L76,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,12,bc1135,T,bc1155 ,3,9,5,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,118.9,2.13,2.38,1,0,0
+L76,Grass,Poaceae,Ryegrass perennial,Lolium,Lolium perenne,ITS,12,bc1135,T,bc1155 ,7,3,5,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,118.9,2.13,2.38,1,0,0
+L76,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,12,bc1135,T,bc1155 ,10,16,5,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,118.9,2.13,2.38,1,0,0
+L76,Weed,Boraginaceae,Franklin,Phacelia,Phacelia franklinii,ITS,12,bc1135,T,bc1155 ,5,4,5,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,118.9,2.13,2.38,1,0,0
+L76,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,12,bc1135,T,bc1155 ,10,2,5,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,118.9,2.13,2.38,1,0,0
+L76,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,12,bc1135,T,bc1155 ,4,7,5,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,118.9,2.13,2.38,1,0,0
+L76,Weed,Asteraceae,Dandelion,Taraxacum,Taraxacum officinale,ITS,12,bc1135,T,bc1155 ,9,2,5,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,118.9,2.13,2.38,1,0,0
+L77,Grass,Poaceae,Oatgrass,Arrhenatherum,Arrhenatherum elatius,ITS,12,bc1135,V,bc1140 ,12,2,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,92.7,2.08,2.03,1,0,0
+L77,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,12,bc1135,V,bc1140 ,2,7,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,92.7,2.08,2.03,1,0,0
+L77,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,12,bc1135,V,bc1140 ,28,259,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,92.7,2.08,2.03,1,0,0
+L77,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,12,bc1135,V,bc1140 ,11,2,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,92.7,2.08,2.03,1,0,0
+L77,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,12,bc1135,V,bc1140 ,12,7,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,92.7,2.08,2.03,1,0,0
+L77,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,12,bc1135,V,bc1140 ,3,5,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,92.7,2.08,2.03,1,0,0
+L77,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,12,bc1135,V,bc1140 ,14,2,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,92.7,2.08,2.03,1,0,0
+L77,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,12,bc1135,V,bc1140 ,23,9,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,92.7,2.08,2.03,1,0,0
+L78,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,12,bc1135,W,bc1189 ,5,3,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,137.6,2.08,1.89,1,0,0
+L78,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,12,bc1135,W,bc1189 ,14,144,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,137.6,2.08,1.89,1,0,0
+L78,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,12,bc1135,W,bc1189 ,3,3,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,137.6,2.08,1.89,1,0,0
+L78,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,12,bc1135,W,bc1189 ,13,5,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,137.6,2.08,1.89,1,0,0
+L78,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,12,bc1135,W,bc1189 ,2,10,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,137.6,2.08,1.89,1,0,0
+L78,Grass,Poaceae,Bluegrass,Poa,Poa annua,ITS,12,bc1135,W,bc1189 ,8,2,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,137.6,2.08,1.89,1,0,0
+L78,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,12,bc1135,W,bc1189 ,10,2,4,June,2022,44733,Othello,C1-Lin,linalool,Cannabis,45247,137.6,2.08,1.89,1,0,0
+L79,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,12,bc1135,R,bc1173 ,11,2,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L79,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,12,bc1135,R,bc1173 ,11,112,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L79,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,12,bc1135,R,bc1173 ,2,21,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L79,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,12,bc1135,R,bc1173 ,4,8,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L79,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,12,bc1135,R,bc1173 ,8,3,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L79,Crop,Apiaceae,Carrot,Daucus,Daucus carota,ITS,12,bc1135,R,bc1173 ,5,4,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L79,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,12,bc1135,R,bc1173 ,9,3,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L79,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,12,bc1135,R,bc1173 ,7,3,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L79,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,12,bc1135,R,bc1173 ,3,16,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L79,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,12,bc1135,R,bc1173 ,6,4,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L79,Weed,Polygonaceae,Knotweed,Polygonum,Polygonum aviculare,ITS,12,bc1135,R,bc1173 ,12,2,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,118.3,2.14,2.13,1,1,0
+L80,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,S,bc1154,11,bc1159 ,1,65,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,90.4,2.11,1.63,1,1,0
+L80,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,S,bc1154,11,bc1159 ,4,4,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,90.4,2.11,1.63,1,1,0
+L80,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,S,bc1154,11,bc1159 ,5,3,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,90.4,2.11,1.63,1,1,0
+L80,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,S,bc1154,11,bc1159 ,7,2,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,90.4,2.11,1.63,1,1,0
+L80,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,S,bc1154,11,bc1159 ,6,3,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,90.4,2.11,1.63,1,1,0
+L80,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,S,bc1154,11,bc1159 ,2,18,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,90.4,2.11,1.63,1,1,0
+L80,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,S,bc1154,11,bc1159 ,3,5,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,90.4,2.11,1.63,1,1,0
+L81,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,T,bc1155,11,bc1159 ,1,17,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,115.5,2.1,2.02,1,1,0
+L81,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,T,bc1155,11,bc1159 ,5,3,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,115.5,2.1,2.02,1,1,0
+L81,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,T,bc1155,11,bc1159 ,3,4,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,115.5,2.1,2.02,1,1,0
+L81,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,T,bc1155,11,bc1159 ,4,3,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,115.5,2.1,2.02,1,1,0
+L81,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,T,bc1155,11,bc1159 ,2,8,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,115.5,2.1,2.02,1,1,0
+L81,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,T,bc1155,11,bc1159 ,6,2,5,June,2022,44742,Prosser,Q5-Ger,geraniol,Cannabis,45247,115.5,2.1,2.02,1,1,0
+L82,Crop,Asteraceae,Tarragon,Artemisia,Artemisia dracunculus,ITS,11,bc1159,W,bc1189 ,4,2,5,August,2022,44775,Othello,C4-Ger,geraniol,Cannabis,45247,99.3,2.06,1.57,1,1,0
+L82,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,11,bc1159,W,bc1189 ,3,4,5,August,2022,44775,Othello,C4-Ger,geraniol,Cannabis,45247,99.3,2.06,1.57,1,1,0
+L82,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,11,bc1159,W,bc1189 ,2,48,5,August,2022,44775,Othello,C4-Ger,geraniol,Cannabis,45247,99.3,2.06,1.57,1,1,0
+L82,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,11,bc1159,W,bc1189 ,1,135,5,August,2022,44775,Othello,C4-Ger,geraniol,Cannabis,45247,99.3,2.06,1.57,1,1,0
+L83,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,S,bc1154,9,bc1157 ,1,40,4,August,2022,44775,Prosser,Q3-Ter,terpinolene,Cannabis,45248,102.1,2.15,2.27,1,1,0
+L83,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,S,bc1154,9,bc1157 ,7,2,4,August,2022,44775,Prosser,Q3-Ter,terpinolene,Cannabis,45248,102.1,2.15,2.27,1,1,0
+L83,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,S,bc1154,9,bc1157 ,2,20,4,August,2022,44775,Prosser,Q3-Ter,terpinolene,Cannabis,45248,102.1,2.15,2.27,1,1,0
+L83,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,S,bc1154,9,bc1157 ,5,2,4,August,2022,44775,Prosser,Q3-Ter,terpinolene,Cannabis,45248,102.1,2.15,2.27,1,1,0
+L83,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,S,bc1154,9,bc1157 ,4,3,4,August,2022,44775,Prosser,Q3-Ter,terpinolene,Cannabis,45248,102.1,2.15,2.27,1,1,0
+L83,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,S,bc1154,9,bc1157 ,3,3,4,August,2022,44775,Prosser,Q3-Ter,terpinolene,Cannabis,45248,102.1,2.15,2.27,1,1,0
+L83,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,S,bc1154,9,bc1157 ,6,2,4,August,2022,44775,Prosser,Q3-Ter,terpinolene,Cannabis,45248,102.1,2.15,2.27,1,1,0
+L84,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,9,bc1157,W,bc1189 ,1,124,5,June,2022,44733,Othello,C3-Euc,eucalyptol,Cannabis,45248,105.8,1.97,1.61,1,0,0
+L84,Grass,Poaceae,Ryegrass perennial,Lolium,Lolium perenne,ITS,9,bc1157,W,bc1189 ,3,3,5,June,2022,44733,Othello,C3-Euc,eucalyptol,Cannabis,45248,105.8,1.97,1.61,1,0,0
+L84,Tree,Rosaceae,Peach,Prunus,Prunus persica,ITS,9,bc1157,W,bc1189 ,4,2,5,June,2022,44733,Othello,C3-Euc,eucalyptol,Cannabis,45248,105.8,1.97,1.61,1,0,0
+L84,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,9,bc1157,W,bc1189 ,2,7,5,June,2022,44733,Othello,C3-Euc,eucalyptol,Cannabis,45248,105.8,1.97,1.61,1,0,0
+L85,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,9,bc1157,F,bc1171 ,4,6,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L85,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,9,bc1157,F,bc1171 ,1,15,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L85,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,9,bc1157,F,bc1171 ,7,4,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L85,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,9,bc1157,F,bc1171 ,2,12,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L85,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,9,bc1157,F,bc1171 ,9,2,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L85,Grass,Poaceae,Fescue,Festuca,Festuca pyrogea,ITS,9,bc1157,F,bc1171 ,10,2,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L85,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,9,bc1157,F,bc1171 ,8,3,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L85,Crop,Lamiaceae,Mint,Mentha,Mentha spicata,ITS,9,bc1157,F,bc1171 ,6,4,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L85,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,9,bc1157,F,bc1171 ,3,7,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L85,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,9,bc1157,F,bc1171 ,5,6,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L85,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,9,bc1157,F,bc1171 ,11,2,5,June,2022,44742,Othello,C4-Lin,linalool,Cannabis,45248,105,2.15,1.62,1,0,0
+L86,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,8,bc1158,G,bc1172 ,1,13,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45248,149.4,2.19,1.89,1,1,0
+L86,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,8,bc1158,G,bc1172 ,2,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45248,149.4,2.19,1.89,1,1,0
+L87,Crop,Amaranthaceae,Beet,Beta,Beta vulgaris,ITS,8,bc1158,R,bc1173 ,13,5,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,55.2,1.97,1.68,1,1,0
+L87,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,8,bc1158,R,bc1173 ,1,81,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,55.2,1.97,1.68,1,1,0
+L87,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,8,bc1158,R,bc1173 ,4,5,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,55.2,1.97,1.68,1,1,0
+L87,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,8,bc1158,R,bc1173 ,8,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,55.2,1.97,1.68,1,1,0
+L87,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,8,bc1158,R,bc1173 ,5,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,55.2,1.97,1.68,1,1,0
+L87,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,8,bc1158,R,bc1173 ,3,12,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,55.2,1.97,1.68,1,1,0
+L87,Tree,Fagaceae,Oak,Quercus,Quercus sp.,ITS,8,bc1158,R,bc1173 ,9,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,55.2,1.97,1.68,1,1,0
+L87,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,8,bc1158,R,bc1173 ,12,79,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,55.2,1.97,1.68,1,1,0
+L87,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,8,bc1158,R,bc1173 ,11,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,55.2,1.97,1.68,1,1,0
+L88,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,S,bc1154,8,bc1158 ,9,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,131.1,2.1,1.99,1,1,0
+L88,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,S,bc1154,8,bc1158 ,1,106,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,131.1,2.1,1.99,1,1,0
+L88,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,S,bc1154,8,bc1158 ,11,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,131.1,2.1,1.99,1,1,0
+L88,Weed,Geraniaceae,Cranes bill ,Geranium,Geranium pusillum,ITS,S,bc1154,8,bc1158 ,6,5,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,131.1,2.1,1.99,1,1,0
+L88,Weed,Asteraceae,Daisy,Leucanthemum,Leucanthemum vulgare,ITS,S,bc1154,8,bc1158 ,9,126,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,131.1,2.1,1.99,1,1,0
+L88,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,S,bc1154,8,bc1158 ,7,5,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,131.1,2.1,1.99,1,1,0
+L88,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,S,bc1154,8,bc1158 ,10,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,131.1,2.1,1.99,1,1,0
+L88,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,S,bc1154,8,bc1158 ,8,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,131.1,2.1,1.99,1,1,0
+L89,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,T,bc1155,8,bc1158 ,1,17,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,82.5,2,1.54,1,1,0
+L89,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,T,bc1155,8,bc1158 ,2,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,82.5,2,1.54,1,1,0
+L89,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,T,bc1155,8,bc1158 ,4,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,82.5,2,1.54,1,1,0
+L89,Tree,Malvaceae,Linden,Tilia,Tilia x,ITS,T,bc1155,8,bc1158 ,3,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,82.5,2,1.54,1,1,0
+L90,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,V,bc1140,8,bc1158 ,15,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,143.3,2.09,1.98,1,1,0
+L90,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,V,bc1140,8,bc1158 ,7,62,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,143.3,2.09,1.98,1,1,0
+L90,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,V,bc1140,8,bc1158 ,2,7,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,143.3,2.09,1.98,1,1,0
+L90,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,V,bc1140,8,bc1158 ,21,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,143.3,2.09,1.98,1,1,0
+L90,Shrub,Solanaceae,Matrimony vine,Lycium,Lycium barbarum,ITS,V,bc1140,8,bc1158 ,4,3,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,143.3,2.09,1.98,1,1,0
+L90,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,V,bc1140,8,bc1158 ,3,5,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,143.3,2.09,1.98,1,1,0
+L90,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,V,bc1140,8,bc1158 ,5,3,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,143.3,2.09,1.98,1,1,0
+L90,Weed,Zygophyllaceae,Goathead,Tribulus,Tribulus terrestris,ITS,V,bc1140,8,bc1158 ,9,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,143.3,2.09,1.98,1,1,0
+L91,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,8,bc1158,W,bc1189 ,5,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,97.9,2.04,1.72,1,1,0
+L91,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,8,bc1158,W,bc1189 ,1,95,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,97.9,2.04,1.72,1,1,0
+L91,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,8,bc1158,W,bc1189 ,11,3,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,97.9,2.04,1.72,1,1,0
+L91,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,8,bc1158,W,bc1189 ,7,3,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,97.9,2.04,1.72,1,1,0
+L91,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,8,bc1158,W,bc1189 ,17,6,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,97.9,2.04,1.72,1,1,0
+L91,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,8,bc1158,W,bc1189 ,16,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,97.9,2.04,1.72,1,1,0
+L91,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,8,bc1158,W,bc1189 ,15,64,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,97.9,2.04,1.72,1,1,0
+L91,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,8,bc1158,W,bc1189 ,45,10,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,97.9,2.04,1.72,1,1,0
+L91,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,8,bc1158,W,bc1189 ,7,70,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,97.9,2.04,1.72,1,1,0
+L91,Grass,Poaceae,Wheat,Triticum,Triticum aestivum,ITS,8,bc1158,W,bc1189 ,12,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,97.9,2.04,1.72,1,1,0
+L92,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,8,bc1158,F,bc1171 ,1,15,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,118.8,2.05,1.86,1,0,0
+L92,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,8,bc1158,F,bc1171 ,2,7,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,118.8,2.05,1.86,1,0,0
+L92,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,8,bc1158,F,bc1171 ,7,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,118.8,2.05,1.86,1,0,0
+L92,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,8,bc1158,F,bc1171 ,11,6,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,118.8,2.05,1.86,1,0,0
+L92,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,8,bc1158,F,bc1171 ,9,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,118.8,2.05,1.86,1,0,0
+L92,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,8,bc1158,F,bc1171 ,3,5,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,118.8,2.05,1.86,1,0,0
+L92,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,8,bc1158,F,bc1171 ,4,3,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,118.8,2.05,1.86,1,0,0
+L92,Weed,Zygophyllaceae,Goathead,Tribulus,Tribulus terrestris,ITS,8,bc1158,F,bc1171 ,8,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,118.8,2.05,1.86,1,0,0
+L93,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,7,bc1153,G,bc1172 ,8,333,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,137.4,2.1,1.86,1,1,0
+L93,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,7,bc1153,G,bc1172 ,10,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,137.4,2.1,1.86,1,1,0
+L93,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,7,bc1153,G,bc1172 ,4,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,137.4,2.1,1.86,1,1,0
+L93,Crop,Fabaceae,Chickpea,Cicer,Cicer arietinum,ITS,7,bc1153,G,bc1172 ,2,126,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,137.4,2.1,1.86,1,1,0
+L93,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,7,bc1153,G,bc1172 ,3,6,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,137.4,2.1,1.86,1,1,0
+L93,Shrub,Hydrangeaceae,Mock orange,Philadelphus,Philadelphus sericanthus,ITS,7,bc1153,G,bc1172 ,5,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,137.4,2.1,1.86,1,1,0
+L93,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,7,bc1153,G,bc1172 ,8,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,137.4,2.1,1.86,1,1,0
+L93,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,7,bc1153,G,bc1172 ,6,3,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,137.4,2.1,1.86,1,1,0
+L93,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,7,bc1153,G,bc1172 ,9,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,137.4,2.1,1.86,1,1,0
+L94,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,7,bc1153,K,bc1192 ,12,3,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,134.4,2.05,1.87,1,1,0
+L94,Weed,Asteraceae,Trailing petunia,Calibrachoa,Calibrachoa elegans,ITS,7,bc1153,K,bc1192 ,4,19,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,134.4,2.05,1.87,1,1,0
+L94,Crop,Fabaceae,Chickpea,Cicer,Cicer arietinum,ITS,7,bc1153,K,bc1192 ,14,3,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,134.4,2.05,1.87,1,1,0
+L94,Weed,Solanaceae,Petunia,Petunia,Petunia sp.,ITS,7,bc1153,K,bc1192 ,5,13,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,134.4,2.05,1.87,1,1,0
+L94,Weed,Solanaceae,Petunia,Petunia,Petunia sp.,ITS,7,bc1153,K,bc1192 ,5,13,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,134.4,2.05,1.87,1,1,0
+L94,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,7,bc1153,K,bc1192 ,51,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,134.4,2.05,1.87,1,1,0
+L94,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,7,bc1153,K,bc1192 ,15,3,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,134.4,2.05,1.87,1,1,0
+L94,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,7,bc1153,K,bc1192 ,15,78,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,134.4,2.05,1.87,1,1,0
+L94,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,7,bc1153,K,bc1192 ,6,10,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,134.4,2.05,1.87,1,1,0
+L94,Weed,Fabaceae,Clover,Trifolium,Trifolium fragiferum,ITS,7,bc1153,K,bc1192 ,27,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,134.4,2.05,1.87,1,1,0
+L95,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,7,bc1153,R,bc1173 ,11,173,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,94.1,2.08,2.18,1,1,0
+L95,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,7,bc1153,R,bc1173 ,5,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,94.1,2.08,2.18,1,1,0
+L95,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,7,bc1153,R,bc1173 ,10,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,94.1,2.08,2.18,1,1,0
+L95,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,7,bc1153,R,bc1173 ,8,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,94.1,2.08,2.18,1,1,0
+L95,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,7,bc1153,R,bc1173 ,7,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,94.1,2.08,2.18,1,1,0
+L95,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,7,bc1153,R,bc1173 ,9,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,94.1,2.08,2.18,1,1,0
+L95,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,7,bc1153,R,bc1173 ,2,5,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,94.1,2.08,2.18,1,1,0
+L95,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,7,bc1153,R,bc1173 ,3,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45249,94.1,2.08,2.18,1,1,0
+L96,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,7,bc1153,S,bc1154 ,4,2,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,97.6,2.08,1.55,1,1,0
+L96,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,7,bc1153,S,bc1154 ,3,4,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,97.6,2.08,1.55,1,1,0
+L96,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,7,bc1153,S,bc1154 ,1,6,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,97.6,2.08,1.55,1,1,0
+L96,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,7,bc1153,S,bc1154 ,7,7,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,97.6,2.08,1.55,1,1,0
+L97,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,7,bc1153,T,bc1155 ,3,2,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,84.9,2.07,1.7,1,1,0
+L97,Crop,Cannabaceae,Hops,Humulus,Humulus lupulus,ITS,7,bc1153,T,bc1155 ,2,2,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,84.9,2.07,1.7,1,1,0
+L97,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,7,bc1153,T,bc1155 ,1,23,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,84.9,2.07,1.7,1,1,0
+L98,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,V,bc1140,7,bc1153 ,5,7,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,78.2,2,1.87,1,1,0
+L98,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,V,bc1140,7,bc1153 ,3,18,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,78.2,2,1.87,1,1,0
+L98,Grass,Poaceae,Crabgrass,Digitaria,Digitaria ciliaris,ITS,V,bc1140,7,bc1153 ,21,242,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,78.2,2,1.87,1,1,0
+L98,Grass,Poaceae,Crabgrass,Digitaria,Digitaria glauca,trnF,8,bc1114,E,bc1174 ,2,2,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,78.2,2,1.87,1,1,0
+L98,Grass,Poaceae,Crabgrass,Digitaria,Digitaria sanguinalis,trnF,8,bc1114,E,bc1174 ,1,9,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,78.2,2,1.87,1,1,0
+L98,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,V,bc1140,7,bc1153 ,4,10,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,78.2,2,1.87,1,1,0
+L98,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,V,bc1140,7,bc1153 ,1,313,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,78.2,2,1.87,1,1,0
+L98,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,V,bc1140,7,bc1153 ,15,6,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,78.2,2,1.87,1,1,0
+L98,Crop,Lamiaceae,Thyme,Thymus,Thymus pulegioides,ITS,V,bc1140,7,bc1153 ,6,3,5,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,78.2,2,1.87,1,1,0
+L99,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,7,bc1153,E,bc1170 ,2,13,4,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,85.4,2.07,1.82,1,1,1
+L99,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,7,bc1153,E,bc1170 ,3,2,4,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,85.4,2.07,1.82,1,1,1
+L99,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,7,bc1153,E,bc1170 ,1,14,4,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45249,85.4,2.07,1.82,1,1,1
+L100,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,6,bc1152,F,bc1171 ,2,6,4,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45258,78.7,2.12,1.71,1,0,0
+L100,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,6,bc1152,F,bc1171 ,4,35,4,June,2022,44742,Prosser,Q2-N/A,none,Cannabis,45258,78.7,2.12,1.71,1,0,0
+L101,Grass,Poaceae,Crabgrass,Digitaria,Digitaria ciliaris,ITS,6,bc1152,G,bc1172 ,8,216,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,110.5,2.1,1.98,1,0,0
+L101,Grass,Poaceae,Crabgrass,Digitaria,Digitaria sanguinalis,trnF,8,bc1114,N,bc1144 ,2,NA,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,110.5,2.1,1.98,1,0,0
+L101,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,6,bc1152,G,bc1172 ,4,4,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,110.5,2.1,1.98,1,0,0
+L101,Shrub,Hydrangeaceae,Mock orange,Philadelphus,Philadelphus sericanthus,ITS,6,bc1152,G,bc1172 ,3,7,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,110.5,2.1,1.98,1,0,0
+L101,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,6,bc1152,G,bc1172 ,6,2,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,110.5,2.1,1.98,1,0,0
+L101,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,6,bc1152,G,bc1172 ,2,14,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,110.5,2.1,1.98,1,0,0
+L101,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,6,bc1152,G,bc1172 ,5,3,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,110.5,2.1,1.98,1,0,0
+L102,Crop,Cucurbitaceae,Pumpkin,Cucurbita,Cucurbita pepo,ITS,6,bc1152,i,bc1191 ,4,2,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,91,2.1,1.73,1,0,0
+L102,Grass,Poaceae,Crabgrass,Digitaria,Digitaria ciliaris,ITS,6,bc1152,i,bc1191 ,7,253,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,91,2.1,1.73,1,0,0
+L102,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,6,bc1152,i,bc1191 ,5,2,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,91,2.1,1.73,1,0,0
+L102,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,6,bc1152,i,bc1191 ,3,60,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,91,2.1,1.73,1,0,0
+L102,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,6,bc1152,i,bc1191 ,2,62,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,91,2.1,1.73,1,0,0
+L102,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,6,bc1152,i,bc1191 ,7,2,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,91,2.1,1.73,1,0,0
+L103,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,6,bc1152,K,bc1192 ,1,2,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,97.6,2.02,1.56,1,1,0
+L103,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,6,bc1152,K,bc1192 ,3,2,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,97.6,2.02,1.56,1,1,0
+L103,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,6,bc1152,K,bc1192 ,4,2,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,97.6,2.02,1.56,1,1,0
+L103,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,6,bc1152,K,bc1192 ,2,2,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,97.6,2.02,1.56,1,1,0
+L104,Grass,Poaceae,Crabgrass,Digitaria,Digitaria ciliaris,ITS,6,bc1152,R,bc1173 ,2,2,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,103,2.12,1.5,1,0,0
+L104,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,6,bc1152,R,bc1173 ,1,19,5,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,103,2.12,1.5,1,0,0
+L105,Crop,Fabaceae,Soybean,Glycine,Glycine max,ITS,6,bc1152,T,bc1155 ,1,10,4,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,103,2.07,1.65,1,0,0
+L105,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,6,bc1152,T,bc1155 ,3,2,4,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,103,2.07,1.65,1,0,0
+L105,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,6,bc1152,T,bc1155 ,2,5,4,June,2022,44742,Prosser,Q1-Rli,limonene,Cannabis,45258,103,2.07,1.65,1,0,0
+L106,Pigweed,Amaranthaceae,Smooth pigweed,Amaranthus,Amaranthus hybridus,ITS,V,bc1140,6,bc1152 ,3,3,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,149.3,2.08,1.59,1,0,0
+L106,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,V,bc1140,6,bc1152 ,8,2,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,149.3,2.08,1.59,1,0,0
+L106,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,V,bc1140,6,bc1152 ,19,115,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,149.3,2.08,1.59,1,0,0
+L106,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,V,bc1140,6,bc1152 ,2,5,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,149.3,2.08,1.59,1,0,0
+L106,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,V,bc1140,6,bc1152 ,4,3,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,149.3,2.08,1.59,1,0,0
+L107,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,6,bc1152,W,bc1189 ,1,14,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,50.7,2.11,1.8,1,1,0
+L107,Mustard,Brassicaceae,Wild cabbage,Brassica,Brassica oleracea,ITS,6,bc1152,W,bc1189 ,4,2,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,50.7,2.11,1.8,1,1,0
+L107,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,6,bc1152,W,bc1189 ,3,2,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,50.7,2.11,1.8,1,1,0
+L107,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,6,bc1152,W,bc1189 ,2,7,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,50.7,2.11,1.8,1,1,0
+L108,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,5,bc1146,F,bc1171 ,1,13,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,60.4,2.1,1.74,1,1,0
+L108,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,5,bc1146,F,bc1171 ,2,6,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,60.4,2.1,1.74,1,1,0
+L108,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,5,bc1146,F,bc1171 ,7,5,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,60.4,2.1,1.74,1,1,0
+L109,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,5,bc1146,G,bc1172 ,11,29,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.9,1.94,2.25,1,1,0
+L109,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,5,bc1146,G,bc1172 ,12,2,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.9,1.94,2.25,1,1,0
+L109,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,5,bc1146,G,bc1172 ,11,2,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.9,1.94,2.25,1,1,0
+L109,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,5,bc1146,G,bc1172 ,5,34,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.9,1.94,2.25,1,1,0
+L109,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,5,bc1146,G,bc1172 ,6,6,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.9,1.94,2.25,1,1,0
+L109,Grass,Poaceae,Ryegrass,Lolium,Lolium saxatile,ITS,5,bc1146,G,bc1172 ,8,4,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.9,1.94,2.25,1,1,0
+L109,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,5,bc1146,G,bc1172 ,4,9,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.9,1.94,2.25,1,1,0
+L109,Grass,Poaceae,Foxtail millet,Setaria ,Setaria italica,ITS,5,bc1146,G,bc1172 ,9,3,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.9,1.94,2.25,1,1,0
+L109,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,5,bc1146,G,bc1172 ,5,8,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.9,1.94,2.25,1,1,0
+L109,Grass,Poaceae,Wheat,Triticum,Triticum monococcum,ITS,5,bc1146,G,bc1172 ,7,5,5,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.9,1.94,2.25,1,1,0
+L110,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,5,bc1146,H,bc1190 ,3,5,4,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.4,1.98,2.25,1,1,0
+L110,Crop,Fabaceae,Chickpea,Cicer,Cicer arietinum,ITS,5,bc1146,H,bc1190 ,1,51,4,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.4,1.98,2.25,1,1,0
+L110,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,5,bc1146,H,bc1190 ,4,2,4,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.4,1.98,2.25,1,1,0
+L110,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,5,bc1146,H,bc1190 ,2,10,4,July,2022,44762,Prosser,Q3-Euc,eucalyptol,Cannabis,45258,55.4,1.98,2.25,1,1,0
+L111,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,5,bc1146,i,bc1191 ,5,79,5,July,2022,44762,Prosser,Q4-Ter,terpinolene,Cannabis,45258,100,2.07,2.37,1,1,0
+L111,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,5,bc1146,i,bc1191 ,3,5,5,July,2022,44762,Prosser,Q4-Ter,terpinolene,Cannabis,45258,100,2.07,2.37,1,1,0
+L111,Lambsquarter,Amaranthaceae,Lambsquarter,Chenopodium,Chenopodium amaranticolor,trnF,J,bc1108,9,bc1115 ,2,NA,5,July,2022,44762,Prosser,Q4-Ter,terpinolene,Cannabis,45258,100,2.07,2.37,1,1,0
+L111,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,5,bc1146,i,bc1191 ,2,5,5,July,2022,44762,Prosser,Q4-Ter,terpinolene,Cannabis,45258,100,2.07,2.37,1,1,0
+L111,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,5,bc1146,i,bc1191 ,5,2,5,July,2022,44762,Prosser,Q4-Ter,terpinolene,Cannabis,45258,100,2.07,2.37,1,1,0
+L112,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,5,bc1146,R,bc1173 ,9,73,5,July,2022,44762,Prosser,Q6-Car,caryophyllene,Cannabis,45258,103,2.03,2.49,1,1,0
+L112,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,5,bc1146,R,bc1173 ,2,14,5,July,2022,44762,Prosser,Q6-Car,caryophyllene,Cannabis,45258,103,2.03,2.49,1,1,0
+L112,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,5,bc1146,R,bc1173 ,4,4,5,July,2022,44762,Prosser,Q6-Car,caryophyllene,Cannabis,45258,103,2.03,2.49,1,1,0
+L112,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,5,bc1146,R,bc1173 ,6,3,5,July,2022,44762,Prosser,Q6-Car,caryophyllene,Cannabis,45258,103,2.03,2.49,1,1,0
+L112,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,5,bc1146,R,bc1173 ,5,3,5,July,2022,44762,Prosser,Q6-Car,caryophyllene,Cannabis,45258,103,2.03,2.49,1,1,0
+L112,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,5,bc1146,R,bc1173 ,7,3,5,July,2022,44762,Prosser,Q6-Car,caryophyllene,Cannabis,45258,103,2.03,2.49,1,1,0
+L112,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,5,bc1146,R,bc1173 ,9,2,5,July,2022,44762,Prosser,Q6-Car,caryophyllene,Cannabis,45258,103,2.03,2.49,1,1,0
+L112,Weed,Zygophyllaceae,Goathead,Tribulus,Tribulus terrestris,ITS,5,bc1146,R,bc1173 ,3,8,5,July,2022,44762,Prosser,Q6-Car,caryophyllene,Cannabis,45258,103,2.03,2.49,1,1,0
+L113,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,5,bc1146,S,bc1154 ,2,21,5,July,2022,44762,Prosser,Q7-Euc,eucalyptol,Cannabis,45259,126,2.04,1.87,1,1,0
+L113,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,5,bc1146,S,bc1154 ,13,240,5,July,2022,44762,Prosser,Q7-Euc,eucalyptol,Cannabis,45259,126,2.04,1.87,1,1,0
+L113,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,5,bc1146,S,bc1154 ,6,2,5,July,2022,44762,Prosser,Q7-Euc,eucalyptol,Cannabis,45259,126,2.04,1.87,1,1,0
+L114,Crop,Apiaceae,Dill,Anethum,Anethum graveolens,ITS,5,bc1146,T,bc1155 ,1,77,4,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,105.3,2.1,1.9,1,1,0
+L114,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,5,bc1146,T,bc1155 ,7,62,4,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,105.3,2.1,1.9,1,1,0
+L114,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,5,bc1146,T,bc1155 ,3,30,4,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,105.3,2.1,1.9,1,1,0
+L114,Tree,Pinaceae,Hemlock,Tsuga,Tsuga heterophylla,ITS,5,bc1146,T,bc1155 ,4,2,4,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,105.3,2.1,1.9,1,1,0
+L115,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,V,bc1140,5,bc1146 ,2,7,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,91.4,2.07,1.77,1,1,0
+L115,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,V,bc1140,5,bc1146 ,5,4,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,91.4,2.07,1.77,1,1,0
+L115,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,V,bc1140,5,bc1146 ,3,7,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,91.4,2.07,1.77,1,1,0
+L115,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,V,bc1140,5,bc1146 ,4,7,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,91.4,2.07,1.77,1,1,0
+L115,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,V,bc1140,5,bc1146 ,7,32,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,91.4,2.07,1.77,1,1,0
+L116,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,5,bc1146,W,bc1189 ,1,113,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,114,2.1,2.48,1,0,0
+L116,Lambsquarter,Amaranthaceae,Lambsquarter,Chenopodium,Chenopodium amaranticolor,trnF,9,bc1115,R,bc1126 ,12,NA,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,114,2.1,2.48,1,0,0
+L116,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,5,bc1146,W,bc1189 ,3,3,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,114,2.1,2.48,1,0,0
+L116,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,5,bc1146,W,bc1189 ,2,4,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,114,2.1,2.48,1,0,0
+L117,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,5,bc1146,E,bc1170 ,2,8,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,99.5,2.02,1.6,1,1,0
+L117,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,5,bc1146,E,bc1170 ,6,2,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,99.5,2.02,1.6,1,1,0
+L117,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,5,bc1146,E,bc1170 ,3,7,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,99.5,2.02,1.6,1,1,0
+L117,Weed,Sarcobataceae,Greasewood,Sarcobatus,Sarcobatus vermiculatus,ITS,5,bc1146,E,bc1170 ,5,13,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,99.5,2.02,1.6,1,1,0
+L117,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,5,bc1146,E,bc1170 ,5,2,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,99.5,2.02,1.6,1,1,0
+L118,Crop,Apiaceae,Dill,Anethum,Anethum graveolens,ITS,4,bc1150,F,bc1171 ,1,82,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,4,bc1150,F,bc1171 ,4,25,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,4,bc1150,F,bc1171 ,3,29,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Weed,Apiaceae,Hemlock,Cicuta,Cicuta virosa,ITS,4,bc1150,F,bc1171 ,2,38,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,4,bc1150,F,bc1171 ,16,2,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,4,bc1150,F,bc1171 ,7,7,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,4,bc1150,F,bc1171 ,5,18,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Grass,Poaceae,Ryegrass,Lolium,Lolium saxatile,ITS,4,bc1150,F,bc1171 ,23,4,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,4,bc1150,F,bc1171 ,8,6,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,4,bc1150,F,bc1171 ,13,2,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,4,bc1150,F,bc1171 ,35,19,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L118,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,4,bc1150,F,bc1171 ,19,7,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,103.9,2.05,1.86,1,1,0
+L119,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,4,bc1150,G,bc1172 ,9,149,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,108.6,2.04,1.68,1,1,1
+L119,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,4,bc1150,G,bc1172 ,11,2,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,108.6,2.04,1.68,1,1,1
+L119,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,4,bc1150,G,bc1172 ,4,7,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,108.6,2.04,1.68,1,1,1
+L119,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,4,bc1150,G,bc1172 ,3,20,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,108.6,2.04,1.68,1,1,1
+L119,Grass,Poaceae,Ryegrass,Lolium,Lolium saxatile,ITS,4,bc1150,G,bc1172 ,6,4,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,108.6,2.04,1.68,1,1,1
+L119,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,4,bc1150,G,bc1172 ,5,5,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,108.6,2.04,1.68,1,1,1
+L119,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,4,bc1150,G,bc1172 ,9,2,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,108.6,2.04,1.68,1,1,1
+L119,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,4,bc1150,G,bc1172 ,10,2,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,108.6,2.04,1.68,1,1,1
+L119,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,4,bc1150,G,bc1172 ,21,54,6,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,108.6,2.04,1.68,1,1,1
+L120,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,4,bc1150,H,bc1190 ,1,14,4,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,96.3,2.06,1.84,1,1,0
+L120,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,4,bc1150,H,bc1190 ,3,3,4,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,96.3,2.06,1.84,1,1,0
+L120,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,4,bc1150,H,bc1190 ,2,5,4,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,96.3,2.06,1.84,1,1,0
+L121,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,4,bc1150,i,bc1191 ,3,37,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,98.9,2.06,1.8,1,1,0
+L121,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,4,bc1150,i,bc1191 ,8,4,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,98.9,2.06,1.8,1,1,0
+L121,Grass,Poaceae,Crabgrass,Digitaria,Digitaria ciliaris,ITS,4,bc1150,i,bc1191 ,9,4,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,98.9,2.06,1.8,1,1,0
+L121,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,4,bc1150,i,bc1191 ,2,44,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,98.9,2.06,1.8,1,1,0
+L121,Grass,Poaceae,Ryegrass,Lolium,Lolium saxatile,ITS,4,bc1150,i,bc1191 ,6,8,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,98.9,2.06,1.8,1,1,0
+L121,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,4,bc1150,i,bc1191 ,5,8,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,98.9,2.06,1.8,1,1,0
+L121,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,4,bc1150,i,bc1191 ,7,5,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,98.9,2.06,1.8,1,1,0
+L121,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,4,bc1150,i,bc1191 ,138,188,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,98.9,2.06,1.8,1,1,0
+L121,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,4,bc1150,i,bc1191 ,12,3,5,June,2022,44742,Prosser,Q6- Ter,terpinolene,Cannabis,45259,98.9,2.06,1.8,1,1,0
+L122,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,4,bc1150,K,bc1192 ,7,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,88.4,2.05,1.91,1,0,0
+L122,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,4,bc1150,K,bc1192 ,5,3,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,88.4,2.05,1.91,1,0,0
+L122,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,4,bc1150,K,bc1192 ,6,3,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,88.4,2.05,1.91,1,0,0
+L122,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,4,bc1150,K,bc1192 ,3,6,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,88.4,2.05,1.91,1,0,0
+L122,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,4,bc1150,K,bc1192 ,2,14,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,88.4,2.05,1.91,1,0,0
+L122,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,4,bc1150,K,bc1192 ,4,4,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,88.4,2.05,1.91,1,0,0
+L122,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,4,bc1150,K,bc1192 ,9,17,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,88.4,2.05,1.91,1,0,0
+L123,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,4,bc1150,R,bc1173 ,2,74,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,109.1,2.06,2.33,1,1,0
+L123,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,4,bc1150,R,bc1173 ,8,3,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,109.1,2.06,2.33,1,1,0
+L123,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,4,bc1150,R,bc1173 ,5,5,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,109.1,2.06,2.33,1,1,0
+L123,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,4,bc1150,R,bc1173 ,8,408,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,109.1,2.06,2.33,1,1,0
+L123,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,4,bc1150,R,bc1173 ,6,4,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,109.1,2.06,2.33,1,1,0
+L123,Grass,Poaceae,Foxtail millet,Setaria,Setaria italica,ITS,4,bc1150,R,bc1173 ,7,3,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,109.1,2.06,2.33,1,1,0
+L124,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,4,bc1150,S,bc1154 ,3,42,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Crop,Brassicaceae,Canola,Brassica,Brassica napus,ITS,4,bc1150,S,bc1154 ,14,4,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Mustard,Brassicaceae,Wild cabbage,Brassica,Brassica oleracea,ITS,4,bc1150,S,bc1154 ,15,3,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Crop,Cucurbitaceae,Cucumber,Cucumis,Cucumis sativus,ITS,4,bc1150,S,bc1154 ,5,25,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Weed,Asteraceae,Fleabane,Erigeron,Erigeron leptorhizon,ITS,4,bc1150,S,bc1154 ,20,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,4,bc1150,S,bc1154 ,9,9,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,4,bc1150,S,bc1154 ,6,22,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,4,bc1150,S,bc1154 ,19,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,4,bc1150,S,bc1154 ,1,50,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,4,bc1150,S,bc1154 ,8,10,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,4,bc1150,S,bc1154 ,71,39,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Nightshade,Solanaceae,Nightshade,Solanum,Solanum neorossii,trnF,10,bc1120,F,bc1175 ,2,NA,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Nightshade,Solanaceae,Black nightshade,Solanum,Solanum nigrum,ITS,4,bc1150,S,bc1154 ,21,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,4,bc1150,S,bc1154 ,6,85,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Tree,Pinaceae,Hemlock,Tsuga,Tsuga chinensis,ITS,4,bc1150,S,bc1154 ,33,4,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L124,Tree,Pinaceae,Hemlock,Tsuga,Tsuga chinensis,ITS,4,bc1150,S,bc1154 ,38,4,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,96,2.15,2.38,1,1,0
+L125,Tree,Betulaceae,Alder,Alnus,Alnus maximowiczii,ITS,4,bc1150,T,bc1155 ,2,5,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,107.4,2.11,2.3,1,1,0
+L125,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,4,bc1150,T,bc1155 ,1,63,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,107.4,2.11,2.3,1,1,0
+L125,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,4,bc1150,T,bc1155 ,8,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,107.4,2.11,2.3,1,1,0
+L125,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,4,bc1150,T,bc1155 ,7,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,107.4,2.11,2.3,1,1,0
+L125,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,4,bc1150,T,bc1155 ,4,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,107.4,2.11,2.3,1,1,0
+L125,Grass,Poaceae,Quackgrass,Elymus,Elymus repens,ITS,4,bc1150,T,bc1155 ,5,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,107.4,2.11,2.3,1,1,0
+L125,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,4,bc1150,T,bc1155 ,3,4,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,107.4,2.11,2.3,1,1,0
+L125,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,4,bc1150,T,bc1155 ,6,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,107.4,2.11,2.3,1,1,0
+L126,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,V,bc1140,4,bc1150 ,1,12,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,86.4,2.09,2.01,1,0,0
+L126,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,V,bc1140,4,bc1150 ,4,7,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,86.4,2.09,2.01,1,0,0
+L126,Grass,Poaceae,Barnyard grass,Echinochloa,Echinochloa oryzoides,ITS,V,bc1140,4,bc1150 ,7,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,86.4,2.09,2.01,1,0,0
+L126,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,V,bc1140,4,bc1150 ,6,5,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,86.4,2.09,2.01,1,0,0
+L126,Grass,Poaceae,Ryegrass perennial,Lolium,Lolium perenne,ITS,V,bc1140,4,bc1150 ,8,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,86.4,2.09,2.01,1,0,0
+L126,Grass,Poaceae,Ryegrass annual,Lolium,Lolium rigidum,ITS,V,bc1140,4,bc1150 ,2,10,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,86.4,2.09,2.01,1,0,0
+L126,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,V,bc1140,4,bc1150 ,5,6,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,86.4,2.09,2.01,1,0,0
+L126,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,V,bc1140,4,bc1150 ,3,8,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,86.4,2.09,2.01,1,0,0
+L127,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,4,bc1150,A,bc1160 ,10,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,62.8,2.04,1.75,1,1,1
+L127,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,4,bc1150,A,bc1160 ,4,3,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,62.8,2.04,1.75,1,1,1
+L127,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,4,bc1150,A,bc1160 ,2,6,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,62.8,2.04,1.75,1,1,1
+L127,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,4,bc1150,A,bc1160 ,11,6,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,62.8,2.04,1.75,1,1,1
+L127,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,4,bc1150,A,bc1160 ,3,5,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,62.8,2.04,1.75,1,1,1
+L127,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,4,bc1150,A,bc1160 ,7,3,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,62.8,2.04,1.75,1,1,1
+L127,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,4,bc1150,A,bc1160 ,11,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,62.8,2.04,1.75,1,1,1
+L127,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,4,bc1150,A,bc1160 ,1,27,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,62.8,2.04,1.75,1,1,1
+L127,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,4,bc1150,A,bc1160 ,12,2,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,62.8,2.04,1.75,1,1,1
+L127,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,4,bc1150,A,bc1160 ,17,6,5,June,2022,44742,Prosser,Q7-Lin,linalool,Cannabis,45259,62.8,2.04,1.75,1,1,1
+L128,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,B,bc1161,3,bc1182 ,2,39,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45259,108.9,2.07,1.65,1,1,0
+L128,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,B,bc1161,3,bc1182 ,4,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45259,108.9,2.07,1.65,1,1,0
+L128,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,B,bc1161,3,bc1182 ,4,174,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45259,108.9,2.07,1.65,1,1,0
+L128,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,B,bc1161,3,bc1182 ,5,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45259,108.9,2.07,1.65,1,1,0
+L129,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,C,bc1162,3,bc1182 ,2,11,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45259,140.3,2.05,1.68,1,0,0
+L129,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,C,bc1162,3,bc1182 ,1,15,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45259,140.3,2.05,1.68,1,0,0
+L129,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,C,bc1162,3,bc1182 ,3,4,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45259,140.3,2.05,1.68,1,0,0
+L129,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,C,bc1162,3,bc1182 ,4,2,5,June,2022,44742,Prosser,Q4-Car,caryophyllene,Cannabis,45259,140.3,2.05,1.68,1,0,0
+L130,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,D,bc1163,3,bc1182 ,2,43,5,July,2022,44762,Royal City,H-N/A,none,Carrot,45310,116,2.11,1.6,1,1,0
+L130,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,D,bc1163,3,bc1182 ,9,220,5,July,2022,44762,Royal City,H-N/A,none,Carrot,45310,116,2.11,1.6,1,1,0
+L130,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,D,bc1163,3,bc1182 ,5,4,5,July,2022,44762,Royal City,H-N/A,none,Carrot,45310,116,2.11,1.6,1,1,0
+L130,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,D,bc1163,3,bc1182 ,9,2,5,July,2022,44762,Royal City,H-N/A,none,Carrot,45310,116,2.11,1.6,1,1,0
+L130,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,D,bc1163,3,bc1182 ,4,24,5,July,2022,44762,Royal City,H-N/A,none,Carrot,45310,116,2.11,1.6,1,1,0
+L130,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,D,bc1163,3,bc1182 ,6,3,5,July,2022,44762,Royal City,H-N/A,none,Carrot,45310,116,2.11,1.6,1,1,0
+L130,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,D,bc1163,3,bc1182 ,7,3,5,July,2022,44762,Royal City,H-N/A,none,Carrot,45310,116,2.11,1.6,1,1,0
+L130,Weed,Zygophyllaceae,Goathead,Tribulus,Tribulus terrestris,ITS,D,bc1163,3,bc1182 ,3,30,5,July,2022,44762,Royal City,H-N/A,none,Carrot,45310,116,2.11,1.6,1,1,0
+L131,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,E,bc1170,3,bc1182 ,2,6,5,June,2022,44742,Royal City,H-N/A,none,Carrot,45310,51.3,2.12,1.56,1,1,0
+L131,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,E,bc1170,3,bc1182 ,10,5,5,June,2022,44742,Royal City,H-N/A,none,Carrot,45310,51.3,2.12,1.56,1,1,0
+L131,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,E,bc1170,3,bc1182 ,1,6,5,June,2022,44742,Royal City,H-N/A,none,Carrot,45310,51.3,2.12,1.56,1,1,0
+L131,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,E,bc1170,3,bc1182 ,8,7,5,June,2022,44742,Royal City,H-N/A,none,Carrot,45310,51.3,2.12,1.56,1,1,0
+L132,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,F,bc1171,3,bc1182 ,4,7,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,123.7,2.08,1.66,1,1,0
+L132,Crop,Amaranthaceae,Beet,Beta,Beta vulgaris,ITS,F,bc1171,3,bc1182 ,6,4,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,123.7,2.08,1.66,1,1,0
+L132,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,F,bc1171,3,bc1182 ,8,4,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,123.7,2.08,1.66,1,1,0
+L132,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,F,bc1171,3,bc1182 ,12,2,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,123.7,2.08,1.66,1,1,0
+L132,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,F,bc1171,3,bc1182 ,23,233,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,123.7,2.08,1.66,1,1,0
+L132,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,F,bc1171,3,bc1182 ,17,397,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,123.7,2.08,1.66,1,1,0
+L132,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,F,bc1171,3,bc1182 ,5,6,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,123.7,2.08,1.66,1,1,0
+L133,Weed,Asteraceae,Yarrow,Achillea,Achillea millefolium,ITS,G,bc1172,3,bc1182 ,9,3,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,157.4,2.08,1.88,1,1,0
+L133,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,G,bc1172,3,bc1182 ,2,21,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,157.4,2.08,1.88,1,1,0
+L133,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,G,bc1172,3,bc1182 ,5,4,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,157.4,2.08,1.88,1,1,0
+L133,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,G,bc1172,3,bc1182 ,10,3,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,157.4,2.08,1.88,1,1,0
+L133,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,G,bc1172,3,bc1182 ,12,2,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,157.4,2.08,1.88,1,1,0
+L133,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,G,bc1172,3,bc1182 ,37,399,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,157.4,2.08,1.88,1,1,0
+L133,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,G,bc1172,3,bc1182 ,3,13,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,157.4,2.08,1.88,1,1,0
+L134,Weed,Amaranthaceae,Seepweed,Suaeda,Suaeda corniculata,trnF,B,bc1104,11,bc1109 ,2,,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,124.4,2.05,1.65,1,1,0
+L135,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,3,bc1182,i,bc1191 ,1,21,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,60.9,2.12,1.84,1,1,0
+L135,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,3,bc1182,i,bc1191 ,6,4,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,60.9,2.12,1.84,1,1,0
+L135,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,3,bc1182,i,bc1191 ,8,2,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,60.9,2.12,1.84,1,1,0
+L135,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,3,bc1182,i,bc1191 ,7,3,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,60.9,2.12,1.84,1,1,0
+L135,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,3,bc1182,i,bc1191 ,6,28,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,60.9,2.12,1.84,1,1,0
+L135,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,3,bc1182,i,bc1191 ,3,12,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,60.9,2.12,1.84,1,1,0
+L135,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,3,bc1182,i,bc1191 ,5,5,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,60.9,2.12,1.84,1,1,0
+L136,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,3,bc1182,K,bc1192 ,2,20,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,106.3,2.1,1.6,1,1,0
+L136,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,3,bc1182,K,bc1192 ,4,5,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,106.3,2.1,1.6,1,1,0
+L136,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,3,bc1182,K,bc1192 ,5,4,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,106.3,2.1,1.6,1,1,0
+L136,Weed,Convolvulaceae,Field Bindweed,Convolvulus,Convolvulus arvensis,ITS,3,bc1182,K,bc1192 ,6,2,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,106.3,2.1,1.6,1,1,0
+L136,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,3,bc1182,K,bc1192 ,8,69,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,106.3,2.1,1.6,1,1,0
+L136,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,3,bc1182,K,bc1192 ,3,5,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,106.3,2.1,1.6,1,1,0
+L136,Weed,Amaranthaceae,Seepweed,Suaeda,Suaeda corniculata,trnF,D,bc1106,11,bc1109 ,2,NA,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,106.3,2.1,1.6,1,1,0
+L137,Crop,Asteraceae,Tarragon,Artemisia,Artemisia dracunculus,ITS,R,bc1173,3,bc1182 ,47,210,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,42.9,2.09,1.58,1,0,0
+L137,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,R,bc1173,3,bc1182 ,15,2,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,42.9,2.09,1.58,1,0,0
+L137,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,R,bc1173,3,bc1182 ,2,23,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,42.9,2.09,1.58,1,0,0
+L137,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,R,bc1173,3,bc1182 ,14,2,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,42.9,2.09,1.58,1,0,0
+L137,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,R,bc1173,3,bc1182 ,18,11,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,42.9,2.09,1.58,1,0,0
+L137,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,R,bc1173,3,bc1182 ,10,3,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,42.9,2.09,1.58,1,0,0
+L137,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,R,bc1173,3,bc1182 ,8,4,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,42.9,2.09,1.58,1,0,0
+L137,Weed,Zygophyllaceae,Goathead,Tribulus,Tribulus terrestris,ITS,R,bc1173,3,bc1182 ,6,8,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45310,42.9,2.09,1.58,1,0,0
+L138,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,S,bc1154,3,bc1182 ,2,11,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,130.7,2.02,1.63,1,0,0
+L138,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,S,bc1154,3,bc1182 ,8,2,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,130.7,2.02,1.63,1,0,0
+L138,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,S,bc1154,3,bc1182 ,3,6,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,130.7,2.02,1.63,1,0,0
+L138,Crop,Brassicaceae,Canola,Brassica,Brassica napus,ITS,S,bc1154,3,bc1182 ,1,22,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,130.7,2.02,1.63,1,0,0
+L138,Mustard,Brassicaceae,Wild cabbage,Brassica,Brassica oleracea,ITS,S,bc1154,3,bc1182 ,4,6,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,130.7,2.02,1.63,1,0,0
+L138,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,S,bc1154,3,bc1182 ,15,5,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,130.7,2.02,1.63,1,0,0
+L138,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,S,bc1154,3,bc1182 ,12,8,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,130.7,2.02,1.63,1,0,0
+L138,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,S,bc1154,3,bc1182 ,10,2,5,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,130.7,2.02,1.63,1,0,0
+L139,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,T,bc1155,3,bc1182 ,1,9,4,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,123.7,2.02,1.53,1,1,0
+L139,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,T,bc1155,3,bc1182 ,5,3,4,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,123.7,2.02,1.53,1,1,0
+L139,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,T,bc1155,3,bc1182 ,5,12,4,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,123.7,2.02,1.53,1,1,0
+L139,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,T,bc1155,3,bc1182 ,7,2,4,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,123.7,2.02,1.53,1,1,0
+L139,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,T,bc1155,3,bc1182 ,4,4,4,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,123.7,2.02,1.53,1,1,0
+L139,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,T,bc1155,3,bc1182 ,6,2,4,June,2022,44742,Royal City,H-Rli,limonene,Carrot,45313,123.7,2.02,1.53,1,1,0
+L140,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,V,bc1140,3,bc1182 ,1027,1701,5,June,2022,44733,Royal City,H-Rli,limonene,Carrot,45313,129.4,2.06,1.72,1,1,0
+L140,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,trnF,H,bc1107,11,bc1109 ,15,82,5,June,2022,44733,Royal City,H-Rli,limonene,Carrot,45313,129.4,2.06,1.72,1,1,0
+L140,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,V,bc1140,3,bc1182 ,8,5,5,June,2022,44733,Royal City,H-Rli,limonene,Carrot,45313,129.4,2.06,1.72,1,1,0
+L140,Weed,Plantaginaceae,Plantain,Plantago,Plantago lanceolata,ITS,V,bc1140,3,bc1182 ,46,2,5,June,2022,44733,Royal City,H-Rli,limonene,Carrot,45313,129.4,2.06,1.72,1,1,0
+L141,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,3,bc1182,W,bc1189 ,37,299,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L141,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,trnF,J,bc1108,11,bc1109 ,27,17,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L141,Lambsquarter,Amaranthaceae,White lambsquarter,Chenopodium,Chenopodium album,ITS,3,bc1182,W,bc1189 ,16,3,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L141,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,3,bc1182,W,bc1189 ,256,864,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L141,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,3,bc1182,W,bc1189 ,14,3,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L141,Grass,Poaceae,Bluegrass,Poa,Poa pratensis,ITS,3,bc1182,W,bc1189 ,22,2,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L141,Russian Thistle,Amaranthaceae,Russian thistle,Salsola,Salsola tragus,trnF,J,bc1108,11,bc1109 ,112,136,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L141,Grass,Poaceae,Rye,Secale,Secale cereale,ITS,3,bc1182,W,bc1189 ,21,2,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L141,Weed,Amaranthaceae,Seepweed,Suaeda,Suaeda corniculata,trnF,J,bc1108,11,bc1109 ,32,48,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L141,Weed,Zygophyllaceae,Goathead,Tribulus,Tribulus terrestris,ITS,3,bc1182,W,bc1189 ,27,2,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L141,Grass,Poaceae,Wheat,Triticum,Triticum aestivum,ITS,3,bc1182,W,bc1189 ,13,3,5,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,82.9,2.09,1.63,1,1,0
+L142,Tree,Pinaceae,Nordmann Pine,Abies,Abies nordmanniana,ITS,A,bc1160,3,bc1182 ,10,3,3,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,43.3,2.02,1.23,1,0,0
+L142,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,A,bc1160,3,bc1182 ,4,19,3,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,43.3,2.02,1.23,1,0,0
+L142,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,A,bc1160,3,bc1182 ,8,6,3,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,43.3,2.02,1.23,1,0,0
+L142,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,A,bc1160,3,bc1182 ,6,11,3,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,43.3,2.02,1.23,1,0,0
+L142,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,A,bc1160,3,bc1182 ,12,22,3,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,43.3,2.02,1.23,1,0,0
+L142,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,A,bc1160,3,bc1182 ,15,65,3,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,43.3,2.02,1.23,1,0,0
+L142,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,A,bc1160,3,bc1182 ,12,2,3,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,43.3,2.02,1.23,1,0,0
+L142,Tree,Rosaceae,Cherry,Prunus,Prunus avium,ITS,A,bc1160,3,bc1182 ,12,561,3,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,43.3,2.02,1.23,1,0,0
+L142,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,A,bc1160,3,bc1182 ,3,23,3,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,43.3,2.02,1.23,1,0,0
+L142,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,A,bc1160,3,bc1182 ,9,4,3,June,2022,44733,Royal City,H-N/A,none,Carrot,45313,43.3,2.02,1.23,1,0,0
+L143,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,trnF,11,bc1109,M,bc1143 ,2,2,5,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,74.6,2.12,1.54,1,1,0
+L143,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,B,bc1161,2,bc1181 ,6,3,5,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,74.6,2.12,1.54,1,1,0
+L143,Tree,Rosaceae,Cherry,Prunus,Prunus avium,ITS,B,bc1161,2,bc1181 ,147,904,5,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,74.6,2.12,1.54,1,1,0
+L143,Tree,Rosaceae,Cherry,Prunus,Prunus transarisanensis,trnF,11,bc1109,M,bc1143 ,1,6,5,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,74.6,2.12,1.54,1,1,0
+L144,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,D,bc1163,2,bc1181 ,3,70,5,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,135.9,2.13,1.54,1,1,0
+L144,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,D,bc1163,2,bc1181 ,18,5,5,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,135.9,2.13,1.54,1,1,0
+L144,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,D,bc1163,2,bc1181 ,8,145,5,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,135.9,2.13,1.54,1,1,0
+L144,Tree,Rosaceae,Cherry,Prunus,Prunus avium,ITS,D,bc1163,2,bc1181 ,16,422,5,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,135.9,2.13,1.54,1,1,0
+L144,Weed,Lamiaceae,Sage,Salvia,Salvia spinosa,ITS,D,bc1163,2,bc1181 ,17,4,5,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,135.9,2.13,1.54,1,1,0
+L144,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,D,bc1163,2,bc1181 ,4,8,5,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,135.9,2.13,1.54,1,1,0
+L145,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,E,bc1170,2,bc1181 ,2,14,4,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,99.5,2.07,1.61,1,1,0
+L145,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,E,bc1170,2,bc1181 ,11,8,4,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,99.5,2.07,1.61,1,1,0
+L145,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,E,bc1170,2,bc1181 ,11,16,4,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,99.5,2.07,1.61,1,1,0
+L145,Grass,Poaceae,Bluegrass,Poa,Poa pratensis,ITS,E,bc1170,2,bc1181 ,7,2,4,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,99.5,2.07,1.61,1,1,0
+L145,Tree,Rosaceae,Cherry,Prunus,Prunus avium,ITS,E,bc1170,2,bc1181 ,1,30,4,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,99.5,2.07,1.61,1,1,0
+L145,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,ITS,E,bc1170,2,bc1181 ,4,4,4,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,99.5,2.07,1.61,1,1,0
+L145,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,E,bc1170,2,bc1181 ,9,2,4,June,2022,44719,Royal City,H-N/A,none,Carrot,45313,99.5,2.07,1.61,1,1,0
+L146,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,F,bc1171,2,bc1181 ,6,3,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,65,2.07,1.51,1,1,0
+L146,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,F,bc1171,2,bc1181 ,9,10,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,65,2.07,1.51,1,1,0
+L146,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,F,bc1171,2,bc1181 ,7,3,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,65,2.07,1.51,1,1,0
+L146,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,F,bc1171,2,bc1181 ,1,31,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,65,2.07,1.51,1,1,0
+L146,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,F,bc1171,2,bc1181 ,2,30,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,65,2.07,1.51,1,1,0
+L146,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,F,bc1171,2,bc1181 ,3,8,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,65,2.07,1.51,1,1,0
+L146,Grass,Poaceae,Wheat,Triticum,Triticum monococcum,ITS,F,bc1171,2,bc1181 ,8,2,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,65,2.07,1.51,1,1,0
+L147,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,G,bc1172,2,bc1181 ,11,3,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.2,2.09,1.6,1,0,0
+L147,Cannabis,Cannabaceae,Cannabis,Cannabis,Cannabis sativa,ITS,G,bc1172,2,bc1181 ,8,3,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.2,2.09,1.6,1,0,0
+L147,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,G,bc1172,2,bc1181 ,17,2,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.2,2.09,1.6,1,0,0
+L147,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,G,bc1172,2,bc1181 ,75,406,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.2,2.09,1.6,1,0,0
+L147,Weed,Asteraceae,Scotch thistle,Onopordum,Onopordum acanthium,ITS,G,bc1172,2,bc1181 ,4,20,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.2,2.09,1.6,1,0,0
+L147,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,G,bc1172,2,bc1181 ,30,175,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.2,2.09,1.6,1,0,0
+L147,Weed,Sarcobataceae,Greasewood,Sarcobatus,Sarcobatus vermiculatus,ITS,G,bc1172,2,bc1181 ,8,48,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.2,2.09,1.6,1,0,0
+L148,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,2,bc1181,H,bc1190 ,7,53,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.1,2.07,1.6,1,0,0
+L148,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,trnF,A,bc1103,13,bc1176 ,2,2,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.1,2.07,1.6,1,0,0
+L148,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,3,bc1182,H,bc1190 ,3,16,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.1,2.07,1.6,1,0,0
+L148,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,2,bc1181,H,bc1190 ,13,13,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.1,2.07,1.6,1,0,0
+L148,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,3,bc1182,H,bc1190 ,8,2,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.1,2.07,1.6,1,0,0
+L148,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,3,bc1182,H,bc1190 ,10,73,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.1,2.07,1.6,1,0,0
+L148,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,2,bc1181,H,bc1190 ,9,13,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.1,2.07,1.6,1,0,0
+L148,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,2,bc1181,H,bc1190 ,7,65,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.1,2.07,1.6,1,0,0
+L148,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,2,bc1181,H,bc1190 ,3,12,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.1,2.07,1.6,1,0,0
+L148,Crop,Solanaceae,Tomato,Solanum,Solanum lycopersicum,trnF,A,bc1103,13,bc1176 ,1,3,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,95.1,2.07,1.6,1,0,0
+L149,Weed,Amaranthaceae,Saltbush,Atriplex,Atriplex heterosperma,ITS,2,bc1181,i,bc1191 ,6,7,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,76.9,2.05,1.59,1,0,0
+L149,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,2,bc1181,i,bc1191 ,3,47,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,76.9,2.05,1.59,1,0,0
+L149,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,2,bc1181,i,bc1191 ,13,10,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,76.9,2.05,1.59,1,0,0
+L149,Mustard,Brassicaceae,Ethiopian mustard,Brassica,Brassica carinata,ITS,2,bc1181,i,bc1191 ,7,4,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,76.9,2.05,1.59,1,0,0
+L149,Mustard,Brassicaceae,Blue mustard,Chorispora,Chorispora tenella,ITS,2,bc1181,i,bc1191 ,21,4,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,76.9,2.05,1.59,1,0,0
+L149,Mustard,Brassicaceae,Flixweed,Descurainia,Descurainia sophia,ITS,2,bc1181,i,bc1191 ,8,3,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,76.9,2.05,1.59,1,0,0
+L149,Weed,Asteraceae,Fleabane,Erigeron,Erigeron leptorhizon,ITS,2,bc1181,i,bc1191 ,27,61,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,76.9,2.05,1.59,1,0,0
+L149,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,2,bc1181,i,bc1191 ,6,66,5,June,2022,44719,Royal City,H-Rli,limonene,Carrot,45350,76.9,2.05,1.59,1,0,0
+L150,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,R,bc1173,2,bc1181 ,4,8,5,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,64.2,2.1,1.65,1,0,0
+L150,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,R,bc1173,2,bc1181 ,3,20,5,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,64.2,2.1,1.65,1,0,0
+L150,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,R,bc1173,2,bc1181 ,9,2,5,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,64.2,2.1,1.65,1,0,0
+L150,Weed,Asteraceae,Scotch thistle,Onopordum,Onopordum acanthium,ITS,R,bc1173,2,bc1181 ,8,2,5,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,64.2,2.1,1.65,1,0,0
+L150,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,R,bc1173,2,bc1181 ,10,2,5,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,64.2,2.1,1.65,1,0,0
+L150,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,R,bc1173,2,bc1181 ,1,97,5,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,64.2,2.1,1.65,1,0,0
+L150,Tree,Salicaceae,Willow,Salix,Salix myrsinifolia,ITS,R,bc1173,2,bc1181 ,5,6,5,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,64.2,2.1,1.65,1,0,0
+L150,Mustard,Brassicaceae,Tumble mustard,Sisymbrium,Sisymbrium loeselii,ITS,R,bc1173,2,bc1181 ,2,30,5,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,64.2,2.1,1.65,1,0,0
+L150,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,R,bc1173,2,bc1181 ,7,4,5,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,64.2,2.1,1.65,1,0,0
+L151,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,S,bc1154,2,bc1181 ,16,321,1,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,9.1,1.74,0.4,1,1,0
+L151,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,S,bc1154,2,bc1181 ,10,2,1,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,9.1,1.74,0.4,1,1,0
+L151,Weed,Amaranthaceae,Amaranth,Blitum,Blitum petiolare,ITS,S,bc1154,2,bc1181 ,6,2,1,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,9.1,1.74,0.4,1,1,0
+L151,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,S,bc1154,2,bc1181 ,14,178,1,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,9.1,1.74,0.4,1,1,0
+L151,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,S,bc1154,2,bc1181 ,4,10,1,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,9.1,1.74,0.4,1,1,0
+L151,Russian Thistle,Amaranthaceae,Russian thistle,Salsola,Salsola tragus,trnF,D,bc1106,13,bc1176 ,2,NA,1,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,9.1,1.74,0.4,1,1,0
+L151,Potato,Solanaceae,Potato,Solanum,Solanum tuberosum,ITS,S,bc1154,2,bc1181 ,5,4,1,August,2022,44775,Royal City,H-Rli,limonene,Carrot,45350,9.1,1.74,0.4,1,1,0
+L152,Kochia,Amaranthaceae,Kochia ,Bassia,Bassia scoparia,ITS,T,bc1155,2,bc1181 ,2,11,1,August,2022,44775,Royal City,H-N/A,none,Carrot,45350,5.4,1.65,0.28,1,0,0
+L152,Russian Thistle,Amaranthaceae,Prickly Russian Thistle,Kali,Kali turgidum,ITS,T,bc1155,2,bc1181 ,3,9,1,August,2022,44775,Royal City,H-N/A,none,Carrot,45350,5.4,1.65,0.28,1,0,0
+L152,Crop,Fabaceae,Alfalfa,Medicago,Medicago sativa,ITS,T,bc1155,2,bc1181 ,1,32,1,August,2022,44775,Royal City,H-N/A,none,Carrot,45350,5.4,1.65,0.28,1,0,0
+L152,Crop,Fabaceae,Pea,Pisum,Pisum sativum,ITS,T,bc1155,2,bc1181 ,4,6,1,August,2022,44775,Royal City,H-N/A,none,Carrot,45350,5.4,1.65,0.28,1,0,0
