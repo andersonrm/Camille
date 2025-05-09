@@ -1,7 +1,7 @@
 BLH Gut Diversity in Potato
 ================
 Riley M. Anderson
-March 04, 2025
+May 09, 2025
 
   
 
@@ -10,6 +10,8 @@ March 04, 2025
 - [BCTV by richness](#bctv-by-richness)
 - [CPt by richness](#cpt-by-richness)
 - [Proportion plants infected](#proportion-plants-infected)
+- [Proportion plants infected by
+  virus](#proportion-plants-infected-by-virus)
 - [Plants in the gut over time](#plants-in-the-gut-over-time)
   - [Crops by time](#crops-by-time)
   - [Non-crops by time](#non-crops-by-time)
@@ -226,6 +228,10 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
 # Proportion plants infected
 
 ![](potato_guts_files/figure-gfm/plant_inf_props-1.png)<!-- -->
+
+# Proportion plants infected by virus
+
+![](potato_guts_files/figure-gfm/plant_inf_props_by_virus-1.png)<!-- -->
 
 # Plants in the gut over time
 

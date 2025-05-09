@@ -464,6 +464,50 @@ dat1 %>%
 
 ```
 
+
+# Proportion plants infected by virus
+
+```{r plant_inf_props_by_virus, echo = F, fig.width=11, fig.height=11}
+
+dat1 %>% 
+  semi_join(., crop_type, by = "genus") %>% 
+  mutate(BCTV = as.numeric(BCTV) - 1,
+         CPt = as.numeric(CPt) - 1,
+         co_infected = (case_when(
+                        BCTV == 1 & CPt == 1 ~ 1,
+                        BCTV != 1 | CPt != 1 ~ 0)),
+         healthy = case_when(
+                        BCTV == 0 & CPt == 0 ~ 1,
+                        TRUE ~ 0)) %>% 
+  group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
+  tally() %>%
+  mutate(status = case_when(
+    healthy == 1 ~ "healthy",
+    CPt == 1 & co_infected == 0 ~ "CPt",
+    BCTV == 1 & co_infected == 0 ~ "BCTV",
+    co_infected == 1 ~ "co infected"
+  )) %>% 
+  select(-BCTV : -healthy) %>% 
+  left_join(., crop_type, by = "genus") %>% 
+  mutate(crop_type = case_when(
+    crop_type == "crop" ~ "Crops",
+    crop_type == "non crop" ~ "Non crops",
+    crop_type == "tree" ~ "Trees"
+  )) %>% 
+  ggplot(aes(x = genus, y = n,
+             fill = crop_type)) +
+  geom_bar(stat = "identity") +
+  facet_wrap(~ status) +
+  coord_flip() +
+  theme_bw(base_size = 16) +
+  scale_fill_viridis_d(option = "G", direction = -1) +
+  theme(legend.title = element_blank(),
+        strip.background = element_blank(),
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank())
+
+```
+
 # Plants in the gut over time
 
 ```{r plants_in_gut_time, echo = F}
