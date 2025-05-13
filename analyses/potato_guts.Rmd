@@ -421,7 +421,8 @@ ggplot(richness, aes(x = richness)) +
 
 # Proportion plants infected
 
-```{r plant_inf_props, echo = F, fig.width=11, fig.height=5}
+```{r plant_inf_props, echo = F, fig.width=10, fig.height=5}
+  
 
 dat1 %>% 
   semi_join(., crop_type, by = "genus") %>% 
@@ -436,10 +437,10 @@ dat1 %>%
   group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
   tally() %>%
   mutate(status = case_when(
-    healthy == 1 ~ "healthy",
+    healthy == 1 ~ "Healthy",
     CPt == 1 & co_infected == 0 ~ "CPt",
     BCTV == 1 & co_infected == 0 ~ "BCTV",
-    co_infected == 1 ~ "co infected"
+    co_infected == 1 ~ "Co-infected"
   )) %>% 
   select(-BCTV : -healthy) %>% 
   left_join(., crop_type, by = "genus") %>% 
@@ -448,19 +449,21 @@ dat1 %>%
     crop_type == "non crop" ~ "Non crops",
     crop_type == "tree" ~ "Trees"
   )) %>% 
-  ggplot(aes(x = genus, y = n,
+  ggplot(aes(x = fct_reorder2(genus, status, n),
+             y = n,
              fill = factor(status,
-                           level = c("healthy", "BCTV",
-                                      "CPt", "co infected")))) +
+                           level = c("Healthy", "BCTV",
+                                      "CPt", "Co-infected")))) +
   geom_bar(stat = "identity") +
   facet_wrap(~ crop_type, scales = "free") +
   coord_flip() +
-  theme_bw(base_size = 16) +
+  theme_bw(base_size = 18) +
   scale_fill_viridis_d(option = "G", direction = -1) +
   theme(legend.title = element_blank(),
         strip.background = element_blank(),
         axis.title.x = element_blank(),
-        axis.title.y = element_blank())
+        axis.title.y = element_blank(),
+        legend.position = "bottom")
 
 ```
 
@@ -547,7 +550,7 @@ tree_orders <- tree_orders$genus
 ## Crops by time
 ```{r crop_time, echo = F}
 
-dat1 %>%
+rpA <- dat1 %>%
   semi_join(., crop_type, by = "genus") %>% 
   left_join(., crop_type, by = "genus") %>% 
   filter(crop_type == "crop",
@@ -586,7 +589,7 @@ dat1 %>%
 ## Non-crops by time
 ```{r non_crop_time, echo = F}
 
-dat1 %>%
+rpB <- dat1 %>%
   semi_join(., crop_type, by = "genus") %>% 
   left_join(., crop_type, by = "genus") %>% 
   filter(crop_type == "non crop") %>% 
@@ -622,7 +625,7 @@ dat1 %>%
 ## Trees by time
 ```{r tree_time, echo = F}
 
-dat1 %>%
+rpC <- dat1 %>%
   semi_join(., crop_type, by = "genus") %>% 
   left_join(., crop_type, by = "genus") %>% 
   filter(crop_type == "tree",
@@ -653,6 +656,18 @@ dat1 %>%
   annotate(geom = "text", x = 32, y = 13, label = "Summer",
            size = 5) +
   scale_fill_viridis_d(option = "C")
+
+```
+
+```{r ridgeplot_one_figure, echo = F, fig.height=11, fig.width=6}
+
+
+cowplot::plot_grid(rpA, rpB, rpC,
+                   nrow = 3,
+                   align = "v",
+                   labels = c("A", "B", "C"),
+                   label_y = 1,
+                   label_x = 0.21)
 
 ```
 
