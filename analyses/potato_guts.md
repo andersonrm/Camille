@@ -1,7 +1,7 @@
 BLH Gut Diversity in Potato
 ================
 Riley M. Anderson
-May 13, 2025
+May 16, 2025
 
   
 
@@ -228,6 +228,72 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
 # Proportion plants infected
 
 ![](potato_guts_files/figure-gfm/plant_inf_props-1.png)<!-- -->
+
+![](potato_guts_files/figure-gfm/prop_infected_fig-1.png)<!-- -->
+
+![](potato_guts_files/figure-gfm/prop_infected_all_fig-1.png)<!-- -->
+
+![](potato_guts_files/figure-gfm/prop_infected_distribution-1.png)<!-- -->
+
+    ## Analysis of Variance Table
+    ## 
+    ## Response: n
+    ##                   Df Sum Sq Mean Sq  F value Pr(>F)    
+    ## status             3 99.808  33.269 148.6013 <2e-16 ***
+    ## crop_type          2  0.000   0.000   0.0000  1.000    
+    ## status:crop_type   6  1.196   0.199   0.8906  0.504    
+    ## Residuals        128 28.657   0.224                    
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## 
+    ## Call:
+    ## lm(formula = n ~ status * crop_type, data = inf_stat_data, weights = total)
+    ## 
+    ## Weighted Residuals:
+    ##      Min       1Q   Median       3Q      Max 
+    ## -0.97774 -0.25395 -0.09989  0.21430  1.48012 
+    ## 
+    ## Coefficients:
+    ##                                   Estimate Std. Error t value Pr(>|t|)    
+    ## (Intercept)                       0.534456   0.018516  28.864   <2e-16 ***
+    ## statusBCTV                       -0.404288   0.026186 -15.439   <2e-16 ***
+    ## statusCPt                        -0.321593   0.026186 -12.281   <2e-16 ***
+    ## statusCo-infected                -0.411945   0.026186 -15.731   <2e-16 ***
+    ## crop_typeCrops                    0.001907   0.048766   0.039   0.9689    
+    ## crop_typeTrees                    0.107335   0.060699   1.768   0.0794 .  
+    ## statusBCTV:crop_typeCrops         0.013379   0.068966   0.194   0.8465    
+    ## statusCPt:crop_typeCrops          0.021593   0.068966   0.313   0.7547    
+    ## statusCo-infected:crop_typeCrops -0.042601   0.068966  -0.618   0.5379    
+    ## statusBCTV:crop_typeTrees        -0.133026   0.085842  -1.550   0.1237    
+    ## statusCPt:crop_typeTrees         -0.156019   0.085842  -1.818   0.0715 .  
+    ## statusCo-infected:crop_typeTrees -0.140294   0.085842  -1.634   0.1046    
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## 
+    ## Residual standard error: 0.4732 on 128 degrees of freedom
+    ## Multiple R-squared:  0.779,  Adjusted R-squared:   0.76 
+    ## F-statistic: 41.01 on 11 and 128 DF,  p-value: < 2.2e-16
+
+![](potato_guts_files/figure-gfm/prop_infected_stats-1.png)<!-- -->
+
+    ## [[1]]
+
+![](potato_guts_files/figure-gfm/prop_infected_stats-2.png)<!-- -->
+
+    ## 
+    ## [[2]]
+
+![](potato_guts_files/figure-gfm/prop_infected_stats-3.png)<!-- -->
+
+    ## 
+    ## [[3]]
+
+![](potato_guts_files/figure-gfm/prop_infected_stats-4.png)<!-- -->
+
+    ## 
+    ## [[4]]
+
+![](potato_guts_files/figure-gfm/prop_infected_stats-5.png)<!-- -->
 
 # Proportion plants infected by virus
 

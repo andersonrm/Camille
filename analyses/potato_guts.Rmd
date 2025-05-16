@@ -68,6 +68,7 @@ library(sjPlot)
 library(tidymodels)
 library(ggridges)
 library(knitr)
+library(ggExtra)
 
 # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 # @@@@@ Data Preparation
@@ -448,7 +449,8 @@ dat1 %>%
     crop_type == "crop" ~ "Crops",
     crop_type == "non crop" ~ "Non crops",
     crop_type == "tree" ~ "Trees"
-  )) %>% 
+  ), crop_type = factor(crop_type,
+             levels = c("Non crops", "Crops", "Trees"))) %>% 
   ggplot(aes(x = fct_reorder2(genus, status, n),
              y = n,
              fill = factor(status,
@@ -463,8 +465,318 @@ dat1 %>%
         strip.background = element_blank(),
         axis.title.x = element_blank(),
         axis.title.y = element_blank(),
-        legend.position = "bottom")
+        legend.position = "bottom") 
 
+##############################################
+# for composite:
+
+prop_inf_A <- dat1 %>% 
+  semi_join(., crop_type, by = "genus") %>% 
+  mutate(BCTV = as.numeric(BCTV) - 1,
+         CPt = as.numeric(CPt) - 1,
+         co_infected = (case_when(
+                        BCTV == 1 & CPt == 1 ~ 1,
+                        BCTV != 1 | CPt != 1 ~ 0)),
+         healthy = case_when(
+                        BCTV == 0 & CPt == 0 ~ 1,
+                        TRUE ~ 0)) %>% 
+  group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
+  tally() %>%
+  mutate(status = case_when(
+    healthy == 1 ~ "Healthy",
+    CPt == 1 & co_infected == 0 ~ "CPt",
+    BCTV == 1 & co_infected == 0 ~ "BCTV",
+    co_infected == 1 ~ "Co-infected"
+  )) %>% 
+  select(-BCTV : -healthy) %>% 
+  left_join(., crop_type, by = "genus") %>% 
+  mutate(crop_type = case_when(
+    crop_type == "crop" ~ "Crops",
+    crop_type == "non crop" ~ "Non crops",
+    crop_type == "tree" ~ "Trees"
+  ), crop_type = factor(crop_type,
+             levels = c("Non crops", "Crops", "Trees"))) %>% 
+  ggplot(aes(x = fct_reorder2(genus, status, n),
+             y = n,
+             fill = factor(status,
+                           level = c("Healthy", "BCTV",
+                                      "CPt", "Co-infected")))) +
+  geom_bar(stat = "identity", show.legend = F) +
+  facet_wrap(~ crop_type, scales = "free") +
+  coord_flip() +
+  theme_bw(base_size = 18) +
+  scale_fill_viridis_d(option = "G", direction = -1) +
+  theme(strip.background = element_blank(),
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank()) 
+
+
+```
+
+```{r prop_infected_fig, echo = F}
+
+total_w_c_t <- dat1 %>% 
+  semi_join(., crop_type, by = "genus") %>% 
+  mutate(BCTV = as.numeric(BCTV) - 1,
+         CPt = as.numeric(CPt) - 1,
+         co_infected = (case_when(
+                        BCTV == 1 & CPt == 1 ~ 1,
+                        BCTV != 1 | CPt != 1 ~ 0)),
+         healthy = case_when(
+                        BCTV == 0 & CPt == 0 ~ 1,
+                        TRUE ~ 0)) %>% 
+  group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
+  tally() %>%
+  mutate(status = case_when(
+    healthy == 1 ~ "Healthy",
+    CPt == 1 & co_infected == 0 ~ "CPt",
+    BCTV == 1 & co_infected == 0 ~ "BCTV",
+    co_infected == 1 ~ "Co-infected"
+  )) %>%  
+  left_join(., crop_type, by = "genus") %>% 
+  mutate(crop_type = case_when(
+    crop_type == "crop" ~ "Crops",
+    crop_type == "non crop" ~ "Non crops",
+    crop_type == "tree" ~ "Trees"
+  ), crop_type = factor(crop_type,
+             levels = c("Non crops", "Crops", "Trees"))) %>% 
+  group_by(crop_type, genus) %>% 
+  summarise(total = sum(n))
+
+dat1 %>% 
+  semi_join(., crop_type, by = "genus") %>% 
+  mutate(BCTV = as.numeric(BCTV) - 1,
+         CPt = as.numeric(CPt) - 1,
+         co_infected = (case_when(
+                        BCTV == 1 & CPt == 1 ~ 1,
+                        BCTV != 1 | CPt != 1 ~ 0)),
+         healthy = case_when(
+                        BCTV == 0 & CPt == 0 ~ 1,
+                        TRUE ~ 0)) %>% 
+  group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
+  tally() %>%
+  mutate(status = factor(case_when(
+    healthy == 1 ~ "Healthy",
+    CPt == 1 & co_infected == 0 ~ "CPt",
+    BCTV == 1 & co_infected == 0 ~ "BCTV",
+    co_infected == 1 ~ "Co-infected"
+  ))) %>%  
+  left_join(., crop_type, by = "genus") %>% 
+  mutate(crop_type = case_when(
+    crop_type == "crop" ~ "Crops",
+    crop_type == "non crop" ~ "Non crops",
+    crop_type == "tree" ~ "Trees"
+  ), crop_type = factor(crop_type,
+             levels = c("Non crops", "Crops", "Trees"))) %>% 
+  ungroup() %>% 
+  select(-BCTV, -CPt, -co_infected, -healthy) %>% 
+  pivot_wider(names_from = status, values_from = n,
+              values_fill = list(n = 0)) %>% 
+  select(-crop_type) %>% 
+  left_join(., total_w_c_t, by = "genus") %>% 
+  mutate(prop.healthy = Healthy / total,
+         prop.CPt = CPt / total,
+         prop.co = `Co-infected` / total,
+         prop.bctv = BCTV / total) %>% 
+  ggplot(aes(x = prop.healthy,
+             y = fct_reorder(genus, total),
+             size = total)) +
+  geom_point() +
+  facet_wrap(~crop_type, scales = "free") +
+  theme_bw(base_size = 18) +
+  theme(strip.background = element_blank()) +
+  labs(size = "Count", x = "Proportion Healthy", y = "Genus") +
+  scale_x_continuous(breaks = c(0, 0.5, 1),
+                     limits = c(0,1))
+
+
+
+```
+
+```{r prop_infected_all_fig, echo = F}
+
+dat1 %>% 
+  semi_join(., crop_type, by = "genus") %>% 
+  mutate(BCTV = as.numeric(BCTV) - 1,
+         CPt = as.numeric(CPt) - 1,
+         co_infected = (case_when(
+                        BCTV == 1 & CPt == 1 ~ 1,
+                        BCTV != 1 | CPt != 1 ~ 0)),
+         healthy = case_when(
+                        BCTV == 0 & CPt == 0 ~ 1,
+                        TRUE ~ 0)) %>% 
+  group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
+  tally() %>%
+  mutate(status = factor(case_when(
+    healthy == 1 ~ "Healthy",
+    CPt == 1 & co_infected == 0 ~ "CPt",
+    BCTV == 1 & co_infected == 0 ~ "BCTV",
+    co_infected == 1 ~ "Co-infected"
+  ))) %>%  
+  left_join(., crop_type, by = "genus") %>% 
+  mutate(crop_type = case_when(
+    crop_type == "crop" ~ "Crops",
+    crop_type == "non crop" ~ "Non crops",
+    crop_type == "tree" ~ "Trees"
+  ), crop_type = factor(crop_type,
+             levels = c("Non crops", "Crops", "Trees"))) %>% 
+  ungroup() %>% 
+  select(-BCTV, -CPt, -co_infected, -healthy) %>% 
+  pivot_wider(names_from = status, values_from = n,
+              values_fill = list(n = 0)) %>% 
+  select(-crop_type) %>% 
+  left_join(., total_w_c_t, by = "genus") %>% 
+  mutate(prop.healthy = Healthy / total,
+         prop.CPt = CPt / total,
+         prop.co = `Co-infected` / total,
+         prop.bctv = BCTV / total) %>% 
+  select(-Healthy, -CPt, -`Co-infected`, -BCTV) %>% 
+  pivot_longer(cols = c(prop.healthy : prop.bctv),
+               names_to = "status",
+               values_to = "n") %>% 
+  mutate(status = factor(case_when(
+    status == "prop.healthy" ~ "Healthy",
+    status == "prop.CPt" ~ "CPt",
+    status == "prop.bctv" ~ "BCTV",
+    status == "prop.co" ~ "Co-infected",
+    TRUE ~ NA),
+    levels = c("Healthy", "BCTV", "CPt", "Co-infected"))) %>% 
+  ggplot(aes(x = n,
+             y = fct_reorder(genus, total),
+             size = total, color = status)) +
+  geom_point() +
+  facet_wrap(~crop_type, scales = "free") +
+  xlim(0,1) 
+
+```
+
+```{r prop_infected_distribution, echo = F, fig.width=10, fig.height=7}
+
+prop_inf_B <- dat1 %>% 
+  semi_join(., crop_type, by = "genus") %>% 
+  mutate(BCTV = as.numeric(BCTV) - 1,
+         CPt = as.numeric(CPt) - 1,
+         co_infected = (case_when(
+                        BCTV == 1 & CPt == 1 ~ 1,
+                        BCTV != 1 | CPt != 1 ~ 0)),
+         healthy = case_when(
+                        BCTV == 0 & CPt == 0 ~ 1,
+                        TRUE ~ 0)) %>% 
+  group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
+  tally() %>%
+  mutate(status = factor(case_when(
+    healthy == 1 ~ "Healthy",
+    CPt == 1 & co_infected == 0 ~ "CPt",
+    BCTV == 1 & co_infected == 0 ~ "BCTV",
+    co_infected == 1 ~ "Co-infected"
+  ))) %>%  
+  left_join(., crop_type, by = "genus") %>% 
+  mutate(crop_type = case_when(
+    crop_type == "crop" ~ "Crops",
+    crop_type == "non crop" ~ "Non crops",
+    crop_type == "tree" ~ "Trees"
+  ), crop_type = factor(crop_type,
+             levels = c("Non crops", "Crops", "Trees"))) %>% 
+  ungroup() %>% 
+  select(-BCTV, -CPt, -co_infected, -healthy) %>% 
+  pivot_wider(names_from = status, values_from = n,
+              values_fill = list(n = 0)) %>% 
+  select(-crop_type) %>% 
+  left_join(., total_w_c_t, by = "genus") %>% 
+  mutate(prop.healthy = Healthy / total,
+         prop.CPt = CPt / total,
+         prop.co = `Co-infected` / total,
+         prop.bctv = BCTV / total) %>% 
+  select(-Healthy, -CPt, -`Co-infected`, -BCTV) %>% 
+  pivot_longer(cols = c(prop.healthy : prop.bctv),
+               names_to = "status",
+               values_to = "n") %>% 
+  mutate(status = factor(case_when(
+    status == "prop.healthy" ~ "Healthy",
+    status == "prop.CPt" ~ "CPt",
+    status == "prop.bctv" ~ "BCTV",
+    status == "prop.co" ~ "Co-infected",
+    TRUE ~ NA),
+    levels = c("Healthy", "BCTV", "CPt", "Co-infected"))) %>% 
+  ggplot(aes(x = n, y = status, fill = status)) +
+  geom_violin() +
+  scale_fill_viridis_d(option = "G", direction = -1) +
+  facet_wrap(~crop_type) +
+  theme_bw(base_size = 18) +
+  theme(strip.background = element_blank(),
+        strip.text = element_blank(),
+        legend.title = element_blank(),
+        legend.position = "bottom",
+        axis.title = element_blank()) +
+  scale_x_continuous(breaks = c(0, 0.5, 1),
+                     limits = c(0, 1),)
+
+
+cowplot::plot_grid(prop_inf_A, prop_inf_B,
+                   nrow = 2,
+                   align = "v",rel_heights = c(2,1.2))
+```
+
+```{r prop_infected_stats, echo = F}
+
+inf_stat_data <- dat1 %>% 
+  semi_join(., crop_type, by = "genus") %>% 
+  mutate(BCTV = as.numeric(BCTV) - 1,
+         CPt = as.numeric(CPt) - 1,
+         co_infected = (case_when(
+                        BCTV == 1 & CPt == 1 ~ 1,
+                        BCTV != 1 | CPt != 1 ~ 0)),
+         healthy = case_when(
+                        BCTV == 0 & CPt == 0 ~ 1,
+                        TRUE ~ 0)) %>% 
+  group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
+  tally() %>%
+  mutate(status = factor(case_when(
+    healthy == 1 ~ "Healthy",
+    CPt == 1 & co_infected == 0 ~ "CPt",
+    BCTV == 1 & co_infected == 0 ~ "BCTV",
+    co_infected == 1 ~ "Co-infected"
+  ))) %>%  
+  left_join(., crop_type, by = "genus") %>% 
+  mutate(crop_type = case_when(
+    crop_type == "crop" ~ "Crops",
+    crop_type == "non crop" ~ "Non crops",
+    crop_type == "tree" ~ "Trees"
+  ), crop_type = factor(crop_type,
+             levels = c("Non crops", "Crops", "Trees"))) %>% 
+  ungroup() %>% 
+  select(-BCTV, -CPt, -co_infected, -healthy) %>% 
+  pivot_wider(names_from = status, values_from = n,
+              values_fill = list(n = 0)) %>% 
+  select(-crop_type) %>% 
+  left_join(., total_w_c_t, by = "genus") %>% 
+  mutate(prop.healthy = Healthy / total,
+         prop.CPt = CPt / total,
+         prop.co = `Co-infected` / total,
+         prop.bctv = BCTV / total) %>% 
+  select(-Healthy, -CPt, -`Co-infected`, -BCTV) %>% 
+  pivot_longer(cols = c(prop.healthy : prop.bctv),
+               names_to = "status",
+               values_to = "n") %>% 
+  mutate(status = factor(case_when(
+    status == "prop.healthy" ~ "Healthy",
+    status == "prop.CPt" ~ "CPt",
+    status == "prop.bctv" ~ "BCTV",
+    status == "prop.co" ~ "Co-infected",
+    TRUE ~ NA),
+    levels = c("Healthy", "BCTV", "CPt", "Co-infected"))) 
+
+mod1 <- lm(n ~ status * crop_type, weights = total,
+           data = inf_stat_data)
+
+anova(mod1)
+
+summary(mod1)
+
+plot_model(mod1,
+           type = "pred",
+           terms = c("crop_type", "status"))
+plot_model(mod1, type = "diag")
 ```
 
 
