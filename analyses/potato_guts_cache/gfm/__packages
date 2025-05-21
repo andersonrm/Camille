@@ -36,3 +36,5 @@ knitr
 emmeans
 ggridges
 ggExtra
+ggrepel
+randomForest

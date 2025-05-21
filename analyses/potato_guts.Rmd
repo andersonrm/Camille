@@ -69,6 +69,9 @@ library(tidymodels)
 library(ggridges)
 library(knitr)
 library(ggExtra)
+library(ggrepel)
+library(gamm4)
+library(randomForest)
 
 # @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 # @@@@@ Data Preparation
@@ -780,46 +783,45 @@ plot_model(mod1, type = "diag")
 ```
 
 
-# Proportion plants infected by virus
 
 ```{r plant_inf_props_by_virus, echo = F, fig.width=11, fig.height=11}
 
-dat1 %>% 
-  semi_join(., crop_type, by = "genus") %>% 
-  mutate(BCTV = as.numeric(BCTV) - 1,
-         CPt = as.numeric(CPt) - 1,
-         co_infected = (case_when(
-                        BCTV == 1 & CPt == 1 ~ 1,
-                        BCTV != 1 | CPt != 1 ~ 0)),
-         healthy = case_when(
-                        BCTV == 0 & CPt == 0 ~ 1,
-                        TRUE ~ 0)) %>% 
-  group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
-  tally() %>%
-  mutate(status = case_when(
-    healthy == 1 ~ "healthy",
-    CPt == 1 & co_infected == 0 ~ "CPt",
-    BCTV == 1 & co_infected == 0 ~ "BCTV",
-    co_infected == 1 ~ "co infected"
-  )) %>% 
-  select(-BCTV : -healthy) %>% 
-  left_join(., crop_type, by = "genus") %>% 
-  mutate(crop_type = case_when(
-    crop_type == "crop" ~ "Crops",
-    crop_type == "non crop" ~ "Non crops",
-    crop_type == "tree" ~ "Trees"
-  )) %>% 
-  ggplot(aes(x = genus, y = n,
-             fill = crop_type)) +
-  geom_bar(stat = "identity") +
-  facet_wrap(~ status) +
-  coord_flip() +
-  theme_bw(base_size = 16) +
-  scale_fill_viridis_d(option = "G", direction = -1) +
-  theme(legend.title = element_blank(),
-        strip.background = element_blank(),
-        axis.title.x = element_blank(),
-        axis.title.y = element_blank())
+# dat1 %>% 
+#   semi_join(., crop_type, by = "genus") %>% 
+#   mutate(BCTV = as.numeric(BCTV) - 1,
+#          CPt = as.numeric(CPt) - 1,
+#          co_infected = (case_when(
+#                         BCTV == 1 & CPt == 1 ~ 1,
+#                         BCTV != 1 | CPt != 1 ~ 0)),
+#          healthy = case_when(
+#                         BCTV == 0 & CPt == 0 ~ 1,
+#                         TRUE ~ 0)) %>% 
+#   group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
+#   tally() %>%
+#   mutate(status = case_when(
+#     healthy == 1 ~ "healthy",
+#     CPt == 1 & co_infected == 0 ~ "CPt",
+#     BCTV == 1 & co_infected == 0 ~ "BCTV",
+#     co_infected == 1 ~ "co infected"
+#   )) %>% 
+#   select(-BCTV : -healthy) %>% 
+#   left_join(., crop_type, by = "genus") %>% 
+#   mutate(crop_type = case_when(
+#     crop_type == "crop" ~ "Crops",
+#     crop_type == "non crop" ~ "Non crops",
+#     crop_type == "tree" ~ "Trees"
+#   )) %>% 
+#   ggplot(aes(x = genus, y = n,
+#              fill = crop_type)) +
+#   geom_bar(stat = "identity") +
+#   facet_wrap(~ status) +
+#   coord_flip() +
+#   theme_bw(base_size = 16) +
+#   scale_fill_viridis_d(option = "G", direction = -1) +
+#   theme(legend.title = element_blank(),
+#         strip.background = element_blank(),
+#         axis.title.x = element_blank(),
+#         axis.title.y = element_blank())
 
 ```
 
@@ -974,7 +976,7 @@ rpC <- dat1 %>%
 ```{r ridgeplot_one_figure, echo = F, fig.height=11, fig.width=6}
 
 
-cowplot::plot_grid(rpA, rpB, rpC,
+cowplot::plot_grid(rpB, rpA, rpC,
                    nrow = 3,
                    align = "v",
                    labels = c("A", "B", "C"),
@@ -982,6 +984,231 @@ cowplot::plot_grid(rpA, rpB, rpC,
                    label_x = 0.21)
 
 ```
+
+
+
+```{r nmds_prep, echo = F}
+species_counts <- dat1 %>% 
+  group_by(BLH_ID, genus) %>% 
+  tally() %>% 
+  group_by(genus) %>% 
+  summarise(total_counts = sum(n)) %>% 
+  arrange(desc(total_counts)) %>% 
+  filter(total_counts > quantile(total_counts, 0.9)) %>% 
+  droplevels()
+
+
+gut_matrix <- dat1 %>%
+  semi_join(., species_counts, by = "genus") %>% 
+  group_by(BLH_ID, genus) %>%
+  tally() %>% 
+  pivot_wider(names_from = genus,
+              values_from = n,
+              values_fill = list(n = 0)) %>% 
+  left_join(., meta_dat, by = "BLH_ID") %>% 
+  mutate(sample_date = yday(Date),
+         healthy = factor(case_when(
+           BCTV == 0 & CPt == 0 ~ "Healthy",
+           TRUE ~ "Infected"
+         ))) %>% 
+  select(-Date)
+
+```
+
+
+```{r nmds, echo = F}
+
+gut_ord <- gut_matrix %>% ungroup() %>% 
+  select(Kali : Lactuca) %>% 
+  metaMDS(., k = 3, distance = "bray",
+          trymax = 50, maxit = 1000)
+
+gut_ord$stress
+
+stressplot(gut_ord)
+plot(gut_ord)
+
+
+# checking for trends with envfit():
+
+
+gut_mod_envfit <- envfit(gut_ord ~ sample_date +
+                           region + healthy + Year,
+                         strata = gut_matrix$host_plant,
+                         choices = c(1:3),
+                         data = gut_matrix, nperm = 999)
+
+gut_mod_envfit # Only sample date matters
+
+
+## checking for trends with GAM:
+
+gut_mat_gam <- bind_cols(gut_matrix,
+                           scores(gut_ord)$sites)
+
+
+gam1 <- gamm4(log(sample_date) ~ s(NMDS1, NMDS2, k = 5),
+                  random = ~(1 | host_plant),
+                  data = gut_mat_gam)
+
+summary(gam1$gam) # Sample date has crazy relationship
+plot(gam1$gam)
+
+
+
+#### checking for trends with PERMANOVA:
+
+gut_mat_species <- gut_matrix %>% ungroup() %>% 
+  select(Kali : Lactuca)
+
+gut_mat_predictors <- gut_matrix %>% ungroup() %>% 
+  select(-Kali : -Lactuca)
+
+
+gut_ord_adonis1 <- adonis2(gut_mat_species ~
+                            splines::ns(sample_date, df = 5) +
+                             BCTV * Year + region,
+                            strata = gut_matrix$host_plant,
+                          data = gut_matrix)
+
+gut_ord_adonis1
+
+```
+
+
+
+```{r gut_sample_date_genus_figure_prep, echo = F, cache=F}
+
+
+gut_sites <- data.frame(scores(gut_ord)$sites) %>% 
+  rownames_to_column("sample_num") %>% 
+  bind_cols(., gut_mat_predictors)
+
+
+preddat <- expand.grid(NMDS1 = seq(-1.5, 1.7, 0.5),
+                       NMDS2 = seq(-1.7, 1.3, 0.5))
+preddat$date_pred <- exp(predict(gam1$gam, newdata = preddat))
+
+
+gut_species <- data.frame(scores(gut_ord)$species) %>% 
+  rownames_to_column("genus")
+
+gut_species <- gut_species %>% 
+  left_join(., species_counts, by = "genus")
+
+```
+
+
+### Gut contents by sample date
+
+```{r gut_community_BCTV_fig, echo = F, cache=F, fig.width=8, fig.height=3.5}
+
+
+gut_BCTV_centroids <- gut_sites %>% 
+  group_by(BCTV) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2)) 
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 1)  +
+  scale_size_binned(range = c(1.5, 8),
+             breaks = c(50, 100, 200)) +
+  theme_cowplot() +
+  stat_ellipse(data = gut_sites,
+               aes(x = NMDS1, y = NMDS2, color = BCTV),
+               show.legend = F) +
+  geom_point(data = gut_BCTV_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = BCTV),
+             shape = 21, size = 5) +
+  geom_point(data = gut_sites,
+             aes(x = NMDS1, y = NMDS2, color = BCTV)) +
+  geom_text_repel(data = gut_species, max.overlaps = 25,
+                  aes(label = genus, size = total_counts)) +
+  labs(size = "Abundance", color = "Infection",
+       fill = "Infection") +
+  scale_color_manual(values = c("green4", "maroon2"),
+                     labels = c("Healthy", "BCTV")) +
+  scale_fill_manual(values = c("green4", "maroon2"),
+                    labels = c("Healthy", "BCTV"))
+
+```
+
+
+
+```{r gut_community_CPt_fig, echo = F, cache=F, fig.width=8, fig.height=3.5}
+
+
+gut_cpt_centroids <- gut_sites %>% 
+  group_by(CPt) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2)) 
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 1) +
+  scale_size_binned(range = c(1.5, 8),
+             breaks = c(50, 100, 200)) +
+  theme_cowplot() +
+  stat_ellipse(data = gut_sites,
+               aes(x = NMDS1, y = NMDS2, color = CPt),
+               show.legend = F) +
+  geom_point(data = gut_cpt_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = CPt),
+             shape = 21, size = 5) +
+  geom_point(data = gut_sites,
+             aes(x = NMDS1, y = NMDS2, color = CPt)) +
+  geom_text_repel(data = gut_species, max.overlaps = 25,
+                  aes(label = genus, size = total_counts)) +
+  labs(size = "Abundance", color = "Infection",
+       fill = "Infection") +
+  scale_color_manual(values = c("cyan3", "orange2"),
+                     labels = c("Healthy", "CPt")) +
+  scale_fill_manual(values = c("cyan3", "orange2"),
+                    labels = c("Healthy", "CPt"))
+
+```
+
+
+### Genus by year
+
+```{r gut_sample_date_year_fig, echo = F, cache=F}
+
+gut_year_centroids <- gut_sites %>% 
+  group_by(Year) %>% 
+  summarise(NMDS1 = mean(NMDS1),
+            NMDS2 = mean(NMDS2)) 
+
+ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+  geom_contour(data = preddat,
+               aes(z = date_pred), color = "grey") +
+  metR::geom_text_contour(data = preddat,
+                          aes(z = date_pred),
+                          color = "grey", stroke = 0.15, skip = 1) +
+  geom_text_repel(data = gut_species, max.overlaps = 20,
+                  aes(label = genus, size = total_counts)) +
+  scale_size_binned(range = c(1.5, 5),
+             breaks = c(50, 150, 300)) +
+  theme_cowplot() +
+  stat_ellipse(data = gut_sites,
+               aes(x = NMDS1, y = NMDS2, color = Year),
+               show.legend = F) +
+  geom_point(data = gut_year_centroids,
+             aes(x = NMDS1, y = NMDS2, fill = Year),
+             shape = 21, size = 5) +
+  labs(size = "Abundance",
+       fill = "Year") +
+  scale_fill_viridis_d() +
+  scale_color_viridis_d()
+
+```
+
 
 ## Session Information
 

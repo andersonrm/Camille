@@ -1,7 +1,7 @@
 BLH Gut Diversity in Potato
 ================
 Riley M. Anderson
-May 16, 2025
+May 21, 2025
 
   
 
@@ -10,12 +10,12 @@ May 16, 2025
 - [BCTV by richness](#bctv-by-richness)
 - [CPt by richness](#cpt-by-richness)
 - [Proportion plants infected](#proportion-plants-infected)
-- [Proportion plants infected by
-  virus](#proportion-plants-infected-by-virus)
 - [Plants in the gut over time](#plants-in-the-gut-over-time)
   - [Crops by time](#crops-by-time)
   - [Non-crops by time](#non-crops-by-time)
   - [Trees by time](#trees-by-time)
+    - [Gut contents by sample date](#gut-contents-by-sample-date)
+    - [Genus by year](#genus-by-year)
   - [Session Information](#session-information)
 
 ## Overview
@@ -295,10 +295,6 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
 
 ![](potato_guts_files/figure-gfm/prop_infected_stats-5.png)<!-- -->
 
-# Proportion plants infected by virus
-
-![](potato_guts_files/figure-gfm/plant_inf_props_by_virus-1.png)<!-- -->
-
 # Plants in the gut over time
 
 ## Crops by time
@@ -308,6 +304,136 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
 ## Trees by time
 
 ![](potato_guts_files/figure-gfm/ridgeplot_one_figure-1.png)<!-- -->
+
+    ## Run 0 stress 0.1309904 
+    ## Run 1 stress 0.1310302 
+    ## ... Procrustes: rmse 0.00532567  max resid 0.06308665 
+    ## Run 2 stress 0.1313773 
+    ## ... Procrustes: rmse 0.01434485  max resid 0.1761882 
+    ## Run 3 stress 0.1319975 
+    ## Run 4 stress 0.1313632 
+    ## ... Procrustes: rmse 0.01499318  max resid 0.1762227 
+    ## Run 5 stress 0.1325809 
+    ## Run 6 stress 0.1311989 
+    ## ... Procrustes: rmse 0.005518641  max resid 0.06042408 
+    ## Run 7 stress 0.1309889 
+    ## ... New best solution
+    ## ... Procrustes: rmse 0.0003727393  max resid 0.00328345 
+    ## ... Similar to previous best
+    ## Run 8 stress 0.1310094 
+    ## ... Procrustes: rmse 0.002982306  max resid 0.03895269 
+    ## Run 9 stress 0.1326548 
+    ## Run 10 stress 0.1339058 
+    ## Run 11 stress 0.1311069 
+    ## ... Procrustes: rmse 0.002480452  max resid 0.03555698 
+    ## Run 12 stress 0.1309218 
+    ## ... New best solution
+    ## ... Procrustes: rmse 0.006178661  max resid 0.08459303 
+    ## Run 13 stress 0.1309218 
+    ## ... Procrustes: rmse 0.0003609704  max resid 0.002709652 
+    ## ... Similar to previous best
+    ## Run 14 stress 0.1315687 
+    ## Run 15 stress 0.1312189 
+    ## ... Procrustes: rmse 0.009949781  max resid 0.08173589 
+    ## Run 16 stress 0.1331063 
+    ## Run 17 stress 0.1341411 
+    ## Run 18 stress 0.132696 
+    ## Run 19 stress 0.1311407 
+    ## ... Procrustes: rmse 0.01463112  max resid 0.2044815 
+    ## Run 20 stress 0.1310285 
+    ## ... Procrustes: rmse 0.008182429  max resid 0.08599073 
+    ## *** Best solution repeated 1 times
+    ## [1] 0.1309218
+
+![](potato_guts_files/figure-gfm/nmds-1.png)<!-- -->![](potato_guts_files/figure-gfm/nmds-2.png)<!-- -->
+
+    ## 
+    ## ***VECTORS
+    ## 
+    ##                NMDS1    NMDS2    NMDS3     r2 Pr(>r)    
+    ## sample_date -0.95408  0.18006  0.23941 0.1949  0.001 ***
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## Blocks:  strata 
+    ## Permutation: free
+    ## Number of permutations: 999
+    ## 
+    ## ***FACTORS:
+    ## 
+    ## Centroids:
+    ##                   NMDS1   NMDS2   NMDS3
+    ## regionMattawa   -0.3454  0.0944  0.0411
+    ## regionMoxee      0.3262 -0.0953 -0.0230
+    ## regionOthello   -0.1154 -0.2724  0.2980
+    ## regionPasco      0.1489  0.0585 -0.0588
+    ## regionPaterson  -0.2275  0.0909 -0.1517
+    ## healthyInfected -0.0775 -0.0465  0.0370
+    ## healthyHealthy   0.0768  0.0461 -0.0367
+    ## Year2019        -0.3961  0.2710 -0.1513
+    ## Year2020        -0.1789 -0.1184  0.1055
+    ## Year2021         0.5999 -0.0905 -0.0018
+    ## 
+    ## Goodness of fit:
+    ##             r2 Pr(>r)    
+    ## region  0.1371  0.001 ***
+    ## healthy 0.0136  0.047 *  
+    ## Year    0.2997  0.001 ***
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## Blocks:  strata 
+    ## Permutation: free
+    ## Number of permutations: 999
+    ## 
+    ## Family: gaussian 
+    ## Link function: identity 
+    ## 
+    ## Formula:
+    ## log(sample_date) ~ s(NMDS1, NMDS2, k = 5)
+    ## 
+    ## Parametric coefficients:
+    ##             Estimate Std. Error t value Pr(>|t|)    
+    ## (Intercept)  5.00491    0.05905   84.75   <2e-16 ***
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## 
+    ## Approximate significance of smooth terms:
+    ##                  edf Ref.df     F  p-value    
+    ## s(NMDS1,NMDS2) 3.391  3.391 8.709 1.16e-05 ***
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## 
+    ## R-sq.(adj) =  0.186   
+    ## lmer.REML = -92.676  Scale est. = 0.03291   n = 227
+
+![](potato_guts_files/figure-gfm/nmds-3.png)<!-- -->
+
+    ## Permutation test for adonis under reduced model
+    ## Terms added sequentially (first to last)
+    ## Blocks:  strata 
+    ## Permutation: free
+    ## Number of permutations: 999
+    ## 
+    ## adonis2(formula = gut_mat_species ~ splines::ns(sample_date, df = 5) + BCTV * Year + region, data = gut_matrix, strata = gut_matrix$host_plant)
+    ##                                   Df SumOfSqs      R2       F Pr(>F)    
+    ## splines::ns(sample_date, df = 5)   5    9.465 0.16009 10.1979  0.001 ***
+    ## BCTV                               1    0.633 0.01071  3.4099  0.006 ** 
+    ## Year                               2    8.042 0.13602 21.6611  0.001 ***
+    ## region                             4    1.008 0.01705  1.3578  0.420    
+    ## BCTV:Year                          2    0.622 0.01052  1.6754  0.210    
+    ## Residual                         212   39.354 0.66561                   
+    ## Total                            226   59.125 1.00000                   
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+### Gut contents by sample date
+
+![](potato_guts_files/figure-gfm/gut_community_BCTV_fig-1.png)<!-- -->
+
+![](potato_guts_files/figure-gfm/gut_community_CPt_fig-1.png)<!-- -->
+
+### Genus by year
+
+![](potato_guts_files/figure-gfm/gut_sample_date_year_fig-1.png)<!-- -->
 
 ## Session Information
 
