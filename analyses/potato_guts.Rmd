@@ -1109,7 +1109,7 @@ gut_BCTV_centroids <- gut_sites %>%
   summarise(NMDS1 = mean(NMDS1),
             NMDS2 = mean(NMDS2)) 
 
-ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+nmdsA <- ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
   geom_contour(data = preddat,
                aes(z = date_pred), color = "grey") +
   metR::geom_text_contour(data = preddat,
@@ -1147,7 +1147,7 @@ gut_cpt_centroids <- gut_sites %>%
   summarise(NMDS1 = mean(NMDS1),
             NMDS2 = mean(NMDS2)) 
 
-ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
+nmdsB <- ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
   geom_contour(data = preddat,
                aes(z = date_pred), color = "grey") +
   metR::geom_text_contour(data = preddat,
@@ -1175,6 +1175,14 @@ ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
 
 ```
 
+### One figure for both NMDS
+```{r NMDS_A_and_B, echo = F, fig.width = 10, fig.height = 8}
+
+cowplot::plot_grid(nmdsA, nmdsB,
+                   labels = c("A", "B"),
+                   nrow = 2)
+
+```
 
 ### Genus by year
 

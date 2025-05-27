@@ -1,7 +1,7 @@
 BLH Gut Diversity in Potato
 ================
 Riley M. Anderson
-May 21, 2025
+May 27, 2025
 
   
 
@@ -15,6 +15,7 @@ May 21, 2025
   - [Non-crops by time](#non-crops-by-time)
   - [Trees by time](#trees-by-time)
     - [Gut contents by sample date](#gut-contents-by-sample-date)
+    - [One figure for both NMDS](#one-figure-for-both-nmds)
     - [Genus by year](#genus-by-year)
   - [Session Information](#session-information)
 
@@ -427,9 +428,9 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
 
 ### Gut contents by sample date
 
-![](potato_guts_files/figure-gfm/gut_community_BCTV_fig-1.png)<!-- -->
+### One figure for both NMDS
 
-![](potato_guts_files/figure-gfm/gut_community_CPt_fig-1.png)<!-- -->
+![](potato_guts_files/figure-gfm/NMDS_A_and_B-1.png)<!-- -->
 
 ### Genus by year
 
