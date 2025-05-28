@@ -1,7 +1,7 @@
 BLH Gut Diversity in Potato
 ================
 Riley M. Anderson
-May 27, 2025
+May 28, 2025
 
   
 
@@ -17,6 +17,13 @@ May 27, 2025
     - [Gut contents by sample date](#gut-contents-by-sample-date)
     - [One figure for both NMDS](#one-figure-for-both-nmds)
     - [Genus by year](#genus-by-year)
+  - [PERMANOVA](#permanova)
+- [Canonical Analysis of Principle
+  Components](#canonical-analysis-of-principle-components)
+  - [CAP plot](#cap-plot)
+  - [CAP with species vectors](#cap-with-species-vectors)
+  - [CAP with Isoclines:](#cap-with-isoclines)
+  - [CAP with full model:](#cap-with-full-model)
   - [Session Information](#session-information)
 
 ## Overview
@@ -408,24 +415,6 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
 
 ![](potato_guts_files/figure-gfm/nmds-3.png)<!-- -->
 
-    ## Permutation test for adonis under reduced model
-    ## Terms added sequentially (first to last)
-    ## Blocks:  strata 
-    ## Permutation: free
-    ## Number of permutations: 999
-    ## 
-    ## adonis2(formula = gut_mat_species ~ splines::ns(sample_date, df = 5) + BCTV * Year + region, data = gut_matrix, strata = gut_matrix$host_plant)
-    ##                                   Df SumOfSqs      R2       F Pr(>F)    
-    ## splines::ns(sample_date, df = 5)   5    9.465 0.16009 10.1979  0.001 ***
-    ## BCTV                               1    0.633 0.01071  3.4099  0.006 ** 
-    ## Year                               2    8.042 0.13602 21.6611  0.001 ***
-    ## region                             4    1.008 0.01705  1.3578  0.420    
-    ## BCTV:Year                          2    0.622 0.01052  1.6754  0.210    
-    ## Residual                         212   39.354 0.66561                   
-    ## Total                            226   59.125 1.00000                   
-    ## ---
-    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
-
 ### Gut contents by sample date
 
 ### One figure for both NMDS
@@ -435,6 +424,177 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
 ### Genus by year
 
 ![](potato_guts_files/figure-gfm/gut_sample_date_year_fig-1.png)<!-- -->
+
+## PERMANOVA
+
+    ## Permutation test for adonis under reduced model
+    ## Terms added sequentially (first to last)
+    ## Blocks:  strata 
+    ## Permutation: free
+    ## Number of permutations: 999
+    ## 
+    ## adonis2(formula = gut_mat_species ~ splines::ns(sample_date, df = 5) + BCTV + CPt, data = gut_matrix, strata = gut_matrix$host_plant)
+    ##                                   Df SumOfSqs      R2      F Pr(>F)    
+    ## splines::ns(sample_date, df = 5)   5    9.465 0.16009 8.4848  0.001 ***
+    ## BCTV                               1    0.633 0.01071 2.8371  0.017 *  
+    ## CPt                                1    0.165 0.00279 0.7388  0.812    
+    ## Residual                         219   48.862 0.82642                  
+    ## Total                            226   59.125 1.00000                  
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## 
+    ## Permutation test for homogeneity of multivariate dispersions
+    ## Permutation: free
+    ## Number of permutations: 999
+    ## 
+    ## Response: Distances
+    ##            Df Sum Sq  Mean Sq      F N.Perm Pr(>F)  
+    ## Groups      1 0.0668 0.066811 3.3374    999  0.057 .
+    ## Residuals 225 4.5042 0.020019                       
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## 
+    ## Contrast: 0_1 
+    ## 
+    ##             average      sd   ratio     ava     avb cumsum     p  
+    ## Solanum     0.14798 0.13287 1.11380 1.05060 0.95650  0.218 0.299  
+    ## Bassia      0.09799 0.10404 0.94190 0.63920 0.68120  0.362 0.066 .
+    ## Salsola     0.07822 0.09520 0.82160 0.49370 0.50720  0.478 0.028 *
+    ## Sisymbrium  0.07337 0.10341 0.70950 0.31650 0.30430  0.586 0.275  
+    ## Kali        0.05388 0.07079 0.76110 0.37340 0.21740  0.665 0.667  
+    ## Lactuca     0.04909 0.07914 0.62030 0.28480 0.15940  0.738 0.813  
+    ## Amaranthus  0.04229 0.08651 0.48880 0.36080 0.04350  0.800 0.991  
+    ## Chenopodium 0.04219 0.07129 0.59180 0.27220 0.17390  0.862 0.612  
+    ## Descurainia 0.03871 0.06808 0.56860 0.14560 0.21740  0.919 0.137  
+    ## Brassica    0.03463 0.06373 0.54330 0.22780 0.10140  0.970 0.926  
+    ## Raphanus    0.02031 0.05392 0.37660 0.17090 0.04350  1.000 0.894  
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## Permutation: free
+    ## Number of permutations: 999
+
+# Canonical Analysis of Principle Components
+
+- A constrained ordination
+
+<!-- -->
+
+    ## NULL
+
+## CAP plot
+
+- This is a constrained ordination, forcing the X-axis to reflect
+  variation in BCTV infection status. A clear separation would indicate
+  a real effect (that BLH infected with BCTV have different plant
+  communities in their guts)
+
+![](potato_guts_files/figure-gfm/CAP1_fig-1.png)<!-- -->
+
+- Doesn’t seem like there is much separation. Let’s try adding in
+  species vectors.
+
+## CAP with species vectors
+
+![](potato_guts_files/figure-gfm/CAP1_with_species_vectors-1.png)<!-- -->
+
+- This is the interesting stuff. The X-axis is constrained to only
+  display the variation in plant community composition explained by BCTV
+  status. The Y-axis is the first unconstrained axis that captures
+  greatest proportion of variation not explained by BCTV status (the
+  residual variation).
+
+- Species vectors entirely align with variation in the MDS1 axis,
+  meaning that variation in species composition is not aligned with
+  viral status.
+
+- While BCTV status has a **real** but **weak** effect on species
+  composition, this effect is orthogonal to the main species gradients.
+
+- Consistent with the PERMANOVA results that show very small R2 values
+  for BCTV.
+
+- Let’s see if sample date aligns with BCTV or helps explain the
+  residual variance.
+
+## CAP with Isoclines:
+
+![](potato_guts_files/figure-gfm/CAP_isoclines-1.png)<!-- -->
+
+## CAP with full model:
+
+    ## Permutation test for capscale under reduced model
+    ## Terms added sequentially (first to last)
+    ## Permutation: free
+    ## Number of permutations: 999
+    ## 
+    ## Model: capscale(formula = gut_mat_species ~ BCTV + Year + region + host_plant + sample_date, data = gut_matrix, distance = "bray")
+    ##              Df SumOfSqs       F Pr(>F)    
+    ## BCTV          1    0.744  2.5444  0.005 ** 
+    ## Year          2   14.188 24.2567  0.001 ***
+    ## region        4    1.940  1.6579  0.019 *  
+    ## host_plant    8    6.374  2.7241  0.001 ***
+    ## sample_date   1    1.014  3.4668  0.001 ***
+    ## Residual    210   61.418                   
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## 
+    ## Call:
+    ## capscale(formula = gut_mat_species ~ BCTV + Year + region + host_plant +      sample_date, data = gut_matrix, distance = "bray") 
+    ## 
+    ## Partitioning of squared Bray distance:
+    ##               Inertia Proportion
+    ## Total           85.68     1.0000
+    ## Constrained     24.26     0.2832
+    ## Unconstrained   61.42     0.7168
+    ## 
+    ## Eigenvalues, and their contribution to the squared Bray distance 
+    ## 
+    ## Importance of components:
+    ##                         CAP1    CAP2    CAP3    CAP4    CAP5     CAP6     CAP7
+    ## Eigenvalue            12.424 3.70720 2.59513 2.12073 1.12348 0.825761 0.515636
+    ## Proportion Explained   0.145 0.04327 0.03029 0.02475 0.01311 0.009638 0.006018
+    ## Cumulative Proportion  0.145 0.18828 0.21857 0.24332 0.25643 0.266073 0.272091
+    ##                           CAP8     CAP9    CAP10    CAP11     CAP12     CAP13
+    ## Eigenvalue            0.337147 0.217132 0.195908 0.086087 0.0595705 0.0203158
+    ## Proportion Explained  0.003935 0.002534 0.002287 0.001005 0.0006953 0.0002371
+    ## Cumulative Proportion 0.276026 0.278561 0.280847 0.281852 0.2825472 0.2827843
+    ##                           CAP14     CAP15     CAP16    MDS1    MDS2    MDS3
+    ## Eigenvalue            0.0169442 0.0096083 5.033e-03 11.5584 10.3555 7.91278
+    ## Proportion Explained  0.0001978 0.0001121 5.874e-05  0.1349  0.1209 0.09236
+    ## Cumulative Proportion 0.2829821 0.2830942 2.832e-01  0.4181  0.5389 0.63128
+    ##                         MDS4    MDS5    MDS6    MDS7    MDS8    MDS9  MDS10
+    ## Eigenvalue            5.5007 4.59026 3.90515 3.41386 2.96998 2.68803 2.1594
+    ## Proportion Explained  0.0642 0.05358 0.04558 0.03985 0.03466 0.03137 0.0252
+    ## Cumulative Proportion 0.6955 0.74906 0.79464 0.83448 0.86915 0.90052 0.9257
+    ##                         MDS11   MDS12   MDS13    MDS14    MDS15    MDS16
+    ## Eigenvalue            1.88912 1.15031 0.81911 0.746456 0.464021 0.401118
+    ## Proportion Explained  0.02205 0.01343 0.00956 0.008712 0.005416 0.004682
+    ## Cumulative Proportion 0.94777 0.96120 0.97076 0.979473 0.984889 0.989571
+    ##                          MDS17   MDS18    MDS19     MDS20     MDS21    MDS22
+    ## Eigenvalue            0.322960 0.23386 0.158169 0.0828231 0.0536414 0.034186
+    ## Proportion Explained  0.003769 0.00273 0.001846 0.0009667 0.0006261 0.000399
+    ## Cumulative Proportion 0.993340 0.99607 0.997916 0.9988824 0.9995085 0.999908
+    ##                           MDS23
+    ## Eigenvalue            7.922e-03
+    ## Proportion Explained  9.246e-05
+    ## Cumulative Proportion 1.000e+00
+    ## 
+    ## Accumulated constrained eigenvalues
+    ## Importance of components:
+    ##                          CAP1   CAP2   CAP3    CAP4    CAP5    CAP6    CAP7
+    ## Eigenvalue            12.4242 3.7072 2.5951 2.12073 1.12348 0.82576 0.51564
+    ## Proportion Explained   0.5121 0.1528 0.1070 0.08742 0.04631 0.03404 0.02125
+    ## Cumulative Proportion  0.5121 0.6649 0.7719 0.85933 0.90564 0.93968 0.96093
+    ##                         CAP8    CAP9    CAP10    CAP11    CAP12     CAP13
+    ## Eigenvalue            0.3371 0.21713 0.195908 0.086087 0.059571 0.0203158
+    ## Proportion Explained  0.0139 0.00895 0.008075 0.003549 0.002456 0.0008374
+    ## Cumulative Proportion 0.9748 0.98378 0.991857 0.995405 0.997861 0.9986980
+    ##                           CAP14     CAP15     CAP16
+    ## Eigenvalue            0.0169442 0.0096083 0.0050331
+    ## Proportion Explained  0.0006984 0.0003961 0.0002075
+    ## Cumulative Proportion 0.9993965 0.9997925 1.0000000
+
+![](potato_guts_files/figure-gfm/CAP_model-1.png)<!-- -->
 
 ## Session Information
 

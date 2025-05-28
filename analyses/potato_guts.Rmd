@@ -1054,31 +1054,16 @@ gam1 <- gamm4(log(sample_date) ~ s(NMDS1, NMDS2, k = 5),
 summary(gam1$gam) # Sample date has crazy relationship
 plot(gam1$gam)
 
-
-
-#### checking for trends with PERMANOVA:
-
-gut_mat_species <- gut_matrix %>% ungroup() %>% 
-  select(Kali : Lactuca)
-
-gut_mat_predictors <- gut_matrix %>% ungroup() %>% 
-  select(-Kali : -Lactuca)
-
-
-gut_ord_adonis1 <- adonis2(gut_mat_species ~
-                            splines::ns(sample_date, df = 5) +
-                             BCTV * Year + region,
-                            strata = gut_matrix$host_plant,
-                          data = gut_matrix)
-
-gut_ord_adonis1
-
 ```
 
 
 
 ```{r gut_sample_date_genus_figure_prep, echo = F, cache=F}
+gut_mat_species <- gut_matrix %>% ungroup() %>% 
+  select(Kali : Lactuca)
 
+gut_mat_predictors <- gut_matrix %>% ungroup() %>% 
+  select(-Kali : -Lactuca)
 
 gut_sites <- data.frame(scores(gut_ord)$sites) %>% 
   rownames_to_column("sample_num") %>% 
@@ -1214,6 +1199,248 @@ ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
        fill = "Year") +
   scale_fill_viridis_d() +
   scale_color_viridis_d()
+
+```
+
+
+
+## PERMANOVA
+
+```{r PERMANOVA, echo = F}
+
+#### checking for trends with PERMANOVA:
+
+
+
+
+
+gut_ord_adonis1 <- adonis2(gut_mat_species ~
+                            splines::ns(sample_date, df = 5) +
+                             BCTV + CPt,
+                            strata = gut_matrix$host_plant,
+                          data = gut_matrix)
+
+gut_ord_adonis1
+
+permutest(betadisper(vegdist(gut_mat_species, method = "bray"),
+                     gut_matrix$BCTV))
+
+simper_result <- simper(gut_mat_species,
+                        group = gut_matrix$BCTV)
+summary(simper_result)
+```
+
+# Canonical Analysis of Principle Components
+
+* A constrained ordination
+
+```{r visualize_BCTV_effect, echo = F}
+
+bctv_diss <- vegdist(gut_mat_species, method = "bray")
+
+cap_model <- capscale(gut_mat_species ~ BCTV,
+                      data = gut_matrix,
+                      distance = "bray")
+
+summary(cap_model)$call$pCCa
+
+
+site_scores <- scores(cap_model, display = "sites") %>%
+  as.data.frame() %>%
+  mutate(sample = rownames(.),
+         bctv = gut_matrix$BCTV)
+
+species_scores <- scores(cap_model, display = "species") %>%
+  as.data.frame() %>%
+  rownames_to_column("species")
+
+# Optional: keep only species with strongest loadings on CAP1
+species_scores_filtered <- species_scores %>%
+  filter(abs(CAP1) > 0.2 | abs(MDS1) > 0.2)
+
+
+# Proportion of constrained variance (eigenvalues)
+# eigvals <- summary(cap_model)$concont$importance["Proportion Explained", ]
+# xlab <- paste0("CAP1 (", round(eigvals[1] * 100, 1), "%)")
+# ylab <- paste0("CAP2 (", round(eigvals[2] * 100, 1), "%)")
+
+```
+
+## CAP plot
+
+* This is a constrained ordination, forcing the X-axis to reflect variation in BCTV infection status. A clear separation would indicate a real effect (that BLH infected with BCTV have different plant communities in their guts)
+
+```{r CAP1_fig, echo = F}
+
+
+ggplot(site_scores,
+       aes(x = CAP1, y = MDS1, color = bctv, fill = bctv)) +
+  stat_ellipse(geom = "polygon", type = "t",
+               level = 0.95, alpha = 0.3) +
+  geom_point(size = 2.5, shape = 21, stroke = 0.5,
+             aes(fill = bctv), color = 'black') +
+  scale_color_manual(values = c("0" = "#1b9e77", "1" = "#d95f02"),
+                     labels = c("Healthy", "Infected")) +
+  scale_fill_manual(values = c("0" = "#1b9e77", "1" = "#d95f02"),
+                    labels = c("Healthy", "Infected")) +
+  theme_minimal(base_size = 14) +
+  labs(
+    x = "CAP1 (BCTV--0.8%)",
+    y = "MDS1 (Residual--22.4%)",
+    fill = "BCTV", color = "BCTV"
+  )
+
+```
+
+* Doesn't seem like there is much separation. Let's try adding in species vectors.
+
+## CAP with species vectors
+
+```{r CAP1_with_species_vectors, echo = F}
+
+
+ggplot(site_scores,
+       aes(x = CAP1, y = MDS1, color = bctv, fill = bctv)) +
+  stat_ellipse(geom = "polygon", type = "t",
+               level = 0.95, alpha = 0.3) +
+  geom_point(size = 2.5, shape = 21, stroke = 0.5,
+             aes(fill = bctv), color = 'black') +
+  geom_segment(data = species_scores_filtered,
+               aes(x = 0, y = 0, xend = CAP1, yend = MDS1),
+               arrow = arrow(length = unit(0.2, "cm")),
+               color = "black",
+               inherit.aes = F) +
+  geom_text(data = species_scores_filtered,
+            aes(x = CAP1 * 1.1, y = MDS1 * 1.1, label = species),
+            size = 3, hjust = 0.5,
+            inherit.aes = F) +
+  scale_color_manual(values = c("0" = "#1b9e77", "1" = "#d95f02"),
+                     labels = c("Healthy", "Infected")) +
+  scale_fill_manual(values = c("0" = "#1b9e77", "1" = "#d95f02"),
+                    labels = c("Healthy", "Infected")) +
+  theme_minimal(base_size = 14) +
+  labs(
+    x = "CAP1 (BCTV--0.8%)",
+    y = "MDS1 (Residual--22.4%)",
+    fill = "BCTV", color = "BCTV"
+  )
+
+```
+
+* This is the interesting stuff. The X-axis is constrained to only display the variation in plant community composition explained by BCTV status. The Y-axis is the first unconstrained axis that captures greatest proportion of variation not explained by BCTV status (the residual variation).
+
+* Species vectors entirely align with variation in the MDS1 axis, meaning that variation in species composition is not aligned with viral status.
+
+* While BCTV status has a **real** but **weak** effect on species composition, this effect is orthogonal to the main species gradients.
+
+* Consistent with the PERMANOVA results that show very small R2 values for BCTV.
+
+* Let's see if sample date aligns with BCTV or helps explain the residual variance.
+
+## CAP with Isoclines:
+
+```{r CAP_isoclines, echo = F}
+
+site_scoresI <- as.data.frame(scores(cap_model,
+                                     display = "sites")) %>%
+  mutate(sample = rownames(.),
+         bctv = gut_matrix$BCTV)
+
+site_scoresI$sample_date <- gut_matrix$sample_date
+
+site_scoresI$host_plant <- gut_matrix$host_plant
+
+gam_cap <- gamm4(log(sample_date) ~ s(CAP1, MDS1, k = 5),
+                 random = ~(1 | host_plant),
+                 data = site_scoresI)
+
+grid_cap <- expand.grid(CAP1 = seq(min(site_scoresI$CAP1),
+                                   max(site_scoresI$CAP1),
+                                   length = 100),
+                        MDS1 = seq(min(site_scoresI$MDS1),
+                                   max(site_scoresI$MDS1),
+                                   length = 100))
+
+grid_cap$date_pred <- exp(predict(gam_cap$gam, newdata = grid_cap))
+
+
+ggplot(site_scoresI,
+       aes(x = CAP1, y = MDS1, color = bctv, fill = bctv)) +
+  geom_point(shape = 21, size = 2, stroke = 0.5,
+             aes(fill = bctv), color = 'black') +
+  stat_ellipse(geom = "polygon", type = "t", level = 0.95, alpha = 0.3) +
+  geom_contour(data = grid_cap, aes(x = CAP1, y = MDS1, z = date_pred),
+               color = "grey40", inherit.aes = FALSE) +
+  metR::geom_text_contour(data = grid_cap,
+                          aes(x = CAP1, y = MDS1, z = date_pred),
+                          color = "grey20", stroke = 0.2, skip = 1,
+                          inherit.aes = FALSE) +
+  scale_color_manual(values = c("0" = "#1b9e77", "1" = "#d95f02"),
+                     labels = c("Healthy", "Infected")) +
+  scale_fill_manual(values = c("0" = "#1b9e77", "1" = "#d95f02"),
+                    labels = c("Healthy", "Infected")) +
+  theme_minimal(base_size = 14) +
+  labs(x = "CAP1 (BCTV--0.8%)",
+       y = "MDS1 (Residual--22.4%)",
+       fill = "BCTV", color = "BCTV") +
+  geom_segment(data = species_scores_filtered,
+               aes(x = 0, y = 0, xend = CAP1, yend = MDS1),
+               arrow = arrow(length = unit(0.2, "cm")),
+               color = "black",
+               inherit.aes = F) +
+  geom_text(data = species_scores_filtered,
+            aes(x = CAP1 * 1.1, y = MDS1 * 1.1, label = species),
+            size = 3, hjust = 0.5,
+            inherit.aes = F)
+
+```
+
+
+## CAP with full model:
+
+```{r CAP_model, echo = F}
+
+cap_model_full <- capscale(gut_mat_species ~ BCTV + Year +
+                             region + host_plant + sample_date,
+                           data = gut_matrix, distance = "bray")
+anova.cca(cap_model_full, by = "term", permutations = 999)
+summary(cap_model_full)
+
+# Extract scores
+site_scores_full <- scores(cap_model_full, display = "sites") %>%
+  as.data.frame() %>%
+  mutate(sample = rownames(.), bctv = gut_matrix$BCTV)
+
+species_scores_full <- scores(cap_model_full, display = "species") %>%
+  as.data.frame() %>%
+  rownames_to_column("species")
+
+# Filter for plotting
+species_scores_full_filtered <- species_scores_full %>%
+  filter(abs(CAP1) > 0.2 | abs(CAP2) > 0.2) 
+
+ggplot(site_scores_full,
+       aes(x = CAP1, y = CAP2, color = bctv, fill = bctv)) +
+  stat_ellipse(geom = "polygon", type = "t", level = 0.95, alpha = 0.3) +
+  geom_point(size = 3, shape = 21, stroke = 0.5,
+             aes(fill = bctv), color = 'black') +
+  geom_segment(data = species_scores_full_filtered,
+               aes(x = 0, y = 0, xend = CAP1, yend = CAP2),
+               arrow = arrow(length = unit(0.2, "cm")),
+               color = "black", inherit.aes = F) +
+  geom_text(data = species_scores_full_filtered,
+            aes(x = CAP1 * 1.1, y = CAP2 * 1.1, label = species),
+            size = 3, hjust = 0.5,
+            inherit.aes = F) +
+  scale_color_manual(values = c("0" = "#1b9e77", "1" = "#d95f02")) +
+  scale_fill_manual(values = c("0" = "#1b9e77", "1" = "#d95f02")) +
+  theme_minimal(base_size = 14) +
+  labs(
+    x = "CAP1 (All Predictors)",
+    y = "CAP2"
+  )
+
+
 
 ```
 
