@@ -864,6 +864,7 @@ tree_orders <- tree_orders$genus
 ## Crops by time
 ```{r crop_time, echo = F}
 
+
 rpA <- dat1 %>%
   semi_join(., crop_type, by = "genus") %>% 
   left_join(., crop_type, by = "genus") %>% 
@@ -994,6 +995,7 @@ species_counts <- dat1 %>%
   group_by(genus) %>% 
   summarise(total_counts = sum(n)) %>% 
   arrange(desc(total_counts)) %>% 
+  filter(genus != "Solanum") %>% 
   filter(total_counts > quantile(total_counts, 0.9)) %>% 
   droplevels()
 
@@ -1065,28 +1067,34 @@ gut_mat_species <- gut_matrix %>% ungroup() %>%
 gut_mat_predictors <- gut_matrix %>% ungroup() %>% 
   select(-Kali : -Lactuca)
 
-gut_sites <- data.frame(scores(gut_ord)$sites) %>% 
-  rownames_to_column("sample_num") %>% 
-  bind_cols(., gut_mat_predictors)
 
-
-preddat <- expand.grid(NMDS1 = seq(-1.5, 1.7, 0.5),
-                       NMDS2 = seq(-1.7, 1.3, 0.5))
-preddat$date_pred <- exp(predict(gam1$gam, newdata = preddat))
-
-
-gut_species <- data.frame(scores(gut_ord)$species) %>% 
-  rownames_to_column("genus")
-
-gut_species <- gut_species %>% 
-  left_join(., species_counts, by = "genus")
+# 
+# gut_sites <- scores(gut_ord, display = "sites") %>%
+#   as.data.frame() %>%
+#   mutate(sample = rownames(.),
+#          BCTV = gut_matrix$BCTV,
+#          CPt = gut_matrix$CPt)
+# 
+# 
+# 
+# 
+# preddat <- expand.grid(NMDS1 = seq(-1.5, 1.7, 0.5),
+#                        NMDS2 = seq(-1.7, 1.3, 0.5))
+# preddat$date_pred <- exp(predict(gam1$gam, newdata = preddat))
+# 
+# 
+# gut_species <- data.frame(scores(gut_ord)$species) %>% 
+#   rownames_to_column("genus")
+# 
+# gut_species <- gut_species %>% 
+#   left_join(., species_counts, by = "genus")
 
 ```
 
 
 ### Gut contents by sample date
 
-```{r gut_community_BCTV_fig, echo = F, cache=F, fig.width=8, fig.height=3.5}
+```{r gut_community_BCTV_fig, echo = F, cache=F, fig.width=8, fig.height=3.5, eval = F}
 
 
 gut_BCTV_centroids <- gut_sites %>% 
@@ -1124,7 +1132,7 @@ nmdsA <- ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
 
 
 
-```{r gut_community_CPt_fig, echo = F, cache=F, fig.width=8, fig.height=3.5}
+```{r gut_community_CPt_fig, echo = F, cache=F, fig.width=8, fig.height=3.5, eval = F}
 
 
 gut_cpt_centroids <- gut_sites %>% 
@@ -1161,7 +1169,7 @@ nmdsB <- ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
 ```
 
 ### One figure for both NMDS
-```{r NMDS_A_and_B, echo = F, fig.width = 10, fig.height = 8}
+```{r NMDS_A_and_B, echo = F, fig.width = 10, fig.height = 8, eval = F}
 
 cowplot::plot_grid(nmdsA, nmdsB,
                    labels = c("A", "B"),
@@ -1171,7 +1179,7 @@ cowplot::plot_grid(nmdsA, nmdsB,
 
 ### Genus by year
 
-```{r gut_sample_date_year_fig, echo = F, cache=F}
+```{r gut_sample_date_year_fig, echo = F, cache=F, eval = F}
 
 gut_year_centroids <- gut_sites %>% 
   group_by(Year) %>% 
@@ -1216,7 +1224,7 @@ ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
 
 gut_ord_adonis1 <- adonis2(gut_mat_species ~
                             splines::ns(sample_date, df = 5) +
-                             BCTV + CPt,
+                             BCTV * Year + CPt + region,
                             strata = gut_matrix$host_plant,
                           data = gut_matrix)
 
@@ -1242,8 +1250,7 @@ cap_model <- capscale(gut_mat_species ~ BCTV,
                       data = gut_matrix,
                       distance = "bray")
 
-summary(cap_model)$call$pCCa
-
+summary(cap_model)
 
 site_scores <- scores(cap_model, display = "sites") %>%
   as.data.frame() %>%
@@ -1285,8 +1292,8 @@ ggplot(site_scores,
                     labels = c("Healthy", "Infected")) +
   theme_minimal(base_size = 14) +
   labs(
-    x = "CAP1 (BCTV--0.8%)",
-    y = "MDS1 (Residual--22.4%)",
+    x = "CAP1 (BCTV--1.0%)",
+    y = "MDS1 (Residual--24.1%)",
     fill = "BCTV", color = "BCTV"
   )
 
@@ -1320,8 +1327,8 @@ ggplot(site_scores,
                     labels = c("Healthy", "Infected")) +
   theme_minimal(base_size = 14) +
   labs(
-    x = "CAP1 (BCTV--0.8%)",
-    y = "MDS1 (Residual--22.4%)",
+    x = "CAP1 (BCTV--1.0%)",
+    y = "MDS1 (Residual--24.1%)",
     fill = "BCTV", color = "BCTV"
   )
 
@@ -1380,8 +1387,8 @@ ggplot(site_scoresI,
   scale_fill_manual(values = c("0" = "#1b9e77", "1" = "#d95f02"),
                     labels = c("Healthy", "Infected")) +
   theme_minimal(base_size = 14) +
-  labs(x = "CAP1 (BCTV--0.8%)",
-       y = "MDS1 (Residual--22.4%)",
+  labs(x = "CAP1 (BCTV--1.0%)",
+       y = "MDS1 (Residual--24.1%)",
        fill = "BCTV", color = "BCTV") +
   geom_segment(data = species_scores_filtered,
                aes(x = 0, y = 0, xend = CAP1, yend = MDS1),
@@ -1393,6 +1400,225 @@ ggplot(site_scoresI,
             size = 3, hjust = 0.5,
             inherit.aes = F)
 
+
+
+```
+
+## CAP just the sample date constrained by full model
+
+```{r cap_everything, echo = F}
+
+cap_model_everything <- capscale(gut_mat_species ~
+                                   Year + sample_date + BCTV +
+                                   CPt + region + host_plant,
+                                 distance = "bray",
+                                 data = gut_matrix)
+summary(cap_model_everything)
+
+site_scoresE <- as.data.frame(scores(cap_model_everything,
+                                     display = "sites",
+                                     choices = c(1, 18))) %>%
+  mutate(sample = rownames(.),
+         bctv = gut_matrix$BCTV)
+
+site_scoresE$sample_date <- gut_matrix$sample_date
+
+site_scoresE$host_plant <- gut_matrix$host_plant
+
+gam_capE <- gamm4(log(sample_date) ~ s(CAP1, MDS1, k = 5),
+                 random = ~(1 | host_plant),
+                 data = site_scoresE)
+
+grid_capE <- expand.grid(CAP1 = seq(min(site_scoresE$CAP1),
+                                   max(site_scoresE$CAP1),
+                                   length = 100),
+                        MDS1 = seq(min(site_scoresE$MDS1),
+                                   max(site_scoresE$MDS1),
+                                   length = 100))
+
+grid_capE$date_pred <- exp(predict(gam_capE$gam, newdata = grid_capE))
+
+species_scoresE <- scores(cap_model_everything,
+                          display = "species",
+                          choices = c(1, 18)) %>%
+  as.data.frame() %>%
+  rownames_to_column("species")
+
+
+ggplot(site_scoresE,
+       aes(x = CAP1, y = MDS1)) +
+  geom_point(shape = 21, size = 2, stroke = 0.5,
+             fill = "gray", color = 'black') +
+  geom_contour(data = grid_capE, aes(x = CAP1, y = MDS1, z = date_pred),
+               color = "grey40", inherit.aes = FALSE) +
+  metR::geom_text_contour(data = grid_capE,
+                          aes(x = CAP1, y = MDS1, z = date_pred),
+                          color = "grey20", stroke = 0.2, skip = 1,
+                          inherit.aes = FALSE) +
+  theme_minimal(base_size = 14) +
+  labs(x = "CAP1 (13.9%)",
+       y = "MDS1 (Residual--16.4%)") +
+  geom_segment(data = species_scoresE,
+               aes(x = 0, y = 0, xend = CAP1, yend = MDS1),
+               arrow = arrow(length = unit(0.2, "cm")),
+               color = "black",
+               inherit.aes = F) +
+  geom_text(data = species_scoresE,
+            aes(x = CAP1 * 1.1, y = MDS1 * 1.1, label = species),
+            size = 3, hjust = 0.5,
+            inherit.aes = F)
+
+```
+
+## CAP Year and sample date
+
+```{r CAP_isoclines_year, echo = F}
+
+cap_year <- capscale(gut_mat_species ~ Year +
+                       Condition(sample_date),
+                     data = gut_matrix, distance = "bray")
+summary(cap_year)
+
+site_scoresY <- as.data.frame(scores(cap_year,
+                                     display = "sites",
+                                     choices = c(1,3))) %>%
+  mutate(sample = rownames(.),
+         Year = gut_matrix$Year)
+
+site_scoresY$sample_date <- gut_matrix$sample_date
+
+site_scoresY$host_plant <- gut_matrix$host_plant
+
+
+species_scoresY <- scores(cap_year, display = "species",
+                          choices = c(1, 3)) %>%
+  as.data.frame() %>%
+  rownames_to_column("species")
+
+gam_capY <- gamm4(log(sample_date) ~ s(CAP1, MDS1, k = 5),
+                 random = ~(1 | host_plant),
+                 data = site_scoresY)
+
+grid_capY <- expand.grid(CAP1 = seq(min(site_scoresY$CAP1),
+                                   max(site_scoresY$CAP1),
+                                   length = 100),
+                        MDS1 = seq(min(site_scoresY$MDS1),
+                                   max(site_scoresY$MDS1),
+                                   length = 100))
+
+grid_capY$date_pred <- exp(predict(gam_capY$gam,
+                                   newdata = grid_capY))
+
+
+ggplot(site_scoresY,
+       aes(x = CAP1, y = MDS1, color = Year, fill = Year)) +
+  geom_point(shape = 21, size = 2, stroke = 0.5,
+             aes(fill = Year), color = 'black') +
+  stat_ellipse(geom = "polygon", type = "t", level = 0.95, alpha = 0.3) +
+  geom_contour(data = grid_capY, aes(x = CAP1, y = MDS1, z = date_pred),
+               color = "grey40", inherit.aes = FALSE) +
+  metR::geom_text_contour(data = grid_capY,
+                          aes(x = CAP1, y = MDS1, z = date_pred),
+                          color = "grey20", stroke = 0.2, skip = 1,
+                          inherit.aes = FALSE) +
+  scale_color_manual(values = c("2019" = "turquoise2",
+                                "2020" = "#d95f02",
+                                "2021" = "maroon"),
+                     labels = c("2019", "2020", "2021")) +
+  scale_fill_manual(values = c("2019" = "turquoise2",
+                                "2020" = "#d95f02",
+                                "2021" = "maroon"),
+                     labels = c("2019", "2020", "2021")) +
+  theme_minimal(base_size = 14) +
+  labs(x = "CAP1 (Year--8.9%)",
+       y = "MDS1 (Residual--20.1%)",
+       fill = "Year", color = "Year") +
+  geom_segment(data = species_scoresY,
+               aes(x = 0, y = 0, xend = CAP1, yend = MDS1),
+               arrow = arrow(length = unit(0.2, "cm")),
+               color = "black",
+               inherit.aes = F) +
+  geom_text(data = species_scoresY,
+            aes(x = CAP1 * 1.1, y = MDS1 * 1.1, label = species),
+            size = 3, hjust = 0.5,
+            inherit.aes = F)
+
+```
+
+## CAP everything but year in the model
+
+```{r CAP_isoclines_no_year, echo = F}
+
+cap_no_year <- capscale(gut_mat_species ~ region + BCTV + CPt +
+                       host_plant +
+                       Condition(sample_date),
+                     data = gut_matrix, distance = "bray")
+summary(cap_no_year)
+
+site_scoresNY <- as.data.frame(scores(cap_no_year,
+                                     display = "sites",
+                                     choices = c(1,15))) %>%
+  mutate(sample = rownames(.),
+         Year = gut_matrix$Year)
+
+site_scoresNY$sample_date <- gut_matrix$sample_date
+
+site_scoresNY$host_plant <- gut_matrix$host_plant
+
+
+species_scoresNY <- scores(cap_no_year, display = "species",
+                          choices = c(1, 15)) %>%
+  as.data.frame() %>%
+  rownames_to_column("species")
+
+gam_capNY <- gamm4(log(sample_date) ~ s(CAP1, MDS1, k = 5),
+                 random = ~(1 | host_plant),
+                 data = site_scoresNY)
+
+grid_capNY <- expand.grid(CAP1 = seq(min(site_scoresNY$CAP1),
+                                   max(site_scoresNY$CAP1),
+                                   length = 100),
+                        MDS1 = seq(min(site_scoresNY$MDS1),
+                                   max(site_scoresNY$MDS1),
+                                   length = 100))
+
+grid_capNY$date_pred <- exp(predict(gam_capNY$gam,
+                                   newdata = grid_capNY))
+
+
+ggplot(site_scoresNY,
+       aes(x = CAP1, y = MDS1, color = Year, fill = Year)) +
+  geom_point(shape = 21, size = 2, stroke = 0.5,
+             aes(fill = Year), color = 'black') +
+  stat_ellipse(geom = "polygon", type = "t", level = 0.95, alpha = 0.3) +
+  geom_contour(data = grid_capNY, aes(x = CAP1, y = MDS1, z = date_pred),
+               color = "grey40", inherit.aes = FALSE) +
+  metR::geom_text_contour(data = grid_capNY,
+                          aes(x = CAP1, y = MDS1, z = date_pred),
+                          color = "grey20", stroke = 0.2, skip = 1,
+                          inherit.aes = FALSE) +
+  scale_color_manual(values = c("2019" = "turquoise2",
+                                "2020" = "#d95f02",
+                                "2021" = "maroon"),
+                     labels = c("2019", "2020", "2021")) +
+  scale_fill_manual(values = c("2019" = "turquoise2",
+                                "2020" = "#d95f02",
+                                "2021" = "maroon"),
+                     labels = c("2019", "2020", "2021")) +
+  theme_minimal(base_size = 14) +
+  labs(x = "CAP1 (Region, BCTV, CPt, Host Plant--6.3%)",
+       y = "MDS1 (Residual--18.9%)",
+       fill = "Year", color = "Year") +
+  geom_segment(data = species_scoresNY,
+               aes(x = 0, y = 0, xend = CAP1, yend = MDS1),
+               arrow = arrow(length = unit(0.2, "cm")),
+               color = "black",
+               inherit.aes = F) +
+  geom_text(data = species_scoresNY,
+            aes(x = CAP1 * 1.1, y = MDS1 * 1.1, label = species),
+            size = 3, hjust = 0.5,
+            inherit.aes = F)
+
 ```
 
 
@@ -1400,50 +1626,171 @@ ggplot(site_scoresI,
 
 ```{r CAP_model, echo = F}
 
-cap_model_full <- capscale(gut_mat_species ~ BCTV + Year +
-                             region + host_plant + sample_date,
+cap_model_full <- capscale(gut_mat_species ~ BCTV + CPt +
+                             region + host_plant + Year +
+                             Condition(sample_date),
                            data = gut_matrix, distance = "bray")
 anova.cca(cap_model_full, by = "term", permutations = 999)
 summary(cap_model_full)
 
 # Extract scores
-site_scores_full <- scores(cap_model_full, display = "sites") %>%
+site_scores_full <- scores(cap_model_full,
+                           display = "sites",
+                           choices = c(1, 17)) %>%
   as.data.frame() %>%
   mutate(sample = rownames(.), bctv = gut_matrix$BCTV)
 
-species_scores_full <- scores(cap_model_full, display = "species") %>%
+species_scores_full <- scores(cap_model_full,
+                              display = "species",
+                              choices = c(1, 17)) %>%
   as.data.frame() %>%
   rownames_to_column("species")
 
+
+## Isoclines
+
+site_scores_full$sample_date <- gut_matrix$sample_date
+
+site_scores_full$host_plant <- gut_matrix$host_plant
+
+gam_cap_full <- gamm4(log(sample_date) ~ s(CAP1, MDS1, k = 5),
+                 random = ~(1 | host_plant),
+                 data = site_scores_full)
+
+grid_cap_full <- expand.grid(CAP1 = seq(min(site_scores_full$CAP1)-0.5,
+                                   max(site_scores_full$CAP1)+0.5,
+                                   length = 100),
+                        MDS1 = seq(min(site_scores_full$MDS1)-1,
+                                   max(site_scores_full$MDS1)+1,
+                                   length = 100))
+
+grid_cap_full$date_pred <- exp(predict(gam_cap_full$gam,
+                                       newdata = grid_cap_full))
+
 # Filter for plotting
 species_scores_full_filtered <- species_scores_full %>%
-  filter(abs(CAP1) > 0.2 | abs(CAP2) > 0.2) 
+  filter(abs(CAP1) > 0.2 | abs(MDS1) > 0.2) 
 
 ggplot(site_scores_full,
-       aes(x = CAP1, y = CAP2, color = bctv, fill = bctv)) +
-  stat_ellipse(geom = "polygon", type = "t", level = 0.95, alpha = 0.3) +
+       aes(x = CAP1, y = MDS1, color = bctv, fill = bctv)) +
+  stat_ellipse(geom = "polygon", type = "t",
+               level = 0.95, alpha = 0.3) +
   geom_point(size = 3, shape = 21, stroke = 0.5,
              aes(fill = bctv), color = 'black') +
   geom_segment(data = species_scores_full_filtered,
-               aes(x = 0, y = 0, xend = CAP1, yend = CAP2),
+               aes(x = 0, y = 0, xend = CAP1, yend = MDS1),
                arrow = arrow(length = unit(0.2, "cm")),
                color = "black", inherit.aes = F) +
   geom_text(data = species_scores_full_filtered,
-            aes(x = CAP1 * 1.1, y = CAP2 * 1.1, label = species),
-            size = 3, hjust = 0.5,
+            aes(x = CAP1 * 1.1, y = MDS1 * 1.1, label = species),
+            size = 4, hjust = 0.5,
             inherit.aes = F) +
+  geom_contour(data = grid_cap_full,
+               aes(x = CAP1, y = MDS1, z = date_pred),
+               color = "grey40", inherit.aes = FALSE) +
+  metR::geom_text_contour(data = grid_cap_full,
+                          aes(x = CAP1, y = MDS1, z = date_pred),
+                          color = "grey20", stroke = 0.2, skip = 1,
+                          inherit.aes = FALSE) +
   scale_color_manual(values = c("0" = "#1b9e77", "1" = "#d95f02")) +
   scale_fill_manual(values = c("0" = "#1b9e77", "1" = "#d95f02")) +
   theme_minimal(base_size = 14) +
   labs(
-    x = "CAP1 (All Predictors)",
-    y = "CAP2"
+    x = "CAP1\n(BCTV, CPt, Year, Region, Host Plant--10.0%)",
+    y = "MDS1 17.6%"
+  )
+
+```
+
+
+
+
+```{r CAP_model_with_date, echo = F}
+
+
+cap_model_date <- capscale(gut_mat_species ~ Year +
+                             Condition(sample_date),
+                           data = gut_matrix, distance = "bray")
+
+anova.cca(cap_model_date, by = "term", permutations = 999)
+summary(cap_model_date)
+
+# Extract scores
+site_scores_full <- scores(cap_model_date,
+                           display = "sites",
+                           choices = c(1, 3)) %>%
+  as.data.frame() %>%
+  mutate(sample = rownames(.), Year = gut_matrix$Year)
+
+species_scores_full <- scores(cap_model_date,
+                              display = "species",
+                              choices = c(1, 3)) %>%
+  as.data.frame() %>%
+  rownames_to_column("species")
+
+
+## Isoclines
+
+site_scores_full$sample_date <- gut_matrix$sample_date
+
+site_scores_full$host_plant <- gut_matrix$host_plant
+
+gam_cap_full <- gamm4(log(sample_date) ~ s(CAP1, MDS1, k = 5),
+                 random = ~(1 | host_plant),
+                 data = site_scores_full)
+
+grid_cap_full <- expand.grid(CAP1 = seq(min(site_scores_full$CAP1)-0.5,
+                                   max(site_scores_full$CAP1)+0.5,
+                                   length = 100),
+                        MDS1 = seq(min(site_scores_full$MDS1)-1,
+                                   max(site_scores_full$MDS1)+1,
+                                   length = 100))
+
+grid_cap_full$date_pred <- exp(predict(gam_cap_full$gam,
+                                       newdata = grid_cap_full))
+
+# Filter for plotting
+species_scores_full_filtered <- species_scores_full %>%
+  filter(abs(CAP1) > 0.2 | abs(MDS1) > 0.2) 
+
+ggplot(site_scores_full,
+       aes(x = CAP1, y = MDS1, color = Year, fill = Year)) +
+  stat_ellipse(geom = "polygon", type = "t",
+               level = 0.95, alpha = 0.3) +
+  geom_point(size = 3, shape = 21, stroke = 0.5,
+             aes(fill = Year), color = 'black') +
+  geom_segment(data = species_scores_full_filtered,
+               aes(x = 0, y = 0, xend = CAP1, yend = MDS1),
+               arrow = arrow(length = unit(0.2, "cm")),
+               color = "black", inherit.aes = F) +
+  geom_text(data = species_scores_full_filtered,
+            aes(x = CAP1 * 1.1, y = MDS1 * 1.1, label = species),
+            size = 4, hjust = 0.5,
+            inherit.aes = F) +
+  geom_contour(data = grid_cap_full,
+               aes(x = CAP1, y = MDS1, z = date_pred),
+               color = "grey40", inherit.aes = FALSE) +
+  metR::geom_text_contour(data = grid_cap_full,
+                          aes(x = CAP1, y = MDS1, z = date_pred),
+                          color = "grey20", stroke = 0.2, skip = 1,
+                          inherit.aes = FALSE) +
+  scale_color_manual(values = c("2019" = "#1b9e77",
+                                "2020" = "#d95f02",
+                                "2021" = "maroon")) +
+  scale_fill_manual(values = c("2019" = "#1b9e77",
+                                "2020" = "#d95f02",
+                                "2021" = "maroon")) +
+  theme_minimal(base_size = 14) +
+  labs(
+    x = "CAP1 (Year--8.9%)",
+    y = "MDS1 20.3%"
   )
 
 
 
 ```
 
+* Sampling date is colinear with year.
 
 ## Session Information
 

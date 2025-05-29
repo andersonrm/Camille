@@ -1,7 +1,7 @@
 BLH Gut Diversity in Potato
 ================
 Riley M. Anderson
-May 28, 2025
+May 29, 2025
 
   
 
@@ -23,6 +23,11 @@ May 28, 2025
   - [CAP plot](#cap-plot)
   - [CAP with species vectors](#cap-with-species-vectors)
   - [CAP with Isoclines:](#cap-with-isoclines)
+  - [CAP just the sample date constrained by full
+    model](#cap-just-the-sample-date-constrained-by-full-model)
+  - [CAP Year and sample date](#cap-year-and-sample-date)
+  - [CAP everything but year in the
+    model](#cap-everything-but-year-in-the-model)
   - [CAP with full model:](#cap-with-full-model)
   - [Session Information](#session-information)
 
@@ -419,11 +424,7 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
 
 ### One figure for both NMDS
 
-![](potato_guts_files/figure-gfm/NMDS_A_and_B-1.png)<!-- -->
-
 ### Genus by year
-
-![](potato_guts_files/figure-gfm/gut_sample_date_year_fig-1.png)<!-- -->
 
 ## PERMANOVA
 
@@ -433,13 +434,16 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
     ## Permutation: free
     ## Number of permutations: 999
     ## 
-    ## adonis2(formula = gut_mat_species ~ splines::ns(sample_date, df = 5) + BCTV + CPt, data = gut_matrix, strata = gut_matrix$host_plant)
-    ##                                   Df SumOfSqs      R2      F Pr(>F)    
-    ## splines::ns(sample_date, df = 5)   5    9.465 0.16009 8.4848  0.001 ***
-    ## BCTV                               1    0.633 0.01071 2.8371  0.017 *  
-    ## CPt                                1    0.165 0.00279 0.7388  0.812    
-    ## Residual                         219   48.862 0.82642                  
-    ## Total                            226   59.125 1.00000                  
+    ## adonis2(formula = gut_mat_species ~ splines::ns(sample_date, df = 5) + BCTV * Year + CPt + region, data = gut_matrix, strata = gut_matrix$host_plant)
+    ##                                   Df SumOfSqs      R2       F Pr(>F)    
+    ## splines::ns(sample_date, df = 5)   5   10.070 0.16261 10.1900  0.001 ***
+    ## BCTV                               1    0.781 0.01261  3.9510  0.003 ** 
+    ## Year                               2    8.974 0.14492 22.7044  0.001 ***
+    ## CPt                                1    0.142 0.00229  0.7180  0.665    
+    ## region                             4    0.854 0.01379  1.0805  0.610    
+    ## BCTV:Year                          2    0.786 0.01269  1.9885  0.123    
+    ## Residual                         204   40.318 0.65108                   
+    ## Total                            219   61.925 1.00000                   
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ## 
@@ -448,26 +452,23 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
     ## Number of permutations: 999
     ## 
     ## Response: Distances
-    ##            Df Sum Sq  Mean Sq      F N.Perm Pr(>F)  
-    ## Groups      1 0.0668 0.066811 3.3374    999  0.057 .
-    ## Residuals 225 4.5042 0.020019                       
-    ## ---
-    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ##            Df Sum Sq  Mean Sq      F N.Perm Pr(>F)
+    ## Groups      1 0.0336 0.033636 1.4149    999  0.217
+    ## Residuals 218 5.1825 0.023773
     ## 
     ## Contrast: 0_1 
     ## 
-    ##             average      sd   ratio     ava     avb cumsum     p  
-    ## Solanum     0.14798 0.13287 1.11380 1.05060 0.95650  0.218 0.299  
-    ## Bassia      0.09799 0.10404 0.94190 0.63920 0.68120  0.362 0.066 .
-    ## Salsola     0.07822 0.09520 0.82160 0.49370 0.50720  0.478 0.028 *
-    ## Sisymbrium  0.07337 0.10341 0.70950 0.31650 0.30430  0.586 0.275  
-    ## Kali        0.05388 0.07079 0.76110 0.37340 0.21740  0.665 0.667  
-    ## Lactuca     0.04909 0.07914 0.62030 0.28480 0.15940  0.738 0.813  
-    ## Amaranthus  0.04229 0.08651 0.48880 0.36080 0.04350  0.800 0.991  
-    ## Chenopodium 0.04219 0.07129 0.59180 0.27220 0.17390  0.862 0.612  
-    ## Descurainia 0.03871 0.06808 0.56860 0.14560 0.21740  0.919 0.137  
-    ## Brassica    0.03463 0.06373 0.54330 0.22780 0.10140  0.970 0.926  
-    ## Raphanus    0.02031 0.05392 0.37660 0.17090 0.04350  1.000 0.894  
+    ##             average      sd   ratio     ava     avb cumsum     p   
+    ## Bassia      0.12819 0.13417 0.95540 0.66450 0.69120  0.181 0.018 * 
+    ## Salsola     0.10327 0.12480 0.82750 0.51320 0.51470  0.327 0.003 **
+    ## Sisymbrium  0.09479 0.13073 0.72510 0.32890 0.30880  0.461 0.151   
+    ## Kali        0.07324 0.09675 0.75690 0.38820 0.22060  0.565 0.398   
+    ## Lactuca     0.06546 0.10311 0.63490 0.29610 0.16180  0.657 0.651   
+    ## Amaranthus  0.05758 0.11505 0.50040 0.37500 0.04410  0.739 0.976   
+    ## Chenopodium 0.05715 0.09395 0.60830 0.28290 0.17650  0.819 0.614   
+    ## Descurainia 0.05305 0.09383 0.56530 0.15130 0.22060  0.894 0.074 . 
+    ## Brassica    0.04759 0.08609 0.55280 0.23680 0.10290  0.962 0.829   
+    ## Raphanus    0.02724 0.06938 0.39270 0.17760 0.04410  1.000 0.895   
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ## Permutation: free
@@ -479,7 +480,38 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
 
 <!-- -->
 
-    ## NULL
+    ## 
+    ## Call:
+    ## capscale(formula = gut_mat_species ~ BCTV, data = gut_matrix,      distance = "bray") 
+    ## 
+    ## Partitioning of squared Bray distance:
+    ##               Inertia Proportion
+    ## Total         86.7337    1.00000
+    ## Constrained    0.9085    0.01047
+    ## Unconstrained 85.8253    0.98953
+    ## 
+    ## Eigenvalues, and their contribution to the squared Bray distance 
+    ## 
+    ## Importance of components:
+    ##                          CAP1    MDS1    MDS2    MDS3    MDS4    MDS5    MDS6
+    ## Eigenvalue            0.90846 20.9040 15.2066 10.6593 8.48642 6.21071 6.17462
+    ## Proportion Explained  0.01047  0.2410  0.1753  0.1229 0.09784 0.07161 0.07119
+    ## Cumulative Proportion 0.01047  0.2515  0.4268  0.5497 0.64755 0.71916 0.79035
+    ##                          MDS7    MDS8    MDS9   MDS10   MDS11   MDS12    MDS13
+    ## Eigenvalue            5.11316 4.32565 2.75625 1.95775 1.29086 0.96493 0.603012
+    ## Proportion Explained  0.05895 0.04987 0.03178 0.02257 0.01488 0.01113 0.006952
+    ## Cumulative Proportion 0.84930 0.89918 0.93095 0.95353 0.96841 0.97953 0.986487
+    ##                          MDS14    MDS15    MDS16   MDS17     MDS18     MDS19
+    ## Eigenvalue            0.495785 0.294483 0.227991 0.09630 0.0340924 0.0234002
+    ## Proportion Explained  0.005716 0.003395 0.002629 0.00111 0.0003931 0.0002698
+    ## Cumulative Proportion 0.992203 0.995598 0.998227 0.99934 0.9997302 1.0000000
+    ## 
+    ## Accumulated constrained eigenvalues
+    ## Importance of components:
+    ##                         CAP1
+    ## Eigenvalue            0.9085
+    ## Proportion Explained  1.0000
+    ## Cumulative Proportion 1.0000
 
 ## CAP plot
 
@@ -520,6 +552,161 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
 
 ![](potato_guts_files/figure-gfm/CAP_isoclines-1.png)<!-- -->
 
+## CAP just the sample date constrained by full model
+
+    ## 
+    ## Call:
+    ## capscale(formula = gut_mat_species ~ Year + sample_date + BCTV +      CPt + region + host_plant, data = gut_matrix, distance = "bray") 
+    ## 
+    ## Partitioning of squared Bray distance:
+    ##               Inertia Proportion
+    ## Total           86.73      1.000
+    ## Constrained     25.59      0.295
+    ## Unconstrained   61.15      0.705
+    ## 
+    ## Eigenvalues, and their contribution to the squared Bray distance 
+    ## 
+    ## Importance of components:
+    ##                          CAP1    CAP2    CAP3    CAP4    CAP5     CAP6     CAP7
+    ## Eigenvalue            12.0420 4.88949 3.00849 2.21958 0.95642 0.758377 0.609363
+    ## Proportion Explained   0.1388 0.05637 0.03469 0.02559 0.01103 0.008744 0.007026
+    ## Cumulative Proportion  0.1388 0.19521 0.22990 0.25549 0.26652 0.275261 0.282286
+    ##                           CAP8    CAP9    CAP10     CAP11     CAP12     CAP13
+    ## Eigenvalue            0.419353 0.34956 0.183588 0.0787591 0.0272772 0.0231136
+    ## Proportion Explained  0.004835 0.00403 0.002117 0.0009081 0.0003145 0.0002665
+    ## Cumulative Proportion 0.287121 0.29115 0.293268 0.2941762 0.2944907 0.2947572
+    ##                          CAP14     CAP15     CAP16     CAP17    MDS1    MDS2
+    ## Eigenvalue            0.011966 8.265e-03 2.231e-03 7.456e-04 14.2392 10.9110
+    ## Proportion Explained  0.000138 9.529e-05 2.573e-05 8.596e-06  0.1642  0.1258
+    ## Cumulative Proportion 0.294895 2.950e-01 2.950e-01 2.950e-01  0.4592  0.5850
+    ##                          MDS3   MDS4    MDS5    MDS6    MDS7    MDS8    MDS9
+    ## Eigenvalue            6.87637 5.8801 5.07662 4.38119 3.75149 3.07619 2.00549
+    ## Proportion Explained  0.07928 0.0678 0.05853 0.05051 0.04325 0.03547 0.02312
+    ## Cumulative Proportion 0.66428 0.7321 0.79060 0.84112 0.88437 0.91984 0.94296
+    ##                         MDS10   MDS11    MDS12    MDS13    MDS14   MDS15
+    ## Eigenvalue            1.55853 1.09464 0.655661 0.584957 0.439885 0.27147
+    ## Proportion Explained  0.01797 0.01262 0.007559 0.006744 0.005072 0.00313
+    ## Cumulative Proportion 0.96093 0.97355 0.981108 0.987852 0.992924 0.99605
+    ##                          MDS16    MDS17     MDS18     MDS19
+    ## Eigenvalue            0.207120 0.087209 0.0271912 0.0207749
+    ## Proportion Explained  0.002388 0.001005 0.0003135 0.0002395
+    ## Cumulative Proportion 0.998441 0.999447 0.9997605 1.0000000
+    ## 
+    ## Accumulated constrained eigenvalues
+    ## Importance of components:
+    ##                          CAP1   CAP2   CAP3    CAP4    CAP5    CAP6    CAP7
+    ## Eigenvalue            12.0420 4.8895 3.0085 2.21958 0.95642 0.75838 0.60936
+    ## Proportion Explained   0.4706 0.1911 0.1176 0.08674 0.03738 0.02964 0.02381
+    ## Cumulative Proportion  0.4706 0.6617 0.7793 0.86599 0.90337 0.93301 0.95682
+    ##                          CAP8    CAP9    CAP10    CAP11    CAP12     CAP13
+    ## Eigenvalue            0.41935 0.34956 0.183588 0.078759 0.027277 0.0231136
+    ## Proportion Explained  0.01639 0.01366 0.007175 0.003078 0.001066 0.0009033
+    ## Cumulative Proportion 0.97321 0.98687 0.994046 0.997124 0.998190 0.9990930
+    ##                           CAP14    CAP15     CAP16     CAP17
+    ## Eigenvalue            0.0119661 0.008265 0.0022313 7.456e-04
+    ## Proportion Explained  0.0004676 0.000323 0.0000872 2.914e-05
+    ## Cumulative Proportion 0.9995607 0.999884 0.9999709 1.000e+00
+
+![](potato_guts_files/figure-gfm/cap_everything-1.png)<!-- -->
+
+## CAP Year and sample date
+
+    ## 
+    ## Call:
+    ## capscale(formula = gut_mat_species ~ Year + Condition(sample_date),      data = gut_matrix, distance = "bray") 
+    ## 
+    ## Partitioning of squared Bray distance:
+    ##               Inertia Proportion
+    ## Total          86.734    1.00000
+    ## Conditioned     5.795    0.06681
+    ## Constrained    11.347    0.13083
+    ## Unconstrained  69.592    0.80236
+    ## 
+    ## Eigenvalues, and their contribution to the squared Bray distance 
+    ## after removing the contribution of conditiniong variables
+    ## 
+    ## Importance of components:
+    ##                          CAP1    CAP2    MDS1    MDS2    MDS3    MDS4   MDS5
+    ## Eigenvalue            7.22508 4.12211 16.2674 11.7360 7.37935 6.54977 5.9815
+    ## Proportion Explained  0.08927 0.05093  0.2010  0.1450 0.09117 0.08092 0.0739
+    ## Cumulative Proportion 0.08927 0.14019  0.3412  0.4862 0.57735 0.65827 0.7322
+    ##                          MDS6    MDS7    MDS8    MDS9  MDS10   MDS11   MDS12
+    ## Eigenvalue            4.82798 4.41610 4.00348 2.64109 1.7641 1.28409 0.96125
+    ## Proportion Explained  0.05965 0.05456 0.04946 0.03263 0.0218 0.01587 0.01188
+    ## Cumulative Proportion 0.79182 0.84638 0.89585 0.92848 0.9503 0.96614 0.97801
+    ##                          MDS13    MDS14    MDS15    MDS16    MDS17     MDS18
+    ## Eigenvalue            0.611548 0.493455 0.293935 0.227651 0.095749 0.0340080
+    ## Proportion Explained  0.007556 0.006097 0.003632 0.002813 0.001183 0.0004202
+    ## Cumulative Proportion 0.985570 0.991667 0.995298 0.998111 0.999294 0.9997142
+    ##                           MDS19
+    ## Eigenvalue            0.0231342
+    ## Proportion Explained  0.0002858
+    ## Cumulative Proportion 1.0000000
+    ## 
+    ## Accumulated constrained eigenvalues
+    ## Importance of components:
+    ##                         CAP1   CAP2
+    ## Eigenvalue            7.2251 4.1221
+    ## Proportion Explained  0.6367 0.3633
+    ## Cumulative Proportion 0.6367 1.0000
+
+![](potato_guts_files/figure-gfm/CAP_isoclines_year-1.png)<!-- -->
+
+## CAP everything but year in the model
+
+    ## 
+    ## Call:
+    ## capscale(formula = gut_mat_species ~ region + BCTV + CPt + host_plant +      Condition(sample_date), data = gut_matrix, distance = "bray") 
+    ## 
+    ## Partitioning of squared Bray distance:
+    ##               Inertia Proportion
+    ## Total          86.734    1.00000
+    ## Conditioned     5.795    0.06681
+    ## Constrained    13.492    0.15556
+    ## Unconstrained  67.446    0.77763
+    ## 
+    ## Eigenvalues, and their contribution to the squared Bray distance 
+    ## after removing the contribution of conditiniong variables
+    ## 
+    ## Importance of components:
+    ##                          CAP1   CAP2    CAP3    CAP4     CAP5     CAP6     CAP7
+    ## Eigenvalue            5.05986 3.8528 1.15026 0.92565 0.681609 0.643104 0.462039
+    ## Proportion Explained  0.06251 0.0476 0.01421 0.01144 0.008421 0.007946 0.005709
+    ## Cumulative Proportion 0.06251 0.1101 0.12433 0.13576 0.144185 0.152131 0.157839
+    ##                           CAP8     CAP9    CAP10     CAP11     CAP12     CAP13
+    ## Eigenvalue            0.346542 0.186259 0.104523 0.0474838 0.0169615 0.0112463
+    ## Proportion Explained  0.004282 0.002301 0.001291 0.0005867 0.0002096 0.0001389
+    ## Cumulative Proportion 0.162121 0.164422 0.165713 0.1662998 0.1665094 0.1666484
+    ##                           CAP14    MDS1    MDS2  MDS3    MDS4    MDS5    MDS6
+    ## Eigenvalue            4.061e-03 15.2489 11.9713 8.336 6.67019 5.53188 4.72276
+    ## Proportion Explained  5.017e-05  0.1884  0.1479 0.103 0.08241 0.06835 0.05835
+    ## Cumulative Proportion 1.667e-01  0.3551  0.5030 0.606 0.68841 0.75676 0.81511
+    ##                          MDS7    MDS8    MDS9   MDS10   MDS11    MDS12    MDS13
+    ## Eigenvalue            4.05326 3.52032 2.29449 1.68538 1.11183 0.656780 0.585393
+    ## Proportion Explained  0.05008 0.04349 0.02835 0.02082 0.01374 0.008115 0.007233
+    ## Cumulative Proportion 0.86519 0.90868 0.93703 0.95785 0.97159 0.979703 0.986935
+    ##                          MDS14    MDS15    MDS16    MDS17     MDS18     MDS19
+    ## Eigenvalue            0.440511 0.272264 0.207675 0.088539 0.0273077 0.0211352
+    ## Proportion Explained  0.005443 0.003364 0.002566 0.001094 0.0003374 0.0002611
+    ## Cumulative Proportion 0.992378 0.995742 0.998308 0.999401 0.9997389 1.0000000
+    ## 
+    ## Accumulated constrained eigenvalues
+    ## Importance of components:
+    ##                        CAP1   CAP2    CAP3    CAP4    CAP5    CAP6    CAP7
+    ## Eigenvalue            5.060 3.8528 1.15026 0.92565 0.68161 0.64310 0.46204
+    ## Proportion Explained  0.375 0.2856 0.08525 0.06861 0.05052 0.04766 0.03424
+    ## Cumulative Proportion 0.375 0.6606 0.74582 0.81443 0.86494 0.91261 0.94685
+    ##                          CAP8   CAP9    CAP10    CAP11    CAP12     CAP13
+    ## Eigenvalue            0.34654 0.1863 0.104523 0.047484 0.016962 0.0112463
+    ## Proportion Explained  0.02568 0.0138 0.007747 0.003519 0.001257 0.0008335
+    ## Cumulative Proportion 0.97254 0.9863 0.994089 0.997608 0.998865 0.9996990
+    ##                          CAP14
+    ## Eigenvalue            0.004061
+    ## Proportion Explained  0.000301
+    ## Cumulative Proportion 1.000000
+
+![](potato_guts_files/figure-gfm/CAP_isoclines_no_year-1.png)<!-- -->
+
 ## CAP with full model:
 
     ## Permutation test for capscale under reduced model
@@ -527,74 +714,126 @@ AIC(bctv_mod1, bctv_mod2, bctv_mod3)
     ## Permutation: free
     ## Number of permutations: 999
     ## 
-    ## Model: capscale(formula = gut_mat_species ~ BCTV + Year + region + host_plant + sample_date, data = gut_matrix, distance = "bray")
-    ##              Df SumOfSqs       F Pr(>F)    
-    ## BCTV          1    0.744  2.5444  0.005 ** 
-    ## Year          2   14.188 24.2567  0.001 ***
-    ## region        4    1.940  1.6579  0.019 *  
-    ## host_plant    8    6.374  2.7241  0.001 ***
-    ## sample_date   1    1.014  3.4668  0.001 ***
-    ## Residual    210   61.418                   
+    ## Model: capscale(formula = gut_mat_species ~ BCTV + CPt + region + host_plant + Year + Condition(sample_date), data = gut_matrix, distance = "bray")
+    ##             Df SumOfSqs       F Pr(>F)    
+    ## BCTV         1    0.905  2.9910  0.008 ** 
+    ## CPt          1    0.422  1.3951  0.185    
+    ## region       4    4.300  3.5513  0.001 ***
+    ## host_plant   8    7.865  3.2478  0.001 ***
+    ## Year         2    6.301 10.4084  0.001 ***
+    ## Residual   202   61.145                   
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ## 
     ## Call:
-    ## capscale(formula = gut_mat_species ~ BCTV + Year + region + host_plant +      sample_date, data = gut_matrix, distance = "bray") 
+    ## capscale(formula = gut_mat_species ~ BCTV + CPt + region + host_plant +      Year + Condition(sample_date), data = gut_matrix, distance = "bray") 
     ## 
     ## Partitioning of squared Bray distance:
     ##               Inertia Proportion
-    ## Total           85.68     1.0000
-    ## Constrained     24.26     0.2832
-    ## Unconstrained   61.42     0.7168
+    ## Total          86.734    1.00000
+    ## Conditioned     5.795    0.06681
+    ## Constrained    19.794    0.22821
+    ## Unconstrained  61.145    0.70498
     ## 
     ## Eigenvalues, and their contribution to the squared Bray distance 
+    ## after removing the contribution of conditiniong variables
     ## 
     ## Importance of components:
-    ##                         CAP1    CAP2    CAP3    CAP4    CAP5     CAP6     CAP7
-    ## Eigenvalue            12.424 3.70720 2.59513 2.12073 1.12348 0.825761 0.515636
-    ## Proportion Explained   0.145 0.04327 0.03029 0.02475 0.01311 0.009638 0.006018
-    ## Cumulative Proportion  0.145 0.18828 0.21857 0.24332 0.25643 0.266073 0.272091
-    ##                           CAP8     CAP9    CAP10    CAP11     CAP12     CAP13
-    ## Eigenvalue            0.337147 0.217132 0.195908 0.086087 0.0595705 0.0203158
-    ## Proportion Explained  0.003935 0.002534 0.002287 0.001005 0.0006953 0.0002371
-    ## Cumulative Proportion 0.276026 0.278561 0.280847 0.281852 0.2825472 0.2827843
+    ##                         CAP1    CAP2    CAP3    CAP4    CAP5   CAP6     CAP7
+    ## Eigenvalue            8.0988 4.88340 2.68087 1.25683 0.82398 0.6718 0.493885
+    ## Proportion Explained  0.1001 0.06033 0.03312 0.01553 0.01018 0.0083 0.006102
+    ## Cumulative Proportion 0.1001 0.16040 0.19352 0.20905 0.21923 0.2275 0.233629
+    ##                           CAP8     CAP9    CAP10     CAP11     CAP12     CAP13
+    ## Eigenvalue            0.367584 0.214936 0.171112 0.0729407 0.0262440 0.0148788
+    ## Proportion Explained  0.004542 0.002656 0.002114 0.0009012 0.0003242 0.0001838
+    ## Cumulative Proportion 0.238170 0.240826 0.242940 0.2438409 0.2441652 0.2443490
     ##                           CAP14     CAP15     CAP16    MDS1    MDS2    MDS3
-    ## Eigenvalue            0.0169442 0.0096083 5.033e-03 11.5584 10.3555 7.91278
-    ## Proportion Explained  0.0001978 0.0001121 5.874e-05  0.1349  0.1209 0.09236
-    ## Cumulative Proportion 0.2829821 0.2830942 2.832e-01  0.4181  0.5389 0.63128
-    ##                         MDS4    MDS5    MDS6    MDS7    MDS8    MDS9  MDS10
-    ## Eigenvalue            5.5007 4.59026 3.90515 3.41386 2.96998 2.68803 2.1594
-    ## Proportion Explained  0.0642 0.05358 0.04558 0.03985 0.03466 0.03137 0.0252
-    ## Cumulative Proportion 0.6955 0.74906 0.79464 0.83448 0.86915 0.90052 0.9257
-    ##                         MDS11   MDS12   MDS13    MDS14    MDS15    MDS16
-    ## Eigenvalue            1.88912 1.15031 0.81911 0.746456 0.464021 0.401118
-    ## Proportion Explained  0.02205 0.01343 0.00956 0.008712 0.005416 0.004682
-    ## Cumulative Proportion 0.94777 0.96120 0.97076 0.979473 0.984889 0.989571
-    ##                          MDS17   MDS18    MDS19     MDS20     MDS21    MDS22
-    ## Eigenvalue            0.322960 0.23386 0.158169 0.0828231 0.0536414 0.034186
-    ## Proportion Explained  0.003769 0.00273 0.001846 0.0009667 0.0006261 0.000399
-    ## Cumulative Proportion 0.993340 0.99607 0.997916 0.9988824 0.9995085 0.999908
-    ##                           MDS23
-    ## Eigenvalue            7.922e-03
-    ## Proportion Explained  9.246e-05
-    ## Cumulative Proportion 1.000e+00
+    ## Eigenvalue            0.0118022 3.607e-03 8.774e-04 14.2392 10.9110 6.87637
+    ## Proportion Explained  0.0001458 4.456e-05 1.084e-05  0.1759  0.1348 0.08496
+    ## Cumulative Proportion 0.2444948 2.445e-01 2.446e-01  0.4205  0.5553 0.64024
+    ##                          MDS4    MDS5    MDS6    MDS7    MDS8    MDS9   MDS10
+    ## Eigenvalue            5.88012 5.07662 4.38119 3.75149 3.07619 2.00549 1.55853
+    ## Proportion Explained  0.07265 0.06272 0.05413 0.04635 0.03801 0.02478 0.01926
+    ## Cumulative Proportion 0.71289 0.77561 0.82974 0.87609 0.91410 0.93887 0.95813
+    ##                         MDS11    MDS12    MDS13    MDS14    MDS15    MDS16
+    ## Eigenvalue            1.09464 0.655661 0.584957 0.439885 0.271470 0.207120
+    ## Proportion Explained  0.01352 0.008101 0.007227 0.005435 0.003354 0.002559
+    ## Cumulative Proportion 0.97165 0.979755 0.986982 0.992417 0.995771 0.998330
+    ##                          MDS17     MDS18     MDS19
+    ## Eigenvalue            0.087209 0.0271912 0.0207749
+    ## Proportion Explained  0.001077 0.0003359 0.0002567
+    ## Cumulative Proportion 0.999407 0.9997433 1.0000000
     ## 
     ## Accumulated constrained eigenvalues
     ## Importance of components:
-    ##                          CAP1   CAP2   CAP3    CAP4    CAP5    CAP6    CAP7
-    ## Eigenvalue            12.4242 3.7072 2.5951 2.12073 1.12348 0.82576 0.51564
-    ## Proportion Explained   0.5121 0.1528 0.1070 0.08742 0.04631 0.03404 0.02125
-    ## Cumulative Proportion  0.5121 0.6649 0.7719 0.85933 0.90564 0.93968 0.96093
-    ##                         CAP8    CAP9    CAP10    CAP11    CAP12     CAP13
-    ## Eigenvalue            0.3371 0.21713 0.195908 0.086087 0.059571 0.0203158
-    ## Proportion Explained  0.0139 0.00895 0.008075 0.003549 0.002456 0.0008374
-    ## Cumulative Proportion 0.9748 0.98378 0.991857 0.995405 0.997861 0.9986980
+    ##                         CAP1   CAP2   CAP3   CAP4    CAP5    CAP6    CAP7
+    ## Eigenvalue            8.0988 4.8834 2.6809 1.2568 0.82398 0.67182 0.49389
+    ## Proportion Explained  0.4092 0.2467 0.1354 0.0635 0.04163 0.03394 0.02495
+    ## Cumulative Proportion 0.4092 0.6559 0.7913 0.8548 0.89645 0.93039 0.95534
+    ##                          CAP8    CAP9    CAP10    CAP11    CAP12     CAP13
+    ## Eigenvalue            0.36758 0.21494 0.171112 0.072941 0.026244 0.0148788
+    ## Proportion Explained  0.01857 0.01086 0.008645 0.003685 0.001326 0.0007517
+    ## Cumulative Proportion 0.97391 0.98477 0.993415 0.997100 0.998425 0.9991772
     ##                           CAP14     CAP15     CAP16
-    ## Eigenvalue            0.0169442 0.0096083 0.0050331
-    ## Proportion Explained  0.0006984 0.0003961 0.0002075
-    ## Cumulative Proportion 0.9993965 0.9997925 1.0000000
+    ## Eigenvalue            0.0118022 0.0036068 8.774e-04
+    ## Proportion Explained  0.0005963 0.0001822 4.433e-05
+    ## Cumulative Proportion 0.9997735 0.9999557 1.000e+00
 
 ![](potato_guts_files/figure-gfm/CAP_model-1.png)<!-- -->
+
+    ## Permutation test for capscale under reduced model
+    ## Terms added sequentially (first to last)
+    ## Permutation: free
+    ## Number of permutations: 999
+    ## 
+    ## Model: capscale(formula = gut_mat_species ~ Year + Condition(sample_date), data = gut_matrix, distance = "bray")
+    ##           Df SumOfSqs     F Pr(>F)    
+    ## Year       2   11.347 17.61  0.001 ***
+    ## Residual 216   69.592                 
+    ## ---
+    ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    ## 
+    ## Call:
+    ## capscale(formula = gut_mat_species ~ Year + Condition(sample_date),      data = gut_matrix, distance = "bray") 
+    ## 
+    ## Partitioning of squared Bray distance:
+    ##               Inertia Proportion
+    ## Total          86.734    1.00000
+    ## Conditioned     5.795    0.06681
+    ## Constrained    11.347    0.13083
+    ## Unconstrained  69.592    0.80236
+    ## 
+    ## Eigenvalues, and their contribution to the squared Bray distance 
+    ## after removing the contribution of conditiniong variables
+    ## 
+    ## Importance of components:
+    ##                          CAP1    CAP2    MDS1    MDS2    MDS3    MDS4   MDS5
+    ## Eigenvalue            7.22508 4.12211 16.2674 11.7360 7.37935 6.54977 5.9815
+    ## Proportion Explained  0.08927 0.05093  0.2010  0.1450 0.09117 0.08092 0.0739
+    ## Cumulative Proportion 0.08927 0.14019  0.3412  0.4862 0.57735 0.65827 0.7322
+    ##                          MDS6    MDS7    MDS8    MDS9  MDS10   MDS11   MDS12
+    ## Eigenvalue            4.82798 4.41610 4.00348 2.64109 1.7641 1.28409 0.96125
+    ## Proportion Explained  0.05965 0.05456 0.04946 0.03263 0.0218 0.01587 0.01188
+    ## Cumulative Proportion 0.79182 0.84638 0.89585 0.92848 0.9503 0.96614 0.97801
+    ##                          MDS13    MDS14    MDS15    MDS16    MDS17     MDS18
+    ## Eigenvalue            0.611548 0.493455 0.293935 0.227651 0.095749 0.0340080
+    ## Proportion Explained  0.007556 0.006097 0.003632 0.002813 0.001183 0.0004202
+    ## Cumulative Proportion 0.985570 0.991667 0.995298 0.998111 0.999294 0.9997142
+    ##                           MDS19
+    ## Eigenvalue            0.0231342
+    ## Proportion Explained  0.0002858
+    ## Cumulative Proportion 1.0000000
+    ## 
+    ## Accumulated constrained eigenvalues
+    ## Importance of components:
+    ##                         CAP1   CAP2
+    ## Eigenvalue            7.2251 4.1221
+    ## Proportion Explained  0.6367 0.3633
+    ## Cumulative Proportion 0.6367 1.0000
+
+![](potato_guts_files/figure-gfm/CAP_model_with_date-1.png)<!-- -->
+
+- Sampling date is colinear with year.
 
 ## Session Information
 
