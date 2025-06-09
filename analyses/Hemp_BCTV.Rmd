@@ -1,0 +1,183 @@
+---
+title: "Hemp BCTV 1"
+author: "Riley M. Anderson"
+date: '`r format(Sys.Date(), "%B %d, %Y")`'
+graphics: yes
+output:
+  github_document:
+    toc: yes
+    toc_depth: 5
+    pandoc_args: --webtex
+  html_document:
+    keep_md: yes
+    theme: readable
+    mathjax: default
+  html_notebook:
+    code_folding: hide
+    theme: readable
+    mathjax: default
+  pdf_document:
+    toc: yes
+header-includes:
+  \usepackage{float}
+  \floatplacement{figure}{H}
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include = F}
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Knitr Options
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Set root directory to the project directory
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+
+
+# Set default knitr options: 
+# Suppress warnings and messages, cache chunks, 
+#  set default figure size to 6x8 at 300 dpi, and save a png and pdf
+knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
+    fig.height = 6, fig.width = 8, dpi = 300, # 6x8" @ 300dpi:1800x2400=4.3MP
+    dev = 'png')
+
+```
+
+
+
+## Overview
+
+What is this analysis about?
+
+### Summary of Results
+* 
+
+```{r Main_Code, include = F, cache = F}
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Setup - This code is run, but output is hidden
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Load Packages
+library(tidyverse) # Needed for data wrangling: dplyr, tidyr, ggplot2
+library(cowplot) # Needed for publication-quality ggplots
+library(lme4)
+library(glmmTMB)
+library(sjPlot)
+
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@ Data Preparation
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+# Import datasets
+d <- read.csv("data/hemp_bctv_rep1.csv")
+
+```
+
+
+```{r Data_Wrangling, echo = F, comment = ""}
+
+str(d)
+
+d1 <- d %>% 
+  mutate(Plant = as.Date(Plant, origin = "1899-12-30"),
+         Transplant = as.Date(Transplant, origin = "1899-12-30"),
+         Infection = as.Date(Infection, origin = "1899-12-30"),
+         Data = as.Date(Data, origin = "1899-12-30"),
+         across(c(Sample, Chemovar, Type,
+                  Block, Treatment, Colony), factor),
+         SPAD = (SPAD1 + SPAD2 +SPAD3)/3,
+         moldy = as.factor(case_when(
+           str_detect(str_to_lower(Notes),
+                      "fungus|\\bmold\\b| brown|\\bmoldy") ~ "mold",
+           TRUE ~ "no mold"
+         )))
+
+str(d1)
+```
+
+
+```{r spad_exploratory, echo = F}
+
+d1 %>% 
+  ggplot(aes(x = Set, y = SPAD, color = Treatment)) +
+  geom_jitter(aes(shape = Chemovar)) +
+  geom_smooth(method = 'lm') +
+  facet_wrap(~moldy)
+
+
+
+d1 %>% 
+  filter(Set != 3) %>% 
+  ggplot(aes(x = Set, y = SPAD, color = Treatment)) +
+  geom_jitter() +
+  geom_smooth(method = 'lm') +
+  facet_wrap(~Chemovar)
+
+```
+
+
+```{r weight_exploratory, echo = F}
+
+d1 %>%
+  filter(Set == 5) %>% 
+  ggplot(aes(x = Treatment, y = Weight, color = Chemovar)) +
+  geom_boxplot() +
+  geom_point() +
+  facet_wrap(~moldy)
+
+
+
+```
+
+```{r diameter_exploratory, echo = F}
+
+d1 %>%
+  filter(Set == 5) %>% 
+  ggplot(aes(x = Treatment, y = Diameter, color = Chemovar)) +
+  geom_boxplot() +
+  geom_jitter(width = 0.2, height = 0.1) +
+  facet_wrap(~moldy)
+
+
+
+```
+
+```{r symptom_exploratory, echo = F}
+
+d1 %>% 
+  ggplot(aes(x = Set, y = Symptom, color = Treatment)) +
+  geom_jitter(aes(shape = Chemovar), height = 0, width = 0.1) +
+  geom_smooth(method = 'lm') +
+  facet_wrap(~moldy)
+
+
+
+```
+
+```{r SPAD_mod1, echo = F}
+
+str(d1)
+
+spad_mod1 <- lmer(SPAD ~ Set * Chemovar * Treatment * moldy +
+                    (1 | Sample), data = d1)
+
+plot_model(spad_mod1,
+           type = "pred",
+           terms = c("Set", "Treatment", "Chemovar"))
+
+summary(spad_mod1)
+```
+
+## Session Information
+
+```{r Session_Info, echo = F, comment = ""}
+
+# Add session information to help with reproduceability
+sessionInfo()
+
+
+```
+
+

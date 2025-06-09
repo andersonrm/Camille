@@ -1,7 +1,7 @@
 BLH Gut Diversity in Potato
 ================
 Riley M. Anderson
-May 29, 2025
+May 30, 2025
 
   
 
@@ -38,6 +38,12 @@ What is this analysis about?
 ### Summary of Results
 
 - 
+
+| Grouping | Mode | Median |   SD | Minimum | Maximum |
+|:---------|-----:|-------:|-----:|--------:|--------:|
+| Species  |    3 |      5 | 3.92 |       1 |      20 |
+| Genera   |    3 |      4 | 3.00 |       1 |      18 |
+| Family   |    2 |      3 | 1.88 |       1 |      10 |
 
 # BCTV by richness
 

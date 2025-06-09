@@ -222,6 +222,59 @@ richness <- richness %>%
 
 ```
 
+```{r richness_results, echo = F}
+
+get_mode <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+
+spp_rich <- richness %>% 
+  summarise(Grouping = "Species",
+            Mode = get_mode(richness),
+            Median = median(richness),
+            SD = sd(richness),
+            Minimum = min(richness),
+            Maximum = max(richness))
+
+genus_rich <- dat1 %>% select(BLH_ID, genus) %>% 
+  distinct() %>% 
+  group_by(BLH_ID) %>% tally(name = "genus") %>% 
+  summarise(Grouping = "Genera",
+            Mode = get_mode(genus),
+            Median = median(genus),
+            SD = sd(genus),
+            Minimum = min(genus),
+            Maximum = max(genus))
+
+family_rich <- dat1 %>% select(BLH_ID, family) %>% 
+  distinct() %>% group_by(BLH_ID) %>% 
+  tally(name = "family") %>% 
+  summarise(Grouping = "Family",
+            Mode = get_mode(family),
+            Median = median(family),
+            SD = sd(family),
+            Minimum = min(family),
+            Maximum = max(family))
+
+
+
+kable(bind_rows(spp_rich, genus_rich, family_rich),
+      format = "markdown", digits = 2)
+
+dat1 %>% select(BLH_ID) %>% distinct()
+
+dat1 %>% filter(genus == "Bassia" |
+                  genus == "Salsola" |
+                  genus == "Sisymbrium" |
+                  genus == "Kali") %>% 
+  droplevels() %>% 
+  select(BLH_ID) %>% distinct() %>% nrow(.)
+
+205/228
+```
+
+
 
 # BCTV by richness
 ```{r bctv_richness, echo = F}
