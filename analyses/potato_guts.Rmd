@@ -37,7 +37,7 @@ knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
 # Set default knitr options: 
 # Suppress warnings and messages, cache chunks, 
 #  set default figure size to 6x8 at 300 dpi, and save a png and pdf
-knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
+knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = F,
     fig.height = 4, fig.width = 8, dpi = 300, # 6x8" @ 300dpi:1800x2400=4.3MP
     dev = 'png', dev.args = list(pdf = list(onefile = F)))
 
@@ -200,6 +200,11 @@ meta_dat <- dat1 %>%
     Month = month(Date),
     sample_date = scale(yday(Date)))
 
+crop_type_potato <- data.frame(genus = "Solanum",
+                               crop_type = "crop")
+
+crop_type <- bind_rows(crop_type, crop_type_potato) %>% 
+  mutate(crop_type = factor(crop_type))
 
 
 richness <- dat1 %>% 
@@ -262,16 +267,8 @@ family_rich <- dat1 %>% select(BLH_ID, family) %>%
 kable(bind_rows(spp_rich, genus_rich, family_rich),
       format = "markdown", digits = 2)
 
-dat1 %>% select(BLH_ID) %>% distinct()
 
-dat1 %>% filter(genus == "Bassia" |
-                  genus == "Salsola" |
-                  genus == "Sisymbrium" |
-                  genus == "Kali") %>% 
-  droplevels() %>% 
-  select(BLH_ID) %>% distinct() %>% nrow(.)
 
-205/228
 ```
 
 
@@ -483,6 +480,11 @@ ggplot(richness, aes(x = richness)) +
 
 dat1 %>% 
   semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   mutate(BCTV = as.numeric(BCTV) - 1,
          CPt = as.numeric(CPt) - 1,
          co_infected = (case_when(
@@ -528,6 +530,11 @@ dat1 %>%
 
 prop_inf_A <- dat1 %>% 
   semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   mutate(BCTV = as.numeric(BCTV) - 1,
          CPt = as.numeric(CPt) - 1,
          co_infected = (case_when(
@@ -573,6 +580,11 @@ prop_inf_A <- dat1 %>%
 
 total_w_c_t <- dat1 %>% 
   semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   mutate(BCTV = as.numeric(BCTV) - 1,
          CPt = as.numeric(CPt) - 1,
          co_infected = (case_when(
@@ -601,6 +613,11 @@ total_w_c_t <- dat1 %>%
 
 dat1 %>% 
   semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   mutate(BCTV = as.numeric(BCTV) - 1,
          CPt = as.numeric(CPt) - 1,
          co_infected = (case_when(
@@ -653,6 +670,11 @@ dat1 %>%
 
 dat1 %>% 
   semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   mutate(BCTV = as.numeric(BCTV) - 1,
          CPt = as.numeric(CPt) - 1,
          co_infected = (case_when(
@@ -710,6 +732,11 @@ dat1 %>%
 
 prop_inf_B <- dat1 %>% 
   semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   mutate(BCTV = as.numeric(BCTV) - 1,
          CPt = as.numeric(CPt) - 1,
          co_infected = (case_when(
@@ -777,6 +804,11 @@ cowplot::plot_grid(prop_inf_A, prop_inf_B,
 
 inf_stat_data <- dat1 %>% 
   semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   mutate(BCTV = as.numeric(BCTV) - 1,
          CPt = as.numeric(CPt) - 1,
          co_infected = (case_when(
@@ -832,7 +864,6 @@ summary(mod1)
 plot_model(mod1,
            type = "pred",
            terms = c("crop_type", "status"))
-plot_model(mod1, type = "diag")
 ```
 
 
@@ -880,10 +911,15 @@ plot_model(mod1, type = "diag")
 
 # Plants in the gut over time
 
-```{r plants_in_gut_time, echo = F}
+```{r plants_in_gut_time, echo = F, cache=F}
 
 genus_orders <- dat1 %>% 
   semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   mutate(Week = week(Date)) %>% 
   group_by(genus) %>% 
   summarise(peak = Mode(Week)) %>% 
@@ -897,7 +933,8 @@ crop_orders <- genus_orders %>% filter(crop_type == "crop") %>%
 
 crop_orders <- crop_orders$genus
 
-non_crop_orders <- genus_orders %>% filter(crop_type == "non crop") %>%
+non_crop_orders <- genus_orders %>%
+  filter(crop_type == "non crop") %>%
   droplevels() %>% 
   arrange(desc(peak)) %>% 
   select(genus)
@@ -920,6 +957,11 @@ tree_orders <- tree_orders$genus
 
 rpA <- dat1 %>%
   semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   left_join(., crop_type, by = "genus") %>% 
   filter(crop_type == "crop",
          genus != "Coriandrum" & genus != "Pisum" &
@@ -1043,18 +1085,27 @@ cowplot::plot_grid(rpB, rpA, rpC,
 
 ```{r nmds_prep, echo = F}
 species_counts <- dat1 %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   group_by(BLH_ID, genus) %>% 
   tally() %>% 
   group_by(genus) %>% 
   summarise(total_counts = sum(n)) %>% 
   arrange(desc(total_counts)) %>% 
-  filter(genus != "Solanum") %>% 
   filter(total_counts > quantile(total_counts, 0.9)) %>% 
   droplevels()
 
 
 gut_matrix <- dat1 %>%
   semi_join(., species_counts, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
   group_by(BLH_ID, genus) %>%
   tally() %>% 
   pivot_wider(names_from = genus,
@@ -1093,7 +1144,7 @@ gut_mod_envfit <- envfit(gut_ord ~ sample_date +
                          choices = c(1:3),
                          data = gut_matrix, nperm = 999)
 
-gut_mod_envfit # Only sample date matters
+gut_mod_envfit 
 
 
 ## checking for trends with GAM:
@@ -1149,7 +1200,7 @@ gut_mat_predictors <- gut_matrix %>% ungroup() %>%
 
 ```{r gut_community_BCTV_fig, echo = F, cache=F, fig.width=8, fig.height=3.5, eval = F}
 
-
+## THIS CHUNK IS NOT EVALUATED:
 gut_BCTV_centroids <- gut_sites %>% 
   group_by(BCTV) %>% 
   summarise(NMDS1 = mean(NMDS1),
@@ -1160,7 +1211,7 @@ nmdsA <- ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
                aes(z = date_pred), color = "grey") +
   metR::geom_text_contour(data = preddat,
                           aes(z = date_pred),
-                          color = "grey", stroke = 0.15, skip = 1)  +
+                          color = "grey", stroke = 0.15, skip = 1) +
   scale_size_binned(range = c(1.5, 8),
              breaks = c(50, 100, 200)) +
   theme_cowplot() +
@@ -1187,7 +1238,7 @@ nmdsA <- ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
 
 ```{r gut_community_CPt_fig, echo = F, cache=F, fig.width=8, fig.height=3.5, eval = F}
 
-
+## THIS CHUNK IS NOT EVALUATED:
 gut_cpt_centroids <- gut_sites %>% 
   group_by(CPt) %>% 
   summarise(NMDS1 = mean(NMDS1),
@@ -1224,6 +1275,7 @@ nmdsB <- ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
 ### One figure for both NMDS
 ```{r NMDS_A_and_B, echo = F, fig.width = 10, fig.height = 8, eval = F}
 
+## THIS CHUNK IS NOT EVALUATED:
 cowplot::plot_grid(nmdsA, nmdsB,
                    labels = c("A", "B"),
                    nrow = 2)
@@ -1234,6 +1286,8 @@ cowplot::plot_grid(nmdsA, nmdsB,
 
 ```{r gut_sample_date_year_fig, echo = F, cache=F, eval = F}
 
+
+## THIS CHUNK IS NOT EVALUATED:
 gut_year_centroids <- gut_sites %>% 
   group_by(Year) %>% 
   summarise(NMDS1 = mean(NMDS1),
@@ -1270,10 +1324,6 @@ ggplot(mapping = aes(x = NMDS1, y = NMDS2)) +
 ```{r PERMANOVA, echo = F}
 
 #### checking for trends with PERMANOVA:
-
-
-
-
 
 gut_ord_adonis1 <- adonis2(gut_mat_species ~
                             splines::ns(sample_date, df = 5) +
