@@ -37,7 +37,7 @@ knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
 # Set default knitr options: 
 # Suppress warnings and messages, cache chunks, 
 #  set default figure size to 6x8 at 300 dpi, and save a png and pdf
-knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = F,
+knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
     fig.height = 4, fig.width = 8, dpi = 300, # 6x8" @ 300dpi:1800x2400=4.3MP
     dev = 'png', dev.args = list(pdf = list(onefile = F)))
 
@@ -866,6 +866,117 @@ plot_model(mod1,
            terms = c("crop_type", "status"))
 ```
 
+## Figure 2 (supplement)
+
+```{r supp_figure, echo = F, fig.height=16, fig.width=6}
+
+
+supp_dat <- dat1 %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
+  mutate(BCTV = as.numeric(BCTV) - 1,
+         CPt = as.numeric(CPt) - 1,
+         co_infected = (case_when(
+                        BCTV == 1 & CPt == 1 ~ 1,
+                        BCTV != 1 | CPt != 1 ~ 0)),
+         healthy = case_when(
+                        BCTV == 0 & CPt == 0 ~ 1,
+                        TRUE ~ 0)) %>% 
+  group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
+  tally() %>%
+  mutate(status = case_when(
+    healthy == 1 ~ "Healthy",
+    CPt == 1 & co_infected == 0 ~ "CPt",
+    BCTV == 1 & co_infected == 0 ~ "BCTV",
+    co_infected == 1 ~ "Co-infected"
+  )) %>% 
+  filter(!is.na(status))
+
+
+supp_fig_A <- supp_dat %>% 
+  group_by(genus) %>% 
+  summarise(total_n = sum(n)) %>% 
+  left_join(., supp_dat, by = "genus") %>% 
+  ggplot(aes(x = fct_reorder2(genus, status, total_n),
+             y = n,
+             fill = factor(status,
+                           level = c("Healthy", "BCTV",
+                                      "CPt", "Co-infected")))) +
+  geom_bar(stat = "identity", show.legend = F) +
+  coord_flip() +
+  theme_bw(base_size = 18) +
+  scale_fill_viridis_d(option = "G", direction = -1) +
+  theme(legend.title = element_blank(),
+        strip.background = element_blank(),
+        axis.title.x = element_blank(),
+        axis.title.y = element_blank(),
+        legend.position = "bottom")
+
+
+
+supp_fig_B <- dat1 %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
+  mutate(BCTV = as.numeric(BCTV) - 1,
+         CPt = as.numeric(CPt) - 1,
+         co_infected = (case_when(
+                        BCTV == 1 & CPt == 1 ~ 1,
+                        BCTV != 1 | CPt != 1 ~ 0)),
+         healthy = case_when(
+                        BCTV == 0 & CPt == 0 ~ 1,
+                        TRUE ~ 0)) %>% 
+  group_by(genus, BCTV, CPt, co_infected, healthy) %>% 
+  tally() %>%
+  mutate(status = factor(case_when(
+    healthy == 1 ~ "Healthy",
+    CPt == 1 & co_infected == 0 ~ "CPt",
+    BCTV == 1 & co_infected == 0 ~ "BCTV",
+    co_infected == 1 ~ "Co-infected"
+  ))) %>% 
+  filter(!is.na(status)) %>% 
+  ungroup() %>% 
+  select(-BCTV, -CPt, -co_infected, -healthy) %>% 
+  pivot_wider(names_from = status, values_from = n,
+              values_fill = list(n = 0)) %>% 
+  mutate(total = CPt + Healthy + `Co-infected` + BCTV) %>% 
+  mutate(prop.healthy = Healthy / total,
+         prop.CPt = CPt / total,
+         prop.co = `Co-infected` / total,
+         prop.bctv = BCTV / total) %>% 
+  select(-Healthy, -CPt, -`Co-infected`, -BCTV) %>% 
+  pivot_longer(cols = c(prop.healthy : prop.bctv),
+               names_to = "status",
+               values_to = "n") %>% 
+  mutate(status = factor(case_when(
+    status == "prop.healthy" ~ "Healthy",
+    status == "prop.CPt" ~ "CPt",
+    status == "prop.bctv" ~ "BCTV",
+    status == "prop.co" ~ "Co-infected",
+    TRUE ~ NA),
+    levels = c("Healthy", "BCTV", "CPt", "Co-infected"))) %>% 
+  ggplot(aes(x = n, y = status, fill = status)) +
+  geom_violin() +
+  scale_fill_viridis_d(option = "G", direction = -1) +
+  theme_bw(base_size = 18) +
+  theme(strip.text = element_blank(),
+        legend.title = element_blank(),
+        legend.position = "bottom",
+        axis.title = element_blank()) +
+  scale_x_continuous(breaks = c(0, 0.5, 1),
+                     limits = c(0, 1),)
+
+cowplot::plot_grid(supp_fig_A, supp_fig_B,
+                   nrow = 2,
+                   align = "v",rel_heights = c(2,.35))
+
+
+```
 
 
 ```{r plant_inf_props_by_virus, echo = F, fig.width=11, fig.height=11}
