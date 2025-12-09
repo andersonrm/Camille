@@ -271,6 +271,51 @@ kable(bind_rows(spp_rich, genus_rich, family_rich),
 
 ```
 
+## Infection summary results for table:
+
+```{r sequence_results, echo = F}
+
+infected_blh_per_plant <- dat1 %>% 
+  select(BLH_ID, Year, host_plant, BCTV, CPt) %>% 
+  distinct() %>% 
+  mutate(healthy = case_when(
+    BCTV == 0 & CPt == 0 ~ 1,
+    TRUE ~ 0),
+    co_infected = case_when(
+      BCTV == 1 & CPt == 1 ~ 1,
+      TRUE ~ 0),
+    BCTV = as.numeric(BCTV) - 1,
+    CPt = as.numeric(CPt) - 1) %>% 
+  filter(!is.na(CPt)) %>% 
+  group_by(host_plant) %>% 
+  summarise(n_bctv = sum(BCTV),
+            n_cpt = sum(CPt),
+            n_healthy = sum(healthy),
+            n_coinfected = sum(co_infected))
+
+
+total_blh_per_plant <- dat1 %>% 
+  select(BLH_ID, Year, host_plant, BCTV, CPt) %>% 
+  distinct() %>% 
+  group_by(host_plant) %>% 
+  tally() %>% 
+  left_join(., infected_blh_per_plant, by = "host_plant") %>% 
+  rename("Host plant" = host_plant,
+         Total = n,
+         BCTV = n_bctv,
+         CPt = n_cpt,
+         Healthy = n_healthy,
+         "Co-infected" = n_coinfected)
+
+# write.csv(total_blh_per_plant,
+#           file = "data/sequencing_totals.csv",
+#           row.names = F)
+
+kable(total_blh_per_plant,
+      format = "markdown",
+      digits = 2)
+
+```
 
 
 # BCTV by richness
@@ -1443,6 +1488,9 @@ gut_ord_adonis1 <- adonis2(gut_mat_species ~
                           data = gut_matrix)
 
 gut_ord_adonis1
+
+# write.csv(gut_ord_adonis1,
+#           file = "data/adonis_results.csv")
 
 permutest(betadisper(vegdist(gut_mat_species, method = "bray"),
                      gut_matrix$BCTV))

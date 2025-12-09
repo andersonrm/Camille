@@ -1,12 +1,14 @@
 BLH Gut Diversity in Potato
 ================
 Riley M. Anderson
-November 14, 2025
+December 09, 2025
 
   
 
 - [Overview](#overview)
   - [Summary of Results](#summary-of-results)
+- [Infection summary results for
+  table:](#infection-summary-results-for-table)
 - [BCTV by richness](#bctv-by-richness)
 - [CPt by richness](#cpt-by-richness)
 - [Proportion plants infected](#proportion-plants-infected)
@@ -45,6 +47,20 @@ What is this analysis about?
 | Species  |    3 |      5 | 3.92 |       1 |      20 |
 | Genera   |    3 |      4 | 3.00 |       1 |      18 |
 | Family   |    2 |      3 | 1.88 |       1 |      10 |
+
+## Infection summary results for table:
+
+| Host plant      | Total | BCTV | CPt | Healthy | Co-infected |
+|:----------------|------:|-----:|----:|--------:|------------:|
+| Filaree         |     1 |    0 |   1 |       0 |           0 |
+| Flixweed        |    25 |   12 |   5 |      10 |           3 |
+| Kochia          |    68 |   15 |  18 |      38 |           4 |
+| Lambsquarter    |     1 |    0 |   1 |       0 |           0 |
+| Mustard         |     3 |    1 |   1 |       2 |           1 |
+| Pigweed         |    11 |    0 |   2 |       9 |           0 |
+| Potato          |    19 |    8 |   1 |       8 |           1 |
+| Russian thistle |    66 |   20 |  34 |      24 |          14 |
+| Tumble mustard  |    41 |   14 |  10 |      23 |           6 |
 
 # BCTV by richness
 
