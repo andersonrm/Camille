@@ -37,7 +37,7 @@ knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
 # Set default knitr options: 
 # Suppress warnings and messages, cache chunks, 
 #  set default figure size to 6x8 at 300 dpi, and save a png and pdf
-knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = T,
+knitr::opts_chunk$set(warning = F, message = F, collapse = T, cache = F,
     fig.height = 4, fig.width = 8, dpi = 300, # 6x8" @ 300dpi:1800x2400=4.3MP
     dev = 'png', dev.args = list(pdf = list(onefile = F)))
 
@@ -518,6 +518,102 @@ ggplot(richness, aes(x = richness)) +
 
 * Both **richness** and **year** have no effect on CPt infection (*P* > 0.5).
 
+
+# Descriptive stats for 1st paragraph of results:
+
+* Table of plants found and their proportions and counts:
+```{r plant_table, echo = T}
+
+plant_table <- dat1 %>% select(family, genus) %>% 
+  group_by(family, genus) %>% 
+  tally(name = "detections") %>% 
+  mutate(percent = round(detections / nrow(dat1), 4) * 100) %>% 
+  arrange(desc(percent))
+
+kable(plant_table,
+      format = "markdown",
+      digits = 2)
+
+# write.csv(plant_table,
+#           file = "data/plant_table.csv",
+#           row.names = F,
+#           quote = F)
+
+# number of famalies found:
+dat1 %>% 
+  select(family) %>% distinct() %>% nrow()
+
+# number of genera found:
+dat1 %>% 
+  select(genus) %>% distinct() %>% nrow()
+
+# number of tested BLH:
+dat1 %>% uncount(blh_mix_count) %>% select(BLH_ID) %>% 
+  distinct() %>% nrow()
+
+# infection status of positive S. citri BLH:
+dat1 %>% uncount(blh_mix_count) %>% 
+  filter(!is.na(S_citri)) %>% 
+  filter(S_citri == 1) %>% 
+  select(BLH_ID, BCTV, CPt, S_citri) %>% distinct()
+
+# number of non-infectious:
+dat1 %>% uncount(blh_mix_count) %>% 
+  select(BLH_ID, BCTV, CPt, S_citri) %>% distinct() %>% 
+  mutate(S_citri = case_when(
+    S_citri == 1 ~ 1,
+    TRUE ~ 0
+  )) %>% 
+  filter(BCTV != 1 & CPt != 1 & S_citri != 1) %>% nrow()
+
+# number of BCTV only:
+dat1 %>% uncount(blh_mix_count) %>% 
+  select(BLH_ID, BCTV, CPt, S_citri) %>% distinct() %>% 
+  mutate(S_citri = case_when(
+    S_citri == 1 ~ 1,
+    TRUE ~ 0
+  )) %>% 
+  filter(BCTV == 1 & CPt != 1 & S_citri != 1) %>% nrow()
+
+# number of CPt only:
+dat1 %>% uncount(blh_mix_count) %>% 
+  select(BLH_ID, BCTV, CPt, S_citri) %>% distinct() %>% 
+  mutate(S_citri = case_when(
+    S_citri == 1 ~ 1,
+    TRUE ~ 0
+  )) %>% 
+  filter(BCTV != 1 & CPt == 1 & S_citri != 1) %>% nrow()
+
+# number of BCTV & CPt:
+dat1 %>% uncount(blh_mix_count) %>% 
+  select(BLH_ID, BCTV, CPt, S_citri) %>% distinct() %>% 
+  mutate(S_citri = case_when(
+    S_citri == 1 ~ 1,
+    TRUE ~ 0
+  )) %>% 
+  filter(BCTV == 1 & CPt == 1) %>% nrow()
+
+# number of N. tenellus collected in 2020:
+dat1 %>% uncount(blh_mix_count) %>% 
+  select(BLH_ID, Year) %>% 
+  distinct() %>% 
+  filter(Year == "2020") %>% nrow()
+
+
+# percents of crop type (anything not in the crop_type.csv is considered a weed)
+dat1 %>% uncount(blh_mix_count) %>% 
+  left_join(., crop_type, by = "genus") %>% 
+  mutate(crop_type = factor(case_when(
+    is.na(crop_type) ~ "non crop",
+    TRUE ~ crop_type
+  ))) %>% 
+  group_by(crop_type) %>% 
+  tally() %>% 
+  mutate(prop = round(n / sum(n), 4) * 100)
+
+```
+
+
 # Proportion plants infected
 
 ```{r plant_inf_props, echo = F, fig.width=10, fig.height=5}
@@ -758,12 +854,12 @@ dat1 %>%
                names_to = "status",
                values_to = "n") %>% 
   mutate(status = factor(case_when(
-    status == "prop.healthy" ~ "Healthy",
+    status == "prop.healthy" ~ "Non-infectious",
     status == "prop.CPt" ~ "CPt",
     status == "prop.bctv" ~ "BCTV",
     status == "prop.co" ~ "Co-infected",
     TRUE ~ NA),
-    levels = c("Healthy", "BCTV", "CPt", "Co-infected"))) %>% 
+    levels = c("Non-infectious", "BCTV", "CPt", "Co-infected"))) %>% 
   ggplot(aes(x = n,
              y = fct_reorder(genus, total),
              size = total, color = status)) +
@@ -820,12 +916,12 @@ prop_inf_B <- dat1 %>%
                names_to = "status",
                values_to = "n") %>% 
   mutate(status = factor(case_when(
-    status == "prop.healthy" ~ "Healthy",
+    status == "prop.healthy" ~ "Non-infectious",
     status == "prop.CPt" ~ "CPt",
     status == "prop.bctv" ~ "BCTV",
     status == "prop.co" ~ "Co-infected",
     TRUE ~ NA),
-    levels = c("Healthy", "BCTV", "CPt", "Co-infected"))) %>% 
+    levels = c("Non-infectious", "BCTV", "CPt", "Co-infected"))) %>% 
   ggplot(aes(x = n, y = status, fill = status)) +
   geom_violin() +
   scale_fill_viridis_d(option = "G", direction = -1) +
@@ -999,12 +1095,12 @@ supp_fig_B <- dat1 %>%
                names_to = "status",
                values_to = "n") %>% 
   mutate(status = factor(case_when(
-    status == "prop.healthy" ~ "Healthy",
+    status == "prop.healthy" ~ "Non-infectious",
     status == "prop.CPt" ~ "CPt",
     status == "prop.bctv" ~ "BCTV",
     status == "prop.co" ~ "Co-infected",
     TRUE ~ NA),
-    levels = c("Healthy", "BCTV", "CPt", "Co-infected"))) %>% 
+    levels = c("Non-infectious", "BCTV", "CPt", "Co-infected"))) %>% 
   ggplot(aes(x = n, y = status, fill = status)) +
   geom_violin() +
   scale_fill_viridis_d(option = "G", direction = -1) +
@@ -1110,6 +1206,20 @@ tree_orders <- tree_orders$genus
 ## Crops by time
 ```{r crop_time, echo = F}
 
+crop_counts <- dat1 %>%
+  semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
+  left_join(., crop_type, by = "genus") %>% 
+  filter(crop_type == "crop",
+         genus != "Coriandrum" & genus != "Pisum" &
+           genus != "Capsicum" & genus != "Cucurbita" &
+           genus != "Spinacia") %>%
+  droplevels() %>% 
+  group_by(genus) %>% tally()
 
 rpA <- dat1 %>%
   semi_join(., crop_type, by = "genus") %>% 
@@ -1125,6 +1235,7 @@ rpA <- dat1 %>%
            genus != "Spinacia") %>%
   droplevels() %>% 
   mutate(Week = week(Date)) %>%
+  left_join(., crop_counts, by = "genus") %>% 
   ggplot(aes(x = Week,
              y = factor(genus, level = crop_orders),
              fill = genus)) +
@@ -1148,6 +1259,7 @@ rpA <- dat1 %>%
            size = 5) +
   annotate(geom = "text", x = 32, y = 8, label = "Summer",
            size = 5) +
+  geom_text(aes(y = genus, x = 40, label = n)) +
   scale_fill_viridis_d(option = "A")
 
 ```
@@ -1155,12 +1267,26 @@ rpA <- dat1 %>%
 ## Non-crops by time
 ```{r non_crop_time, echo = F}
 
+noncrop_counts <- dat1 %>%
+  semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
+  left_join(., crop_type, by = "genus") %>% 
+  filter(crop_type == "non crop") %>%
+  droplevels() %>% 
+  group_by(genus) %>% tally()
+
+
 rpB <- dat1 %>%
   semi_join(., crop_type, by = "genus") %>% 
   left_join(., crop_type, by = "genus") %>% 
   filter(crop_type == "non crop") %>% 
   droplevels() %>% 
   mutate(Week = week(Date)) %>%
+  left_join(., noncrop_counts, by = "genus") %>% 
   ggplot(aes(x = Week,
              y = factor(genus, level = non_crop_orders),
              fill = genus)) +
@@ -1184,12 +1310,27 @@ rpB <- dat1 %>%
            size = 5) +
   annotate(geom = "text", x = 32, y = 14, label = "Summer",
            size = 5) +
+  geom_text(aes(y = genus, x = 41, label = n)) +
   scale_fill_viridis_d(option = "B")
 
 ```
 
 ## Trees by time
 ```{r tree_time, echo = F}
+
+tree_counts <- dat1 %>%
+  semi_join(., crop_type, by = "genus") %>% 
+  mutate(potato = factor(case_when(
+    common_name == "Potato" ~ "potato",
+    genus == "Solanum" & common_name != "potato" ~ "not_potato",
+    TRUE ~ genus
+  ))) %>% filter(potato != "not_potato") %>% 
+  left_join(., crop_type, by = "genus") %>% 
+  filter(crop_type == "tree",
+         genus != "Salix") %>%
+  droplevels() %>% 
+  group_by(genus) %>% tally()
+
 
 rpC <- dat1 %>%
   semi_join(., crop_type, by = "genus") %>% 
@@ -1198,6 +1339,7 @@ rpC <- dat1 %>%
          genus != "Salix") %>%
   droplevels() %>% 
   mutate(Week = week(Date)) %>%
+  left_join(., tree_counts, by = "genus") %>% 
   ggplot(aes(x = Week,
              y = factor(genus, level = tree_orders),
              fill = genus)) +
@@ -1221,6 +1363,7 @@ rpC <- dat1 %>%
            size = 5) +
   annotate(geom = "text", x = 32, y = 13, label = "Summer",
            size = 5) +
+  geom_text(aes(y = genus, x = 40, label = n)) +
   scale_fill_viridis_d(option = "C")
 
 ```
@@ -1608,7 +1751,9 @@ ggplot(site_scores,
 
 ## CAP with Isoclines:
 
-```{r CAP_isoclines, echo = F}
+```{r CAP_isoclines, echo = F, cache=FALSE}
+
+
 
 site_scoresI <- as.data.frame(scores(cap_model,
                                      display = "sites")) %>%
@@ -1645,9 +1790,9 @@ ggplot(site_scoresI,
                           color = "grey20", stroke = 0.2, skip = 1,
                           inherit.aes = FALSE) +
   scale_color_manual(values = c("0" = "#1b9e77", "1" = "#d95f02"),
-                     labels = c("Healthy", "Infected")) +
+                     labels = c("Non-infectious", "Infected")) +
   scale_fill_manual(values = c("0" = "#1b9e77", "1" = "#d95f02"),
-                    labels = c("Healthy", "Infected")) +
+                    labels = c("Non-infectious", "Infected")) +
   theme_minimal(base_size = 14) +
   labs(x = "CAP1 (BCTV--1.0%)",
        y = "MDS1 (Residual--24.1%)",
