@@ -614,6 +614,21 @@ dat1 %>% uncount(blh_mix_count) %>%
 ```
 
 
+```{r num_plants_in_gut_over_time, echo = F}
+
+dat1 %>% uncount(blh_mix_count) %>% 
+  mutate(Week = week(Date)) %>% 
+  group_by(BLH_ID, Week) %>% 
+  tally() %>% 
+  ggplot(aes(x = Week, y = n)) +
+  geom_jitter() +
+  geom_smooth(method = lm,
+              formula = y ~ poly(x, 2)) +
+  theme_minimal() +
+  labs(y = "# plants in gut")
+
+```
+
 # Proportion plants infected
 
 ```{r plant_inf_props, echo = F, fig.width=10, fig.height=5}

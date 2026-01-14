@@ -1,7 +1,7 @@
 BLH Gut Diversity in Potato
 ================
 Riley M. Anderson
-January 02, 2026
+January 05, 2026
 
   
 
@@ -520,6 +520,8 @@ dat1 %>% uncount(blh_mix_count) %>%
 ## 3 tree         67  5.14
 ```
 
+![](potato_guts_files/figure-gfm/num_plants_in_gut_over_time-1.png)<!-- -->
+
 # Proportion plants infected
 
 ![](potato_guts_files/figure-gfm/plant_inf_props-1.png)<!-- -->
@@ -586,40 +588,36 @@ dat1 %>% uncount(blh_mix_count) %>%
 ![](potato_guts_files/figure-gfm/ridgeplot_one_figure-1.png)<!-- -->
 
     ## Run 0 stress 0.1261772 
-    ## Run 1 stress 0.1261952 
-    ## ... Procrustes: rmse 0.003416705  max resid 0.04017687 
-    ## Run 2 stress 0.1312782 
-    ## Run 3 stress 0.1300496 
-    ## Run 4 stress 0.1301866 
-    ## Run 5 stress 0.1262233 
-    ## ... Procrustes: rmse 0.007408531  max resid 0.07287585 
-    ## Run 6 stress 0.1263033 
-    ## ... Procrustes: rmse 0.00909764  max resid 0.1050333 
-    ## Run 7 stress 0.1263403 
-    ## ... Procrustes: rmse 0.007354694  max resid 0.09249513 
-    ## Run 8 stress 0.1261795 
-    ## ... Procrustes: rmse 0.001093299  max resid 0.008415667 
+    ## Run 1 stress 0.1263751 
+    ## ... Procrustes: rmse 0.008137091  max resid 0.08751422 
+    ## Run 2 stress 0.1263921 
+    ## ... Procrustes: rmse 0.01354282  max resid 0.1084871 
+    ## Run 3 stress 0.1262543 
+    ## ... Procrustes: rmse 0.0090755  max resid 0.1052773 
+    ## Run 4 stress 0.1299717 
+    ## Run 5 stress 0.1289745 
+    ## Run 6 stress 0.1300666 
+    ## Run 7 stress 0.1262601 
+    ## ... Procrustes: rmse 0.008850661  max resid 0.08063807 
+    ## Run 8 stress 0.1261786 
+    ## ... Procrustes: rmse 0.0007673532  max resid 0.005616675 
     ## ... Similar to previous best
-    ## Run 9 stress 0.126254 
-    ## ... Procrustes: rmse 0.009245741  max resid 0.1055018 
-    ## Run 10 stress 0.1263725 
-    ## ... Procrustes: rmse 0.01151748  max resid 0.1078415 
-    ## Run 11 stress 0.1262576 
-    ## ... Procrustes: rmse 0.008482651  max resid 0.07864999 
-    ## Run 12 stress 0.126253 
-    ## ... Procrustes: rmse 0.009119842  max resid 0.1057173 
-    ## Run 13 stress 0.130431 
-    ## Run 14 stress 0.1300055 
-    ## Run 15 stress 0.1262636 
-    ## ... Procrustes: rmse 0.009085231  max resid 0.08139379 
-    ## Run 16 stress 0.1262593 
-    ## ... Procrustes: rmse 0.008368198  max resid 0.0771249 
-    ## Run 17 stress 0.1263507 
-    ## ... Procrustes: rmse 0.008236025  max resid 0.09210183 
-    ## Run 18 stress 0.1304313 
-    ## Run 19 stress 0.1299673 
-    ## Run 20 stress 0.1263941 
-    ## ... Procrustes: rmse 0.01374228  max resid 0.1085559 
+    ## Run 9 stress 0.1290192 
+    ## Run 10 stress 0.1300469 
+    ## Run 11 stress 0.1299717 
+    ## Run 12 stress 0.1322567 
+    ## Run 13 stress 0.1301214 
+    ## Run 14 stress 0.1262554 
+    ## ... Procrustes: rmse 0.009333964  max resid 0.1054431 
+    ## Run 15 stress 0.1262592 
+    ## ... Procrustes: rmse 0.007879016  max resid 0.07506034 
+    ## Run 16 stress 0.1299711 
+    ## Run 17 stress 0.1300551 
+    ## Run 18 stress 0.1262544 
+    ## ... Procrustes: rmse 0.009324526  max resid 0.1054149 
+    ## Run 19 stress 0.1262534 
+    ## ... Procrustes: rmse 0.009160602  max resid 0.1055594 
+    ## Run 20 stress 0.128681 
     ## *** Best solution repeated 1 times
     ## [1] 0.1261772
 
@@ -654,7 +652,7 @@ dat1 %>% uncount(blh_mix_count) %>%
     ## Goodness of fit:
     ##             r2 Pr(>r)    
     ## region  0.1048  0.001 ***
-    ## healthy 0.0092  0.154    
+    ## healthy 0.0092  0.131    
     ## Year    0.2614  0.001 ***
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
@@ -702,10 +700,10 @@ dat1 %>% uncount(blh_mix_count) %>%
     ## adonis2(formula = gut_mat_species ~ splines::ns(sample_date, df = 5) + BCTV * Year + CPt + region, data = gut_matrix, strata = gut_matrix$host_plant)
     ##                                   Df SumOfSqs      R2       F Pr(>F)    
     ## splines::ns(sample_date, df = 5)   5    9.998 0.16166 10.2925  0.001 ***
-    ## BCTV                               1    0.704 0.01138  3.6214  0.006 ** 
+    ## BCTV                               1    0.704 0.01138  3.6214  0.003 ** 
     ## Year                               2    8.163 0.13199 21.0087  0.001 ***
-    ## CPt                                1    0.280 0.00453  1.4431  0.301    
-    ## region                             4    1.072 0.01734  1.3801  0.409    
+    ## CPt                                1    0.280 0.00453  1.4431  0.320    
+    ## region                             4    1.072 0.01734  1.3801  0.388    
     ## BCTV:Year                          2    0.635 0.01026  1.6331  0.199    
     ## Residual                         211   40.992 0.66283                   
     ## Total                            226   61.844 1.00000                   
@@ -718,23 +716,23 @@ dat1 %>% uncount(blh_mix_count) %>%
     ## 
     ## Response: Distances
     ##            Df Sum Sq  Mean Sq      F N.Perm Pr(>F)
-    ## Groups      1 0.0483 0.048255 2.3974    999  0.112
+    ## Groups      1 0.0483 0.048255 2.3974    999    0.1
     ## Residuals 225 4.5288 0.020128
     ## 
     ## Contrast: 0_1 
     ## 
     ##             average      sd   ratio     ava     avb cumsum     p  
-    ## Bassia      0.11085 0.11481 0.96550 0.63920 0.68120  0.160 0.053 .
-    ## Solanum     0.09017 0.10662 0.84570 0.48730 0.47830  0.289 0.155  
+    ## Bassia      0.11085 0.11481 0.96550 0.63920 0.68120  0.160 0.046 *
+    ## Solanum     0.09017 0.10662 0.84570 0.48730 0.47830  0.289 0.150  
     ## Salsola     0.08812 0.10408 0.84660 0.49370 0.50720  0.416 0.019 *
-    ## Sisymbrium  0.08196 0.11391 0.71950 0.31650 0.30430  0.534 0.236  
-    ## Kali        0.06231 0.08224 0.75760 0.37340 0.21740  0.624 0.595  
-    ## Lactuca     0.05520 0.08713 0.63360 0.28480 0.15940  0.703 0.773  
-    ## Chenopodium 0.04857 0.08084 0.60080 0.27220 0.17390  0.773 0.663  
-    ## Amaranthus  0.04842 0.09804 0.49390 0.36080 0.04350  0.843 0.997  
-    ## Descurainia 0.04602 0.08219 0.56000 0.14560 0.21740  0.909 0.058 .
-    ## Brassica    0.03984 0.07263 0.54850 0.22780 0.10140  0.967 0.904  
-    ## Raphanus    0.02317 0.06025 0.38460 0.17090 0.04350  1.000 0.915  
+    ## Sisymbrium  0.08196 0.11391 0.71950 0.31650 0.30430  0.534 0.227  
+    ## Kali        0.06231 0.08224 0.75760 0.37340 0.21740  0.624 0.566  
+    ## Lactuca     0.05520 0.08713 0.63360 0.28480 0.15940  0.703 0.808  
+    ## Chenopodium 0.04857 0.08084 0.60080 0.27220 0.17390  0.773 0.644  
+    ## Amaranthus  0.04842 0.09804 0.49390 0.36080 0.04350  0.843 0.998  
+    ## Descurainia 0.04602 0.08219 0.56000 0.14560 0.21740  0.909 0.059 .
+    ## Brassica    0.03984 0.07263 0.54850 0.22780 0.10140  0.967 0.908  
+    ## Raphanus    0.02317 0.06025 0.38460 0.17090 0.04350  1.000 0.913  
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
     ## Permutation: free
@@ -990,8 +988,8 @@ dat1 %>% uncount(blh_mix_count) %>%
     ## 
     ## Model: capscale(formula = gut_mat_species ~ BCTV + CPt + region + host_plant + Year + Condition(sample_date), data = gut_matrix, distance = "bray")
     ##             Df SumOfSqs      F Pr(>F)    
-    ## BCTV         1    0.838 2.7401  0.006 ** 
-    ## CPt          1    0.385 1.2582  0.255    
+    ## BCTV         1    0.838 2.7401  0.007 ** 
+    ## CPt          1    0.385 1.2582  0.227    
     ## region       4    4.286 3.5040  0.001 ***
     ## host_plant   8    8.013 3.2750  0.001 ***
     ## Year         2    5.945 9.7200  0.001 ***
